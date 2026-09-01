@@ -1,9 +1,9 @@
 """
-Sækir raunveruleg gögn fyrir bandarísku félögin á vaktlistanum og
+Sækir raunveruleg gögn fyrir bandarísku og bresku félögin á vaktlistanum og
 skrifar þau í data.json, sem síðan HTML-síðan les.
 
 Uppsetning (einu sinni):
-    pip install yfinance --break-system-packages
+    pip install yfinance vaderSentiment --break-system-packages
 
 Keyrsla (í hvert sinn sem þú vilt uppfæra gögnin):
     python fetch_data.py
@@ -14,12 +14,54 @@ Settu HTML-skrána og data.json í sömu möppu og keyrðu:
 og opnaðu síðan http://localhost:8000/fjarfestingar-yfirlit.html
 (bein opnun á HTML-skránni með tvísmelli virkar EKKI fyrir gagnasækinguna,
 því vafrinn leyfir ekki að sækja skrár af diski með fetch() nema í gegnum vefþjón.)
+
+Fréttatónn: notar VADER (vaderSentiment), ókeypis og staðbundna sentiment-greiningu
+sem er sértaklega hönnuð fyrir stuttan texta eins og fréttafyrirsagnir. Þetta er EKKI
+stórt tungumálalíkan (LLM) — bara orðabókarbundin greining — en kostar ekkert og
+krefst ekkert API-lykils.
 """
 
 import json
 from datetime import datetime, timezone
 
 import yfinance as yf
+from vaderSentiment.vaderSentiment import SentimentIntensityAnalyzer
+
+_analyzer = SentimentIntensityAnalyzer()
+
+
+def fetch_news_sentiment(ticker: str) -> dict:
+    """Sækir nýjustu fréttafyrirsagnir fyrir félagið og metur tón þeirra með VADER.
+    Skilar núll-tón (hlutlaust) ef engar fréttir finnast, frekar en að láta allt hrynja."""
+    try:
+        t = yf.Ticker(ticker)
+        news_items = t.news or []
+        if not news_items:
+            return {"newsScore": 0, "newsHeadline": None}
+
+        scores = []
+        headlines = []
+        for item in news_items[:5]:
+            # yfinance skilar fréttum ýmist beint eða undir "content" lykli eftir útgáfu
+            content = item.get("content", item)
+            title = content.get("title") or content.get("summary")
+            if not title:
+                continue
+            headlines.append(title)
+            compound = _analyzer.polarity_scores(title)["compound"]  # -1 .. 1
+            scores.append(compound)
+
+        if not scores:
+            return {"newsScore": 0, "newsHeadline": None}
+
+        avg_compound = sum(scores) / len(scores)
+        # Skala -1..1 (VADER) yfir í -2..2 (okkar kvarði) og rúnna að heilli tölu
+        news_score = round(avg_compound * 2, 1)
+
+        return {"newsScore": news_score, "newsHeadline": headlines[0]}
+    except Exception as e:
+        print(f"[viðvörun] tókst ekki að sækja fréttir fyrir {ticker}: {e}")
+        return {"newsScore": 0, "newsHeadline": None}
 
 # ---- Vaktlistinn þinn — bættu við eða fjarlægðu tickera hér ----
 # Blanda úr ólíkum atvinnugreinum svo skanninn hafi fjölbreytt úrval til að bera saman
@@ -92,6 +134,8 @@ def fetch_one(ticker: str, benchmark_chg_30d: float | None = None) -> dict | Non
         week_high = info.get("fiftyTwoWeekHigh") or fast.get("year_high")
         week_low = info.get("fiftyTwoWeekLow") or fast.get("year_low")
 
+        news = fetch_news_sentiment(ticker)
+
         return {
             "ticker": ticker,
             "name": info.get("shortName", ticker),
@@ -108,6 +152,8 @@ def fetch_one(ticker: str, benchmark_chg_30d: float | None = None) -> dict | Non
             "dividendYield": info.get("dividendYield"),
             "relStrength": rel_strength,
             "volumeRatio": volume_ratio,
+            "newsScore": news["newsScore"],
+            "newsHeadline": news["newsHeadline"],
             "url": f"https://finance.yahoo.com/quote/{ticker}",
         }
     except Exception as e:
