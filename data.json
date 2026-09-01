@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-01T23:23:17.632833+00:00",
+  "updated": "2026-09-01T23:28:23.043325+00:00",
   "us": [
     {
       "ticker": "AAPL",
@@ -30,7 +30,7 @@
         316.85,
         325.13
       ],
-      "pe": 37.2,
+      "pe": 37.3,
       "debtEq": 0.78,
       "sector": "Technology",
       "industry": "Consumer Electronics",
@@ -79,7 +79,7 @@
       "marketCap": 3720346861568,
       "weekHigh52": 553.72,
       "weekLow52": 349.2,
-      "dividendYield": 0.72,
+      "dividendYield": 0.71,
       "relStrength": 2.53,
       "volumeRatio": 0.67,
       "url": "https://finance.yahoo.com/quote/MSFT",
@@ -194,6 +194,7 @@
         356.69,
         356.5,
         354.22,
+        357.62,
         356.02,
         354.95
       ],
@@ -206,7 +207,7 @@
       "weekLow52": 279.1,
       "dividendYield": 1.69,
       "relStrength": 0.25,
-      "volumeRatio": 0.88,
+      "volumeRatio": 0.89,
       "url": "https://finance.yahoo.com/quote/JPM",
       "sectorPe": 23.4
     },
@@ -235,6 +236,7 @@
         384.14,
         383.9,
         379.66,
+        381.6,
         379.37,
         372.67
       ],
@@ -245,9 +247,9 @@
       "marketCap": 695792566272,
       "weekHigh52": 385.57,
       "weekLow52": 293.89,
-      "dividendYield": 0.71,
+      "dividendYield": 0.7,
       "relStrength": 1.69,
-      "volumeRatio": 0.82,
+      "volumeRatio": 0.83,
       "url": "https://finance.yahoo.com/quote/V",
       "sectorPe": 23.4
     },
@@ -276,6 +278,7 @@
         273.14,
         270.0,
         265.77,
+        268.04,
         265.85,
         271.19
       ],
@@ -317,6 +320,7 @@
         396.59,
         401.01,
         395.05,
+        392.95,
         389.41,
         396.3
       ],
@@ -329,7 +333,7 @@
       "weekLow52": 255.97,
       "dividendYield": 2.38,
       "relStrength": -5.0,
-      "volumeRatio": 0.87,
+      "volumeRatio": 0.89,
       "url": "https://finance.yahoo.com/quote/UNH",
       "sectorPe": 28.4
     },
@@ -408,10 +412,10 @@
       "debtEq": 0.64,
       "sector": "Consumer Defensive",
       "industry": "Household & Personal Products",
-      "marketCap": 339597950976,
+      "marketCap": 339855376384,
       "weekHigh52": 167.25,
       "weekLow52": 137.62,
-      "dividendYield": 3.0,
+      "dividendYield": 3.03,
       "relStrength": 0.45,
       "volumeRatio": 0.92,
       "url": "https://finance.yahoo.com/quote/PG",
@@ -537,11 +541,11 @@
       "marketCap": 358160269312,
       "weekHigh52": 1073.46,
       "weekLow52": 410.52,
-      "dividendYield": 0.82,
+      "dividendYield": 0.81,
       "relStrength": -6.54,
       "volumeRatio": 1.08,
       "url": "https://finance.yahoo.com/quote/CAT",
-      "sectorPe": 53.9
+      "sectorPe": 53.8
     },
     {
       "ticker": "BA",
@@ -572,18 +576,18 @@
         207.78,
         205.66
       ],
-      "pe": 74.2,
+      "pe": 74.0,
       "debtEq": 7.91,
       "sector": "Industrials",
       "industry": "Aerospace & Defense",
-      "marketCap": 162547499008,
+      "marketCap": 162428731392,
       "weekHigh52": 254.35,
       "weekLow52": 176.77,
       "dividendYield": null,
       "relStrength": -12.33,
       "volumeRatio": 0.93,
       "url": "https://finance.yahoo.com/quote/BA",
-      "sectorPe": 53.9
+      "sectorPe": 53.8
     }
   ],
   "uk": [
@@ -619,7 +623,7 @@
       "debtEq": null,
       "sector": "Financial Services",
       "industry": "Banks - Diversified",
-      "marketCap": 262692077568,
+      "marketCap": 262687260672,
       "weekHigh52": 1610.0,
       "weekLow52": 946.2,
       "dividendYield": 3.64,
@@ -701,7 +705,7 @@
       "debtEq": 0.4,
       "sector": "Energy",
       "industry": "Oil & Gas Integrated",
-      "marketCap": 188955721728,
+      "marketCap": 188883140608,
       "weekHigh52": 3758.5,
       "weekLow52": 2553.77,
       "dividendYield": 3.46,
@@ -738,7 +742,7 @@
         4776.0,
         4811.0
       ],
-      "pe": 22.0,
+      "pe": 22.1,
       "debtEq": 1.75,
       "sector": "Consumer Defensive",
       "industry": "Household & Personal Products",
@@ -749,7 +753,7 @@
       "relStrength": 1.18,
       "volumeRatio": 1.06,
       "url": "https://finance.yahoo.com/quote/ULVR.L",
-      "sectorPe": 22.0
+      "sectorPe": 22.1
     },
     {
       "ticker": "BARC.L",
