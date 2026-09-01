@@ -425,6 +425,7 @@
         <div class="tabs">
           <button class="tab active" data-market="is">Ísland</button>
           <button class="tab" data-market="us">Bandaríkin</button>
+          <button class="tab" data-market="uk">Bretland</button>
         </div>
       </div>
       <table>
@@ -432,7 +433,7 @@
           <tr>
             <th>Félag</th>
             <th class="num">Verð</th>
-            <th class="num">Í dag</th>
+            <th class="num sortable" id="sort-chg" style="cursor:pointer; user-select:none;">Í dag <span id="sort-arrow"></span></th>
             <th class="num">Sl. 30 daga</th>
             <th class="num">Staða v. meðaltal</th>
           </tr>
@@ -503,6 +504,7 @@
     is: [
       { ticker:"MAREL", name:"Marel", price:118.5, chg:0.8, hist:[112,113,111,114,116,115,117,118,116,119,117,118.5], pe:22.4, sectorPe:19.1, debtEq:0.6, newsScore:1, marketCap:340000000000, weekHigh52:132.0, weekLow52:98.5, dividendYield:1.4, url:"https://www.keldan.is/fyrirtaeki/kt/5310025280" },
       { ticker:"ICEAIR", name:"Icelandair Group", price:5.42, chg:-1.2, hist:[5.8,5.7,5.6,5.65,5.5,5.55,5.45,5.5,5.4,5.48,5.44,5.42], pe:8.9, sectorPe:11.3, debtEq:1.4, newsScore:0, marketCap:52000000000, weekHigh52:7.1, weekLow52:4.9, dividendYield:0, url:"https://www.keldan.is/fyrirtaeki/kt/6108001410" },
+      { ticker:"ISB", name:"Íslandsbanki", price:132.5, chg:0.5, hist:[126,127,128,127,129,130,128,130,129,131,130,132.5], pe:6.9, sectorPe:8.2, debtEq:2.3, newsScore:0, marketCap:210000000000, weekHigh52:142.0, weekLow52:112.0, dividendYield:8.1, url:"https://www.keldan.is/fyrirtaeki/kt/4910080190" },
       { ticker:"ARION", name:"Arion banki", price:174.0, chg:0.3, hist:[168,169,171,170,172,173,171,174,172,175,173,174], pe:7.8, sectorPe:8.2, debtEq:2.1, newsScore:0, marketCap:280000000000, weekHigh52:189.0, weekLow52:158.0, dividendYield:6.2, url:"https://www.keldan.is/fyrirtaeki/kt/5810080150" },
       { ticker:"OSSUR", name:"Össur", price:812.0, chg:1.6, hist:[770,780,775,790,795,788,800,805,798,810,807,812], pe:28.6, sectorPe:24.0, debtEq:0.4, newsScore:0, marketCap:410000000000, weekHigh52:850.0, weekLow52:690.0, dividendYield:0.8, url:"https://www.keldan.is/fyrirtaeki/kt/2506691239" },
       { ticker:"FESTI", name:"Festi", price:198.5, chg:-0.4, hist:[205,203,204,201,200,202,199,200,198,201,199,198.5], pe:12.1, sectorPe:13.5, debtEq:0.9, newsScore:0, marketCap:64000000000, weekHigh52:225.0, weekLow52:185.0, dividendYield:4.5, url:"https://www.keldan.is/fyrirtaeki/kt/4112070560" },
@@ -513,6 +515,13 @@
       { ticker:"NVDA", name:"Nvidia", price:189.7, chg:-2.3, hist:[205,202,198,200,196,199,195,197,193,192,190,189.7], pe:41.5, sectorPe:27.5, debtEq:0.2, newsScore:-1, marketCap:4650000000000, weekHigh52:215.0, weekLow52:135.0, dividendYield:0.03, url:"https://finance.yahoo.com/quote/NVDA" },
       { ticker:"AMZN", name:"Amazon", price:231.9, chg:0.9, hist:[218,220,222,221,224,226,223,227,229,228,230,231.9], pe:36.7, sectorPe:27.5, debtEq:0.6, newsScore:0, marketCap:2450000000000, weekHigh52:245.0, weekLow52:180.0, dividendYield:0, url:"https://finance.yahoo.com/quote/AMZN" },
       { ticker:"JPM", name:"JPMorgan Chase", price:294.3, chg:0.2, hist:[286,287,289,288,290,291,289,292,290,293,292,294.3], pe:12.4, sectorPe:13.0, debtEq:1.8, newsScore:0, marketCap:850000000000, weekHigh52:310.0, weekLow52:245.0, dividendYield:2.1, url:"https://finance.yahoo.com/quote/JPM" },
+    ],
+    uk: [
+      { ticker:"HSBA.L", name:"HSBC Holdings", price:742.0, chg:0.4, hist:[715,718,722,720,725,728,724,730,727,733,730,742.0], pe:9.1, sectorPe:8.6, debtEq:1.9, newsScore:0, marketCap:132000000000, weekHigh52:780.0, weekLow52:610.0, dividendYield:5.4, url:"https://finance.yahoo.com/quote/HSBA.L" },
+      { ticker:"AZN.L", name:"AstraZeneca", price:11840.0, chg:-0.6, hist:[11500,11600,11650,11580,11700,11750,11680,11800,11750,11820,11790,11840.0], pe:34.2, sectorPe:27.0, debtEq:0.7, newsScore:0, marketCap:184000000000, weekHigh52:12500.0, weekLow52:10200.0, dividendYield:1.9, url:"https://finance.yahoo.com/quote/AZN.L" },
+      { ticker:"SHEL.L", name:"Shell", price:2680.0, chg:1.1, hist:[2590,2610,2630,2615,2645,2660,2635,2670,2650,2685,2665,2680.0], pe:8.4, sectorPe:9.2, debtEq:0.5, newsScore:0, marketCap:168000000000, weekHigh52:2850.0, weekLow52:2350.0, dividendYield:4.2, url:"https://finance.yahoo.com/quote/SHEL.L" },
+      { ticker:"ULVR.L", name:"Unilever", price:4520.0, chg:0.2, hist:[4420,4440,4460,4450,4470,4490,4465,4500,4480,4510,4495,4520.0], pe:19.8, sectorPe:22.0, debtEq:0.9, newsScore:0, marketCap:102000000000, weekHigh52:4700.0, weekLow52:3950.0, dividendYield:3.3, url:"https://finance.yahoo.com/quote/ULVR.L" },
+      { ticker:"BARC.L", name:"Barclays", price:298.0, chg:-1.4, hist:[290,292,295,293,296,298,294,299,296,301,299,298.0], pe:7.2, sectorPe:8.6, debtEq:2.4, newsScore:0, marketCap:44000000000, weekHigh52:320.0, weekLow52:245.0, dividendYield:3.8, url:"https://finance.yahoo.com/quote/BARC.L" },
     ]
   };
 
@@ -546,9 +555,9 @@
   }
 
   function fmtPrice(market, price){
-    return market === "is"
-      ? price.toLocaleString("is-IS", {minimumFractionDigits:2, maximumFractionDigits:2}) + " kr."
-      : "$" + price.toLocaleString("en-US", {minimumFractionDigits:2, maximumFractionDigits:2});
+    if (market === "is") return price.toLocaleString("is-IS", {minimumFractionDigits:2, maximumFractionDigits:2}) + " kr.";
+    if (market === "uk") return price.toLocaleString("en-GB", {minimumFractionDigits:1, maximumFractionDigits:1}) + " p";
+    return "$" + price.toLocaleString("en-US", {minimumFractionDigits:2, maximumFractionDigits:2});
   }
 
   function average(hist){
@@ -693,6 +702,9 @@
         const stamp = document.getElementById("live-stamp");
         if (stamp) stamp.textContent = "Rauntímagögn sótt " + new Date(data.updated).toLocaleString("is-IS");
       }
+      if (Array.isArray(data.uk) && data.uk.length > 0){
+        stocks.uk = data.uk.filter(s => s.pe != null);
+      }
     } catch (e) {
       console.log("Nota dæmigögn — data.json ekki tiltækt enn:", e.message);
     }
@@ -703,9 +715,18 @@
     renderScan();
   }
 
+  let sortDir = null; // null = upprunaleg röð, "desc" = hæst efst, "asc" = lægst efst
+
   function renderWatchlist(){
     const body = document.getElementById("watchlist-body");
-    body.innerHTML = stocks[currentMarket].map(s => {
+    let list = [...stocks[currentMarket]];
+    if (sortDir === "desc") list.sort((a,b) => b.chg - a.chg);
+    if (sortDir === "asc") list.sort((a,b) => a.chg - b.chg);
+
+    const arrow = document.getElementById("sort-arrow");
+    if (arrow) arrow.textContent = sortDir === "desc" ? "↓" : sortDir === "asc" ? "↑" : "";
+
+    body.innerHTML = list.map(s => {
       const isUp = s.chg >= 0;
       return `<tr data-ticker="${s.ticker}" class="${s.ticker===selectedTicker ? 'selected':''}">
         <td><span class="ticker">${s.ticker}</span><br><span class="company">${s.name}</span></td>
@@ -740,7 +761,7 @@
     const hi = Math.max(...s.hist).toFixed(1);
     const vol = volatility(s.hist).toFixed(1);
     const currencySuffix = currentMarket === "is" ? " kr." : "";
-    const currencyPrefix = currentMarket === "is" ? "" : "$";
+    const currencyPrefix = currentMarket === "us" ? "$" : currentMarket === "uk" ? "£" : "";
 
     document.getElementById("detail").innerHTML = `
       <div class="dhead">
@@ -816,6 +837,11 @@
       </div>`;
     }).join("");
   }
+
+  document.getElementById("sort-chg").addEventListener("click", () => {
+    sortDir = sortDir === "desc" ? "asc" : sortDir === "asc" ? null : "desc";
+    renderWatchlist();
+  });
 
   document.querySelectorAll(".tab").forEach(btn => {
     btn.addEventListener("click", () => {
