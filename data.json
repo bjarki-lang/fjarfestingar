@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-01T23:28:23.043325+00:00",
+  "updated": "2026-09-01T23:38:18.611271+00:00",
   "us": [
     {
       "ticker": "AAPL",
@@ -30,7 +30,7 @@
         316.85,
         325.13
       ],
-      "pe": 37.3,
+      "pe": 37.2,
       "debtEq": 0.78,
       "sector": "Technology",
       "industry": "Consumer Electronics",
@@ -40,6 +40,8 @@
       "dividendYield": 0.34,
       "relStrength": 6.84,
       "volumeRatio": 1.22,
+      "newsScore": -0.0,
+      "newsHeadline": "Are you willing to pay $2,000 for an iPhone? These customers may.",
       "url": "https://finance.yahoo.com/quote/AAPL",
       "sectorPe": 30.9
     },
@@ -79,9 +81,11 @@
       "marketCap": 3720346861568,
       "weekHigh52": 553.72,
       "weekLow52": 349.2,
-      "dividendYield": 0.71,
+      "dividendYield": 0.72,
       "relStrength": 2.53,
       "volumeRatio": 0.67,
+      "newsScore": 0.3,
+      "newsHeadline": "Nvidia makes its biggest investment abroad with Mediatek: Why it's a uniquely important deal",
       "url": "https://finance.yahoo.com/quote/MSFT",
       "sectorPe": 30.9
     },
@@ -124,6 +128,8 @@
       "dividendYield": 0.45,
       "relStrength": 4.82,
       "volumeRatio": 0.84,
+      "newsScore": 0.7,
+      "newsHeadline": "Two deals, one Nvidia strategy: What's behind the chip giant's recent partnerships",
       "url": "https://finance.yahoo.com/quote/NVDA",
       "sectorPe": 30.9
     },
@@ -166,6 +172,8 @@
       "dividendYield": null,
       "relStrength": -10.66,
       "volumeRatio": 0.81,
+      "newsScore": 0.6,
+      "newsHeadline": "Best student credit cards (2026): Start building credit with rewards on spending",
       "url": "https://finance.yahoo.com/quote/AMZN",
       "sectorPe": 20.5
     },
@@ -194,7 +202,6 @@
         356.69,
         356.5,
         354.22,
-        357.62,
         356.02,
         354.95
       ],
@@ -207,7 +214,9 @@
       "weekLow52": 279.1,
       "dividendYield": 1.69,
       "relStrength": 0.25,
-      "volumeRatio": 0.89,
+      "volumeRatio": 0.88,
+      "newsScore": 0.1,
+      "newsHeadline": "JEPQ’s Monthly Check Can Push a Retiree Into the 85% Social Security Tax Zone: The Hidden Cost of Ordinary Income",
       "url": "https://finance.yahoo.com/quote/JPM",
       "sectorPe": 23.4
     },
@@ -236,7 +245,6 @@
         384.14,
         383.9,
         379.66,
-        381.6,
         379.37,
         372.67
       ],
@@ -247,9 +255,11 @@
       "marketCap": 695792566272,
       "weekHigh52": 385.57,
       "weekLow52": 293.89,
-      "dividendYield": 0.7,
+      "dividendYield": 0.71,
       "relStrength": 1.69,
-      "volumeRatio": 0.83,
+      "volumeRatio": 0.82,
+      "newsScore": -0.1,
+      "newsHeadline": "Can you use a credit card on Venmo?",
       "url": "https://finance.yahoo.com/quote/V",
       "sectorPe": 23.4
     },
@@ -278,7 +288,6 @@
         273.14,
         270.0,
         265.77,
-        268.04,
         265.85,
         271.19
       ],
@@ -292,6 +301,8 @@
       "dividendYield": 2.02,
       "relStrength": 6.71,
       "volumeRatio": 0.91,
+      "newsScore": 0.1,
+      "newsHeadline": "Johnson & Johnson (JNJ) Rises As Market Takes a Dip: Key Facts",
       "url": "https://finance.yahoo.com/quote/JNJ",
       "sectorPe": 28.4
     },
@@ -320,7 +331,6 @@
         396.59,
         401.01,
         395.05,
-        392.95,
         389.41,
         396.3
       ],
@@ -333,7 +343,9 @@
       "weekLow52": 255.97,
       "dividendYield": 2.38,
       "relStrength": -5.0,
-      "volumeRatio": 0.89,
+      "volumeRatio": 0.87,
+      "newsScore": 0.3,
+      "newsHeadline": "Dow Falls 419 Points as Bond Yields Rise: Stock Market Today",
       "url": "https://finance.yahoo.com/quote/UNH",
       "sectorPe": 28.4
     },
@@ -362,7 +374,6 @@
         91.64,
         90.08,
         89.06,
-        89.66,
         88.67,
         88.0
       ],
@@ -375,7 +386,9 @@
       "weekLow52": 65.35,
       "dividendYield": 2.39,
       "relStrength": 0.9,
-      "volumeRatio": 0.96,
+      "volumeRatio": 0.94,
+      "newsScore": 0.2,
+      "newsHeadline": "Three Dividend Kings That Pay a 75-Year-Old $3,900 a Month: KO, JNJ, and PEP",
       "url": "https://finance.yahoo.com/quote/KO",
       "sectorPe": 24.2
     },
@@ -404,7 +417,6 @@
         145.4,
         145.0,
         143.14,
-        143.78,
         145.12,
         146.21
       ],
@@ -412,12 +424,14 @@
       "debtEq": 0.64,
       "sector": "Consumer Defensive",
       "industry": "Household & Personal Products",
-      "marketCap": 339855376384,
+      "marketCap": 339597950976,
       "weekHigh52": 167.25,
       "weekLow52": 137.62,
-      "dividendYield": 3.03,
+      "dividendYield": 3.0,
       "relStrength": 0.45,
-      "volumeRatio": 0.92,
+      "volumeRatio": 0.91,
+      "newsScore": 0.4,
+      "newsHeadline": "Dow Falls 419 Points as Bond Yields Rise: Stock Market Today",
       "url": "https://finance.yahoo.com/quote/PG",
       "sectorPe": 24.2
     },
@@ -446,7 +460,6 @@
         160.64,
         158.19,
         156.44,
-        156.71,
         160.95,
         164.55
       ],
@@ -459,7 +472,9 @@
       "weekLow52": 108.35,
       "dividendYield": 2.56,
       "relStrength": 6.4,
-      "volumeRatio": 0.76,
+      "volumeRatio": 0.75,
+      "newsScore": 0.1,
+      "newsHeadline": "Trump to meet with oil executives on lowering gas prices — and Exxon isn't invited",
       "url": "https://finance.yahoo.com/quote/XOM",
       "sectorPe": 20.8
     },
@@ -502,6 +517,8 @@
       "dividendYield": 3.45,
       "relStrength": 9.79,
       "volumeRatio": 1.06,
+      "newsScore": 0.3,
+      "newsHeadline": "Stock Market Today: Nasdaq Ends Lower As Oil Prices Top $90; Micron, Nvidia Shares Wrapped in Red",
       "url": "https://finance.yahoo.com/quote/CVX",
       "sectorPe": 20.8
     },
@@ -530,7 +547,6 @@
         811.29,
         821.93,
         817.0,
-        800.25,
         797.47,
         779.16
       ],
@@ -541,11 +557,13 @@
       "marketCap": 358160269312,
       "weekHigh52": 1073.46,
       "weekLow52": 410.52,
-      "dividendYield": 0.81,
+      "dividendYield": 0.82,
       "relStrength": -6.54,
-      "volumeRatio": 1.08,
+      "volumeRatio": 1.07,
+      "newsScore": -0.3,
+      "newsHeadline": "Elon Musk Sees a Power Crisis Coming and Other Takeaways From His G-20 Speech",
       "url": "https://finance.yahoo.com/quote/CAT",
-      "sectorPe": 53.8
+      "sectorPe": 53.9
     },
     {
       "ticker": "BA",
@@ -572,22 +590,23 @@
         211.08,
         212.09,
         209.89,
-        209.82,
         207.78,
         205.66
       ],
-      "pe": 74.0,
+      "pe": 74.2,
       "debtEq": 7.91,
       "sector": "Industrials",
       "industry": "Aerospace & Defense",
-      "marketCap": 162428731392,
+      "marketCap": 162547499008,
       "weekHigh52": 254.35,
       "weekLow52": 176.77,
       "dividendYield": null,
       "relStrength": -12.33,
       "volumeRatio": 0.93,
+      "newsScore": -0.1,
+      "newsHeadline": "Can Boeing's Defense Business Become a Bigger Growth Driver?",
       "url": "https://finance.yahoo.com/quote/BA",
-      "sectorPe": 53.8
+      "sectorPe": 53.9
     }
   ],
   "uk": [
@@ -623,12 +642,14 @@
       "debtEq": null,
       "sector": "Financial Services",
       "industry": "Banks - Diversified",
-      "marketCap": 262687260672,
+      "marketCap": 262692077568,
       "weekHigh52": 1610.0,
       "weekLow52": 946.2,
       "dividendYield": 3.64,
-      "relStrength": -3.69,
+      "relStrength": -3.4,
       "volumeRatio": 1.01,
+      "newsScore": 0.3,
+      "newsHeadline": "HSBC Holdings (LSE:HSBA), What Is Behind The Fresh Attention?",
       "url": "https://finance.yahoo.com/quote/HSBA.L",
       "sectorPe": 12.5
     },
@@ -668,8 +689,10 @@
       "weekHigh52": 15732.0,
       "weekLow52": 9892.0,
       "dividendYield": 2.0,
-      "relStrength": 4.33,
+      "relStrength": 4.62,
       "volumeRatio": 0.67,
+      "newsScore": 0.3,
+      "newsHeadline": "AstraZeneca's $80 Billion Plan Gets Another Tagrisso Win",
       "url": "https://finance.yahoo.com/quote/AZN.L",
       "sectorPe": 24.3
     },
@@ -705,12 +728,14 @@
       "debtEq": 0.4,
       "sector": "Energy",
       "industry": "Oil & Gas Integrated",
-      "marketCap": 188883140608,
+      "marketCap": 188955721728,
       "weekHigh52": 3758.5,
       "weekLow52": 2553.77,
       "dividendYield": 3.46,
-      "relStrength": 1.11,
+      "relStrength": 1.4,
       "volumeRatio": 1.37,
+      "newsScore": 0.3,
+      "newsHeadline": "Stock Market Today: Nasdaq Ends Lower As Oil Prices Top $90; Micron, Nvidia Shares Wrapped in Red",
       "url": "https://finance.yahoo.com/quote/SHEL.L",
       "sectorPe": 10.3
     },
@@ -750,8 +775,10 @@
       "weekHigh52": 5542.11,
       "weekLow52": 3644.0,
       "dividendYield": 3.45,
-      "relStrength": 1.18,
+      "relStrength": 1.47,
       "volumeRatio": 1.06,
+      "newsScore": 0.5,
+      "newsHeadline": "Pepsi and Coca-Cola Products Found in Alleged India Relabeling Scheme",
       "url": "https://finance.yahoo.com/quote/ULVR.L",
       "sectorPe": 22.1
     },
@@ -791,14 +818,16 @@
       "weekHigh52": 538.3,
       "weekLow52": 353.55,
       "dividendYield": 2.32,
-      "relStrength": -5.29,
+      "relStrength": -5.0,
       "volumeRatio": 1.09,
+      "newsScore": 0.2,
+      "newsHeadline": "Update: Market Chatter: Barclays, HSBC, Starling Bank Pursue Covid-Era Loan Defaulters",
       "url": "https://finance.yahoo.com/quote/BARC.L",
       "sectorPe": 12.5
     }
   ],
   "benchmarks": {
     "us": 0.41,
-    "uk": -0.31
+    "uk": -0.6
   }
 }
