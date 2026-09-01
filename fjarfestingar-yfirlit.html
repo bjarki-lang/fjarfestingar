@@ -247,6 +247,59 @@
     border-radius:20px;
   }
 
+  /* Markaðsskanni */
+  .scan-list{padding:6px 20px 20px;}
+  .scan-row{
+    display:flex;
+    align-items:center;
+    gap:14px;
+    padding:12px 0;
+    border-bottom:1px solid var(--line);
+  }
+  .scan-row:last-child{border-bottom:none;}
+  .scan-row .sr-name{width:170px; flex-shrink:0;}
+  .scan-row .sr-ticker{font-weight:600; font-size:13px; color:var(--muted);}
+  .scan-row .sr-company{font-weight:500; font-size:14px;}
+  .scan-tags{display:flex; flex-wrap:wrap; gap:6px; flex:1;}
+  .scan-tag{
+    font-size:11px;
+    font-weight:600;
+    padding:4px 10px;
+    border-radius:20px;
+    white-space:nowrap;
+  }
+  .scan-tag.t-low{background:var(--negative-soft); color:var(--negative);}
+  .scan-tag.t-high{background:var(--accent-soft); color:var(--accent);}
+  .scan-tag.t-move{background:#EFE6D8; color:#8A5A20;}
+  .scan-tag.t-value{background:var(--accent-soft); color:var(--accent);}
+  .scan-tag.t-hype{background:var(--negative-soft); color:var(--negative);}
+  .scan-empty{color:var(--muted); font-size:13px; padding:6px 20px 20px;}
+
+  /* Skýringalykill */
+  .scan-legend{
+    display:flex;
+    flex-wrap:wrap;
+    gap:10px 18px;
+    padding:14px 20px;
+    border-top:1px solid var(--line);
+    background:var(--bg);
+  }
+  .legend-item{
+    display:flex;
+    align-items:flex-start;
+    gap:8px;
+    font-size:12px;
+    color:var(--muted);
+    max-width:260px;
+  }
+  .legend-item .legend-dot{
+    width:10px; height:10px;
+    border-radius:50%;
+    margin-top:3px;
+    flex-shrink:0;
+  }
+  .legend-item b{color:var(--ink); font-weight:600;}
+
   /* News list */
   .news-item{
     padding:14px 20px;
@@ -349,6 +402,19 @@
       </div>
     </div>
   </header>
+
+  <!-- Markaðsskanni -->
+  <div class="panel" style="margin-bottom:20px;">
+    <div class="panel-head"><h2>Markaðsskanni</h2></div>
+    <div class="scan-list" id="scan-list"></div>
+    <div class="scan-legend">
+      <div class="legend-item"><span class="legend-dot" style="background:var(--negative);"></span><span><b>Nálægt 52v lágmarki</b> — verðið er núna innan 5% af lægsta verði síðustu 52 vikna. Getur þýtt að hlutabréfið sé "ódýrt" núna — eða að eitthvað varanlegt hafi breyst til hins verra. Vert að skoða af hverju.</span></div>
+      <div class="legend-item"><span class="legend-dot" style="background:var(--accent);"></span><span><b>Nálægt 52v hámarki</b> — verðið er innan 5% af hæsta verði ársins. Getur þýtt sterkan meðbyr — eða að væntingar séu orðnar mjög háar.</span></div>
+      <div class="legend-item"><span class="legend-dot" style="background:#8A5A20;"></span><span><b>Stór hreyfing í dag</b> — verðið breyttist 2,5% eða meira í dag, sem er óvenju mikið fyrir einn dag. Oft fylgir frétt eða uppgjör.</span></div>
+      <div class="legend-item"><span class="legend-dot" style="background:var(--accent);"></span><span><b>V/H undir/yfir hópi</b> — verðmatið (verð/hagnaður) er 20%+ frá meðaltali sambærilegra félaga. Lægra en hópurinn = mögulega ódýrt; hærra = mögulega dýrt.</span></div>
+      <div class="legend-item"><span class="legend-dot" style="background:var(--negative);"></span><span><b>Skriðþungi og verðmat togast á</b> — verðið hefur hækkað mikið nýlega á sama tíma og verðmatið er orðið strekkt. Klassíska "allir eru að tala um þetta" mynstrið.</span></div>
+    </div>
+  </div>
 
   <div class="grid">
 
@@ -544,6 +610,74 @@
     }).join("");
   }
 
+  const TAG_EXPLAIN = {
+    "t-low": "Verðið er innan 5% af lægsta verði síðustu 52 vikna.",
+    "t-high": "Verðið er innan 5% af hæsta verði síðustu 52 vikna.",
+    "t-move": "Verðið breyttist 2,5% eða meira í dag.",
+    "t-value": "V/H hlutfallið er 20%+ frá meðaltali samanburðarhóps.",
+    "t-hype": "Sterkur skriðþungi á sama tíma og strekkt verðmat.",
+  };
+
+  function renderScan(){
+    const all = [...stocks.is, ...stocks.us];
+    const rows = [];
+
+    all.forEach(s => {
+      const tags = [];
+
+      // Nálægt 52 vikna lág-/hámarki
+      if (s.weekLow52 && s.weekHigh52){
+        const range = s.weekHigh52 - s.weekLow52;
+        if (range > 0){
+          const distFromLow = (s.price - s.weekLow52) / range;
+          const distFromHigh = (s.weekHigh52 - s.price) / range;
+          if (distFromLow <= 0.05) tags.push({cls:"t-low", text:"Nálægt 52v lágmarki"});
+          if (distFromHigh <= 0.05) tags.push({cls:"t-high", text:"Nálægt 52v hámarki"});
+        }
+      }
+
+      // Stór hreyfing í dag
+      if (Math.abs(s.chg) >= 2.5){
+        tags.push({cls:"t-move", text:`${s.chg > 0 ? "+":""}${s.chg.toFixed(1)}% í dag`});
+      }
+
+      // Verðmat langt frá samanburðarhópi
+      if (s.pe && s.sectorPe){
+        const peDiffPct = ((s.pe - s.sectorPe) / s.sectorPe) * 100;
+        if (peDiffPct <= -20) tags.push({cls:"t-value", text:`V/H ${Math.abs(peDiffPct).toFixed(0)}% undir hópi`});
+        if (peDiffPct >= 30) tags.push({cls:"t-value", text:`V/H ${peDiffPct.toFixed(0)}% yfir hópi`});
+      }
+
+      // Skriðþungi og verðmat togast á (hype-merki)
+      const avg = average(s.hist);
+      const momentum = ((s.price - avg) / avg) * 100;
+      if (s.pe && s.sectorPe){
+        const peDiffPct = ((s.pe - s.sectorPe) / s.sectorPe) * 100;
+        if (momentum > 2 && peDiffPct > 15) tags.push({cls:"t-hype", text:"Skriðþungi og verðmat togast á"});
+      }
+
+      if (tags.length > 0) rows.push({ s, tags });
+    });
+
+    const list = document.getElementById("scan-list");
+    if (rows.length === 0){
+      list.innerHTML = `<p class="scan-empty">Ekkert félag uppfyllir skönnunarskilyrðin eins og staðan er núna.</p>`;
+      return;
+    }
+
+    list.innerHTML = rows.map(({s, tags}) => `
+      <div class="scan-row">
+        <div class="sr-name">
+          <span class="sr-ticker">${s.ticker}</span><br>
+          <span class="sr-company">${s.name}</span>
+        </div>
+        <div class="scan-tags">
+          ${tags.map(t => `<span class="scan-tag ${t.cls}" title="${TAG_EXPLAIN[t.cls] || ''}">${t.text}</span>`).join("")}
+        </div>
+      </div>
+    `).join("");
+  }
+
   let currentMarket = "is";
   let selectedTicker = stocks.is[0].ticker;
   let usDataIsLive = false;
@@ -566,6 +700,7 @@
     renderDetail();
     renderFund();
     renderScores();
+    renderScan();
   }
 
   function renderWatchlist(){
