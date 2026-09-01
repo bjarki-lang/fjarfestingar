@@ -802,14 +802,17 @@
   function renderFund(){
     const all = [...stocks.is, ...stocks.us];
     document.getElementById("fund-grid").innerHTML = all.map(s => {
-      const peCls = s.pe < s.sectorPe ? "above" : "below"; // "above" litur = grænn = undir greinameðaltali (jákvætt merki fyrir verð)
-      const peDiff = (((s.pe - s.sectorPe) / s.sectorPe) * 100).toFixed(0);
-      const peLabel = s.pe < s.sectorPe ? `${Math.abs(peDiff)}% undir greininni` : `${peDiff}% yfir greininni`;
+      const hasPe = s.pe != null && s.sectorPe != null;
+      const peCls = hasPe ? (s.pe < s.sectorPe ? "above" : "below") : "neutral"; // "above" litur = grænn = undir greinameðaltali (jákvætt merki fyrir verð)
+      const peDiff = hasPe ? (((s.pe - s.sectorPe) / s.sectorPe) * 100).toFixed(0) : null;
+      const peLabel = hasPe
+        ? (s.pe < s.sectorPe ? `${Math.abs(peDiff)}% undir greininni` : `${peDiff}% yfir greininni`)
+        : "Gögn vantar";
       return `<div class="fund-card">
         <div class="fname">${s.ticker} — ${s.name}</div>
-        <div class="fund-row"><span class="flabel">V/H hlutfall</span><span class="fval">${s.pe.toFixed(1)}</span></div>
+        <div class="fund-row"><span class="flabel">V/H hlutfall</span><span class="fval">${s.pe != null ? s.pe.toFixed(1) : "—"}</span></div>
         <div class="fund-row"><span class="flabel">V. greinameðaltal</span><span class="badge ${peCls}">${peLabel}</span></div>
-        <div class="fund-row"><span class="flabel">Skuldir/eigið fé</span><span class="fval">${s.debtEq.toFixed(1)}</span></div>
+        <div class="fund-row"><span class="flabel">Skuldir/eigið fé</span><span class="fval">${s.debtEq != null ? s.debtEq.toFixed(1) : "—"}</span></div>
       </div>`;
     }).join("");
   }
