@@ -66,7 +66,7 @@ def fetch_news_sentiment(ticker: str) -> dict:
 # ---- Vaktlistinn þinn — bættu við eða fjarlægðu tickera hér ----
 # Blanda úr ólíkum atvinnugreinum svo skanninn hafi fjölbreytt úrval til að bera saman
 TICKERS = [
-    "AAPL", "MSFT", "NVDA", "AMZN",      # tækni
+    "AAPL", "MSFT", "NVDA", "AMZN", "TSLA", # tækni
     "JPM", "V",                          # fjármál
     "JNJ", "UNH",                        # heilbrigði
     "KO", "PG",                          # neysluvörur
