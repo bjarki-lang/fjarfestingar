@@ -22,8 +22,8 @@ jobs:
         with:
           python-version: "3.12"
 
-      - name: Setja upp yfinance
-        run: pip install yfinance
+      - name: Setja upp yfinance og vaderSentiment
+        run: pip install yfinance vaderSentiment
 
       - name: Sækja ný gögn
         run: python fetch_data.py
