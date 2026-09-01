@@ -1,0 +1,37 @@
+name: Uppfæra hlutabréfagögn
+
+# Keyrir sjálfkrafa á fresti, og líka handvirkt ef þú vilt ýta á takka á GitHub
+on:
+  schedule:
+    - cron: "0 */6 * * *"   # á 6 klukkustunda fresti — breyttu ef þú vilt sjaldnar/oftar
+  workflow_dispatch: {}       # leyfir þér að ræsa keyrsluna handvirkt á GitHub.com
+
+# Leyfir keyrslunni að vista breytingar (nýja data.json) aftur inn í repository-ið
+permissions:
+  contents: write
+
+jobs:
+  update-data:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Ná í kóðann
+        uses: actions/checkout@v4
+
+      - name: Setja upp Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+
+      - name: Setja upp yfinance
+        run: pip install yfinance
+
+      - name: Sækja ný gögn
+        run: python fetch_data.py
+
+      - name: Vista breytingarnar í repository-ið
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git add data.json
+          git diff --staged --quiet || git commit -m "Sjálfvirk gagnauppfærsla"
+          git push

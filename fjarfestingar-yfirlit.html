@@ -1,0 +1,653 @@
+<!DOCTYPE html>
+<html lang="is">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Yfirlit — Vaktlisti</title>
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link href="https://fonts.googleapis.com/css2?family=Newsreader:ital,wght@0,400;0,500;0,600;1,400&family=Inter:wght@400;500;600;700&display=swap" rel="stylesheet">
+<style>
+  :root{
+    --bg:#F2F5F4;
+    --surface:#FFFFFF;
+    --ink:#12242B;
+    --muted:#5C6B6C;
+    --line:#DBE3E1;
+    --accent:#2F6F5E;
+    --accent-soft:#DFEEE9;
+    --positive:#2F6F5E;
+    --negative:#B5462F;
+    --negative-soft:#F5E4DD;
+  }
+  *{box-sizing:border-box;}
+  body{
+    margin:0;
+    background:var(--bg);
+    color:var(--ink);
+    font-family:'Inter',sans-serif;
+    -webkit-font-smoothing:antialiased;
+  }
+  .wrap{
+    max-width:1080px;
+    margin:0 auto;
+    padding:32px 24px 80px;
+  }
+
+  /* Header */
+  header{
+    display:flex;
+    justify-content:space-between;
+    align-items:flex-end;
+    flex-wrap:wrap;
+    gap:20px;
+    padding-bottom:24px;
+    border-bottom:1px solid var(--line);
+    margin-bottom:28px;
+  }
+  header h1{
+    font-family:'Newsreader',serif;
+    font-weight:500;
+    font-size:34px;
+    margin:0 0 4px;
+    letter-spacing:-0.01em;
+  }
+  header p{
+    margin:0;
+    color:var(--muted);
+    font-size:14px;
+  }
+  .indices{
+    display:flex;
+    gap:14px;
+  }
+  .index-chip{
+    background:var(--surface);
+    border:1px solid var(--line);
+    border-radius:10px;
+    padding:10px 16px;
+    min-width:118px;
+  }
+  .index-chip .name{
+    font-size:11px;
+    color:var(--muted);
+    margin-bottom:2px;
+  }
+  .index-chip .val{
+    font-variant-numeric:tabular-nums;
+    font-weight:600;
+    font-size:16px;
+  }
+  .chg{font-weight:500; font-size:13px; margin-left:6px;}
+  .up{color:var(--positive);}
+  .down{color:var(--negative);}
+
+  /* Layout grid */
+  .grid{
+    display:grid;
+    grid-template-columns:1.5fr 1fr;
+    gap:20px;
+    align-items:start;
+  }
+  .panel{
+    background:var(--surface);
+    border:1px solid var(--line);
+    border-radius:12px;
+    overflow:hidden;
+  }
+  .panel-head{
+    padding:18px 20px 12px;
+    display:flex;
+    justify-content:space-between;
+    align-items:center;
+  }
+  .panel-head h2{
+    font-family:'Newsreader',serif;
+    font-weight:500;
+    font-size:19px;
+    margin:0;
+  }
+
+  /* Market tabs */
+  .tabs{
+    display:flex;
+    gap:4px;
+    background:var(--bg);
+    border-radius:8px;
+    padding:3px;
+  }
+  .tab{
+    border:none;
+    background:transparent;
+    padding:6px 12px;
+    font-size:13px;
+    font-family:'Inter',sans-serif;
+    font-weight:500;
+    color:var(--muted);
+    border-radius:6px;
+    cursor:pointer;
+  }
+  .tab.active{
+    background:var(--surface);
+    color:var(--ink);
+    box-shadow:0 1px 2px rgba(18,36,43,0.08);
+  }
+
+  /* Watchlist table */
+  table{width:100%; border-collapse:collapse;}
+  thead th{
+    text-align:left;
+    font-size:11px;
+    color:var(--muted);
+    font-weight:500;
+    padding:8px 20px;
+    border-top:1px solid var(--line);
+    border-bottom:1px solid var(--line);
+  }
+  thead th.num{text-align:right;}
+  tbody td{
+    padding:12px 20px;
+    border-bottom:1px solid var(--line);
+    font-size:14px;
+    vertical-align:middle;
+  }
+  tbody tr:last-child td{border-bottom:none;}
+  tbody tr{cursor:pointer; transition:background .12s ease;}
+  tbody tr:hover{background:var(--bg);}
+  tbody tr.selected{background:var(--accent-soft);}
+  .ticker{font-weight:600; font-size:13px; color:var(--muted);}
+  .company{font-weight:500;}
+  td.num{text-align:right; font-variant-numeric:tabular-nums;}
+  .spark{display:block; margin-left:auto;}
+
+  /* Tæknivísar */
+  .badge{
+    display:inline-block;
+    font-size:11px;
+    font-weight:600;
+    padding:3px 8px;
+    border-radius:20px;
+    white-space:nowrap;
+  }
+  .badge.above{background:var(--accent-soft); color:var(--accent);}
+  .badge.below{background:var(--negative-soft); color:var(--negative);}
+  .badge.neutral{background:var(--bg); color:var(--muted);}
+  .indicator-note{
+    font-size:12px;
+    color:var(--muted);
+    padding:0 20px 16px;
+    line-height:1.6;
+  }
+
+  /* Grunngreining */
+  .fund-grid{
+    display:grid;
+    grid-template-columns:repeat(auto-fill, minmax(200px, 1fr));
+    gap:12px;
+    padding:6px 20px 20px;
+  }
+  .fund-card{
+    border:1px solid var(--line);
+    border-radius:10px;
+    padding:14px 16px;
+  }
+  .fund-card .fname{font-weight:600; font-size:13px; margin-bottom:10px;}
+  .fund-row{
+    display:flex;
+    justify-content:space-between;
+    align-items:center;
+    font-size:12px;
+    padding:4px 0;
+  }
+  .fund-row .flabel{color:var(--muted);}
+  .fund-row .fval{font-variant-numeric:tabular-nums; font-weight:600;}
+
+  /* Samantekt vísbendinga */
+  .score-grid{
+    display:grid;
+    grid-template-columns:repeat(auto-fill, minmax(230px, 1fr));
+    gap:12px;
+    padding:6px 20px 20px;
+  }
+  .score-card{
+    border:1px solid var(--line);
+    border-radius:10px;
+    padding:14px 16px;
+  }
+  .score-card .sname{font-weight:600; font-size:13px; margin-bottom:12px;}
+  .factor-row{
+    display:flex;
+    align-items:center;
+    gap:8px;
+    font-size:12px;
+    padding:4px 0;
+  }
+  .factor-row .flabel2{width:96px; color:var(--muted); flex-shrink:0;}
+  .factor-bar{
+    flex:1;
+    height:6px;
+    background:var(--bg);
+    border-radius:4px;
+    position:relative;
+    overflow:hidden;
+  }
+  .factor-bar .fill{
+    position:absolute;
+    top:0; bottom:0;
+    border-radius:4px;
+  }
+  .factor-why{font-size:11px; color:var(--muted); margin-top:8px; line-height:1.5;}
+  .disagree-flag{
+    margin-top:10px;
+    font-size:11px;
+    font-weight:600;
+    color:var(--negative);
+    background:var(--negative-soft);
+    display:inline-block;
+    padding:3px 8px;
+    border-radius:20px;
+  }
+
+  /* News list */
+  .news-item{
+    padding:14px 20px;
+    border-bottom:1px solid var(--line);
+    display:flex;
+    gap:10px;
+  }
+  .news-item:last-child{border-bottom:none;}
+  .dot{
+    width:8px;height:8px;border-radius:50%;
+    margin-top:6px; flex-shrink:0;
+  }
+  .dot.pos{background:var(--positive);}
+  .dot.neg{background:var(--negative);}
+  .dot.neu{background:var(--muted);}
+  .news-body .meta{
+    font-size:11px; color:var(--muted); margin-bottom:3px;
+  }
+  .news-body .headline{
+    font-size:14px; line-height:1.4; font-weight:500;
+  }
+
+  /* Events strip */
+  .events{
+    display:flex;
+    gap:14px;
+    overflow-x:auto;
+    padding:18px 20px 20px;
+  }
+  .event-card{
+    flex:0 0 auto;
+    min-width:160px;
+    border:1px solid var(--line);
+    border-radius:10px;
+    padding:12px 14px;
+  }
+  .event-card .date{
+    font-size:11px; color:var(--accent); font-weight:600; margin-bottom:6px;
+  }
+  .event-card .what{font-size:13px; font-weight:500; margin-bottom:2px;}
+  .event-card .who{font-size:12px; color:var(--muted);}
+
+  /* Detail panel */
+  #detail{margin-top:20px; padding:20px;}
+  #detail .dhead{display:flex; justify-content:space-between; align-items:baseline; margin-bottom:14px;}
+  #detail h2{font-family:'Newsreader',serif; font-weight:500; font-size:22px; margin:0;}
+  #detail .price{font-size:22px; font-weight:600; font-variant-numeric:tabular-nums;}
+  #detail .sub{color:var(--muted); font-size:13px; margin-top:2px;}
+  .disclaimer{
+    margin-top:28px;
+    font-size:12px;
+    color:var(--muted);
+    line-height:1.6;
+    border-top:1px solid var(--line);
+    padding-top:16px;
+  }
+
+  @media (max-width:760px){
+    .grid{grid-template-columns:1fr;}
+    header{flex-direction:column; align-items:flex-start;}
+  }
+</style>
+</head>
+<body>
+<div class="wrap">
+
+  <header>
+    <div>
+      <h1>Yfirlit</h1>
+      <p id="dateline"></p>
+      <p id="live-stamp" style="font-size:12px; color:var(--muted); margin-top:2px;">Sýnir dæmigögn — keyrðu fetch_data.py til að fá rauntímagögn fyrir bandarísku félögin</p>
+    </div>
+    <div class="indices">
+      <div class="index-chip">
+        <div class="name">OMXI15</div>
+        <div class="val">2.418<span class="chg up">+0,4%</span></div>
+      </div>
+      <div class="index-chip">
+        <div class="name">S&amp;P 500</div>
+        <div class="val">5.812<span class="chg down">−0,2%</span></div>
+      </div>
+    </div>
+  </header>
+
+  <div class="grid">
+
+    <!-- Vaktlisti -->
+    <div class="panel">
+      <div class="panel-head">
+        <h2>Vaktlisti</h2>
+        <div class="tabs">
+          <button class="tab active" data-market="is">Ísland</button>
+          <button class="tab" data-market="us">Bandaríkin</button>
+        </div>
+      </div>
+      <table>
+        <thead>
+          <tr>
+            <th>Félag</th>
+            <th class="num">Verð</th>
+            <th class="num">Í dag</th>
+            <th class="num">Sl. 30 daga</th>
+            <th class="num">Staða v. meðaltal</th>
+          </tr>
+        </thead>
+        <tbody id="watchlist-body"></tbody>
+      </table>
+      <p class="indicator-note">
+        „Staða v. meðaltal" ber saman núverandi verð við 30 daga meðaltal — lýsing á nýlegri hegðun,
+        ekki spá eða ráðlegging um kaup eða sölu.
+      </p>
+    </div>
+
+    <!-- Fréttir -->
+    <div class="panel">
+      <div class="panel-head">
+        <h2>Fréttir</h2>
+      </div>
+      <div id="news-list"></div>
+    </div>
+
+  </div>
+
+  <!-- Grunngreining -->
+  <div class="panel" style="margin-top:20px;">
+    <div class="panel-head"><h2>Grunngreining</h2></div>
+    <div class="fund-grid" id="fund-grid"></div>
+    <p class="indicator-note">
+      V/H (verð/hagnaður) borið saman við meðaltal félaga í sömu atvinnugrein á þínum eigin vaktlista
+      (ekki opinbert greinameðaltal fyrir alla greinina), og skuldir/eigið fé sem mælikvarði á skuldsetningu.
+      Lægra V/H en samanburðarhópurinn getur bent til að hlutabréfið sé ódýrt miðað við sambærileg félög — en getur líka
+      endurspeglað áhættu sem markaðurinn hefur þegar tekið tillit til. Þetta eru samanburðargögn til að styðja þitt eigið
+      mat, ekki niðurstaða.
+    </p>
+  </div>
+
+  <!-- Samantekt vísbendinga -->
+  <div class="panel" style="margin-top:20px;">
+    <div class="panel-head"><h2>Samantekt vísbendinga</h2></div>
+    <div class="score-grid" id="score-grid"></div>
+    <p class="indicator-note">
+      Fjórir þættir bornir saman hlið við hlið — skriðþungi (verð v. eigið meðaltal), verðmat (V/H v. samanburðarhóp),
+      fréttatónn og sveiflur. Þetta sýnir hvenær þættirnir eru <em>ósammála</em> hver öðrum (t.d. sterkur skriðþungi en
+      strekkt verðmat) frekar en að gefa eina niðurstöðu — vinsæl hlutabréf sem allir tala um hafa oft nákvæmlega
+      þetta mynstur, því væntingarnar eru þegar komnar inn í verðið. Þetta er ekki spá og ekki ráðlegging.
+    </p>
+  </div>
+
+  <!-- Framundan -->
+  <div class="panel" style="margin-top:20px;">
+    <div class="panel-head"><h2>Framundan</h2></div>
+    <div class="events" id="events-strip"></div>
+  </div>
+
+  <!-- Ítarupplýsingar um valið félag -->
+  <div class="panel" id="detail"></div>
+
+  <p class="disclaimer">
+    Þessi síða sýnir dæmigögn (ekki rauntímagögn) til að sýna hvernig svona yfirlit gæti litið út.
+    Til að tengja raunveruleg gögn þarf bakenda eða API-lykil (t.d. fyrir bandarísk félög) —
+    íslensk gögn eru ekki aðgengileg með ókeypis opnu API eins og staðan er núna.
+    Ekkert hér er fjárfestingarráðgjöf.
+  </p>
+
+</div>
+
+<script>
+  // ---------- Dæmigögn ----------
+  const stocks = {
+    is: [
+      { ticker:"MAREL", name:"Marel", price:118.5, chg:0.8, hist:[112,113,111,114,116,115,117,118,116,119,117,118.5], pe:22.4, sectorPe:19.1, debtEq:0.6, newsScore:1 },
+      { ticker:"ICEAIR", name:"Icelandair Group", price:5.42, chg:-1.2, hist:[5.8,5.7,5.6,5.65,5.5,5.55,5.45,5.5,5.4,5.48,5.44,5.42], pe:8.9, sectorPe:11.3, debtEq:1.4, newsScore:0 },
+      { ticker:"ARION", name:"Arion banki", price:174.0, chg:0.3, hist:[168,169,171,170,172,173,171,174,172,175,173,174], pe:7.8, sectorPe:8.2, debtEq:2.1, newsScore:0 },
+      { ticker:"OSSUR", name:"Össur", price:812.0, chg:1.6, hist:[770,780,775,790,795,788,800,805,798,810,807,812], pe:28.6, sectorPe:24.0, debtEq:0.4, newsScore:0 },
+      { ticker:"FESTI", name:"Festi", price:198.5, chg:-0.4, hist:[205,203,204,201,200,202,199,200,198,201,199,198.5], pe:12.1, sectorPe:13.5, debtEq:0.9, newsScore:0 },
+    ],
+    us: [
+      { ticker:"AAPL", name:"Apple", price:238.4, chg:0.6, hist:[225,227,229,228,231,233,230,234,236,235,237,238.4], pe:31.2, sectorPe:27.5, debtEq:1.5, newsScore:0 },
+      { ticker:"MSFT", name:"Microsoft", price:512.1, chg:1.1, hist:[485,489,492,490,495,498,494,500,503,505,508,512.1], pe:34.8, sectorPe:27.5, debtEq:0.4, newsScore:1 },
+      { ticker:"NVDA", name:"Nvidia", price:189.7, chg:-2.3, hist:[205,202,198,200,196,199,195,197,193,192,190,189.7], pe:41.5, sectorPe:27.5, debtEq:0.2, newsScore:-1 },
+      { ticker:"AMZN", name:"Amazon", price:231.9, chg:0.9, hist:[218,220,222,221,224,226,223,227,229,228,230,231.9], pe:36.7, sectorPe:27.5, debtEq:0.6, newsScore:0 },
+      { ticker:"JPM", name:"JPMorgan Chase", price:294.3, chg:0.2, hist:[286,287,289,288,290,291,289,292,290,293,292,294.3], pe:12.4, sectorPe:13.0, debtEq:1.8, newsScore:0 },
+    ]
+  };
+
+  const news = [
+    { time:"14:12", source:"Innherji", sentiment:"pos", text:"Marel greinir frá auknum pöntunum frá matvælaframleiðendum í Evrópu." },
+    { time:"12:48", source:"Reuters", sentiment:"neg", text:"Nvidia lækkar í kjölfar frétta um hertar útflutningstakmarkanir á flögum." },
+    { time:"11:20", source:"Viðskiptablaðið", sentiment:"neu", text:"Seðlabankinn heldur stýrivöxtum óbreyttum á næsta fundi, spá greinenda." },
+    { time:"09:55", source:"Bloomberg", sentiment:"pos", text:"Microsoft eykur fjárfestingu í gagnaverum um 15% á næsta ári." },
+    { time:"09:10", source:"mbl.is", sentiment:"neu", text:"Icelandair kynnir nýtt flug til Boston frá og með vori." },
+  ];
+
+  const events = [
+    { date:"3. sep", what:"Uppgjör Q2", who:"Arion banki" },
+    { date:"9. sep", what:"Vaxtaákvörðun", who:"Seðlabanki Íslands" },
+    { date:"17. sep", what:"Vaxtaákvörðun", who:"Bandaríski seðlabankinn" },
+    { date:"24. sep", what:"Uppgjör Q3", who:"Marel" },
+    { date:"2. okt", what:"Uppgjör Q3", who:"Apple" },
+  ];
+
+  // ---------- Hjálparföll ----------
+  function sparkline(hist, w=90, h=28){
+    const min = Math.min(...hist), max = Math.max(...hist);
+    const range = (max - min) || 1;
+    const step = w / (hist.length - 1);
+    const pts = hist.map((v,i) => `${(i*step).toFixed(1)},${(h - ((v-min)/range)*h).toFixed(1)}`).join(" ");
+    const rising = hist[hist.length-1] >= hist[0];
+    const color = rising ? "var(--positive)" : "var(--negative)";
+    return `<svg class="spark" width="${w}" height="${h}" viewBox="0 0 ${w} ${h}">
+      <polyline points="${pts}" fill="none" stroke="${color}" stroke-width="1.6" stroke-linejoin="round" stroke-linecap="round"/>
+    </svg>`;
+  }
+
+  function fmtPrice(market, price){
+    return market === "is"
+      ? price.toLocaleString("is-IS", {minimumFractionDigits:2, maximumFractionDigits:2}) + " kr."
+      : "$" + price.toLocaleString("en-US", {minimumFractionDigits:2, maximumFractionDigits:2});
+  }
+
+  function average(hist){
+    return hist.reduce((a,b) => a+b, 0) / hist.length;
+  }
+
+  function volatility(hist){
+    const avg = average(hist);
+    const variance = hist.reduce((sum,v) => sum + (v-avg)**2, 0) / hist.length;
+    return Math.sqrt(variance) / avg * 100; // staðalfrávik sem % af meðaltali
+  }
+
+  function maBadge(s){
+    const avg = average(s.hist);
+    const diffPct = ((s.price - avg) / avg) * 100;
+    const cls = diffPct > 1 ? "above" : diffPct < -1 ? "below" : "neutral";
+    const sign = diffPct >= 0 ? "+" : "";
+    return `<span class="badge ${cls}">${sign}${diffPct.toFixed(1)}% v. mt.</span>`;
+  }
+
+  function clamp(v, lo, hi){ return Math.max(lo, Math.min(hi, v)); }
+
+  function factorBar(label, score /* -2..2 */){
+    // score -2..2 -> staða á 0-100% striki, miðja = 50%
+    const pct = clamp(((score + 2) / 4) * 100, 0, 100);
+    const color = score > 0.3 ? "var(--positive)" : score < -0.3 ? "var(--negative)" : "var(--muted)";
+    const width = Math.abs(score) / 2 * 50; // breidd frá miðju
+    const left = score >= 0 ? 50 : 50 - width;
+    return `<div class="factor-row">
+      <span class="flabel2">${label}</span>
+      <div class="factor-bar"><div class="fill" style="left:${left}%; width:${width}%; background:${color};"></div></div>
+    </div>`;
+  }
+
+  function renderScores(){
+    const all = [...stocks.is, ...stocks.us];
+    document.getElementById("score-grid").innerHTML = all.map(s => {
+      const avg = average(s.hist);
+      const momentum = clamp(((s.price - avg) / avg) * 100 / 3, -2, 2); // skriðþungi
+      const peDiffPct = ((s.pe - s.sectorPe) / s.sectorPe) * 100;
+      const valuation = clamp(-peDiffPct / 15, -2, 2); // lægra V/H en hópur = jákvætt
+      const sentiment = clamp(s.newsScore, -2, 2);
+      const vol = volatility(s.hist);
+      const riskLabel = vol < 3 ? "Lág" : vol < 6 ? "Miðlungs" : "Há";
+
+      const hype = momentum > 0.8 && valuation < -0.8;
+
+      return `<div class="score-card">
+        <div class="sname">${s.ticker} — ${s.name}</div>
+        ${factorBar("Skriðþungi", momentum)}
+        ${factorBar("Verðmat", valuation)}
+        ${factorBar("Fréttatónn", sentiment)}
+        <div class="factor-row">
+          <span class="flabel2">Sveiflur</span>
+          <span style="font-size:12px; font-weight:600;">${riskLabel} (${vol.toFixed(1)}%)</span>
+        </div>
+        ${hype ? `<div class="disagree-flag">Skriðþungi og verðmat togast á</div>` : ``}
+      </div>`;
+    }).join("");
+  }
+
+  let currentMarket = "is";
+  let selectedTicker = stocks.is[0].ticker;
+  let usDataIsLive = false;
+
+  async function loadRealData(){
+    try {
+      const res = await fetch("data.json", { cache: "no-store" });
+      if (!res.ok) throw new Error("data.json fannst ekki");
+      const data = await res.json();
+      if (Array.isArray(data.us) && data.us.length > 0){
+        stocks.us = data.us.filter(s => s.pe != null); // sleppa félögum sem vantar V/H
+        usDataIsLive = true;
+        const stamp = document.getElementById("live-stamp");
+        if (stamp) stamp.textContent = "Rauntímagögn sótt " + new Date(data.updated).toLocaleString("is-IS");
+      }
+    } catch (e) {
+      console.log("Nota dæmigögn — data.json ekki tiltækt enn:", e.message);
+    }
+    renderWatchlist();
+    renderDetail();
+    renderFund();
+    renderScores();
+  }
+
+  function renderWatchlist(){
+    const body = document.getElementById("watchlist-body");
+    body.innerHTML = stocks[currentMarket].map(s => {
+      const isUp = s.chg >= 0;
+      return `<tr data-ticker="${s.ticker}" class="${s.ticker===selectedTicker ? 'selected':''}">
+        <td><span class="ticker">${s.ticker}</span><br><span class="company">${s.name}</span></td>
+        <td class="num">${fmtPrice(currentMarket, s.price)}</td>
+        <td class="num ${isUp ? 'up':'down'}">${isUp?'+':''}${s.chg.toFixed(1)}%</td>
+        <td class="num">${sparkline(s.hist)}</td>
+        <td class="num">${maBadge(s)}</td>
+      </tr>`;
+    }).join("");
+
+    body.querySelectorAll("tr").forEach(row => {
+      row.addEventListener("click", () => {
+        selectedTicker = row.dataset.ticker;
+        renderWatchlist();
+        renderDetail();
+      });
+    });
+  }
+
+  function renderDetail(){
+    const s = stocks[currentMarket].find(x => x.ticker === selectedTicker) || stocks[currentMarket][0];
+    const isUp = s.chg >= 0;
+    const lo = Math.min(...s.hist).toFixed(1);
+    const hi = Math.max(...s.hist).toFixed(1);
+    const vol = volatility(s.hist).toFixed(1);
+    document.getElementById("detail").innerHTML = `
+      <div class="dhead">
+        <div>
+          <h2>${s.name} <span style="color:var(--muted); font-family:'Inter'; font-size:14px;">${s.ticker}</span></h2>
+          <div class="sub">Bil síðustu 30 daga: ${lo} – ${hi} · Sveiflur (staðalfrávik): ${vol}%</div>
+        </div>
+        <div style="text-align:right;">
+          <div class="price">${fmtPrice(currentMarket, s.price)}</div>
+          <div class="chg ${isUp?'up':'down'}">${isUp?'+':''}${s.chg.toFixed(1)}% í dag</div>
+          <div style="margin-top:6px;">${maBadge(s)}</div>
+        </div>
+      </div>
+      ${sparkline(s.hist, 400, 90)}
+    `;
+  }
+
+  function renderNews(){
+    document.getElementById("news-list").innerHTML = news.map(n => `
+      <div class="news-item">
+        <span class="dot ${n.sentiment}"></span>
+        <div class="news-body">
+          <div class="meta">${n.source} · ${n.time}</div>
+          <div class="headline">${n.text}</div>
+        </div>
+      </div>
+    `).join("");
+  }
+
+  function renderEvents(){
+    document.getElementById("events-strip").innerHTML = events.map(e => `
+      <div class="event-card">
+        <div class="date">${e.date}</div>
+        <div class="what">${e.what}</div>
+        <div class="who">${e.who}</div>
+      </div>
+    `).join("");
+  }
+
+  function renderFund(){
+    const all = [...stocks.is, ...stocks.us];
+    document.getElementById("fund-grid").innerHTML = all.map(s => {
+      const peCls = s.pe < s.sectorPe ? "above" : "below"; // "above" litur = grænn = undir greinameðaltali (jákvætt merki fyrir verð)
+      const peDiff = (((s.pe - s.sectorPe) / s.sectorPe) * 100).toFixed(0);
+      const peLabel = s.pe < s.sectorPe ? `${Math.abs(peDiff)}% undir greininni` : `${peDiff}% yfir greininni`;
+      return `<div class="fund-card">
+        <div class="fname">${s.ticker} — ${s.name}</div>
+        <div class="fund-row"><span class="flabel">V/H hlutfall</span><span class="fval">${s.pe.toFixed(1)}</span></div>
+        <div class="fund-row"><span class="flabel">V. greinameðaltal</span><span class="badge ${peCls}">${peLabel}</span></div>
+        <div class="fund-row"><span class="flabel">Skuldir/eigið fé</span><span class="fval">${s.debtEq.toFixed(1)}</span></div>
+      </div>`;
+    }).join("");
+  }
+
+  document.querySelectorAll(".tab").forEach(btn => {
+    btn.addEventListener("click", () => {
+      document.querySelectorAll(".tab").forEach(b => b.classList.remove("active"));
+      btn.classList.add("active");
+      currentMarket = btn.dataset.market;
+      selectedTicker = stocks[currentMarket][0].ticker;
+      renderWatchlist();
+      renderDetail();
+    });
+  });
+
+  document.getElementById("dateline").textContent =
+    new Date().toLocaleDateString("is-IS", { weekday:"long", day:"numeric", month:"long", year:"numeric" });
+
+  renderNews();
+  renderEvents();
+  loadRealData();
+</script>
+</body>
+</html>
