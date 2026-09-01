@@ -22,7 +22,15 @@ from datetime import datetime, timezone
 import yfinance as yf
 
 # ---- Vaktlistinn þinn — bættu við eða fjarlægðu tickera hér ----
-TICKERS = ["AAPL", "MSFT", "NVDA", "AMZN", "JPM"]
+# Blanda úr ólíkum atvinnugreinum svo skanninn hafi fjölbreytt úrval til að bera saman
+TICKERS = [
+    "AAPL", "MSFT", "NVDA", "AMZN",      # tækni
+    "JPM", "V",                          # fjármál
+    "JNJ", "UNH",                        # heilbrigði
+    "KO", "PG",                          # neysluvörur
+    "XOM", "CVX",                        # orka
+    "CAT", "BA",                         # iðnaður
+]
 
 
 def fetch_one(ticker: str) -> dict | None:
