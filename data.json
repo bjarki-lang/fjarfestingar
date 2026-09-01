@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-01T22:28:41.035788+00:00",
+  "updated": "2026-09-01T22:41:04.620465+00:00",
   "us": [
     {
       "ticker": "AAPL",
@@ -30,9 +30,15 @@
         316.85,
         325.13
       ],
-      "pe": 37.2,
+      "pe": 37.3,
       "debtEq": 0.78,
       "sector": "Technology",
+      "industry": "Consumer Electronics",
+      "marketCap": 4745005629440,
+      "weekHigh52": 344.57,
+      "weekLow52": 225.95,
+      "dividendYield": 0.34,
+      "url": "https://finance.yahoo.com/quote/AAPL",
       "sectorPe": 30.9
     },
     {
@@ -67,6 +73,12 @@
       "pe": 27.9,
       "debtEq": 0.29,
       "sector": "Technology",
+      "industry": "Software - Infrastructure",
+      "marketCap": 3720346861568,
+      "weekHigh52": 553.72,
+      "weekLow52": 349.2,
+      "dividendYield": 0.71,
+      "url": "https://finance.yahoo.com/quote/MSFT",
       "sectorPe": 30.9
     },
     {
@@ -101,6 +113,12 @@
       "pe": 27.5,
       "debtEq": 0.17,
       "sector": "Technology",
+      "industry": "Semiconductors",
+      "marketCap": 5250523594752,
+      "weekHigh52": 236.54,
+      "weekLow52": 164.07,
+      "dividendYield": 0.46,
+      "url": "https://finance.yahoo.com/quote/NVDA",
       "sectorPe": 30.9
     },
     {
@@ -135,6 +153,12 @@
       "pe": 20.5,
       "debtEq": 0.46,
       "sector": "Consumer Cyclical",
+      "industry": "Internet Retail",
+      "marketCap": 2749647028224,
+      "weekHigh52": 287.2,
+      "weekLow52": 196.0,
+      "dividendYield": null,
+      "url": "https://finance.yahoo.com/quote/AMZN",
       "sectorPe": 20.5
     },
     {
@@ -162,12 +186,19 @@
         356.69,
         356.5,
         354.22,
+        357.62,
         356.02,
         354.95
       ],
       "pe": 15.2,
       "debtEq": null,
       "sector": "Financial Services",
+      "industry": "Banks - Diversified",
+      "marketCap": 943523233792,
+      "weekHigh52": 366.5,
+      "weekLow52": 279.1,
+      "dividendYield": 1.68,
+      "url": "https://finance.yahoo.com/quote/JPM",
       "sectorPe": 15.2
     }
   ]
