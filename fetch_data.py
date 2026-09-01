@@ -32,6 +32,10 @@ TICKERS = [
     "CAT", "BA",                         # iðnaður
 ]
 
+# Bresk félög — .L viðskeytið segir Yahoo að sækja gögn af London kauphöllinni (LSE).
+# ATH: LSE hlutabréf eru langoftast skráð í pensum (GBX), ekki pundum — 100 pensar = 1 pund.
+UK_TICKERS = ["HSBA.L", "AZN.L", "SHEL.L", "ULVR.L", "BARC.L"]
+
 
 def fetch_one(ticker: str) -> dict | None:
     """Sækir verð, 30 daga sögu og grunngreiningartölur fyrir eitt félag."""
@@ -104,18 +108,25 @@ def main():
         result = fetch_one(ticker)
         if result:
             stocks.append(result)
-
     add_sector_pe_average(stocks)
+
+    uk_stocks = []
+    for ticker in UK_TICKERS:
+        result = fetch_one(ticker)
+        if result:
+            uk_stocks.append(result)
+    add_sector_pe_average(uk_stocks)
 
     output = {
         "updated": datetime.now(timezone.utc).isoformat(),
         "us": stocks,
+        "uk": uk_stocks,
     }
 
     with open("data.json", "w", encoding="utf-8") as f:
         json.dump(output, f, ensure_ascii=False, indent=2)
 
-    print(f"Lokið — {len(stocks)}/{len(TICKERS)} félög sótt og vistuð í data.json")
+    print(f"Lokið — {len(stocks)}/{len(TICKERS)} bandarísk og {len(uk_stocks)}/{len(UK_TICKERS)} bresk félög sótt og vistuð í data.json")
 
 
 if __name__ == "__main__":
