@@ -403,6 +403,24 @@
     font-weight:600;
   }
   .external-link:hover{text-decoration:underline;}
+
+  /* Leit */
+  .search-box{
+    padding:14px 20px;
+    border-bottom:1px solid var(--line);
+  }
+  .search-box input{
+    width:100%;
+    padding:10px 14px;
+    border:1px solid var(--line);
+    border-radius:8px;
+    font-family:'Inter',sans-serif;
+    font-size:14px;
+    background:var(--bg);
+    color:var(--ink);
+  }
+  .search-box input:focus{outline:2px solid var(--accent); outline-offset:-1px;}
+  .search-hint{font-size:11px; color:var(--muted); margin-top:6px;}
   .disclaimer{
     margin-top:28px;
     font-size:12px;
@@ -498,6 +516,10 @@
           <button class="tab" data-market="us">Bandaríkin</button>
           <button class="tab" data-market="uk">Bretland</button>
         </div>
+      </div>
+      <div class="search-box">
+        <input type="text" id="search-input" placeholder="Leita eftir nafni eða tickeri, t.d. banki eða NVDA">
+        <p class="search-hint">Sýnir bara félög sem passa í öllum flipum — smelltu á Bandaríkin/Bretland til að sjá fleiri.</p>
       </div>
       <table>
         <thead>
@@ -855,15 +877,27 @@
   }
 
   let sortDir = null; // null = upprunaleg röð, "desc" = hæst efst, "asc" = lægst efst
+  let searchQuery = "";
 
   function renderWatchlist(){
     const body = document.getElementById("watchlist-body");
     let list = [...stocks[currentMarket]];
+
+    if (searchQuery.trim() !== ""){
+      const q = searchQuery.trim().toLowerCase();
+      list = list.filter(s => s.name.toLowerCase().includes(q) || s.ticker.toLowerCase().includes(q));
+    }
+
     if (sortDir === "desc") list.sort((a,b) => b.chg - a.chg);
     if (sortDir === "asc") list.sort((a,b) => a.chg - b.chg);
 
     const arrow = document.getElementById("sort-arrow");
     if (arrow) arrow.textContent = sortDir === "desc" ? "↓" : sortDir === "asc" ? "↑" : "";
+
+    if (list.length === 0){
+      body.innerHTML = `<tr><td colspan="5" style="text-align:center; color:var(--muted); padding:20px;">Ekkert félag fannst fyrir „${searchQuery}"</td></tr>`;
+      return;
+    }
 
     body.innerHTML = list.map(s => {
       const isUp = s.chg >= 0;
@@ -976,6 +1010,11 @@
       </div>`;
     }).join("");
   }
+
+  document.getElementById("search-input").addEventListener("input", e => {
+    searchQuery = e.target.value;
+    renderWatchlist();
+  });
 
   document.getElementById("ctrl-move").addEventListener("input", e => {
     scanThresholds.move = parseFloat(e.target.value);
