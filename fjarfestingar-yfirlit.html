@@ -292,6 +292,25 @@
   .scan-control input[type="range"]{width:90px;}
   .scan-control .cval{font-weight:600; min-width:34px; display:inline-block; text-align:right;}
 
+  /* Í dag vert að skoða */
+  .digest-list{padding:6px 20px 20px;}
+  .digest-item{
+    display:flex;
+    gap:12px;
+    padding:12px 0;
+    border-bottom:1px solid var(--line);
+  }
+  .digest-item:last-child{border-bottom:none;}
+  .digest-item .digest-ticker{
+    font-weight:700;
+    font-size:13px;
+    color:var(--accent);
+    flex-shrink:0;
+    width:56px;
+  }
+  .digest-item .digest-text{font-size:14px; line-height:1.5;}
+  .digest-empty{color:var(--muted); font-size:13px; padding:6px 20px 20px;}
+
   /* Skýringalykill */
   .scan-legend{
     display:flex;
@@ -419,6 +438,17 @@
       </div>
     </div>
   </header>
+
+  <!-- Í dag vert að skoða -->
+  <div class="panel" style="margin-bottom:20px;">
+    <div class="panel-head"><h2>Í dag vert að skoða</h2></div>
+    <div class="digest-list" id="digest-list"></div>
+    <p class="indicator-note">
+      Sjálfvirk samantekt á því sem Markaðsskanninn fann, skrifuð upp í setningar. Sömu gögn og skanninn — bara
+      lesanlegri. Ekki spá, ekki ráðlegging um hvað sé sniðugt að kaupa — bara ábending um hvað gæti verið vert
+      að rannsaka nánar og af hverju.
+    </p>
+  </div>
 
   <!-- Markaðsskanni -->
   <div class="panel" style="margin-bottom:20px;">
@@ -672,6 +702,56 @@
 
   let scanThresholds = { move: 2.5, value: 20, rel: 6, vol: 1.7 };
 
+  function buildDigestSentence(s, tags){
+    const clsSet = tags.map(t => t.cls);
+    const parts = [];
+
+    if (clsSet.includes("t-low")) parts.push("er núna nálægt 52 vikna lágmarki sínu");
+    if (clsSet.includes("t-high")) parts.push("er núna nálægt 52 vikna hámarki sínu");
+
+    const moveTag = tags.find(t => t.cls === "t-move");
+    if (moveTag) parts.push(`hreyfðist óvenju mikið í dag (${moveTag.text.replace(" í dag","")})`);
+
+    const relTag = tags.find(t => t.cls === "t-rel");
+    if (relTag){
+      const better = relTag.text.startsWith("+");
+      parts.push(`hefur staðið sig ${better ? "mun betur" : "mun verr"} en vísitalan síðustu 30 daga (${relTag.text.replace(" v. vísitölu","")})`);
+    }
+
+    const volTag = tags.find(t => t.cls === "t-vol");
+    if (volTag) parts.push(`er með óvenjulegt viðskiptamagn í dag (${volTag.text})`);
+
+    const valTag = tags.find(t => t.cls === "t-value");
+    if (valTag) parts.push(`er verðlagt ${valTag.text.includes("undir") ? "lægra" : "hærra"} en sambærileg félög (${valTag.text})`);
+
+    if (clsSet.includes("t-hype")) parts.push('sýnir "allir eru að tala um þetta" mynstrið — sterkur skriðþungi en strekkt verðmat');
+
+    if (parts.length === 0) return null;
+
+    // Sameina í eina náttúrulega setningu
+    let sentence = parts[0];
+    for (let i = 1; i < parts.length; i++){
+      sentence += (i === parts.length - 1 ? ", og " : ", ") + parts[i];
+    }
+    return sentence.charAt(0).toUpperCase() + sentence.slice(1) + ".";
+  }
+
+  function renderDigest(rows){
+    const list = document.getElementById("digest-list");
+    if (rows.length === 0){
+      list.innerHTML = `<p class="digest-empty">Ekkert félag sker sig úr eins og staðan er núna.</p>`;
+      return;
+    }
+    list.innerHTML = rows.map(({s, tags}) => {
+      const sentence = buildDigestSentence(s, tags);
+      if (!sentence) return "";
+      return `<div class="digest-item">
+        <span class="digest-ticker">${s.ticker}</span>
+        <span class="digest-text">${s.name} ${sentence}</span>
+      </div>`;
+    }).join("");
+  }
+
   function renderScan(){
     const all = [...stocks.is, ...stocks.us, ...(stocks.uk || [])];
     const rows = [];
@@ -723,6 +803,8 @@
 
       if (tags.length > 0) rows.push({ s, tags });
     });
+
+    renderDigest(rows);
 
     const list = document.getElementById("scan-list");
     if (rows.length === 0){
