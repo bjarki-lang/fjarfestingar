@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-01T23:21:23.941172+00:00",
+  "updated": "2026-09-01T23:23:17.632833+00:00",
   "us": [
     {
       "ticker": "AAPL",
@@ -38,6 +38,8 @@
       "weekHigh52": 344.57,
       "weekLow52": 225.95,
       "dividendYield": 0.34,
+      "relStrength": 6.84,
+      "volumeRatio": 1.22,
       "url": "https://finance.yahoo.com/quote/AAPL",
       "sectorPe": 30.9
     },
@@ -78,6 +80,8 @@
       "weekHigh52": 553.72,
       "weekLow52": 349.2,
       "dividendYield": 0.72,
+      "relStrength": 2.53,
+      "volumeRatio": 0.67,
       "url": "https://finance.yahoo.com/quote/MSFT",
       "sectorPe": 30.9
     },
@@ -118,6 +122,8 @@
       "weekHigh52": 236.54,
       "weekLow52": 164.07,
       "dividendYield": 0.45,
+      "relStrength": 4.82,
+      "volumeRatio": 0.84,
       "url": "https://finance.yahoo.com/quote/NVDA",
       "sectorPe": 30.9
     },
@@ -158,6 +164,8 @@
       "weekHigh52": 287.2,
       "weekLow52": 196.0,
       "dividendYield": null,
+      "relStrength": -10.66,
+      "volumeRatio": 0.81,
       "url": "https://finance.yahoo.com/quote/AMZN",
       "sectorPe": 20.5
     },
@@ -197,6 +205,8 @@
       "weekHigh52": 366.5,
       "weekLow52": 279.1,
       "dividendYield": 1.69,
+      "relStrength": 0.25,
+      "volumeRatio": 0.88,
       "url": "https://finance.yahoo.com/quote/JPM",
       "sectorPe": 23.4
     },
@@ -236,6 +246,8 @@
       "weekHigh52": 385.57,
       "weekLow52": 293.89,
       "dividendYield": 0.71,
+      "relStrength": 1.69,
+      "volumeRatio": 0.82,
       "url": "https://finance.yahoo.com/quote/V",
       "sectorPe": 23.4
     },
@@ -275,6 +287,8 @@
       "weekHigh52": 276.47,
       "weekLow52": 173.33,
       "dividendYield": 2.02,
+      "relStrength": 6.71,
+      "volumeRatio": 0.91,
       "url": "https://finance.yahoo.com/quote/JNJ",
       "sectorPe": 28.4
     },
@@ -314,6 +328,8 @@
       "weekHigh52": 461.62,
       "weekLow52": 255.97,
       "dividendYield": 2.38,
+      "relStrength": -5.0,
+      "volumeRatio": 0.87,
       "url": "https://finance.yahoo.com/quote/UNH",
       "sectorPe": 28.4
     },
@@ -342,6 +358,7 @@
         91.64,
         90.08,
         89.06,
+        89.66,
         88.67,
         88.0
       ],
@@ -353,6 +370,8 @@
       "weekHigh52": 92.49,
       "weekLow52": 65.35,
       "dividendYield": 2.39,
+      "relStrength": 0.9,
+      "volumeRatio": 0.96,
       "url": "https://finance.yahoo.com/quote/KO",
       "sectorPe": 24.2
     },
@@ -381,6 +400,7 @@
         145.4,
         145.0,
         143.14,
+        143.78,
         145.12,
         146.21
       ],
@@ -392,6 +412,8 @@
       "weekHigh52": 167.25,
       "weekLow52": 137.62,
       "dividendYield": 3.0,
+      "relStrength": 0.45,
+      "volumeRatio": 0.92,
       "url": "https://finance.yahoo.com/quote/PG",
       "sectorPe": 24.2
     },
@@ -420,6 +442,7 @@
         160.64,
         158.19,
         156.44,
+        156.71,
         160.95,
         164.55
       ],
@@ -431,6 +454,8 @@
       "weekHigh52": 176.41,
       "weekLow52": 108.35,
       "dividendYield": 2.56,
+      "relStrength": 6.4,
+      "volumeRatio": 0.76,
       "url": "https://finance.yahoo.com/quote/XOM",
       "sectorPe": 20.8
     },
@@ -471,6 +496,8 @@
       "weekHigh52": 214.71,
       "weekLow52": 146.49,
       "dividendYield": 3.45,
+      "relStrength": 9.79,
+      "volumeRatio": 1.06,
       "url": "https://finance.yahoo.com/quote/CVX",
       "sectorPe": 20.8
     },
@@ -499,6 +526,7 @@
         811.29,
         821.93,
         817.0,
+        800.25,
         797.47,
         779.16
       ],
@@ -510,6 +538,8 @@
       "weekHigh52": 1073.46,
       "weekLow52": 410.52,
       "dividendYield": 0.82,
+      "relStrength": -6.54,
+      "volumeRatio": 1.08,
       "url": "https://finance.yahoo.com/quote/CAT",
       "sectorPe": 53.9
     },
@@ -538,6 +568,7 @@
         211.08,
         212.09,
         209.89,
+        209.82,
         207.78,
         205.66
       ],
@@ -549,6 +580,8 @@
       "weekHigh52": 254.35,
       "weekLow52": 176.77,
       "dividendYield": null,
+      "relStrength": -12.33,
+      "volumeRatio": 0.93,
       "url": "https://finance.yahoo.com/quote/BA",
       "sectorPe": 53.9
     }
@@ -590,6 +623,8 @@
       "weekHigh52": 1610.0,
       "weekLow52": 946.2,
       "dividendYield": 3.64,
+      "relStrength": -3.69,
+      "volumeRatio": 1.01,
       "url": "https://finance.yahoo.com/quote/HSBA.L",
       "sectorPe": 12.5
     },
@@ -629,6 +664,8 @@
       "weekHigh52": 15732.0,
       "weekLow52": 9892.0,
       "dividendYield": 2.0,
+      "relStrength": 4.33,
+      "volumeRatio": 0.67,
       "url": "https://finance.yahoo.com/quote/AZN.L",
       "sectorPe": 24.3
     },
@@ -668,6 +705,8 @@
       "weekHigh52": 3758.5,
       "weekLow52": 2553.77,
       "dividendYield": 3.46,
+      "relStrength": 1.11,
+      "volumeRatio": 1.37,
       "url": "https://finance.yahoo.com/quote/SHEL.L",
       "sectorPe": 10.3
     },
@@ -707,6 +746,8 @@
       "weekHigh52": 5542.11,
       "weekLow52": 3644.0,
       "dividendYield": 3.45,
+      "relStrength": 1.18,
+      "volumeRatio": 1.06,
       "url": "https://finance.yahoo.com/quote/ULVR.L",
       "sectorPe": 22.0
     },
@@ -746,8 +787,14 @@
       "weekHigh52": 538.3,
       "weekLow52": 353.55,
       "dividendYield": 2.32,
+      "relStrength": -5.29,
+      "volumeRatio": 1.09,
       "url": "https://finance.yahoo.com/quote/BARC.L",
       "sectorPe": 12.5
     }
-  ]
+  ],
+  "benchmarks": {
+    "us": 0.41,
+    "uk": -0.31
+  }
 }
