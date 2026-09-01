@@ -31,6 +31,13 @@ def fetch_one(ticker: str) -> dict | None:
         t = yf.Ticker(ticker)
         info = t.info  # getur verið hægt / stundum takmarkað af Yahoo
 
+        # fast_info er sértaklega ætlað fyrir svona tölur og er oftast áreiðanlegra
+        # en .info, sem getur stundum vantað einstaka reiti hjá Yahoo.
+        try:
+            fast = dict(t.fast_info)
+        except Exception:
+            fast = {}
+
         hist = t.history(period="1mo")
         if hist.empty:
             print(f"[viðvörun] engin verðsaga fannst fyrir {ticker}")
@@ -40,6 +47,10 @@ def fetch_one(ticker: str) -> dict | None:
         price = closes[-1]
         prev_close = info.get("previousClose") or (closes[-2] if len(closes) > 1 else price)
         chg_pct = round(((price - prev_close) / prev_close) * 100, 2) if prev_close else 0.0
+
+        market_cap = info.get("marketCap") or fast.get("market_cap")
+        week_high = info.get("fiftyTwoWeekHigh") or fast.get("year_high")
+        week_low = info.get("fiftyTwoWeekLow") or fast.get("year_low")
 
         return {
             "ticker": ticker,
@@ -51,9 +62,9 @@ def fetch_one(ticker: str) -> dict | None:
             "debtEq": round(info.get("debtToEquity") / 100, 2) if info.get("debtToEquity") else None,
             "sector": info.get("sector", "Óþekkt"),
             "industry": info.get("industry", "Óþekkt"),
-            "marketCap": info.get("marketCap"),
-            "weekHigh52": info.get("fiftyTwoWeekHigh"),
-            "weekLow52": info.get("fiftyTwoWeekLow"),
+            "marketCap": market_cap,
+            "weekHigh52": round(week_high, 2) if week_high else None,
+            "weekLow52": round(week_low, 2) if week_low else None,
             "dividendYield": info.get("dividendYield"),
             "url": f"https://finance.yahoo.com/quote/{ticker}",
         }
