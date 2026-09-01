@@ -681,6 +681,7 @@
         ${factorBar("Skriðþungi", momentum)}
         ${factorBar("Verðmat", valuation)}
         ${factorBar("Fréttatónn", sentiment)}
+        ${s.newsHeadline ? `<div style="font-size:11px; color:var(--muted); margin-top:-4px; margin-bottom:8px; line-height:1.4;">„${s.newsHeadline}"</div>` : ``}
         <div class="factor-row">
           <span class="flabel2">Sveiflur</span>
           <span style="font-size:12px; font-weight:600;">${riskLabel} (${vol.toFixed(1)}%)</span>
