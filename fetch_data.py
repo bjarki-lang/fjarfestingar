@@ -50,6 +50,12 @@ def fetch_one(ticker: str) -> dict | None:
             "pe": round(info.get("trailingPE"), 1) if info.get("trailingPE") else None,
             "debtEq": round(info.get("debtToEquity") / 100, 2) if info.get("debtToEquity") else None,
             "sector": info.get("sector", "Óþekkt"),
+            "industry": info.get("industry", "Óþekkt"),
+            "marketCap": info.get("marketCap"),
+            "weekHigh52": info.get("fiftyTwoWeekHigh"),
+            "weekLow52": info.get("fiftyTwoWeekLow"),
+            "dividendYield": info.get("dividendYield"),
+            "url": f"https://finance.yahoo.com/quote/{ticker}",
         }
     except Exception as e:
         print(f"[villa] tókst ekki að sækja {ticker}: {e}")
