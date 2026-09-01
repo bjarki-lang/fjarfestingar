@@ -37,7 +37,20 @@ TICKERS = [
 UK_TICKERS = ["HSBA.L", "AZN.L", "SHEL.L", "ULVR.L", "BARC.L"]
 
 
-def fetch_one(ticker: str) -> dict | None:
+def fetch_benchmark_change(index_ticker: str) -> float | None:
+    """Sækir 30 daga breytingu (%) fyrir viðmiðunarvísitölu, notað til að reikna afstæðan styrk."""
+    try:
+        hist = yf.Ticker(index_ticker).history(period="1mo")
+        if hist.empty:
+            return None
+        closes = hist["Close"].tolist()
+        return round(((closes[-1] - closes[0]) / closes[0]) * 100, 2)
+    except Exception as e:
+        print(f"[viðvörun] tókst ekki að sækja viðmiðunarvísitölu {index_ticker}: {e}")
+        return None
+
+
+def fetch_one(ticker: str, benchmark_chg_30d: float | None = None) -> dict | None:
     """Sækir verð, 30 daga sögu og grunngreiningartölur fyrir eitt félag."""
     try:
         t = yf.Ticker(ticker)
@@ -60,6 +73,21 @@ def fetch_one(ticker: str) -> dict | None:
         prev_close = info.get("previousClose") or (closes[-2] if len(closes) > 1 else price)
         chg_pct = round(((price - prev_close) / prev_close) * 100, 2) if prev_close else 0.0
 
+        # Afstæður styrkur: hvernig félagið hefur staðið sig síðustu 30 daga
+        # samanborið við viðmiðunarvísitöluna á sama tímabili (í prósentustigum).
+        rel_strength = None
+        if benchmark_chg_30d is not None and len(closes) > 1:
+            stock_chg_30d = ((closes[-1] - closes[0]) / closes[0]) * 100
+            rel_strength = round(stock_chg_30d - benchmark_chg_30d, 2)
+
+        # Viðskiptamagn: er dagurinn í dag óvenju stór miðað við undanfarið?
+        volume_ratio = None
+        if "Volume" in hist.columns and len(hist["Volume"]) > 1:
+            volumes = hist["Volume"].tolist()
+            avg_volume = sum(volumes[:-1]) / max(len(volumes) - 1, 1)
+            if avg_volume > 0:
+                volume_ratio = round(volumes[-1] / avg_volume, 2)
+
         market_cap = info.get("marketCap") or fast.get("market_cap")
         week_high = info.get("fiftyTwoWeekHigh") or fast.get("year_high")
         week_low = info.get("fiftyTwoWeekLow") or fast.get("year_low")
@@ -78,6 +106,8 @@ def fetch_one(ticker: str) -> dict | None:
             "weekHigh52": round(week_high, 2) if week_high else None,
             "weekLow52": round(week_low, 2) if week_low else None,
             "dividendYield": info.get("dividendYield"),
+            "relStrength": rel_strength,
+            "volumeRatio": volume_ratio,
             "url": f"https://finance.yahoo.com/quote/{ticker}",
         }
     except Exception as e:
@@ -103,16 +133,19 @@ def add_sector_pe_average(stocks: list[dict]) -> None:
 
 
 def main():
+    us_benchmark = fetch_benchmark_change("^GSPC")   # S&P 500
+    uk_benchmark = fetch_benchmark_change("^FTSE")   # FTSE 100
+
     stocks = []
     for ticker in TICKERS:
-        result = fetch_one(ticker)
+        result = fetch_one(ticker, benchmark_chg_30d=us_benchmark)
         if result:
             stocks.append(result)
     add_sector_pe_average(stocks)
 
     uk_stocks = []
     for ticker in UK_TICKERS:
-        result = fetch_one(ticker)
+        result = fetch_one(ticker, benchmark_chg_30d=uk_benchmark)
         if result:
             uk_stocks.append(result)
     add_sector_pe_average(uk_stocks)
@@ -121,6 +154,7 @@ def main():
         "updated": datetime.now(timezone.utc).isoformat(),
         "us": stocks,
         "uk": uk_stocks,
+        "benchmarks": {"us": us_benchmark, "uk": uk_benchmark},
     }
 
     with open("data.json", "w", encoding="utf-8") as f:
