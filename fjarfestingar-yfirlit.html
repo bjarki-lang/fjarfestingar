@@ -295,6 +295,25 @@
   #detail h2{font-family:'Newsreader',serif; font-weight:500; font-size:22px; margin:0;}
   #detail .price{font-size:22px; font-weight:600; font-variant-numeric:tabular-nums;}
   #detail .sub{color:var(--muted); font-size:13px; margin-top:2px;}
+  .detail-stats{
+    display:grid;
+    grid-template-columns:repeat(auto-fit, minmax(140px, 1fr));
+    gap:14px;
+    margin-top:18px;
+    padding-top:16px;
+    border-top:1px solid var(--line);
+  }
+  .detail-stats .stat .slabel{font-size:11px; color:var(--muted); margin-bottom:2px;}
+  .detail-stats .stat .sval{font-size:14px; font-weight:600; font-variant-numeric:tabular-nums;}
+  .external-link{
+    display:inline-block;
+    margin-top:16px;
+    font-size:12px;
+    color:var(--accent);
+    text-decoration:none;
+    font-weight:600;
+  }
+  .external-link:hover{text-decoration:underline;}
   .disclaimer{
     margin-top:28px;
     font-size:12px;
@@ -405,9 +424,8 @@
   <div class="panel" id="detail"></div>
 
   <p class="disclaimer">
-    Þessi síða sýnir dæmigögn (ekki rauntímagögn) til að sýna hvernig svona yfirlit gæti litið út.
-    Til að tengja raunveruleg gögn þarf bakenda eða API-lykil (t.d. fyrir bandarísk félög) —
-    íslensk gögn eru ekki aðgengileg með ókeypis opnu API eins og staðan er núna.
+    Íslensku félögin sýna dæmigögn (ekki rauntímagögn) — það er ekki opið ókeypis API fyrir Kauphöllina eins og staðan er núna.
+    Bandarísku félögin uppfærast sjálfkrafa með rauntímagögnum í gegnum fetch_data.py, sjá stimpilinn efst.
     Ekkert hér er fjárfestingarráðgjöf.
   </p>
 
@@ -417,18 +435,18 @@
   // ---------- Dæmigögn ----------
   const stocks = {
     is: [
-      { ticker:"MAREL", name:"Marel", price:118.5, chg:0.8, hist:[112,113,111,114,116,115,117,118,116,119,117,118.5], pe:22.4, sectorPe:19.1, debtEq:0.6, newsScore:1 },
-      { ticker:"ICEAIR", name:"Icelandair Group", price:5.42, chg:-1.2, hist:[5.8,5.7,5.6,5.65,5.5,5.55,5.45,5.5,5.4,5.48,5.44,5.42], pe:8.9, sectorPe:11.3, debtEq:1.4, newsScore:0 },
-      { ticker:"ARION", name:"Arion banki", price:174.0, chg:0.3, hist:[168,169,171,170,172,173,171,174,172,175,173,174], pe:7.8, sectorPe:8.2, debtEq:2.1, newsScore:0 },
-      { ticker:"OSSUR", name:"Össur", price:812.0, chg:1.6, hist:[770,780,775,790,795,788,800,805,798,810,807,812], pe:28.6, sectorPe:24.0, debtEq:0.4, newsScore:0 },
-      { ticker:"FESTI", name:"Festi", price:198.5, chg:-0.4, hist:[205,203,204,201,200,202,199,200,198,201,199,198.5], pe:12.1, sectorPe:13.5, debtEq:0.9, newsScore:0 },
+      { ticker:"MAREL", name:"Marel", price:118.5, chg:0.8, hist:[112,113,111,114,116,115,117,118,116,119,117,118.5], pe:22.4, sectorPe:19.1, debtEq:0.6, newsScore:1, marketCap:340000000000, weekHigh52:132.0, weekLow52:98.5, dividendYield:1.4, url:"https://www.keldan.is/fyrirtaeki/kt/5310025280" },
+      { ticker:"ICEAIR", name:"Icelandair Group", price:5.42, chg:-1.2, hist:[5.8,5.7,5.6,5.65,5.5,5.55,5.45,5.5,5.4,5.48,5.44,5.42], pe:8.9, sectorPe:11.3, debtEq:1.4, newsScore:0, marketCap:52000000000, weekHigh52:7.1, weekLow52:4.9, dividendYield:0, url:"https://www.keldan.is/fyrirtaeki/kt/6108001410" },
+      { ticker:"ARION", name:"Arion banki", price:174.0, chg:0.3, hist:[168,169,171,170,172,173,171,174,172,175,173,174], pe:7.8, sectorPe:8.2, debtEq:2.1, newsScore:0, marketCap:280000000000, weekHigh52:189.0, weekLow52:158.0, dividendYield:6.2, url:"https://www.keldan.is/fyrirtaeki/kt/5810080150" },
+      { ticker:"OSSUR", name:"Össur", price:812.0, chg:1.6, hist:[770,780,775,790,795,788,800,805,798,810,807,812], pe:28.6, sectorPe:24.0, debtEq:0.4, newsScore:0, marketCap:410000000000, weekHigh52:850.0, weekLow52:690.0, dividendYield:0.8, url:"https://www.keldan.is/fyrirtaeki/kt/2506691239" },
+      { ticker:"FESTI", name:"Festi", price:198.5, chg:-0.4, hist:[205,203,204,201,200,202,199,200,198,201,199,198.5], pe:12.1, sectorPe:13.5, debtEq:0.9, newsScore:0, marketCap:64000000000, weekHigh52:225.0, weekLow52:185.0, dividendYield:4.5, url:"https://www.keldan.is/fyrirtaeki/kt/4112070560" },
     ],
     us: [
-      { ticker:"AAPL", name:"Apple", price:238.4, chg:0.6, hist:[225,227,229,228,231,233,230,234,236,235,237,238.4], pe:31.2, sectorPe:27.5, debtEq:1.5, newsScore:0 },
-      { ticker:"MSFT", name:"Microsoft", price:512.1, chg:1.1, hist:[485,489,492,490,495,498,494,500,503,505,508,512.1], pe:34.8, sectorPe:27.5, debtEq:0.4, newsScore:1 },
-      { ticker:"NVDA", name:"Nvidia", price:189.7, chg:-2.3, hist:[205,202,198,200,196,199,195,197,193,192,190,189.7], pe:41.5, sectorPe:27.5, debtEq:0.2, newsScore:-1 },
-      { ticker:"AMZN", name:"Amazon", price:231.9, chg:0.9, hist:[218,220,222,221,224,226,223,227,229,228,230,231.9], pe:36.7, sectorPe:27.5, debtEq:0.6, newsScore:0 },
-      { ticker:"JPM", name:"JPMorgan Chase", price:294.3, chg:0.2, hist:[286,287,289,288,290,291,289,292,290,293,292,294.3], pe:12.4, sectorPe:13.0, debtEq:1.8, newsScore:0 },
+      { ticker:"AAPL", name:"Apple", price:238.4, chg:0.6, hist:[225,227,229,228,231,233,230,234,236,235,237,238.4], pe:31.2, sectorPe:27.5, debtEq:1.5, newsScore:0, marketCap:3650000000000, weekHigh52:250.0, weekLow52:195.0, dividendYield:0.5, url:"https://finance.yahoo.com/quote/AAPL" },
+      { ticker:"MSFT", name:"Microsoft", price:512.1, chg:1.1, hist:[485,489,492,490,495,498,494,500,503,505,508,512.1], pe:34.8, sectorPe:27.5, debtEq:0.4, newsScore:1, marketCap:3800000000000, weekHigh52:530.0, weekLow52:410.0, dividendYield:0.7, url:"https://finance.yahoo.com/quote/MSFT" },
+      { ticker:"NVDA", name:"Nvidia", price:189.7, chg:-2.3, hist:[205,202,198,200,196,199,195,197,193,192,190,189.7], pe:41.5, sectorPe:27.5, debtEq:0.2, newsScore:-1, marketCap:4650000000000, weekHigh52:215.0, weekLow52:135.0, dividendYield:0.03, url:"https://finance.yahoo.com/quote/NVDA" },
+      { ticker:"AMZN", name:"Amazon", price:231.9, chg:0.9, hist:[218,220,222,221,224,226,223,227,229,228,230,231.9], pe:36.7, sectorPe:27.5, debtEq:0.6, newsScore:0, marketCap:2450000000000, weekHigh52:245.0, weekLow52:180.0, dividendYield:0, url:"https://finance.yahoo.com/quote/AMZN" },
+      { ticker:"JPM", name:"JPMorgan Chase", price:294.3, chg:0.2, hist:[286,287,289,288,290,291,289,292,290,293,292,294.3], pe:12.4, sectorPe:13.0, debtEq:1.8, newsScore:0, marketCap:850000000000, weekHigh52:310.0, weekLow52:245.0, dividendYield:2.1, url:"https://finance.yahoo.com/quote/JPM" },
     ]
   };
 
@@ -572,12 +590,23 @@
     });
   }
 
+  function fmtCap(n){
+    if (!n) return "—";
+    if (n >= 1e12) return (n/1e12).toFixed(2) + " billjón";
+    if (n >= 1e9) return (n/1e9).toFixed(1) + " ma.";
+    if (n >= 1e6) return (n/1e6).toFixed(0) + " m.";
+    return n.toLocaleString("is-IS");
+  }
+
   function renderDetail(){
     const s = stocks[currentMarket].find(x => x.ticker === selectedTicker) || stocks[currentMarket][0];
     const isUp = s.chg >= 0;
     const lo = Math.min(...s.hist).toFixed(1);
     const hi = Math.max(...s.hist).toFixed(1);
     const vol = volatility(s.hist).toFixed(1);
+    const currencySuffix = currentMarket === "is" ? " kr." : "";
+    const currencyPrefix = currentMarket === "is" ? "" : "$";
+
     document.getElementById("detail").innerHTML = `
       <div class="dhead">
         <div>
@@ -591,6 +620,25 @@
         </div>
       </div>
       ${sparkline(s.hist, 400, 90)}
+      <div class="detail-stats">
+        <div class="stat">
+          <div class="slabel">Markaðsvirði</div>
+          <div class="sval">${s.marketCap ? currencyPrefix + fmtCap(s.marketCap) + currencySuffix : "—"}</div>
+        </div>
+        <div class="stat">
+          <div class="slabel">52 vikna bil</div>
+          <div class="sval">${s.weekLow52 && s.weekHigh52 ? `${s.weekLow52} – ${s.weekHigh52}` : "—"}</div>
+        </div>
+        <div class="stat">
+          <div class="slabel">Arðgreiðsluávöxtun</div>
+          <div class="sval">${s.dividendYield != null ? s.dividendYield.toFixed(1) + "%" : "—"}</div>
+        </div>
+        <div class="stat">
+          <div class="slabel">Atvinnugrein</div>
+          <div class="sval" style="font-size:13px;">${s.industry || s.sector || "—"}</div>
+        </div>
+      </div>
+      ${s.url ? `<a class="external-link" href="${s.url}" target="_blank" rel="noopener">Skoða nánar á ytri síðu →</a>` : ``}
     `;
   }
 
