@@ -273,7 +273,24 @@
   .scan-tag.t-move{background:#EFE6D8; color:#8A5A20;}
   .scan-tag.t-value{background:var(--accent-soft); color:var(--accent);}
   .scan-tag.t-hype{background:var(--negative-soft); color:var(--negative);}
+  .scan-tag.t-rel{background:var(--accent-soft); color:var(--accent);}
+  .scan-tag.t-vol{background:#EFE6D8; color:#8A5A20;}
   .scan-empty{color:var(--muted); font-size:13px; padding:6px 20px 20px;}
+
+  /* Stillanleg skönnunarskilyrði */
+  .scan-controls{
+    display:flex;
+    flex-wrap:wrap;
+    gap:20px;
+    padding:14px 20px;
+    background:var(--bg);
+    border-bottom:1px solid var(--line);
+    font-size:12px;
+  }
+  .scan-control{display:flex; align-items:center; gap:8px;}
+  .scan-control label{color:var(--muted); white-space:nowrap;}
+  .scan-control input[type="range"]{width:90px;}
+  .scan-control .cval{font-weight:600; min-width:34px; display:inline-block; text-align:right;}
 
   /* Skýringalykill */
   .scan-legend{
@@ -406,13 +423,37 @@
   <!-- Markaðsskanni -->
   <div class="panel" style="margin-bottom:20px;">
     <div class="panel-head"><h2>Markaðsskanni</h2></div>
+    <div class="scan-controls">
+      <div class="scan-control">
+        <label for="ctrl-move">Stór hreyfing ≥</label>
+        <input type="range" id="ctrl-move" min="1" max="8" step="0.5" value="2.5">
+        <span class="cval" id="ctrl-move-val">2,5%</span>
+      </div>
+      <div class="scan-control">
+        <label for="ctrl-value">Verðmatsfrávik ≥</label>
+        <input type="range" id="ctrl-value" min="10" max="50" step="5" value="20">
+        <span class="cval" id="ctrl-value-val">20%</span>
+      </div>
+      <div class="scan-control">
+        <label for="ctrl-rel">Afstæður styrkur ≥</label>
+        <input type="range" id="ctrl-rel" min="2" max="20" step="1" value="6">
+        <span class="cval" id="ctrl-rel-val">6 stig</span>
+      </div>
+      <div class="scan-control">
+        <label for="ctrl-vol">Viðskiptamagn ≥</label>
+        <input type="range" id="ctrl-vol" min="1.2" max="4" step="0.1" value="1.7">
+        <span class="cval" id="ctrl-vol-val">1,7x</span>
+      </div>
+    </div>
     <div class="scan-list" id="scan-list"></div>
     <div class="scan-legend">
       <div class="legend-item"><span class="legend-dot" style="background:var(--negative);"></span><span><b>Nálægt 52v lágmarki</b> — verðið er núna innan 5% af lægsta verði síðustu 52 vikna. Getur þýtt að hlutabréfið sé "ódýrt" núna — eða að eitthvað varanlegt hafi breyst til hins verra. Vert að skoða af hverju.</span></div>
       <div class="legend-item"><span class="legend-dot" style="background:var(--accent);"></span><span><b>Nálægt 52v hámarki</b> — verðið er innan 5% af hæsta verði ársins. Getur þýtt sterkan meðbyr — eða að væntingar séu orðnar mjög háar.</span></div>
-      <div class="legend-item"><span class="legend-dot" style="background:#8A5A20;"></span><span><b>Stór hreyfing í dag</b> — verðið breyttist 2,5% eða meira í dag, sem er óvenju mikið fyrir einn dag. Oft fylgir frétt eða uppgjör.</span></div>
-      <div class="legend-item"><span class="legend-dot" style="background:var(--accent);"></span><span><b>V/H undir/yfir hópi</b> — verðmatið (verð/hagnaður) er 20%+ frá meðaltali sambærilegra félaga. Lægra en hópurinn = mögulega ódýrt; hærra = mögulega dýrt.</span></div>
+      <div class="legend-item"><span class="legend-dot" style="background:#8A5A20;"></span><span><b>Stór hreyfing í dag</b> — verðið breyttist meira en valda mörkin í dag, sem er óvenju mikið fyrir einn dag. Oft fylgir frétt eða uppgjör.</span></div>
+      <div class="legend-item"><span class="legend-dot" style="background:var(--accent);"></span><span><b>V/H undir/yfir hópi</b> — verðmatið er langt frá meðaltali sambærilegra félaga. Lægra en hópurinn = mögulega ódýrt; hærra = mögulega dýrt.</span></div>
       <div class="legend-item"><span class="legend-dot" style="background:var(--negative);"></span><span><b>Skriðþungi og verðmat togast á</b> — verðið hefur hækkað mikið nýlega á sama tíma og verðmatið er orðið strekkt. Klassíska "allir eru að tala um þetta" mynstrið.</span></div>
+      <div class="legend-item"><span class="legend-dot" style="background:var(--accent);"></span><span><b>Afstæður styrkur</b> — hversu miklu betur (eða verr) félagið hefur staðið sig en viðmiðunarvísitalan (S&amp;P 500 / FTSE 100) síðustu 30 daga, í prósentustigum. Þetta er nær því sem alvöru fjárfestar kalla "relative strength".</span></div>
+      <div class="legend-item"><span class="legend-dot" style="background:#8A5A20;"></span><span><b>Óvenjulegt viðskiptamagn</b> — dagurinn í dag er með margfalt meira viðskiptamagn en venjulega. Oft merki um að eitthvað mikilvægt sé að gerast — frétt, stofnanakaup, eða skyndileg breyting í væntingum.</span></div>
     </div>
   </div>
 
@@ -593,7 +634,7 @@
   }
 
   function renderScores(){
-    const all = [...stocks.is, ...stocks.us];
+    const all = [...stocks.is, ...stocks.us, ...(stocks.uk || [])];
     document.getElementById("score-grid").innerHTML = all.map(s => {
       const avg = average(s.hist);
       const momentum = clamp(((s.price - avg) / avg) * 100 / 3, -2, 2); // skriðþungi
@@ -622,13 +663,17 @@
   const TAG_EXPLAIN = {
     "t-low": "Verðið er innan 5% af lægsta verði síðustu 52 vikna.",
     "t-high": "Verðið er innan 5% af hæsta verði síðustu 52 vikna.",
-    "t-move": "Verðið breyttist 2,5% eða meira í dag.",
-    "t-value": "V/H hlutfallið er 20%+ frá meðaltali samanburðarhóps.",
+    "t-move": "Verðið breyttist meira en valda markið í dag.",
+    "t-value": "V/H hlutfallið er langt frá meðaltali samanburðarhóps.",
     "t-hype": "Sterkur skriðþungi á sama tíma og strekkt verðmat.",
+    "t-rel": "Stendur sig mun betur/verr en viðmiðunarvísitalan síðustu 30 daga.",
+    "t-vol": "Óvenju mikið viðskiptamagn í dag miðað við síðustu 30 daga.",
   };
 
+  let scanThresholds = { move: 2.5, value: 20, rel: 6, vol: 1.7 };
+
   function renderScan(){
-    const all = [...stocks.is, ...stocks.us];
+    const all = [...stocks.is, ...stocks.us, ...(stocks.uk || [])];
     const rows = [];
 
     all.forEach(s => {
@@ -646,15 +691,15 @@
       }
 
       // Stór hreyfing í dag
-      if (Math.abs(s.chg) >= 2.5){
+      if (Math.abs(s.chg) >= scanThresholds.move){
         tags.push({cls:"t-move", text:`${s.chg > 0 ? "+":""}${s.chg.toFixed(1)}% í dag`});
       }
 
       // Verðmat langt frá samanburðarhópi
       if (s.pe && s.sectorPe){
         const peDiffPct = ((s.pe - s.sectorPe) / s.sectorPe) * 100;
-        if (peDiffPct <= -20) tags.push({cls:"t-value", text:`V/H ${Math.abs(peDiffPct).toFixed(0)}% undir hópi`});
-        if (peDiffPct >= 30) tags.push({cls:"t-value", text:`V/H ${peDiffPct.toFixed(0)}% yfir hópi`});
+        if (peDiffPct <= -scanThresholds.value) tags.push({cls:"t-value", text:`V/H ${Math.abs(peDiffPct).toFixed(0)}% undir hópi`});
+        if (peDiffPct >= scanThresholds.value * 1.5) tags.push({cls:"t-value", text:`V/H ${peDiffPct.toFixed(0)}% yfir hópi`});
       }
 
       // Skriðþungi og verðmat togast á (hype-merki)
@@ -663,6 +708,17 @@
       if (s.pe && s.sectorPe){
         const peDiffPct = ((s.pe - s.sectorPe) / s.sectorPe) * 100;
         if (momentum > 2 && peDiffPct > 15) tags.push({cls:"t-hype", text:"Skriðþungi og verðmat togast á"});
+      }
+
+      // Afstæður styrkur á móti vísitölu
+      if (s.relStrength != null && Math.abs(s.relStrength) >= scanThresholds.rel){
+        const sign = s.relStrength > 0 ? "+" : "";
+        tags.push({cls:"t-rel", text:`${sign}${s.relStrength.toFixed(1)} stig v. vísitölu`});
+      }
+
+      // Óvenjulegt viðskiptamagn
+      if (s.volumeRatio != null && s.volumeRatio >= scanThresholds.vol){
+        tags.push({cls:"t-vol", text:`${s.volumeRatio.toFixed(1)}x venjulegt magn`});
       }
 
       if (tags.length > 0) rows.push({ s, tags });
@@ -821,7 +877,7 @@
   }
 
   function renderFund(){
-    const all = [...stocks.is, ...stocks.us];
+    const all = [...stocks.is, ...stocks.us, ...(stocks.uk || [])];
     document.getElementById("fund-grid").innerHTML = all.map(s => {
       const hasPe = s.pe != null && s.sectorPe != null;
       const peCls = hasPe ? (s.pe < s.sectorPe ? "above" : "below") : "neutral"; // "above" litur = grænn = undir greinameðaltali (jákvætt merki fyrir verð)
@@ -837,6 +893,27 @@
       </div>`;
     }).join("");
   }
+
+  document.getElementById("ctrl-move").addEventListener("input", e => {
+    scanThresholds.move = parseFloat(e.target.value);
+    document.getElementById("ctrl-move-val").textContent = scanThresholds.move.toFixed(1).replace(".", ",") + "%";
+    renderScan();
+  });
+  document.getElementById("ctrl-value").addEventListener("input", e => {
+    scanThresholds.value = parseFloat(e.target.value);
+    document.getElementById("ctrl-value-val").textContent = scanThresholds.value.toFixed(0) + "%";
+    renderScan();
+  });
+  document.getElementById("ctrl-rel").addEventListener("input", e => {
+    scanThresholds.rel = parseFloat(e.target.value);
+    document.getElementById("ctrl-rel-val").textContent = scanThresholds.rel.toFixed(0) + " stig";
+    renderScan();
+  });
+  document.getElementById("ctrl-vol").addEventListener("input", e => {
+    scanThresholds.vol = parseFloat(e.target.value);
+    document.getElementById("ctrl-vol-val").textContent = scanThresholds.vol.toFixed(1).replace(".", ",") + "x";
+    renderScan();
+  });
 
   document.getElementById("sort-chg").addEventListener("click", () => {
     sortDir = sortDir === "desc" ? "asc" : sortDir === "asc" ? null : "desc";
