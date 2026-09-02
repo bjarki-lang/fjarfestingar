@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-01T23:51:08.650593+00:00",
+  "updated": "2026-09-02T00:03:53.104202+00:00",
   "us": [
     {
       "ticker": "AAPL",
@@ -128,7 +128,7 @@
       "dividendYield": 0.45,
       "relStrength": 4.82,
       "volumeRatio": 0.84,
-      "newsScore": 0.6,
+      "newsScore": 0.4,
       "newsHeadline": "Two deals, one Nvidia strategy: What's behind the chip giant's recent partnerships",
       "url": "https://finance.yahoo.com/quote/NVDA",
       "sectorPe": 30.9
@@ -175,7 +175,7 @@
       "newsScore": 0.6,
       "newsHeadline": "Best student credit cards (2026): Start building credit with rewards on spending",
       "url": "https://finance.yahoo.com/quote/AMZN",
-      "sectorPe": 175.1
+      "sectorPe": 176.7
     },
     {
       "ticker": "TSLA",
@@ -206,7 +206,7 @@
         367.95,
         356.09
       ],
-      "pe": 329.7,
+      "pe": 332.8,
       "debtEq": 0.18,
       "sector": "Consumer Cyclical",
       "industry": "Auto Manufacturers",
@@ -219,7 +219,7 @@
       "newsScore": 0.2,
       "newsHeadline": "Zuckerberg, Musk Press G20 Ministers on AI Data Center Power, Labor Needs",
       "url": "https://finance.yahoo.com/quote/TSLA",
-      "sectorPe": 175.1
+      "sectorPe": 176.7
     },
     {
       "ticker": "JPM",
@@ -418,6 +418,7 @@
         91.64,
         90.08,
         89.06,
+        89.66,
         88.67,
         88.0
       ],
@@ -430,7 +431,7 @@
       "weekLow52": 65.35,
       "dividendYield": 2.39,
       "relStrength": 0.9,
-      "volumeRatio": 0.94,
+      "volumeRatio": 0.96,
       "newsScore": 0.2,
       "newsHeadline": "Three Dividend Kings That Pay a 75-Year-Old $3,900 a Month: KO, JNJ, and PEP",
       "url": "https://finance.yahoo.com/quote/KO",
@@ -461,6 +462,7 @@
         145.4,
         145.0,
         143.14,
+        143.78,
         145.12,
         146.21
       ],
@@ -473,7 +475,7 @@
       "weekLow52": 137.62,
       "dividendYield": 3.0,
       "relStrength": 0.45,
-      "volumeRatio": 0.91,
+      "volumeRatio": 0.92,
       "newsScore": 0.4,
       "newsHeadline": "Dow Falls 419 Points as Bond Yields Rise: Stock Market Today",
       "url": "https://finance.yahoo.com/quote/PG",
@@ -591,7 +593,6 @@
         811.29,
         821.93,
         817.0,
-        800.25,
         797.47,
         779.16
       ],
@@ -604,7 +605,7 @@
       "weekLow52": 410.52,
       "dividendYield": 0.82,
       "relStrength": -6.54,
-      "volumeRatio": 1.08,
+      "volumeRatio": 1.07,
       "newsScore": -0.3,
       "newsHeadline": "Elon Musk Sees a Power Crisis Coming and Other Takeaways From His G-20 Speech",
       "url": "https://finance.yahoo.com/quote/CAT",
@@ -635,7 +636,6 @@
         211.08,
         212.09,
         209.89,
-        209.82,
         207.78,
         205.66
       ],
@@ -692,7 +692,7 @@
       "weekHigh52": 1610.0,
       "weekLow52": null,
       "dividendYield": 3.64,
-      "relStrength": -3.4,
+      "relStrength": -3.69,
       "volumeRatio": 0.0,
       "newsScore": 0.3,
       "newsHeadline": "HSBC Holdings (LSE:HSBA), What Is Behind The Fresh Attention?",
@@ -735,7 +735,7 @@
       "weekHigh52": 15732.0,
       "weekLow52": null,
       "dividendYield": 2.0,
-      "relStrength": 4.62,
+      "relStrength": 4.33,
       "volumeRatio": 0.0,
       "newsScore": 0.3,
       "newsHeadline": "AstraZeneca's $80 Billion Plan Gets Another Tagrisso Win",
@@ -778,7 +778,7 @@
       "weekHigh52": 3758.5,
       "weekLow52": null,
       "dividendYield": 3.46,
-      "relStrength": 1.4,
+      "relStrength": 1.11,
       "volumeRatio": 0.0,
       "newsScore": 0.3,
       "newsHeadline": "Stock Market Today: Nasdaq Ends Lower As Oil Prices Top $90; Micron, Nvidia Shares Wrapped in Red",
@@ -821,7 +821,7 @@
       "weekHigh52": 5542.11,
       "weekLow52": null,
       "dividendYield": 3.45,
-      "relStrength": 1.47,
+      "relStrength": 1.18,
       "volumeRatio": 0.0,
       "newsScore": 0.5,
       "newsHeadline": "Pepsi and Coca-Cola Products Found in Alleged India Relabeling Scheme",
@@ -864,8 +864,8 @@
       "weekHigh52": 538.3,
       "weekLow52": null,
       "dividendYield": 2.32,
-      "relStrength": -5.0,
-      "volumeRatio": 0.0,
+      "relStrength": -5.29,
+      "volumeRatio": 0.13,
       "newsScore": 0.2,
       "newsHeadline": "Update: Market Chatter: Barclays, HSBC, Starling Bank Pursue Covid-Era Loan Defaulters",
       "url": "https://finance.yahoo.com/quote/BARC.L",
@@ -874,6 +874,6 @@
   ],
   "benchmarks": {
     "us": 0.41,
-    "uk": -0.6
+    "uk": -0.31
   }
 }
