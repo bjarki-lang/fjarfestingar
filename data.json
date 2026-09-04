@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-04T06:03:05.790722+00:00",
+  "updated": "2026-09-04T12:03:19.545611+00:00",
   "us": [
     {
       "ticker": "AAPL",
@@ -31,7 +31,7 @@
         324.96,
         328.21
       ],
-      "pe": 37.7,
+      "pe": 37.6,
       "debtEq": 0.78,
       "sector": "Technology",
       "industry": "Consumer Electronics",
@@ -41,10 +41,10 @@
       "dividendYield": 0.33,
       "relStrength": 6.04,
       "volumeRatio": 0.9,
-      "newsScore": 0.2,
-      "newsHeadline": "How Apple's John Ternus inherited a 'reckoning' with China",
+      "newsScore": 0.1,
+      "newsHeadline": "Apple's first foldable iPhone may cost $2,000",
       "url": "https://finance.yahoo.com/quote/AAPL",
-      "sectorPe": 31.7
+      "sectorPe": 31.6
     },
     {
       "ticker": "MSFT",
@@ -83,13 +83,13 @@
       "marketCap": 3787919458304,
       "weekHigh52": 553.72,
       "weekLow52": 349.2,
-      "dividendYield": 0.73,
+      "dividendYield": 0.71,
       "relStrength": 3.57,
       "volumeRatio": 0.94,
-      "newsScore": 0.3,
-      "newsHeadline": "Mark Zuckerberg Opposes Federal AI Watchdog in Call With Trump: Report",
+      "newsScore": 0.2,
+      "newsHeadline": "Dow Jones Futures Fall, Techs Rise After Market Rally; Tesla Cybercab, Jobs Report In Focus",
       "url": "https://finance.yahoo.com/quote/MSFT",
-      "sectorPe": 31.7
+      "sectorPe": 31.6
     },
     {
       "ticker": "NVDA",
@@ -128,13 +128,13 @@
       "marketCap": 5516382175232,
       "weekHigh52": 236.54,
       "weekLow52": 164.07,
-      "dividendYield": 0.45,
+      "dividendYield": 0.44,
       "relStrength": 7.65,
       "volumeRatio": 1.04,
-      "newsScore": 0.1,
-      "newsHeadline": "Tech stocks today: Tesla stock pops ahead of Cybercab event, Nvidia acquires Hugging Face",
+      "newsScore": 0.8,
+      "newsHeadline": "Are Meta and Nvidia redefining value vs. growth stocks in the era of AI?",
       "url": "https://finance.yahoo.com/quote/NVDA",
-      "sectorPe": 31.7
+      "sectorPe": 31.6
     },
     {
       "ticker": "AMZN",
@@ -221,8 +221,8 @@
       "dividendYield": null,
       "relStrength": 14.83,
       "volumeRatio": 1.84,
-      "newsScore": 0.3,
-      "newsHeadline": "Tech stocks today: Tesla stock pops ahead of Cybercab event, Nvidia acquires Hugging Face",
+      "newsScore": 0.7,
+      "newsHeadline": "Are Meta and Nvidia redefining value vs. growth stocks in the era of AI?",
       "url": "https://finance.yahoo.com/quote/TSLA",
       "sectorPe": 176.8
     },
@@ -256,20 +256,20 @@
         356.22,
         362.06
       ],
-      "pe": 15.3,
+      "pe": 15.5,
       "debtEq": null,
       "sector": "Financial Services",
       "industry": "Banks - Diversified",
       "marketCap": 962422898688,
       "weekHigh52": 366.5,
       "weekLow52": 279.1,
-      "dividendYield": 1.68,
+      "dividendYield": 1.66,
       "relStrength": 1.13,
       "volumeRatio": 0.97,
-      "newsScore": 0.2,
-      "newsHeadline": "Why Copart Stock Ticked 4% Higher on Thursday",
+      "newsScore": 0.3,
+      "newsHeadline": "PG&E (PCG) Stock Sees Fair Value Cut As Analysts Split Over California Risks",
       "url": "https://finance.yahoo.com/quote/JPM",
-      "sectorPe": 23.8
+      "sectorPe": 23.9
     },
     {
       "ticker": "V",
@@ -301,7 +301,7 @@
         378.4,
         378.75
       ],
-      "pe": 32.2,
+      "pe": 32.3,
       "debtEq": 0.68,
       "sector": "Financial Services",
       "industry": "Credit Services",
@@ -314,7 +314,7 @@
       "newsScore": -0.1,
       "newsHeadline": "What Are You Actually Buying In PayPal Stock?",
       "url": "https://finance.yahoo.com/quote/V",
-      "sectorPe": 23.8
+      "sectorPe": 23.9
     },
     {
       "ticker": "JNJ",
@@ -346,20 +346,20 @@
         275.21,
         278.43
       ],
-      "pe": 32.0,
+      "pe": 32.3,
       "debtEq": 0.58,
       "sector": "Healthcare",
       "industry": "Drug Manufacturers - General",
       "marketCap": 670988042240,
       "weekHigh52": 281.07,
       "weekLow52": 173.33,
-      "dividendYield": 1.95,
+      "dividendYield": 1.93,
       "relStrength": 9.62,
       "volumeRatio": 0.92,
       "newsScore": 0.4,
       "newsHeadline": "Protolabs CEO sees big impact from US reshoring despite potential tariffs",
       "url": "https://finance.yahoo.com/quote/JNJ",
-      "sectorPe": 28.9
+      "sectorPe": 29.0
     },
     {
       "ticker": "UNH",
@@ -398,13 +398,13 @@
       "marketCap": 359881670656,
       "weekHigh52": 461.62,
       "weekLow52": 255.97,
-      "dividendYield": 2.32,
+      "dividendYield": 2.31,
       "relStrength": -1.76,
       "volumeRatio": 1.34,
       "newsScore": 0.2,
-      "newsHeadline": "3 Sector Stocks to Gain From as Oil, Rates and Jobs Shape September",
+      "newsHeadline": "UnitedHealth Is Trouncing the Market in 2026. Is the Stock Still a Buy?",
       "url": "https://finance.yahoo.com/quote/UNH",
-      "sectorPe": 28.9
+      "sectorPe": 29.0
     },
     {
       "ticker": "KO",
@@ -443,7 +443,7 @@
       "marketCap": 382109351936,
       "weekHigh52": 92.49,
       "weekLow52": 65.35,
-      "dividendYield": null,
+      "dividendYield": 2.39,
       "relStrength": 2.46,
       "volumeRatio": 0.96,
       "newsScore": -0.2,
@@ -485,10 +485,10 @@
       "debtEq": 0.64,
       "sector": "Consumer Defensive",
       "industry": "Household & Personal Products",
-      "marketCap": 341505703936,
+      "marketCap": 341247033344,
       "weekHigh52": 167.25,
       "weekLow52": 137.62,
-      "dividendYield": 2.95,
+      "dividendYield": 2.96,
       "relStrength": -0.88,
       "volumeRatio": 0.68,
       "newsScore": -0.1,
@@ -533,13 +533,13 @@
       "marketCap": 666993295360,
       "weekHigh52": 176.41,
       "weekLow52": 108.35,
-      "dividendYield": null,
+      "dividendYield": 2.54,
       "relStrength": 5.9,
       "volumeRatio": 0.98,
       "newsScore": 0.2,
       "newsHeadline": "Chevron CEO Says Patience Paid Off in Venezuela",
       "url": "https://finance.yahoo.com/quote/XOM",
-      "sectorPe": 20.8
+      "sectorPe": 20.7
     },
     {
       "ticker": "CVX",
@@ -571,20 +571,20 @@
         211.78,
         211.32
       ],
-      "pe": 20.4,
+      "pe": 20.3,
       "debtEq": 0.19,
       "sector": "Energy",
       "industry": "Oil & Gas Integrated",
       "marketCap": 414526013440,
       "weekHigh52": 214.71,
       "weekLow52": 146.49,
-      "dividendYield": 3.36,
+      "dividendYield": 3.37,
       "relStrength": 11.82,
       "volumeRatio": 0.83,
       "newsScore": 0.1,
       "newsHeadline": "Chevron (CVX) Has Fresh Attention, But What Is The Market Weighing?",
       "url": "https://finance.yahoo.com/quote/CVX",
-      "sectorPe": 20.8
+      "sectorPe": 20.7
     },
     {
       "ticker": "CAT",
@@ -616,18 +616,18 @@
         792.28,
         800.14
       ],
-      "pe": 34.5,
+      "pe": 34.1,
       "debtEq": 2.33,
       "sector": "Industrials",
       "industry": "Farm & Heavy Construction Machinery",
       "marketCap": 367804252160,
       "weekHigh52": 1073.46,
-      "weekLow52": 414.29,
-      "dividendYield": 0.82,
+      "weekLow52": 416.44,
+      "dividendYield": 0.81,
       "relStrength": -8.86,
       "volumeRatio": 0.87,
-      "newsScore": 0.4,
-      "newsHeadline": "Heavy Machinery Q2 Earnings: Caterpillar (NYSE:CAT) is the Best in the Biz",
+      "newsScore": 0.6,
+      "newsHeadline": "3 Market-Beating Stocks with Exciting Potential",
       "url": "https://finance.yahoo.com/quote/CAT",
       "sectorPe": 54.9
     },
@@ -661,18 +661,18 @@
         208.87,
         210.51
       ],
-      "pe": 75.2,
+      "pe": 75.7,
       "debtEq": 7.91,
       "sector": "Industrials",
       "industry": "Aerospace & Defense",
-      "marketCap": 166259212288,
+      "marketCap": 166380797952,
       "weekHigh52": 254.35,
       "weekLow52": 176.77,
       "dividendYield": null,
       "relStrength": -11.38,
       "volumeRatio": 1.22,
-      "newsScore": 0.5,
-      "newsHeadline": "How Analyst Upgrades and Backlog Strength Versus FAA Penalties At Boeing (BA) Has Changed Its Investment Story",
+      "newsScore": 0.4,
+      "newsHeadline": "‘Some of These Lasers Were the Size of Buildings’: Now They Need 12 Minerals China Cut Off",
       "url": "https://finance.yahoo.com/quote/BA",
       "sectorPe": 54.9
     }
@@ -681,10 +681,9 @@
     {
       "ticker": "HSBA.L",
       "name": "HSBC HOLDINGS PLC ORD $0.50 (UK",
-      "price": NaN,
-      "chg": NaN,
+      "price": 1571.8,
+      "chg": 0.52,
       "hist": [
-        1597.3,
         1584.5,
         1510.5,
         1521.1,
@@ -706,18 +705,18 @@
         1528.4,
         1533.4,
         1545.2,
-        NaN
+        1571.8
       ],
-      "pe": 15.0,
+      "pe": 15.1,
       "debtEq": null,
       "sector": "Financial Services",
       "industry": "Banks - Diversified",
-      "marketCap": 267845206016,
+      "marketCap": 269249888256,
       "weekHigh52": 1610.0,
-      "weekLow52": null,
-      "dividendYield": 3.6,
-      "relStrength": NaN,
-      "volumeRatio": 0.0,
+      "weekLow52": 959.29,
+      "dividendYield": 3.56,
+      "relStrength": -0.38,
+      "volumeRatio": 0.25,
       "newsScore": 0.1,
       "newsHeadline": "Will Barclays' Expansion Initiatives Accelerate Top-Line Growth?",
       "url": "https://finance.yahoo.com/quote/HSBA.L",
@@ -726,10 +725,9 @@
     {
       "ticker": "AZN.L",
       "name": "ASTRAZENECA PLC ORD SHS $0.25",
-      "price": NaN,
-      "chg": NaN,
+      "price": 12150.32,
+      "chg": 0.04,
       "hist": [
-        11499.24,
         11739.22,
         12035.21,
         11850.0,
@@ -751,18 +749,18 @@
         11970.0,
         11962.0,
         11976.0,
-        NaN
+        12150.32
       ],
       "pe": 24.5,
       "debtEq": 0.64,
       "sector": "Healthcare",
       "industry": "Drug Manufacturers - General",
-      "marketCap": 188370599936,
+      "marketCap": 188438773760,
       "weekHigh52": 15732.0,
-      "weekLow52": null,
-      "dividendYield": 2.0,
-      "relStrength": NaN,
-      "volumeRatio": 0.0,
+      "weekLow52": 9892.0,
+      "dividendYield": 1.97,
+      "relStrength": 3.92,
+      "volumeRatio": 0.16,
       "newsScore": 0.3,
       "newsHeadline": "Pacira (PCRX) Up 6.9% Since Last Earnings Report: Can It Continue?",
       "url": "https://finance.yahoo.com/quote/AZN.L",
@@ -771,10 +769,9 @@
     {
       "ticker": "SHEL.L",
       "name": "SHELL PLC ORD EUR0.07",
-      "price": NaN,
-      "chg": NaN,
+      "price": 3427.5,
+      "chg": -0.12,
       "hist": [
-        3405.1,
         3321.11,
         3280.11,
         3314.61,
@@ -796,30 +793,29 @@
         3344.5,
         3432.5,
         3443.0,
-        NaN
+        3427.5
       ],
-      "pe": 10.3,
+      "pe": 10.2,
       "debtEq": 0.4,
       "sector": "Energy",
       "industry": "Oil & Gas Integrated",
-      "marketCap": 188734930944,
+      "marketCap": 188514926592,
       "weekHigh52": 3758.5,
-      "weekLow52": null,
-      "dividendYield": 3.36,
-      "relStrength": NaN,
-      "volumeRatio": 0.0,
+      "weekLow52": 2553.77,
+      "dividendYield": 3.38,
+      "relStrength": 3.62,
+      "volumeRatio": 0.09,
       "newsScore": 0.4,
       "newsHeadline": "Does Shell (LSE:SHEL) Have More Value After Its ARC Deal?",
       "url": "https://finance.yahoo.com/quote/SHEL.L",
-      "sectorPe": 10.3
+      "sectorPe": 10.2
     },
     {
       "ticker": "ULVR.L",
       "name": "UNILEVER PLC ORD 3.5P",
-      "price": NaN,
-      "chg": NaN,
+      "price": 4742.5,
+      "chg": 0.2,
       "hist": [
-        4769.6,
         4748.1,
         4773.6,
         4709.0,
@@ -841,30 +837,29 @@
         4776.0,
         4811.0,
         4782.5,
-        NaN
+        4742.5
       ],
-      "pe": 21.6,
+      "pe": 21.7,
       "debtEq": 1.75,
       "sector": "Consumer Defensive",
       "industry": "Household & Personal Products",
-      "marketCap": 101914009600,
+      "marketCap": 102118572032,
       "weekHigh52": 5542.11,
-      "weekLow52": null,
-      "dividendYield": 3.45,
-      "relStrength": NaN,
-      "volumeRatio": 0.0,
+      "weekLow52": 3644.0,
+      "dividendYield": 3.49,
+      "relStrength": 0.3,
+      "volumeRatio": 0.08,
       "newsScore": 0.4,
       "newsHeadline": "European Equities Traded in the US as American Depositary Receipts Edge Higher in Thursday Trading",
       "url": "https://finance.yahoo.com/quote/ULVR.L",
-      "sectorPe": 21.6
+      "sectorPe": 21.7
     },
     {
       "ticker": "BARC.L",
       "name": "BARCLAYS PLC ORD 25P",
-      "price": NaN,
-      "chg": NaN,
+      "price": 496.6,
+      "chg": 0.65,
       "hist": [
-        514.94,
         522.24,
         527.44,
         520.0,
@@ -886,26 +881,26 @@
         496.65,
         486.1,
         483.45,
-        NaN
+        496.6
       ],
       "pe": 10.3,
       "debtEq": null,
       "sector": "Financial Services",
       "industry": "Banks - Diversified",
-      "marketCap": 66292523008,
+      "marketCap": 66649051136,
       "weekHigh52": 538.3,
-      "weekLow52": null,
-      "dividendYield": 2.38,
-      "relStrength": NaN,
-      "volumeRatio": 0.0,
+      "weekLow52": 353.55,
+      "dividendYield": 2.33,
+      "relStrength": -4.49,
+      "volumeRatio": 0.16,
       "newsScore": 0.2,
-      "newsHeadline": "Will Barclays' Expansion Initiatives Accelerate Top-Line Growth?",
+      "newsHeadline": "Barclays opens Singapore hub for private banking bookings",
       "url": "https://finance.yahoo.com/quote/BARC.L",
       "sectorPe": 12.7
     }
   ],
   "benchmarks": {
     "us": 0.14,
-    "uk": -0.24
+    "uk": -0.42
   }
 }
