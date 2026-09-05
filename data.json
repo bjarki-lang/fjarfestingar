@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-05T06:03:18.649741+00:00",
+  "updated": "2026-09-05T12:02:49.510376+00:00",
   "us": [
     {
       "ticker": "AAPL",
@@ -44,7 +44,7 @@
       "newsScore": 0.3,
       "newsHeadline": "Apple's John Ternus needs to be his own type of CEO and 'not Tim Cook 2'",
       "url": "https://finance.yahoo.com/quote/AAPL",
-      "sectorPe": 31.4
+      "sectorPe": 31.3
     },
     {
       "ticker": "MSFT",
@@ -76,7 +76,7 @@
         510.12,
         499.7
       ],
-      "pe": 28.4,
+      "pe": 27.9,
       "debtEq": 0.29,
       "sector": "Technology",
       "industry": "Software - Infrastructure",
@@ -87,9 +87,9 @@
       "relStrength": 2.76,
       "volumeRatio": 0.74,
       "newsScore": 0.2,
-      "newsHeadline": "Satya Nadella Sold $43 Million of Microsoft Under a Trading Plan. Is the Insider Signal Really Bearish?",
+      "newsHeadline": "Amazon, Alphabet, and Microsoft: Two I'm Buying and One I'm Selling",
       "url": "https://finance.yahoo.com/quote/MSFT",
-      "sectorPe": 31.4
+      "sectorPe": 31.3
     },
     {
       "ticker": "NVDA",
@@ -128,13 +128,13 @@
       "marketCap": 5562502742016,
       "weekHigh52": 236.54,
       "weekLow52": 164.27,
-      "dividendYield": 0.44,
+      "dividendYield": 0.43,
       "relStrength": 5.14,
       "volumeRatio": 1.05,
-      "newsScore": 0.2,
+      "newsScore": 0.4,
       "newsHeadline": "Apple's John Ternus needs to be his own type of CEO and 'not Tim Cook 2'",
       "url": "https://finance.yahoo.com/quote/NVDA",
-      "sectorPe": 31.4
+      "sectorPe": 31.3
     },
     {
       "ticker": "AMZN",
@@ -179,7 +179,7 @@
       "newsScore": 0.6,
       "newsHeadline": "US diesel prices hit an all-time high — and it impacts you more than you might think",
       "url": "https://finance.yahoo.com/quote/AMZN",
-      "sectorPe": 172.8
+      "sectorPe": 171.3
     },
     {
       "ticker": "TSLA",
@@ -211,7 +211,7 @@
         376.37,
         354.08
       ],
-      "pe": 324.8,
+      "pe": 321.9,
       "debtEq": 0.18,
       "sector": "Consumer Cyclical",
       "industry": "Auto Manufacturers",
@@ -224,7 +224,7 @@
       "newsScore": 0.1,
       "newsHeadline": "No steering wheel, no problem: Can Tesla speed by Cybercab probe?",
       "url": "https://finance.yahoo.com/quote/TSLA",
-      "sectorPe": 172.8
+      "sectorPe": 171.3
     },
     {
       "ticker": "JPM",
@@ -256,20 +256,20 @@
         362.06,
         358.64
       ],
-      "pe": 15.5,
+      "pe": 15.4,
       "debtEq": null,
       "sector": "Financial Services",
       "industry": "Banks - Diversified",
       "marketCap": 953331941376,
       "weekHigh52": 366.5,
       "weekLow52": 279.1,
-      "dividendYield": 1.66,
+      "dividendYield": 1.67,
       "relStrength": -0.11,
       "volumeRatio": 0.89,
       "newsScore": 1.0,
       "newsHeadline": "WEG (BOVESPA:WEGE3) Stock Sees Modest Fair Value Lift As Analysts Split On Growth",
       "url": "https://finance.yahoo.com/quote/JPM",
-      "sectorPe": 23.7
+      "sectorPe": 23.6
     },
     {
       "ticker": "V",
@@ -311,10 +311,10 @@
       "dividendYield": 0.71,
       "relStrength": 2.02,
       "volumeRatio": 0.71,
-      "newsScore": 0.3,
-      "newsHeadline": "CRCL's Arc Mainnet Launch Could Expand Its Institutional Revenue Mix",
+      "newsScore": 0.2,
+      "newsHeadline": "American Express’ Q2 Revenue Miss Versus Peers Might Change The Case For Investing In AXP",
       "url": "https://finance.yahoo.com/quote/V",
-      "sectorPe": 23.7
+      "sectorPe": 23.6
     },
     {
       "ticker": "JNJ",
@@ -346,20 +346,20 @@
         278.43,
         275.23
       ],
-      "pe": 32.3,
+      "pe": 32.0,
       "debtEq": 0.58,
       "sector": "Healthcare",
       "industry": "Drug Manufacturers - General",
       "marketCap": 663276421120,
       "weekHigh52": 281.07,
       "weekLow52": 173.33,
-      "dividendYield": 1.93,
+      "dividendYield": 1.95,
       "relStrength": 7.43,
       "volumeRatio": 0.67,
       "newsScore": 0.6,
       "newsHeadline": "How Much Upside Can BSX Stock's Growth Deliver?",
       "url": "https://finance.yahoo.com/quote/JNJ",
-      "sectorPe": 28.9
+      "sectorPe": 28.8
     },
     {
       "ticker": "UNH",
@@ -398,13 +398,13 @@
       "marketCap": 356470816768,
       "weekHigh52": 461.62,
       "weekLow52": 255.97,
-      "dividendYield": 2.31,
+      "dividendYield": 2.34,
       "relStrength": -3.72,
       "volumeRatio": 1.35,
       "newsScore": 0.2,
       "newsHeadline": "2 Reasons to Like UNH and 1 to Stay Skeptical",
       "url": "https://finance.yahoo.com/quote/UNH",
-      "sectorPe": 28.9
+      "sectorPe": 28.8
     },
     {
       "ticker": "KO",
@@ -446,8 +446,8 @@
       "dividendYield": 2.39,
       "relStrength": 1.49,
       "volumeRatio": 1.22,
-      "newsScore": 0.0,
-      "newsHeadline": "3 All-Weather Dividend Stocks That Keep Writing Bigger Checks",
+      "newsScore": 0.3,
+      "newsHeadline": "Forget High-Yield Traps: Coca-Cola Is the Best Dividend Stock",
       "url": "https://finance.yahoo.com/quote/KO",
       "sectorPe": 24.4
     },
@@ -485,14 +485,14 @@
       "debtEq": 0.64,
       "sector": "Consumer Defensive",
       "industry": "Household & Personal Products",
-      "marketCap": 340389986304,
+      "marketCap": 340132134912,
       "weekHigh52": 167.25,
       "weekLow52": 137.62,
-      "dividendYield": 2.96,
+      "dividendYield": 2.97,
       "relStrength": -0.19,
       "volumeRatio": 0.62,
-      "newsScore": 0.1,
-      "newsHeadline": "3 All-Weather Dividend Stocks That Keep Writing Bigger Checks",
+      "newsScore": 0.2,
+      "newsHeadline": "Even With the S&P 500 at All-Time Highs, I'd Buy This High-Yield Dividend Stock Without Any Hesitation in September.",
       "url": "https://finance.yahoo.com/quote/PG",
       "sectorPe": 24.4
     },
@@ -629,7 +629,7 @@
       "newsScore": 0.4,
       "newsHeadline": "Jim Cramer flagged one stock quietly concentrating portfolios",
       "url": "https://finance.yahoo.com/quote/CAT",
-      "sectorPe": 55.5
+      "sectorPe": 55.7
     },
     {
       "ticker": "BA",
@@ -661,28 +661,28 @@
         210.51,
         212.25
       ],
-      "pe": 75.8,
+      "pe": 76.3,
       "debtEq": 7.91,
       "sector": "Industrials",
       "industry": "Aerospace & Defense",
-      "marketCap": 167633453056,
+      "marketCap": 167756038144,
       "weekHigh52": 254.35,
       "weekLow52": 176.77,
       "dividendYield": null,
       "relStrength": -11.57,
       "volumeRatio": 0.91,
-      "newsScore": 0.3,
-      "newsHeadline": "Boeing vs. Intuitive Machines: Which Aerospace Stock Is a Better Buy in 2026?",
+      "newsScore": 0.4,
+      "newsHeadline": "White House reviewed potential replacements for Pentagon deputy Feinberg - Reuters",
       "url": "https://finance.yahoo.com/quote/BA",
-      "sectorPe": 55.5
+      "sectorPe": 55.7
     }
   ],
   "uk": [
     {
       "ticker": "HSBA.L",
       "name": "HSBC HOLDINGS PLC ORD $0.50 (UK",
-      "price": NaN,
-      "chg": NaN,
+      "price": 1580.2,
+      "chg": 1.06,
       "hist": [
         1584.5,
         1510.5,
@@ -706,7 +706,7 @@
         1533.4,
         1545.2,
         1563.6,
-        NaN
+        1580.2
       ],
       "pe": 15.2,
       "debtEq": null,
@@ -715,8 +715,8 @@
       "marketCap": 270675050496,
       "weekHigh52": 1610.0,
       "weekLow52": 959.29,
-      "dividendYield": 3.56,
-      "relStrength": NaN,
+      "dividendYield": 3.52,
+      "relStrength": 0.17,
       "volumeRatio": 0.61,
       "newsScore": 0.1,
       "newsHeadline": "Will Barclays' Expansion Initiatives Accelerate Top-Line Growth?",
@@ -726,8 +726,8 @@
     {
       "ticker": "AZN.L",
       "name": "ASTRAZENECA PLC ORD SHS $0.25",
-      "price": NaN,
-      "chg": NaN,
+      "price": 12006.0,
+      "chg": -1.15,
       "hist": [
         11739.22,
         12035.21,
@@ -751,28 +751,28 @@
         11962.0,
         11976.0,
         12146.0,
-        NaN
+        12006.0
       ],
-      "pe": 24.2,
+      "pe": 24.4,
       "debtEq": 0.64,
       "sector": "Healthcare",
       "industry": "Drug Manufacturers - General",
-      "marketCap": 186199359488,
+      "marketCap": 186200571904,
       "weekHigh52": 15732.0,
       "weekLow52": 9892.0,
-      "dividendYield": 1.97,
-      "relStrength": NaN,
-      "volumeRatio": 0.6,
-      "newsScore": 0.4,
-      "newsHeadline": "AstraZeneca Wins FDA Accelerated Approval for Breast Cancer Drug Etcamah",
+      "dividendYield": 1.99,
+      "relStrength": 2.71,
+      "volumeRatio": 0.61,
+      "newsScore": 0.1,
+      "newsHeadline": "Haleon And 2 British AI Healthcare Stocks To Watch",
       "url": "https://finance.yahoo.com/quote/AZN.L",
-      "sectorPe": 24.2
+      "sectorPe": 24.4
     },
     {
       "ticker": "SHEL.L",
       "name": "SHELL PLC ORD EUR0.07",
-      "price": NaN,
-      "chg": NaN,
+      "price": 3437.0,
+      "chg": 0.16,
       "hist": [
         3321.11,
         3280.11,
@@ -796,7 +796,7 @@
         3432.5,
         3443.0,
         3431.5,
-        NaN
+        3437.0
       ],
       "pe": 10.3,
       "debtEq": 0.4,
@@ -805,8 +805,8 @@
       "marketCap": 196649435136,
       "weekHigh52": 3758.5,
       "weekLow52": 2553.77,
-      "dividendYield": 3.38,
-      "relStrength": NaN,
+      "dividendYield": 3.37,
+      "relStrength": 3.93,
       "volumeRatio": 1.17,
       "newsScore": 0.3,
       "newsHeadline": "T Mobile US (TMUS) Sets Up CFO Handover With Jessica Uhl Joining In September",
@@ -816,8 +816,8 @@
     {
       "ticker": "ULVR.L",
       "name": "UNILEVER PLC ORD 3.5P",
-      "price": NaN,
-      "chg": NaN,
+      "price": 4763.0,
+      "chg": 0.63,
       "hist": [
         4748.1,
         4773.6,
@@ -841,18 +841,18 @@
         4811.0,
         4782.5,
         4733.0,
-        NaN
+        4763.0
       ],
       "pe": 21.7,
       "debtEq": 1.75,
       "sector": "Consumer Defensive",
       "industry": "Household & Personal Products",
-      "marketCap": 102559981568,
+      "marketCap": 102559989760,
       "weekHigh52": 5542.11,
       "weekLow52": 3644.0,
-      "dividendYield": 3.49,
-      "relStrength": NaN,
-      "volumeRatio": 0.43,
+      "dividendYield": 3.46,
+      "relStrength": 0.75,
+      "volumeRatio": 0.44,
       "newsScore": 0.4,
       "newsHeadline": "European Equities Traded in the US as American Depositary Receipts Edge Higher in Thursday Trading",
       "url": "https://finance.yahoo.com/quote/ULVR.L",
@@ -861,8 +861,8 @@
     {
       "ticker": "BARC.L",
       "name": "BARCLAYS PLC ORD 25P",
-      "price": NaN,
-      "chg": NaN,
+      "price": 496.65,
+      "chg": 0.66,
       "hist": [
         522.24,
         527.44,
@@ -886,20 +886,20 @@
         486.1,
         483.45,
         493.4,
-        NaN
+        496.65
       ],
       "pe": 10.3,
       "debtEq": null,
       "sector": "Financial Services",
       "industry": "Banks - Diversified",
-      "marketCap": 66729185280,
+      "marketCap": 66655760384,
       "weekHigh52": 538.3,
       "weekLow52": 353.55,
-      "dividendYield": 2.33,
-      "relStrength": NaN,
+      "dividendYield": 2.32,
+      "relStrength": -4.46,
       "volumeRatio": 1.02,
-      "newsScore": 0.9,
-      "newsHeadline": "Iron Mountain (IRM) Stock Gets Fair Value Boost On Higher AI Growth Assumptions",
+      "newsScore": 0.7,
+      "newsHeadline": "Barclays sees a $3.6 trillion annual investment opportunity in this sector",
       "url": "https://finance.yahoo.com/quote/BARC.L",
       "sectorPe": 12.8
     }
