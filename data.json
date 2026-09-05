@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-05T12:02:49.510376+00:00",
+  "updated": "2026-09-05T18:02:58.265539+00:00",
   "us": [
     {
       "ticker": "AAPL",
@@ -31,7 +31,7 @@
         328.21,
         319.97
       ],
-      "pe": 36.7,
+      "pe": 37.6,
       "debtEq": 0.78,
       "sector": "Technology",
       "industry": "Consumer Electronics",
@@ -41,10 +41,10 @@
       "dividendYield": 0.33,
       "relStrength": 3.03,
       "volumeRatio": 0.98,
-      "newsScore": 0.3,
+      "newsScore": -0.1,
       "newsHeadline": "Apple's John Ternus needs to be his own type of CEO and 'not Tim Cook 2'",
       "url": "https://finance.yahoo.com/quote/AAPL",
-      "sectorPe": 31.3
+      "sectorPe": 31.6
     },
     {
       "ticker": "MSFT",
@@ -89,7 +89,7 @@
       "newsScore": 0.2,
       "newsHeadline": "Amazon, Alphabet, and Microsoft: Two I'm Buying and One I'm Selling",
       "url": "https://finance.yahoo.com/quote/MSFT",
-      "sectorPe": 31.3
+      "sectorPe": 31.6
     },
     {
       "ticker": "NVDA",
@@ -128,13 +128,13 @@
       "marketCap": 5562502742016,
       "weekHigh52": 236.54,
       "weekLow52": 164.27,
-      "dividendYield": 0.43,
+      "dividendYield": 0.44,
       "relStrength": 5.14,
       "volumeRatio": 1.05,
-      "newsScore": 0.4,
+      "newsScore": 0.2,
       "newsHeadline": "Apple's John Ternus needs to be his own type of CEO and 'not Tim Cook 2'",
       "url": "https://finance.yahoo.com/quote/NVDA",
-      "sectorPe": 31.3
+      "sectorPe": 31.6
     },
     {
       "ticker": "AMZN",
@@ -176,8 +176,8 @@
       "dividendYield": null,
       "relStrength": -5.13,
       "volumeRatio": 0.92,
-      "newsScore": 0.6,
-      "newsHeadline": "US diesel prices hit an all-time high — and it impacts you more than you might think",
+      "newsScore": 0.7,
+      "newsHeadline": "If You Buy Amazon With $10,000 at a 10% Discount From Its High, Here's What I Predict It Could Be Worth in 10 Years",
       "url": "https://finance.yahoo.com/quote/AMZN",
       "sectorPe": 171.3
     },
@@ -221,7 +221,7 @@
       "dividendYield": null,
       "relStrength": 10.18,
       "volumeRatio": 1.81,
-      "newsScore": 0.1,
+      "newsScore": 0.2,
       "newsHeadline": "No steering wheel, no problem: Can Tesla speed by Cybercab probe?",
       "url": "https://finance.yahoo.com/quote/TSLA",
       "sectorPe": 171.3
@@ -256,20 +256,20 @@
         362.06,
         358.64
       ],
-      "pe": 15.4,
+      "pe": 15.5,
       "debtEq": null,
       "sector": "Financial Services",
       "industry": "Banks - Diversified",
       "marketCap": 953331941376,
       "weekHigh52": 366.5,
       "weekLow52": 279.1,
-      "dividendYield": 1.67,
+      "dividendYield": 1.66,
       "relStrength": -0.11,
       "volumeRatio": 0.89,
       "newsScore": 1.0,
       "newsHeadline": "WEG (BOVESPA:WEGE3) Stock Sees Modest Fair Value Lift As Analysts Split On Growth",
       "url": "https://finance.yahoo.com/quote/JPM",
-      "sectorPe": 23.6
+      "sectorPe": 23.7
     },
     {
       "ticker": "V",
@@ -314,7 +314,7 @@
       "newsScore": 0.2,
       "newsHeadline": "American Express’ Q2 Revenue Miss Versus Peers Might Change The Case For Investing In AXP",
       "url": "https://finance.yahoo.com/quote/V",
-      "sectorPe": 23.6
+      "sectorPe": 23.7
     },
     {
       "ticker": "JNJ",
@@ -346,20 +346,20 @@
         278.43,
         275.23
       ],
-      "pe": 32.0,
+      "pe": 32.3,
       "debtEq": 0.58,
       "sector": "Healthcare",
       "industry": "Drug Manufacturers - General",
       "marketCap": 663276421120,
       "weekHigh52": 281.07,
       "weekLow52": 173.33,
-      "dividendYield": 1.95,
+      "dividendYield": 1.93,
       "relStrength": 7.43,
       "volumeRatio": 0.67,
-      "newsScore": 0.6,
-      "newsHeadline": "How Much Upside Can BSX Stock's Growth Deliver?",
+      "newsScore": 0.5,
+      "newsHeadline": "3 Dividend Kings Built to Keep Raising Your Income When Rates Rise",
       "url": "https://finance.yahoo.com/quote/JNJ",
-      "sectorPe": 28.8
+      "sectorPe": 29.0
     },
     {
       "ticker": "UNH",
@@ -391,20 +391,20 @@
         400.94,
         397.14
       ],
-      "pe": 25.5,
+      "pe": 25.8,
       "debtEq": 0.69,
       "sector": "Healthcare",
       "industry": "Healthcare Plans",
       "marketCap": 356470816768,
       "weekHigh52": 461.62,
       "weekLow52": 255.97,
-      "dividendYield": 2.34,
+      "dividendYield": 2.31,
       "relStrength": -3.72,
       "volumeRatio": 1.35,
       "newsScore": 0.2,
       "newsHeadline": "2 Reasons to Like UNH and 1 to Stay Skeptical",
       "url": "https://finance.yahoo.com/quote/UNH",
-      "sectorPe": 28.8
+      "sectorPe": 29.0
     },
     {
       "ticker": "KO",
@@ -436,7 +436,7 @@
         88.81,
         88.07
       ],
-      "pe": 26.7,
+      "pe": 26.4,
       "debtEq": 1.16,
       "sector": "Consumer Defensive",
       "industry": "Beverages - Non-Alcoholic",
@@ -447,9 +447,9 @@
       "relStrength": 1.49,
       "volumeRatio": 1.22,
       "newsScore": 0.3,
-      "newsHeadline": "Forget High-Yield Traps: Coca-Cola Is the Best Dividend Stock",
+      "newsHeadline": "3 Dividend Kings Built to Keep Raising Your Income When Rates Rise",
       "url": "https://finance.yahoo.com/quote/KO",
-      "sectorPe": 24.4
+      "sectorPe": 24.3
     },
     {
       "ticker": "PG",
@@ -481,20 +481,20 @@
         146.92,
         146.44
       ],
-      "pe": 22.1,
+      "pe": 22.2,
       "debtEq": 0.64,
       "sector": "Consumer Defensive",
       "industry": "Household & Personal Products",
       "marketCap": 340132134912,
       "weekHigh52": 167.25,
       "weekLow52": 137.62,
-      "dividendYield": 2.97,
+      "dividendYield": 2.96,
       "relStrength": -0.19,
       "volumeRatio": 0.62,
       "newsScore": 0.2,
-      "newsHeadline": "Even With the S&P 500 at All-Time Highs, I'd Buy This High-Yield Dividend Stock Without Any Hesitation in September.",
+      "newsHeadline": "Here's How Many Shares of Procter & Gamble You'd Need for $15,000 in Yearly Dividends",
       "url": "https://finance.yahoo.com/quote/PG",
-      "sectorPe": 24.4
+      "sectorPe": 24.3
     },
     {
       "ticker": "XOM",
@@ -539,7 +539,7 @@
       "newsScore": 0.3,
       "newsHeadline": "Exxon Falls While Diesel Margins Explode to $108",
       "url": "https://finance.yahoo.com/quote/XOM",
-      "sectorPe": 20.4
+      "sectorPe": 20.3
     },
     {
       "ticker": "CVX",
@@ -571,7 +571,7 @@
         211.32,
         208.6
       ],
-      "pe": 20.3,
+      "pe": 20.1,
       "debtEq": 0.19,
       "sector": "Energy",
       "industry": "Oil & Gas Integrated",
@@ -581,10 +581,10 @@
       "dividendYield": 3.37,
       "relStrength": 12.94,
       "volumeRatio": 0.69,
-      "newsScore": 0.7,
+      "newsScore": 0.6,
       "newsHeadline": "Energy stocks could be the biggest winners of the AI boom",
       "url": "https://finance.yahoo.com/quote/CVX",
-      "sectorPe": 20.4
+      "sectorPe": 20.3
     },
     {
       "ticker": "CAT",
@@ -629,7 +629,7 @@
       "newsScore": 0.4,
       "newsHeadline": "Jim Cramer flagged one stock quietly concentrating portfolios",
       "url": "https://finance.yahoo.com/quote/CAT",
-      "sectorPe": 55.7
+      "sectorPe": 55.5
     },
     {
       "ticker": "BA",
@@ -661,7 +661,7 @@
         210.51,
         212.25
       ],
-      "pe": 76.3,
+      "pe": 75.8,
       "debtEq": 7.91,
       "sector": "Industrials",
       "industry": "Aerospace & Defense",
@@ -674,7 +674,7 @@
       "newsScore": 0.4,
       "newsHeadline": "White House reviewed potential replacements for Pentagon deputy Feinberg - Reuters",
       "url": "https://finance.yahoo.com/quote/BA",
-      "sectorPe": 55.7
+      "sectorPe": 55.5
     }
   ],
   "uk": [
@@ -899,7 +899,7 @@
       "relStrength": -4.46,
       "volumeRatio": 1.02,
       "newsScore": 0.7,
-      "newsHeadline": "Barclays sees a $3.6 trillion annual investment opportunity in this sector",
+      "newsHeadline": "Barclays recommends reducing equity risk exposure in September",
       "url": "https://finance.yahoo.com/quote/BARC.L",
       "sectorPe": 12.8
     }
