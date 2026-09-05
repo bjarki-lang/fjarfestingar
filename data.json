@@ -1,11 +1,11 @@
 {
-  "updated": "2026-09-05T00:04:20.528313+00:00",
+  "updated": "2026-09-05T06:03:18.649741+00:00",
   "us": [
     {
       "ticker": "AAPL",
       "name": "Apple Inc.",
-      "price": NaN,
-      "chg": NaN,
+      "price": 319.97,
+      "chg": -2.51,
       "hist": [
         310.73,
         312.14,
@@ -29,7 +29,7 @@
         325.13,
         324.96,
         328.21,
-        NaN
+        319.97
       ],
       "pe": 36.7,
       "debtEq": 0.78,
@@ -39,18 +39,18 @@
       "weekHigh52": 344.57,
       "weekLow52": 225.95,
       "dividendYield": 0.33,
-      "relStrength": NaN,
-      "volumeRatio": 0.95,
+      "relStrength": 3.03,
+      "volumeRatio": 0.98,
       "newsScore": 0.3,
       "newsHeadline": "Apple's John Ternus needs to be his own type of CEO and 'not Tim Cook 2'",
       "url": "https://finance.yahoo.com/quote/AAPL",
-      "sectorPe": 31.2
+      "sectorPe": 31.4
     },
     {
       "ticker": "MSFT",
       "name": "Microsoft Corporation",
-      "price": NaN,
-      "chg": NaN,
+      "price": 499.7,
+      "chg": -2.04,
       "hist": [
         486.54,
         498.92,
@@ -74,9 +74,9 @@
         501.02,
         496.82,
         510.12,
-        NaN
+        499.7
       ],
-      "pe": 27.8,
+      "pe": 28.4,
       "debtEq": 0.29,
       "sector": "Technology",
       "industry": "Software - Infrastructure",
@@ -84,18 +84,18 @@
       "weekHigh52": 553.72,
       "weekLow52": 349.2,
       "dividendYield": 0.71,
-      "relStrength": NaN,
-      "volumeRatio": 0.71,
-      "newsScore": 0.1,
-      "newsHeadline": "ChronoScale Says It Plans a 50 MW Microsoft AI Deployment. Can CHRN Fund the Build Without Diluting Shareholders?",
+      "relStrength": 2.76,
+      "volumeRatio": 0.74,
+      "newsScore": 0.2,
+      "newsHeadline": "Satya Nadella Sold $43 Million of Microsoft Under a Trading Plan. Is the Insider Signal Really Bearish?",
       "url": "https://finance.yahoo.com/quote/MSFT",
-      "sectorPe": 31.2
+      "sectorPe": 31.4
     },
     {
       "ticker": "NVDA",
       "name": "NVIDIA Corporation",
-      "price": NaN,
-      "chg": NaN,
+      "price": 230.36,
+      "chg": 0.84,
       "hist": [
         219.22,
         218.99,
@@ -119,7 +119,7 @@
         217.44,
         224.41,
         228.45,
-        NaN
+        230.36
       ],
       "pe": 29.2,
       "debtEq": 0.17,
@@ -127,20 +127,20 @@
       "industry": "Semiconductors",
       "marketCap": 5562502742016,
       "weekHigh52": 236.54,
-      "weekLow52": 164.07,
+      "weekLow52": 164.27,
       "dividendYield": 0.44,
-      "relStrength": NaN,
-      "volumeRatio": 1.03,
-      "newsScore": 0.0,
+      "relStrength": 5.14,
+      "volumeRatio": 1.05,
+      "newsScore": 0.2,
       "newsHeadline": "Apple's John Ternus needs to be his own type of CEO and 'not Tim Cook 2'",
       "url": "https://finance.yahoo.com/quote/NVDA",
-      "sectorPe": 31.2
+      "sectorPe": 31.4
     },
     {
       "ticker": "AMZN",
       "name": "Amazon.com, Inc.",
-      "price": NaN,
-      "chg": NaN,
+      "price": 258.51,
+      "chg": -0.15,
       "hist": [
         272.65,
         272.26,
@@ -164,7 +164,7 @@
         254.92,
         254.98,
         258.9,
-        NaN
+        258.51
       ],
       "pe": 20.8,
       "debtEq": 0.46,
@@ -174,8 +174,8 @@
       "weekHigh52": 287.2,
       "weekLow52": 196.0,
       "dividendYield": null,
-      "relStrength": NaN,
-      "volumeRatio": 0.9,
+      "relStrength": -5.13,
+      "volumeRatio": 0.92,
       "newsScore": 0.6,
       "newsHeadline": "US diesel prices hit an all-time high — and it impacts you more than you might think",
       "url": "https://finance.yahoo.com/quote/AMZN",
@@ -184,8 +184,8 @@
     {
       "ticker": "TSLA",
       "name": "Tesla, Inc.",
-      "price": NaN,
-      "chg": NaN,
+      "price": 354.08,
+      "chg": -5.92,
       "hist": [
         321.55,
         319.53,
@@ -209,7 +209,7 @@
         356.09,
         357.01,
         376.37,
-        NaN
+        354.08
       ],
       "pe": 324.8,
       "debtEq": 0.18,
@@ -219,9 +219,9 @@
       "weekHigh52": 498.83,
       "weekLow52": 297.38,
       "dividendYield": null,
-      "relStrength": NaN,
-      "volumeRatio": 1.8,
-      "newsScore": 0.2,
+      "relStrength": 10.18,
+      "volumeRatio": 1.81,
+      "newsScore": 0.1,
       "newsHeadline": "No steering wheel, no problem: Can Tesla speed by Cybercab probe?",
       "url": "https://finance.yahoo.com/quote/TSLA",
       "sectorPe": 172.8
@@ -229,8 +229,8 @@
     {
       "ticker": "JPM",
       "name": "JP Morgan Chase & Co.",
-      "price": NaN,
-      "chg": NaN,
+      "price": 358.64,
+      "chg": -0.94,
       "hist": [
         359.24,
         356.3,
@@ -254,9 +254,9 @@
         354.95,
         356.22,
         362.06,
-        NaN
+        358.64
       ],
-      "pe": 15.4,
+      "pe": 15.5,
       "debtEq": null,
       "sector": "Financial Services",
       "industry": "Banks - Diversified",
@@ -264,18 +264,18 @@
       "weekHigh52": 366.5,
       "weekLow52": 279.1,
       "dividendYield": 1.66,
-      "relStrength": NaN,
+      "relStrength": -0.11,
       "volumeRatio": 0.89,
-      "newsScore": 0.7,
-      "newsHeadline": "Market Chatter: Anthropic May Give Morgan Stanley, Goldman Sachs Key Roles in $2 Trillion IPO",
+      "newsScore": 1.0,
+      "newsHeadline": "WEG (BOVESPA:WEGE3) Stock Sees Modest Fair Value Lift As Analysts Split On Growth",
       "url": "https://finance.yahoo.com/quote/JPM",
-      "sectorPe": 23.6
+      "sectorPe": 23.7
     },
     {
       "ticker": "V",
       "name": "Visa Inc.",
-      "price": NaN,
-      "chg": NaN,
+      "price": 375.07,
+      "chg": -0.97,
       "hist": [
         367.86,
         369.78,
@@ -299,7 +299,7 @@
         372.67,
         378.4,
         378.75,
-        NaN
+        375.07
       ],
       "pe": 31.9,
       "debtEq": 0.68,
@@ -309,18 +309,18 @@
       "weekHigh52": 385.57,
       "weekLow52": 293.89,
       "dividendYield": 0.71,
-      "relStrength": NaN,
-      "volumeRatio": 0.7,
+      "relStrength": 2.02,
+      "volumeRatio": 0.71,
       "newsScore": 0.3,
       "newsHeadline": "CRCL's Arc Mainnet Launch Could Expand Its Institutional Revenue Mix",
       "url": "https://finance.yahoo.com/quote/V",
-      "sectorPe": 23.6
+      "sectorPe": 23.7
     },
     {
       "ticker": "JNJ",
       "name": "Johnson & Johnson",
-      "price": NaN,
-      "chg": NaN,
+      "price": 275.23,
+      "chg": -1.15,
       "hist": [
         256.33,
         255.72,
@@ -344,9 +344,9 @@
         271.19,
         275.21,
         278.43,
-        NaN
+        275.23
       ],
-      "pe": 31.9,
+      "pe": 32.3,
       "debtEq": 0.58,
       "sector": "Healthcare",
       "industry": "Drug Manufacturers - General",
@@ -354,18 +354,18 @@
       "weekHigh52": 281.07,
       "weekLow52": 173.33,
       "dividendYield": 1.93,
-      "relStrength": NaN,
-      "volumeRatio": 0.6,
+      "relStrength": 7.43,
+      "volumeRatio": 0.67,
       "newsScore": 0.6,
       "newsHeadline": "How Much Upside Can BSX Stock's Growth Deliver?",
       "url": "https://finance.yahoo.com/quote/JNJ",
-      "sectorPe": 28.7
+      "sectorPe": 28.9
     },
     {
       "ticker": "UNH",
       "name": "UnitedHealth Group Incorporated",
-      "price": NaN,
-      "chg": NaN,
+      "price": 397.14,
+      "chg": -0.95,
       "hist": [
         412.75,
         403.97,
@@ -389,7 +389,7 @@
         396.3,
         399.66,
         400.94,
-        NaN
+        397.14
       ],
       "pe": 25.5,
       "debtEq": 0.69,
@@ -399,18 +399,18 @@
       "weekHigh52": 461.62,
       "weekLow52": 255.97,
       "dividendYield": 2.31,
-      "relStrength": NaN,
-      "volumeRatio": 1.17,
+      "relStrength": -3.72,
+      "volumeRatio": 1.35,
       "newsScore": 0.2,
       "newsHeadline": "2 Reasons to Like UNH and 1 to Stay Skeptical",
       "url": "https://finance.yahoo.com/quote/UNH",
-      "sectorPe": 28.7
+      "sectorPe": 28.9
     },
     {
       "ticker": "KO",
       "name": "Coca-Cola Company (The)",
-      "price": NaN,
-      "chg": NaN,
+      "price": 88.07,
+      "chg": -0.83,
       "hist": [
         86.83,
         86.85,
@@ -434,9 +434,9 @@
         88.0,
         88.24,
         88.81,
-        NaN
+        88.07
       ],
-      "pe": 26.4,
+      "pe": 26.7,
       "debtEq": 1.16,
       "sector": "Consumer Defensive",
       "industry": "Beverages - Non-Alcoholic",
@@ -444,18 +444,18 @@
       "weekHigh52": 92.49,
       "weekLow52": 65.35,
       "dividendYield": 2.39,
-      "relStrength": NaN,
-      "volumeRatio": 1.03,
+      "relStrength": 1.49,
+      "volumeRatio": 1.22,
       "newsScore": 0.0,
       "newsHeadline": "3 All-Weather Dividend Stocks That Keep Writing Bigger Checks",
       "url": "https://finance.yahoo.com/quote/KO",
-      "sectorPe": 24.2
+      "sectorPe": 24.4
     },
     {
       "ticker": "PG",
       "name": "Procter & Gamble Company (The)",
-      "price": NaN,
-      "chg": NaN,
+      "price": 146.44,
+      "chg": -0.33,
       "hist": [
         146.8,
         146.97,
@@ -479,28 +479,28 @@
         146.21,
         147.64,
         146.92,
-        NaN
+        146.44
       ],
       "pe": 22.1,
       "debtEq": 0.64,
       "sector": "Consumer Defensive",
       "industry": "Household & Personal Products",
-      "marketCap": 340132134912,
+      "marketCap": 340389986304,
       "weekHigh52": 167.25,
       "weekLow52": 137.62,
       "dividendYield": 2.96,
-      "relStrength": NaN,
+      "relStrength": -0.19,
       "volumeRatio": 0.62,
       "newsScore": 0.1,
       "newsHeadline": "3 All-Weather Dividend Stocks That Keep Writing Bigger Checks",
       "url": "https://finance.yahoo.com/quote/PG",
-      "sectorPe": 24.2
+      "sectorPe": 24.4
     },
     {
       "ticker": "XOM",
       "name": "ExxonMobil Holdings Corporation",
-      "price": NaN,
-      "chg": NaN,
+      "price": 159.47,
+      "chg": -1.69,
       "hist": [
         150.65,
         153.84,
@@ -524,7 +524,7 @@
         164.55,
         164.15,
         162.21,
-        NaN
+        159.47
       ],
       "pe": 20.5,
       "debtEq": 0.16,
@@ -534,18 +534,18 @@
       "weekHigh52": 176.41,
       "weekLow52": 108.35,
       "dividendYield": 2.54,
-      "relStrength": NaN,
-      "volumeRatio": 1.14,
+      "relStrength": 5.91,
+      "volumeRatio": 1.16,
       "newsScore": 0.3,
       "newsHeadline": "Exxon Falls While Diesel Margins Explode to $108",
       "url": "https://finance.yahoo.com/quote/XOM",
-      "sectorPe": 20.3
+      "sectorPe": 20.4
     },
     {
       "ticker": "CVX",
       "name": "Chevron Corporation",
-      "price": NaN,
-      "chg": NaN,
+      "price": 208.6,
+      "chg": -1.29,
       "hist": [
         184.8,
         187.59,
@@ -569,9 +569,9 @@
         211.05,
         211.78,
         211.32,
-        NaN
+        208.6
       ],
-      "pe": 20.1,
+      "pe": 20.3,
       "debtEq": 0.19,
       "sector": "Energy",
       "industry": "Oil & Gas Integrated",
@@ -579,18 +579,18 @@
       "weekHigh52": 214.71,
       "weekLow52": 146.49,
       "dividendYield": 3.37,
-      "relStrength": NaN,
+      "relStrength": 12.94,
       "volumeRatio": 0.69,
       "newsScore": 0.7,
       "newsHeadline": "Energy stocks could be the biggest winners of the AI boom",
       "url": "https://finance.yahoo.com/quote/CVX",
-      "sectorPe": 20.3
+      "sectorPe": 20.4
     },
     {
       "ticker": "CAT",
       "name": "Caterpillar, Inc.",
-      "price": NaN,
-      "chg": NaN,
+      "price": 813.94,
+      "chg": 1.72,
       "hist": [
         871.08,
         856.96,
@@ -614,7 +614,7 @@
         779.16,
         792.28,
         800.14,
-        NaN
+        813.94
       ],
       "pe": 35.1,
       "debtEq": 2.33,
@@ -624,18 +624,18 @@
       "weekHigh52": 1073.46,
       "weekLow52": 416.44,
       "dividendYield": 0.81,
-      "relStrength": NaN,
-      "volumeRatio": 0.79,
+      "relStrength": -6.5,
+      "volumeRatio": 0.86,
       "newsScore": 0.4,
       "newsHeadline": "Jim Cramer flagged one stock quietly concentrating portfolios",
       "url": "https://finance.yahoo.com/quote/CAT",
-      "sectorPe": 55.7
+      "sectorPe": 55.5
     },
     {
       "ticker": "BA",
       "name": "Boeing Company (The)",
-      "price": NaN,
-      "chg": NaN,
+      "price": 212.25,
+      "chg": 0.83,
       "hist": [
         240.19,
         232.19,
@@ -659,22 +659,22 @@
         205.66,
         208.87,
         210.51,
-        NaN
+        212.25
       ],
-      "pe": 76.3,
+      "pe": 75.8,
       "debtEq": 7.91,
       "sector": "Industrials",
       "industry": "Aerospace & Defense",
-      "marketCap": 167756038144,
+      "marketCap": 167633453056,
       "weekHigh52": 254.35,
       "weekLow52": 176.77,
       "dividendYield": null,
-      "relStrength": NaN,
+      "relStrength": -11.57,
       "volumeRatio": 0.91,
       "newsScore": 0.3,
       "newsHeadline": "Boeing vs. Intuitive Machines: Which Aerospace Stock Is a Better Buy in 2026?",
       "url": "https://finance.yahoo.com/quote/BA",
-      "sectorPe": 55.7
+      "sectorPe": 55.5
     }
   ],
   "uk": [
@@ -712,7 +712,7 @@
       "debtEq": null,
       "sector": "Financial Services",
       "industry": "Banks - Diversified",
-      "marketCap": 270681669632,
+      "marketCap": 270675050496,
       "weekHigh52": 1610.0,
       "weekLow52": 959.29,
       "dividendYield": 3.56,
@@ -757,7 +757,7 @@
       "debtEq": 0.64,
       "sector": "Healthcare",
       "industry": "Drug Manufacturers - General",
-      "marketCap": 186200571904,
+      "marketCap": 186199359488,
       "weekHigh52": 15732.0,
       "weekLow52": 9892.0,
       "dividendYield": 1.97,
@@ -808,8 +808,8 @@
       "dividendYield": 3.38,
       "relStrength": NaN,
       "volumeRatio": 1.17,
-      "newsScore": 0.5,
-      "newsHeadline": "Top Research Reports for Apple, Broadcom & Shell",
+      "newsScore": 0.3,
+      "newsHeadline": "T Mobile US (TMUS) Sets Up CFO Handover With Jessica Uhl Joining In September",
       "url": "https://finance.yahoo.com/quote/SHEL.L",
       "sectorPe": 10.3
     },
@@ -847,7 +847,7 @@
       "debtEq": 1.75,
       "sector": "Consumer Defensive",
       "industry": "Household & Personal Products",
-      "marketCap": 102559989760,
+      "marketCap": 102559981568,
       "weekHigh52": 5542.11,
       "weekLow52": 3644.0,
       "dividendYield": 3.49,
@@ -892,14 +892,14 @@
       "debtEq": null,
       "sector": "Financial Services",
       "industry": "Banks - Diversified",
-      "marketCap": 66655760384,
+      "marketCap": 66729185280,
       "weekHigh52": 538.3,
       "weekLow52": 353.55,
       "dividendYield": 2.33,
       "relStrength": NaN,
       "volumeRatio": 1.02,
-      "newsScore": 0.7,
-      "newsHeadline": "Beyond Meat (BYND) Stock Fair Value Rises After Reverse Split Reshapes Valuation",
+      "newsScore": 0.9,
+      "newsHeadline": "Iron Mountain (IRM) Stock Gets Fair Value Boost On Higher AI Growth Assumptions",
       "url": "https://finance.yahoo.com/quote/BARC.L",
       "sectorPe": 12.8
     }
