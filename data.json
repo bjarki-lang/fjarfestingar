@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-06T00:04:43.247790+00:00",
+  "updated": "2026-09-06T06:03:07.568616+00:00",
   "us": [
     {
       "ticker": "AAPL",
@@ -131,8 +131,8 @@
       "dividendYield": 0.43,
       "relStrength": 5.14,
       "volumeRatio": 1.05,
-      "newsScore": 0.6,
-      "newsHeadline": "Bill Gates Says He Still Won't Invest in Crypto, Calls It a \"Pure Mania-Driven Asset.\" Here's Why He's Right.",
+      "newsScore": 0.2,
+      "newsHeadline": "The S&P 500's Yield Is at Historic Lows. Here Are 3 Dividend Stocks I'd Buy in September.",
       "url": "https://finance.yahoo.com/quote/NVDA",
       "sectorPe": 31.2
     },
@@ -221,8 +221,8 @@
       "dividendYield": null,
       "relStrength": 10.18,
       "volumeRatio": 1.81,
-      "newsScore": 0.2,
-      "newsHeadline": "Elon Musk Says He's Happy About 'Half the Time' After Documentary Describes Him as 'The Most Miserable Man' — Mom Has This to Say",
+      "newsScore": 0.1,
+      "newsHeadline": "Elon Musk Says His New Foundry Can Get Gas Turbines Online 18 Months Faster. Here's What This \"Profound Game Changer\" Would Mean for SpaceX and Tesla.",
       "url": "https://finance.yahoo.com/quote/TSLA",
       "sectorPe": 171.3
     },
@@ -267,7 +267,7 @@
       "relStrength": -0.11,
       "volumeRatio": 0.89,
       "newsScore": 0.4,
-      "newsHeadline": "Banksy, Star Wars and JPMorgan Meet in a $1 Billion Museum",
+      "newsHeadline": "JPMorgan's Market Value Is Flirting With $1 Trillion Under Jamie Dimon, a Premium Some Call the 'Jamie Premium.' Does That Valuation Price in Too Much Confidence in His Succession Plan?",
       "url": "https://finance.yahoo.com/quote/JPM",
       "sectorPe": 23.6
     },
@@ -491,8 +491,8 @@
       "dividendYield": 2.97,
       "relStrength": -0.19,
       "volumeRatio": 0.62,
-      "newsScore": 0.2,
-      "newsHeadline": "Here's How Many Shares of Procter & Gamble You'd Need for $15,000 in Yearly Dividends",
+      "newsScore": 0.1,
+      "newsHeadline": "The S&P 500's Yield Is at Historic Lows. Here Are 3 Dividend Stocks I'd Buy in September.",
       "url": "https://finance.yahoo.com/quote/PG",
       "sectorPe": 24.2
     },
