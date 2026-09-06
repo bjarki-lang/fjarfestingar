@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-05T18:02:58.265539+00:00",
+  "updated": "2026-09-06T00:04:43.247790+00:00",
   "us": [
     {
       "ticker": "AAPL",
@@ -31,20 +31,20 @@
         328.21,
         319.97
       ],
-      "pe": 37.6,
+      "pe": 36.6,
       "debtEq": 0.78,
       "sector": "Technology",
       "industry": "Consumer Electronics",
       "marketCap": 4669700046848,
       "weekHigh52": 344.57,
       "weekLow52": 225.95,
-      "dividendYield": 0.33,
+      "dividendYield": 0.34,
       "relStrength": 3.03,
       "volumeRatio": 0.98,
-      "newsScore": -0.1,
-      "newsHeadline": "Apple's John Ternus needs to be his own type of CEO and 'not Tim Cook 2'",
+      "newsScore": 0.0,
+      "newsHeadline": "Prediction: Amazon Will Join Nvidia, Apple, and Alphabet in the $4 Trillion Club Before 2029",
       "url": "https://finance.yahoo.com/quote/AAPL",
-      "sectorPe": 31.6
+      "sectorPe": 31.2
     },
     {
       "ticker": "MSFT",
@@ -83,13 +83,13 @@
       "marketCap": 3710545297408,
       "weekHigh52": 553.72,
       "weekLow52": 349.2,
-      "dividendYield": 0.71,
+      "dividendYield": 0.73,
       "relStrength": 2.76,
       "volumeRatio": 0.74,
-      "newsScore": 0.2,
-      "newsHeadline": "Amazon, Alphabet, and Microsoft: Two I'm Buying and One I'm Selling",
+      "newsScore": 0.5,
+      "newsHeadline": "Bill Gates Says He Still Won't Invest in Crypto, Calls It a \"Pure Mania-Driven Asset.\" Here's Why He's Right.",
       "url": "https://finance.yahoo.com/quote/MSFT",
-      "sectorPe": 31.6
+      "sectorPe": 31.2
     },
     {
       "ticker": "NVDA",
@@ -128,13 +128,13 @@
       "marketCap": 5562502742016,
       "weekHigh52": 236.54,
       "weekLow52": 164.27,
-      "dividendYield": 0.44,
+      "dividendYield": 0.43,
       "relStrength": 5.14,
       "volumeRatio": 1.05,
-      "newsScore": 0.2,
-      "newsHeadline": "Apple's John Ternus needs to be his own type of CEO and 'not Tim Cook 2'",
+      "newsScore": 0.6,
+      "newsHeadline": "Bill Gates Says He Still Won't Invest in Crypto, Calls It a \"Pure Mania-Driven Asset.\" Here's Why He's Right.",
       "url": "https://finance.yahoo.com/quote/NVDA",
-      "sectorPe": 31.6
+      "sectorPe": 31.2
     },
     {
       "ticker": "AMZN",
@@ -176,8 +176,8 @@
       "dividendYield": null,
       "relStrength": -5.13,
       "volumeRatio": 0.92,
-      "newsScore": 0.7,
-      "newsHeadline": "If You Buy Amazon With $10,000 at a 10% Discount From Its High, Here's What I Predict It Could Be Worth in 10 Years",
+      "newsScore": 0.4,
+      "newsHeadline": "Prediction: Amazon Will Join Nvidia, Apple, and Alphabet in the $4 Trillion Club Before 2029",
       "url": "https://finance.yahoo.com/quote/AMZN",
       "sectorPe": 171.3
     },
@@ -222,7 +222,7 @@
       "relStrength": 10.18,
       "volumeRatio": 1.81,
       "newsScore": 0.2,
-      "newsHeadline": "No steering wheel, no problem: Can Tesla speed by Cybercab probe?",
+      "newsHeadline": "Elon Musk Says He's Happy About 'Half the Time' After Documentary Describes Him as 'The Most Miserable Man' — Mom Has This to Say",
       "url": "https://finance.yahoo.com/quote/TSLA",
       "sectorPe": 171.3
     },
@@ -256,20 +256,20 @@
         362.06,
         358.64
       ],
-      "pe": 15.5,
+      "pe": 15.4,
       "debtEq": null,
       "sector": "Financial Services",
       "industry": "Banks - Diversified",
       "marketCap": 953331941376,
       "weekHigh52": 366.5,
       "weekLow52": 279.1,
-      "dividendYield": 1.66,
+      "dividendYield": 1.67,
       "relStrength": -0.11,
       "volumeRatio": 0.89,
-      "newsScore": 1.0,
-      "newsHeadline": "WEG (BOVESPA:WEGE3) Stock Sees Modest Fair Value Lift As Analysts Split On Growth",
+      "newsScore": 0.4,
+      "newsHeadline": "Banksy, Star Wars and JPMorgan Meet in a $1 Billion Museum",
       "url": "https://finance.yahoo.com/quote/JPM",
-      "sectorPe": 23.7
+      "sectorPe": 23.6
     },
     {
       "ticker": "V",
@@ -314,7 +314,7 @@
       "newsScore": 0.2,
       "newsHeadline": "American Express’ Q2 Revenue Miss Versus Peers Might Change The Case For Investing In AXP",
       "url": "https://finance.yahoo.com/quote/V",
-      "sectorPe": 23.7
+      "sectorPe": 23.6
     },
     {
       "ticker": "JNJ",
@@ -346,20 +346,20 @@
         278.43,
         275.23
       ],
-      "pe": 32.3,
+      "pe": 32.0,
       "debtEq": 0.58,
       "sector": "Healthcare",
       "industry": "Drug Manufacturers - General",
       "marketCap": 663276421120,
       "weekHigh52": 281.07,
       "weekLow52": 173.33,
-      "dividendYield": 1.93,
+      "dividendYield": 1.95,
       "relStrength": 7.43,
       "volumeRatio": 0.67,
       "newsScore": 0.5,
       "newsHeadline": "3 Dividend Kings Built to Keep Raising Your Income When Rates Rise",
       "url": "https://finance.yahoo.com/quote/JNJ",
-      "sectorPe": 29.0
+      "sectorPe": 28.8
     },
     {
       "ticker": "UNH",
@@ -391,20 +391,20 @@
         400.94,
         397.14
       ],
-      "pe": 25.8,
+      "pe": 25.5,
       "debtEq": 0.69,
       "sector": "Healthcare",
       "industry": "Healthcare Plans",
       "marketCap": 356470816768,
       "weekHigh52": 461.62,
       "weekLow52": 255.97,
-      "dividendYield": 2.31,
+      "dividendYield": 2.34,
       "relStrength": -3.72,
       "volumeRatio": 1.35,
-      "newsScore": 0.2,
-      "newsHeadline": "2 Reasons to Like UNH and 1 to Stay Skeptical",
+      "newsScore": 0.0,
+      "newsHeadline": "Insurers Have Already Told Wall Street Which Advantage Plans Die on December 31. Members Are the Last to Know, and the Letter Isn’t Due Until October 2.",
       "url": "https://finance.yahoo.com/quote/UNH",
-      "sectorPe": 29.0
+      "sectorPe": 28.8
     },
     {
       "ticker": "KO",
@@ -443,13 +443,13 @@
       "marketCap": 378925481984,
       "weekHigh52": 92.49,
       "weekLow52": 65.35,
-      "dividendYield": 2.39,
+      "dividendYield": 2.41,
       "relStrength": 1.49,
       "volumeRatio": 1.22,
       "newsScore": 0.3,
-      "newsHeadline": "3 Dividend Kings Built to Keep Raising Your Income When Rates Rise",
+      "newsHeadline": "Coca-Cola Stock at $88: Here's Why Investors Should Pause",
       "url": "https://finance.yahoo.com/quote/KO",
-      "sectorPe": 24.3
+      "sectorPe": 24.2
     },
     {
       "ticker": "PG",
@@ -481,20 +481,20 @@
         146.92,
         146.44
       ],
-      "pe": 22.2,
+      "pe": 22.1,
       "debtEq": 0.64,
       "sector": "Consumer Defensive",
       "industry": "Household & Personal Products",
       "marketCap": 340132134912,
       "weekHigh52": 167.25,
       "weekLow52": 137.62,
-      "dividendYield": 2.96,
+      "dividendYield": 2.97,
       "relStrength": -0.19,
       "volumeRatio": 0.62,
       "newsScore": 0.2,
       "newsHeadline": "Here's How Many Shares of Procter & Gamble You'd Need for $15,000 in Yearly Dividends",
       "url": "https://finance.yahoo.com/quote/PG",
-      "sectorPe": 24.3
+      "sectorPe": 24.2
     },
     {
       "ticker": "XOM",
@@ -537,7 +537,7 @@
       "relStrength": 5.91,
       "volumeRatio": 1.16,
       "newsScore": 0.3,
-      "newsHeadline": "Exxon Falls While Diesel Margins Explode to $108",
+      "newsHeadline": "Why I Just Added to My Chevron Position Despite Trump Criticism",
       "url": "https://finance.yahoo.com/quote/XOM",
       "sectorPe": 20.3
     },
@@ -582,7 +582,7 @@
       "relStrength": 12.94,
       "volumeRatio": 0.69,
       "newsScore": 0.6,
-      "newsHeadline": "Energy stocks could be the biggest winners of the AI boom",
+      "newsHeadline": "How Much Do You Really Need Invested to Replace a $95,000 Salary With Dividends?",
       "url": "https://finance.yahoo.com/quote/CVX",
       "sectorPe": 20.3
     },
@@ -623,13 +623,13 @@
       "marketCap": 374147776512,
       "weekHigh52": 1073.46,
       "weekLow52": 416.44,
-      "dividendYield": 0.81,
+      "dividendYield": 0.8,
       "relStrength": -6.5,
       "volumeRatio": 0.86,
       "newsScore": 0.4,
       "newsHeadline": "Jim Cramer flagged one stock quietly concentrating portfolios",
       "url": "https://finance.yahoo.com/quote/CAT",
-      "sectorPe": 55.5
+      "sectorPe": 55.7
     },
     {
       "ticker": "BA",
@@ -661,7 +661,7 @@
         210.51,
         212.25
       ],
-      "pe": 75.8,
+      "pe": 76.3,
       "debtEq": 7.91,
       "sector": "Industrials",
       "industry": "Aerospace & Defense",
@@ -671,10 +671,10 @@
       "dividendYield": null,
       "relStrength": -11.57,
       "volumeRatio": 0.91,
-      "newsScore": 0.4,
-      "newsHeadline": "White House reviewed potential replacements for Pentagon deputy Feinberg - Reuters",
+      "newsScore": 0.6,
+      "newsHeadline": "AerCap Holdings (AER) Inspires Confidence with 100th Boeing 787 Delivery",
       "url": "https://finance.yahoo.com/quote/BA",
-      "sectorPe": 55.5
+      "sectorPe": 55.7
     }
   ],
   "uk": [
@@ -760,7 +760,7 @@
       "marketCap": 186200571904,
       "weekHigh52": 15732.0,
       "weekLow52": 9892.0,
-      "dividendYield": 1.99,
+      "dividendYield": 1.97,
       "relStrength": 2.71,
       "volumeRatio": 0.61,
       "newsScore": 0.1,
@@ -805,7 +805,7 @@
       "marketCap": 196649435136,
       "weekHigh52": 3758.5,
       "weekLow52": 2553.77,
-      "dividendYield": 3.37,
+      "dividendYield": 3.38,
       "relStrength": 3.93,
       "volumeRatio": 1.17,
       "newsScore": 0.3,
@@ -898,8 +898,8 @@
       "dividendYield": 2.32,
       "relStrength": -4.46,
       "volumeRatio": 1.02,
-      "newsScore": 0.7,
-      "newsHeadline": "Barclays recommends reducing equity risk exposure in September",
+      "newsScore": 0.6,
+      "newsHeadline": "Econocom Group (ENXTBR:ECONB) Stock Sees Fair Value Cut As Rate And Multiple Views Shift",
       "url": "https://finance.yahoo.com/quote/BARC.L",
       "sectorPe": 12.8
     }
