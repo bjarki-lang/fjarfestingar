@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-06T06:03:07.568616+00:00",
+  "updated": "2026-09-06T12:03:26.003422+00:00",
   "us": [
     {
       "ticker": "AAPL",
@@ -41,8 +41,8 @@
       "dividendYield": 0.34,
       "relStrength": 3.03,
       "volumeRatio": 0.98,
-      "newsScore": 0.0,
-      "newsHeadline": "Prediction: Amazon Will Join Nvidia, Apple, and Alphabet in the $4 Trillion Club Before 2029",
+      "newsScore": 0.1,
+      "newsHeadline": "Dow Jones Futures Loom After U.S.-Iran Attacks; Nvidia, Micron, Sandisk Flash Buy Signals",
       "url": "https://finance.yahoo.com/quote/AAPL",
       "sectorPe": 31.2
     },
@@ -86,8 +86,8 @@
       "dividendYield": 0.73,
       "relStrength": 2.76,
       "volumeRatio": 0.74,
-      "newsScore": 0.5,
-      "newsHeadline": "Bill Gates Says He Still Won't Invest in Crypto, Calls It a \"Pure Mania-Driven Asset.\" Here's Why He's Right.",
+      "newsScore": 0.6,
+      "newsHeadline": "I Own Both Oracle and NuScale for Different Reasons. Here's How They Fit Together.",
       "url": "https://finance.yahoo.com/quote/MSFT",
       "sectorPe": 31.2
     },
@@ -132,7 +132,7 @@
       "relStrength": 5.14,
       "volumeRatio": 1.05,
       "newsScore": 0.2,
-      "newsHeadline": "The S&P 500's Yield Is at Historic Lows. Here Are 3 Dividend Stocks I'd Buy in September.",
+      "newsHeadline": "NuScale Stock Is Down 83% -- Bargain or Trap? The Honest Answer Will Surprise You.",
       "url": "https://finance.yahoo.com/quote/NVDA",
       "sectorPe": 31.2
     },
@@ -176,8 +176,8 @@
       "dividendYield": null,
       "relStrength": -5.13,
       "volumeRatio": 0.92,
-      "newsScore": 0.4,
-      "newsHeadline": "Prediction: Amazon Will Join Nvidia, Apple, and Alphabet in the $4 Trillion Club Before 2029",
+      "newsScore": 0.5,
+      "newsHeadline": "I Own Both Oracle and NuScale for Different Reasons. Here's How They Fit Together.",
       "url": "https://finance.yahoo.com/quote/AMZN",
       "sectorPe": 171.3
     },
@@ -311,8 +311,8 @@
       "dividendYield": 0.71,
       "relStrength": 2.02,
       "volumeRatio": 0.71,
-      "newsScore": 0.2,
-      "newsHeadline": "American Express’ Q2 Revenue Miss Versus Peers Might Change The Case For Investing In AXP",
+      "newsScore": 0.4,
+      "newsHeadline": "Visa vs. American Express: Which Financial Stock Is the Better Buy?",
       "url": "https://finance.yahoo.com/quote/V",
       "sectorPe": 23.6
     },
