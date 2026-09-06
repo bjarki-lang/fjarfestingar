@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-06T12:03:26.003422+00:00",
+  "updated": "2026-09-06T18:02:59.611169+00:00",
   "us": [
     {
       "ticker": "AAPL",
@@ -41,8 +41,8 @@
       "dividendYield": 0.34,
       "relStrength": 3.03,
       "volumeRatio": 0.98,
-      "newsScore": 0.1,
-      "newsHeadline": "Dow Jones Futures Loom After U.S.-Iran Attacks; Nvidia, Micron, Sandisk Flash Buy Signals",
+      "newsScore": -0.3,
+      "newsHeadline": "KeyBanc warns Apple’s iPhone 18 launch may be a negative catalyst for shares",
       "url": "https://finance.yahoo.com/quote/AAPL",
       "sectorPe": 31.2
     },
@@ -86,8 +86,8 @@
       "dividendYield": 0.73,
       "relStrength": 2.76,
       "volumeRatio": 0.74,
-      "newsScore": 0.6,
-      "newsHeadline": "I Own Both Oracle and NuScale for Different Reasons. Here's How They Fit Together.",
+      "newsScore": 0.4,
+      "newsHeadline": "Should You Buy Snowflake Stock After Its Recent Surge? The Answer Might Shock You.",
       "url": "https://finance.yahoo.com/quote/MSFT",
       "sectorPe": 31.2
     },
@@ -131,8 +131,8 @@
       "dividendYield": 0.43,
       "relStrength": 5.14,
       "volumeRatio": 1.05,
-      "newsScore": 0.2,
-      "newsHeadline": "NuScale Stock Is Down 83% -- Bargain or Trap? The Honest Answer Will Surprise You.",
+      "newsScore": -0.0,
+      "newsHeadline": "Why Nvidia wants Hugging Face to keep helping its rivals: Chart of the Day",
       "url": "https://finance.yahoo.com/quote/NVDA",
       "sectorPe": 31.2
     },
@@ -176,8 +176,8 @@
       "dividendYield": null,
       "relStrength": -5.13,
       "volumeRatio": 0.92,
-      "newsScore": 0.5,
-      "newsHeadline": "I Own Both Oracle and NuScale for Different Reasons. Here's How They Fit Together.",
+      "newsScore": 0.6,
+      "newsHeadline": "2 Superior Growth Stocks to Buy and Hold for 10 Years",
       "url": "https://finance.yahoo.com/quote/AMZN",
       "sectorPe": 171.3
     },
@@ -221,8 +221,8 @@
       "dividendYield": null,
       "relStrength": 10.18,
       "volumeRatio": 1.81,
-      "newsScore": 0.1,
-      "newsHeadline": "Elon Musk Says His New Foundry Can Get Gas Turbines Online 18 Months Faster. Here's What This \"Profound Game Changer\" Would Mean for SpaceX and Tesla.",
+      "newsScore": -0.1,
+      "newsHeadline": "Elon Musk's Tesla Cybertruck Has A New Ford Rival That Wants To Outsell It 5-To-1",
       "url": "https://finance.yahoo.com/quote/TSLA",
       "sectorPe": 171.3
     },
@@ -267,7 +267,7 @@
       "relStrength": -0.11,
       "volumeRatio": 0.89,
       "newsScore": 0.4,
-      "newsHeadline": "JPMorgan's Market Value Is Flirting With $1 Trillion Under Jamie Dimon, a Premium Some Call the 'Jamie Premium.' Does That Valuation Price in Too Much Confidence in His Succession Plan?",
+      "newsHeadline": "Here's the stark reality of a $1.5 million retirement in America — 2026 edition",
       "url": "https://finance.yahoo.com/quote/JPM",
       "sectorPe": 23.6
     },
@@ -311,8 +311,8 @@
       "dividendYield": 0.71,
       "relStrength": 2.02,
       "volumeRatio": 0.71,
-      "newsScore": 0.4,
-      "newsHeadline": "Visa vs. American Express: Which Financial Stock Is the Better Buy?",
+      "newsScore": 0.7,
+      "newsHeadline": "2 Superior Growth Stocks to Buy and Hold for 10 Years",
       "url": "https://finance.yahoo.com/quote/V",
       "sectorPe": 23.6
     },
@@ -446,8 +446,8 @@
       "dividendYield": 2.41,
       "relStrength": 1.49,
       "volumeRatio": 1.22,
-      "newsScore": 0.3,
-      "newsHeadline": "Coca-Cola Stock at $88: Here's Why Investors Should Pause",
+      "newsScore": 0.2,
+      "newsHeadline": "Coca-Cola: Buy, Sell, or Hold After Its Recent Run?",
       "url": "https://finance.yahoo.com/quote/KO",
       "sectorPe": 24.2
     },
