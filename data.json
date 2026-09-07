@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-06T18:02:59.611169+00:00",
+  "updated": "2026-09-07T00:03:49.545288+00:00",
   "us": [
     {
       "ticker": "AAPL",
@@ -41,8 +41,8 @@
       "dividendYield": 0.34,
       "relStrength": 3.03,
       "volumeRatio": 0.98,
-      "newsScore": -0.3,
-      "newsHeadline": "KeyBanc warns Apple’s iPhone 18 launch may be a negative catalyst for shares",
+      "newsScore": 0.0,
+      "newsHeadline": "Dow Jones Futures Fall With Iran, Apple, Inflation In Focus; Nvidia, Micron, Sandisk Flash Buy Signals",
       "url": "https://finance.yahoo.com/quote/AAPL",
       "sectorPe": 31.2
     },
@@ -86,8 +86,8 @@
       "dividendYield": 0.73,
       "relStrength": 2.76,
       "volumeRatio": 0.74,
-      "newsScore": 0.4,
-      "newsHeadline": "Should You Buy Snowflake Stock After Its Recent Surge? The Answer Might Shock You.",
+      "newsScore": -0.1,
+      "newsHeadline": "Can Nvidia (NVDA) Prove it Doesn’t Live or Die by a Handful of Hyperscalers?",
       "url": "https://finance.yahoo.com/quote/MSFT",
       "sectorPe": 31.2
     },
@@ -131,7 +131,7 @@
       "dividendYield": 0.43,
       "relStrength": 5.14,
       "volumeRatio": 1.05,
-      "newsScore": -0.0,
+      "newsScore": 0.5,
       "newsHeadline": "Why Nvidia wants Hugging Face to keep helping its rivals: Chart of the Day",
       "url": "https://finance.yahoo.com/quote/NVDA",
       "sectorPe": 31.2
@@ -176,8 +176,8 @@
       "dividendYield": null,
       "relStrength": -5.13,
       "volumeRatio": 0.92,
-      "newsScore": 0.6,
-      "newsHeadline": "2 Superior Growth Stocks to Buy and Hold for 10 Years",
+      "newsScore": -0.7,
+      "newsHeadline": "Nvidia (NVDA)’s First-Ever Year-Ahead Forecast Puts It on a Path to Pass Apple and Alphabet",
       "url": "https://finance.yahoo.com/quote/AMZN",
       "sectorPe": 171.3
     },
@@ -221,8 +221,8 @@
       "dividendYield": null,
       "relStrength": 10.18,
       "volumeRatio": 1.81,
-      "newsScore": -0.1,
-      "newsHeadline": "Elon Musk's Tesla Cybertruck Has A New Ford Rival That Wants To Outsell It 5-To-1",
+      "newsScore": 0.4,
+      "newsHeadline": "Goldman sees Cybercab giving Tesla a cost advantage in robotaxis",
       "url": "https://finance.yahoo.com/quote/TSLA",
       "sectorPe": 171.3
     },
@@ -537,7 +537,7 @@
       "relStrength": 5.91,
       "volumeRatio": 1.16,
       "newsScore": 0.3,
-      "newsHeadline": "Why I Just Added to My Chevron Position Despite Trump Criticism",
+      "newsHeadline": "Oil Majors Seek Bigger Bargaining Power in Labor Disputes",
       "url": "https://finance.yahoo.com/quote/XOM",
       "sectorPe": 20.3
     },
@@ -581,8 +581,8 @@
       "dividendYield": 3.37,
       "relStrength": 12.94,
       "volumeRatio": 0.69,
-      "newsScore": 0.6,
-      "newsHeadline": "How Much Do You Really Need Invested to Replace a $95,000 Salary With Dividends?",
+      "newsScore": 0.5,
+      "newsHeadline": "Chevron Stayed in Venezuela for 20 Years While Rivals Left. Here's Why Its CEO Says Patience Pays Off.",
       "url": "https://finance.yahoo.com/quote/CVX",
       "sectorPe": 20.3
     },
@@ -671,8 +671,8 @@
       "dividendYield": null,
       "relStrength": -11.57,
       "volumeRatio": 0.91,
-      "newsScore": 0.6,
-      "newsHeadline": "AerCap Holdings (AER) Inspires Confidence with 100th Boeing 787 Delivery",
+      "newsScore": 0.7,
+      "newsHeadline": "United Airlines (UAL) is Sitting on Hundreds of Premium Seats for a Plane that Still Hasn’t Arrived",
       "url": "https://finance.yahoo.com/quote/BA",
       "sectorPe": 55.7
     }
