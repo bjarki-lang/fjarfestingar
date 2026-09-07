@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-07T00:03:49.545288+00:00",
+  "updated": "2026-09-07T06:03:22.188959+00:00",
   "us": [
     {
       "ticker": "AAPL",
@@ -86,8 +86,8 @@
       "dividendYield": 0.73,
       "relStrength": 2.76,
       "volumeRatio": 0.74,
-      "newsScore": -0.1,
-      "newsHeadline": "Can Nvidia (NVDA) Prove it Doesn’t Live or Die by a Handful of Hyperscalers?",
+      "newsScore": -0.4,
+      "newsHeadline": "Microsoft (MSFT)’s Outlook and OpenAI’s ChatGPT Work Both Broke the Same Day",
       "url": "https://finance.yahoo.com/quote/MSFT",
       "sectorPe": 31.2
     },
@@ -131,7 +131,7 @@
       "dividendYield": 0.43,
       "relStrength": 5.14,
       "volumeRatio": 1.05,
-      "newsScore": 0.5,
+      "newsScore": 0.1,
       "newsHeadline": "Why Nvidia wants Hugging Face to keep helping its rivals: Chart of the Day",
       "url": "https://finance.yahoo.com/quote/NVDA",
       "sectorPe": 31.2
@@ -176,8 +176,8 @@
       "dividendYield": null,
       "relStrength": -5.13,
       "volumeRatio": 0.92,
-      "newsScore": -0.7,
-      "newsHeadline": "Nvidia (NVDA)’s First-Ever Year-Ahead Forecast Puts It on a Path to Pass Apple and Alphabet",
+      "newsScore": -0.2,
+      "newsHeadline": "The Pentagon Doubled Down on Its Anthropic Blacklist. Why Amazon and Alphabet Investors Should Care",
       "url": "https://finance.yahoo.com/quote/AMZN",
       "sectorPe": 171.3
     },
@@ -221,8 +221,8 @@
       "dividendYield": null,
       "relStrength": 10.18,
       "volumeRatio": 1.81,
-      "newsScore": 0.4,
-      "newsHeadline": "Goldman sees Cybercab giving Tesla a cost advantage in robotaxis",
+      "newsScore": 0.6,
+      "newsHeadline": "Cathie Wood's 2 Biggest Positions Are Both Elon Musk Companies. Together They Are 16% of the Fund.",
       "url": "https://finance.yahoo.com/quote/TSLA",
       "sectorPe": 171.3
     },
@@ -671,7 +671,7 @@
       "dividendYield": null,
       "relStrength": -11.57,
       "volumeRatio": 0.91,
-      "newsScore": 0.7,
+      "newsScore": 0.4,
       "newsHeadline": "United Airlines (UAL) is Sitting on Hundreds of Premium Seats for a Plane that Still Hasn’t Arrived",
       "url": "https://finance.yahoo.com/quote/BA",
       "sectorPe": 55.7
@@ -899,7 +899,7 @@
       "relStrength": -4.46,
       "volumeRatio": 1.02,
       "newsScore": 0.6,
-      "newsHeadline": "Econocom Group (ENXTBR:ECONB) Stock Sees Fair Value Cut As Rate And Multiple Views Shift",
+      "newsHeadline": "Barclays Hires Two CLSA Veterans for Return to Japan High-Touch Stock Trading",
       "url": "https://finance.yahoo.com/quote/BARC.L",
       "sectorPe": 12.8
     }
