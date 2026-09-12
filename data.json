@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-12T12:03:02.178384+00:00",
+  "updated": "2026-09-12T18:02:56.095303+00:00",
   "us": [
     {
       "ticker": "AAPL",
@@ -40,7 +40,7 @@
       "dividendYield": 0.33,
       "relStrength": 11.11,
       "volumeRatio": 1.21,
-      "newsScore": -0.0,
+      "newsScore": 0.1,
       "newsHeadline": "Apple's AI vision is tailored for the moment of AI panic",
       "url": "https://finance.yahoo.com/quote/AAPL",
       "sectorPe": 31.1
@@ -85,7 +85,7 @@
       "relStrength": 2.02,
       "volumeRatio": 0.67,
       "newsScore": 0.1,
-      "newsHeadline": "Oracle is the most attractive AI cloud, analyst says",
+      "newsHeadline": "Anthropic’s Prisoner’s Dilemma: Dario Amodei Hits the Brakes on AI While Begging Everyone Else to Do the Same",
       "url": "https://finance.yahoo.com/quote/MSFT",
       "sectorPe": 31.1
     },
@@ -128,7 +128,7 @@
       "dividendYield": 0.46,
       "relStrength": -1.3,
       "volumeRatio": 0.7,
-      "newsScore": 0.3,
+      "newsScore": 0.2,
       "newsHeadline": "SpaceX signs $1.1 billion-per month computing deal",
       "url": "https://finance.yahoo.com/quote/NVDA",
       "sectorPe": 31.1
@@ -172,8 +172,8 @@
       "dividendYield": null,
       "relStrength": -2.75,
       "volumeRatio": 0.83,
-      "newsScore": 0.5,
-      "newsHeadline": "Prediction: Owning 100 Shares of Amazon Stock Will Turn $25,000 Into $50,000 by 2030",
+      "newsScore": 0.4,
+      "newsHeadline": "Sirius XM CEO Highlights Cash Flow Growth, New Sports Plans and Ad Expansion at Conference",
       "url": "https://finance.yahoo.com/quote/AMZN",
       "sectorPe": 176.4
     },
@@ -216,7 +216,7 @@
       "dividendYield": null,
       "relStrength": 12.76,
       "volumeRatio": 0.77,
-      "newsScore": -0.7,
+      "newsScore": 0.1,
       "newsHeadline": "Inside Tesla’s Cybertruck and robotaxi experience",
       "url": "https://finance.yahoo.com/quote/TSLA",
       "sectorPe": 176.4
@@ -257,11 +257,11 @@
       "marketCap": 946925731840,
       "weekHigh52": 366.5,
       "weekLow52": 279.1,
-      "dividendYield": 1.68,
+      "dividendYield": 1.7,
       "relStrength": -1.27,
       "volumeRatio": 0.97,
       "newsScore": -0.4,
-      "newsHeadline": "JPMorgan Says Rising Bond Yields Unlikely to Derail Equities as Earnings Momentum Continues",
+      "newsHeadline": "3 High-Yield Dividend Stocks Worth Loading Up On This Month",
       "url": "https://finance.yahoo.com/quote/JPM",
       "sectorPe": 23.5
     },
@@ -302,7 +302,7 @@
       "marketCap": 691647676416,
       "weekHigh52": 385.57,
       "weekLow52": 293.89,
-      "dividendYield": 0.72,
+      "dividendYield": 0.73,
       "relStrength": NaN,
       "volumeRatio": 0.58,
       "newsScore": 0.4,
@@ -339,20 +339,20 @@
         266.35,
         265.58
       ],
-      "pe": 30.9,
+      "pe": 30.8,
       "debtEq": 0.58,
       "sector": "Healthcare",
       "industry": "Drug Manufacturers - General",
       "marketCap": 640020840448,
       "weekHigh52": 281.07,
       "weekLow52": 173.33,
-      "dividendYield": 2.02,
+      "dividendYield": 2.01,
       "relStrength": 3.49,
       "volumeRatio": 0.76,
-      "newsScore": 0.3,
-      "newsHeadline": "How Much Do You Really Need Invested in Dividend Stocks to Replace a $25,000 Income?",
+      "newsScore": 0.5,
+      "newsHeadline": "The Closest Thing to Set-It-and-Forget-It Income: 5 Dividend Kings for Retirees Who Want Peace of Mind",
       "url": "https://finance.yahoo.com/quote/JNJ",
-      "sectorPe": 27.9
+      "sectorPe": 27.6
     },
     {
       "ticker": "UNH",
@@ -383,20 +383,20 @@
         388.28,
         379.09
       ],
-      "pe": 24.9,
+      "pe": 24.4,
       "debtEq": 0.69,
       "sector": "Healthcare",
       "industry": "Healthcare Plans",
       "marketCap": 340269203456,
       "weekHigh52": 461.62,
       "weekLow52": 255.97,
-      "dividendYield": 2.45,
+      "dividendYield": 2.39,
       "relStrength": -5.35,
       "volumeRatio": 1.66,
       "newsScore": 0.1,
       "newsHeadline": "3 Profitable Stocks to Keep an Eye On",
       "url": "https://finance.yahoo.com/quote/UNH",
-      "sectorPe": 27.9
+      "sectorPe": 27.6
     },
     {
       "ticker": "KO",
@@ -437,8 +437,8 @@
       "dividendYield": 2.4,
       "relStrength": 3.0,
       "volumeRatio": 0.69,
-      "newsScore": 0.3,
-      "newsHeadline": "How Much Do You Really Need Invested in Dividend Stocks to Replace a $25,000 Income?",
+      "newsScore": 0.0,
+      "newsHeadline": "Pepsi has a convenience-store problem that's not Coca-Cola",
       "url": "https://finance.yahoo.com/quote/KO",
       "sectorPe": 24.2
     },
@@ -475,14 +475,14 @@
       "debtEq": 0.64,
       "sector": "Consumer Defensive",
       "industry": "Household & Personal Products",
-      "marketCap": 337414619136,
+      "marketCap": 337670406144,
       "weekHigh52": 167.25,
       "weekLow52": 137.62,
-      "dividendYield": 3.05,
+      "dividendYield": 3.0,
       "relStrength": 2.01,
       "volumeRatio": 1.27,
-      "newsScore": 0.4,
-      "newsHeadline": "Kimberly Clark is Down 20% From Its 52-Week High. Is the Dip Worth Buying?",
+      "newsScore": 0.6,
+      "newsHeadline": "The Closest Thing to Set-It-and-Forget-It Income: 5 Dividend Kings for Retirees Who Want Peace of Mind",
       "url": "https://finance.yahoo.com/quote/PG",
       "sectorPe": 24.2
     },
@@ -525,8 +525,8 @@
       "dividendYield": 2.48,
       "relStrength": 5.76,
       "volumeRatio": 0.82,
-      "newsScore": -0.3,
-      "newsHeadline": "Exxon's 2030 Targets Call for $35 Billion More in Cash Flow. Here's the Milestone That Tells You It's on Track By 2028.",
+      "newsScore": -0.1,
+      "newsHeadline": "Chevron Already Committed $7 Billion to Venezuela. Trump Says Exxon Is Next. Here's the Big Difference Between the 2.",
       "url": "https://finance.yahoo.com/quote/XOM",
       "sectorPe": 21.0
     },
@@ -569,8 +569,8 @@
       "dividendYield": 3.33,
       "relStrength": 11.01,
       "volumeRatio": 0.85,
-      "newsScore": 0.0,
-      "newsHeadline": "Jim Cramer Discussed Taking The Long View For Chevron Corporation (NYSE:CVX)",
+      "newsScore": -0.0,
+      "newsHeadline": "Chevron Already Committed $7 Billion to Venezuela. Trump Says Exxon Is Next. Here's the Big Difference Between the 2.",
       "url": "https://finance.yahoo.com/quote/CVX",
       "sectorPe": 21.0
     },
@@ -616,7 +616,7 @@
       "newsScore": 0.4,
       "newsHeadline": "Deere and Caterpillar Are Both Up Over 40% This Year: Take Profits or Hold On for the Ride?",
       "url": "https://finance.yahoo.com/quote/CAT",
-      "sectorPe": 54.4
+      "sectorPe": 55.5
     },
     {
       "ticker": "BA",
@@ -647,11 +647,11 @@
         204.8,
         210.45
       ],
-      "pe": 73.6,
+      "pe": 75.7,
       "debtEq": 7.91,
       "sector": "Industrials",
       "industry": "Aerospace & Defense",
-      "marketCap": 166333366272,
+      "marketCap": 166211829760,
       "weekHigh52": 254.35,
       "weekLow52": 176.77,
       "dividendYield": null,
@@ -660,7 +660,7 @@
       "newsScore": 0.1,
       "newsHeadline": "$131.23 Billion on Paper: What The Boeing Company (BA)’s F-15 Ceiling Contract Really Means for Investors",
       "url": "https://finance.yahoo.com/quote/BA",
-      "sectorPe": 54.4
+      "sectorPe": 55.5
     }
   ],
   "uk": [
@@ -743,7 +743,7 @@
       "debtEq": 0.64,
       "sector": "Healthcare",
       "industry": "Drug Manufacturers - General",
-      "marketCap": 181578891264,
+      "marketCap": 181577711616,
       "weekHigh52": 15732.0,
       "weekLow52": 9892.0,
       "dividendYield": 2.04,
@@ -833,7 +833,7 @@
       "debtEq": 1.75,
       "sector": "Consumer Defensive",
       "industry": "Household & Personal Products",
-      "marketCap": 98005835776,
+      "marketCap": 98005827584,
       "weekHigh52": 5542.11,
       "weekLow52": 3644.0,
       "dividendYield": 3.62,
@@ -885,7 +885,7 @@
       "relStrength": -2.52,
       "volumeRatio": 0.67,
       "newsScore": 0.0,
-      "newsHeadline": "Burnham faces UK economic test as budget day approaches",
+      "newsHeadline": "Barclays Raises 2026 S&P 500 Target to 7,950 After Second-Quarter Earnings",
       "url": "https://finance.yahoo.com/quote/BARC.L",
       "sectorPe": 12.6
     }
