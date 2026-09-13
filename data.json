@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-13T00:03:24.107123+00:00",
+  "updated": "2026-09-13T06:03:17.781545+00:00",
   "us": [
     {
       "ticker": "AAPL",
@@ -40,7 +40,7 @@
       "dividendYield": 0.33,
       "relStrength": 11.11,
       "volumeRatio": 1.21,
-      "newsScore": 0.1,
+      "newsScore": 0.3,
       "newsHeadline": "Apple's AI vision is tailored for the moment of AI panic",
       "url": "https://finance.yahoo.com/quote/AAPL",
       "sectorPe": 31.1
@@ -128,8 +128,8 @@
       "dividendYield": 0.46,
       "relStrength": -1.3,
       "volumeRatio": 0.7,
-      "newsScore": 0.3,
-      "newsHeadline": "$10,000 in Tesla When It Joined the S&P 500 Would Be About $15,700 Today. An Index Fund Would Have Done Better.",
+      "newsScore": 0.0,
+      "newsHeadline": "Oracle's AI Chips Ran 97.9% Utilized Last Quarter. For Nvidia, That Is What a Shortage Looks Like.",
       "url": "https://finance.yahoo.com/quote/NVDA",
       "sectorPe": 31.1
     },
@@ -216,8 +216,8 @@
       "dividendYield": null,
       "relStrength": 12.76,
       "volumeRatio": 0.77,
-      "newsScore": 0.0,
-      "newsHeadline": "Longevity Entrepreneur Peter Diamandis Says He’s Not Trying to Live Longer Because He’s Afraid of Dying — He’s Just Not Done Being ‘Curious’",
+      "newsScore": 0.1,
+      "newsHeadline": "Tesla Is Reclaiming the U.S. EV Market as Legacy Automakers Retreat",
       "url": "https://finance.yahoo.com/quote/TSLA",
       "sectorPe": 176.4
     },
@@ -393,8 +393,8 @@
       "dividendYield": 2.45,
       "relStrength": -5.35,
       "volumeRatio": 1.66,
-      "newsScore": 0.1,
-      "newsHeadline": "3 Profitable Stocks to Keep an Eye On",
+      "newsScore": 0.3,
+      "newsHeadline": "Dear UnitedHealth Stock Fans, Mark Your Calendars for October 1",
       "url": "https://finance.yahoo.com/quote/UNH",
       "sectorPe": 27.6
     },
@@ -481,8 +481,8 @@
       "dividendYield": 3.05,
       "relStrength": 2.01,
       "volumeRatio": 1.27,
-      "newsScore": 0.3,
-      "newsHeadline": "Is Kenvue Underperforming the Nasdaq?",
+      "newsScore": 0.6,
+      "newsHeadline": "The Closest Thing to Set-It-and-Forget-It Income: 5 Dividend Kings for Retirees Who Want Peace of Mind",
       "url": "https://finance.yahoo.com/quote/PG",
       "sectorPe": 24.2
     },
@@ -657,8 +657,8 @@
       "dividendYield": null,
       "relStrength": -7.79,
       "volumeRatio": 0.83,
-      "newsScore": 0.1,
-      "newsHeadline": "$131.23 Billion on Paper: What The Boeing Company (BA)’s F-15 Ceiling Contract Really Means for Investors",
+      "newsScore": 0.3,
+      "newsHeadline": "If It Delivers Profit, Boeing (BA)’s Defense Franchise Can Buffer Its Commercial Recovery",
       "url": "https://finance.yahoo.com/quote/BA",
       "sectorPe": 55.5
     }
