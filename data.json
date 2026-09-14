@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-13T18:03:08.501993+00:00",
+  "updated": "2026-09-14T00:03:49.801781+00:00",
   "us": [
     {
       "ticker": "AAPL",
@@ -40,7 +40,7 @@
       "dividendYield": 0.33,
       "relStrength": 11.11,
       "volumeRatio": 1.21,
-      "newsScore": 0.0,
+      "newsScore": -0.1,
       "newsHeadline": "Apple's iPhone Duo event should put the bears to rest",
       "url": "https://finance.yahoo.com/quote/AAPL",
       "sectorPe": 31.1
@@ -84,8 +84,8 @@
       "dividendYield": 0.73,
       "relStrength": 2.02,
       "volumeRatio": 0.67,
-      "newsScore": 0.0,
-      "newsHeadline": "Billionaire Bill Ackman Trimmed This Big Tech Position to Back These 2 AI Contenders",
+      "newsScore": 0.2,
+      "newsHeadline": "Amazon, Alphabet, and Microsoft: Which 2 to Buy and Which 1 to Avoid",
       "url": "https://finance.yahoo.com/quote/MSFT",
       "sectorPe": 31.1
     },
@@ -128,8 +128,8 @@
       "dividendYield": 0.46,
       "relStrength": -1.3,
       "volumeRatio": 0.7,
-      "newsScore": 0.5,
-      "newsHeadline": "Here Are the Companies in Nvidia's $99 Billion Artificial Intelligence (AI) Portfolio. These 3 Are the Best of the Bunch",
+      "newsScore": 0.3,
+      "newsHeadline": "Netflix Stock Will Be Worth More by 2028: My Case for Buying NFLX Now",
       "url": "https://finance.yahoo.com/quote/NVDA",
       "sectorPe": 31.1
     },
@@ -173,7 +173,7 @@
       "relStrength": -2.75,
       "volumeRatio": 0.83,
       "newsScore": 0.1,
-      "newsHeadline": "Billionaire Bill Ackman Trimmed This Big Tech Position to Back These 2 AI Contenders",
+      "newsHeadline": "Jeff Bezos Built Amazon Into a $1.8 Trillion Company. Here's How Andy Jassy Is Making It Worth Even More.",
       "url": "https://finance.yahoo.com/quote/AMZN",
       "sectorPe": 176.4
     },
@@ -217,7 +217,7 @@
       "relStrength": 12.76,
       "volumeRatio": 0.77,
       "newsScore": 0.0,
-      "newsHeadline": "New Tesla Roadster Uses SpaceX Tech. Will It Impact the Stock Price?",
+      "newsHeadline": "Cathie Wood Sees an Economic Boom Wall Street Isn’t Pricing In",
       "url": "https://finance.yahoo.com/quote/TSLA",
       "sectorPe": 176.4
     },
@@ -261,7 +261,7 @@
       "relStrength": -1.27,
       "volumeRatio": 0.97,
       "newsScore": -0.0,
-      "newsHeadline": "J.P. Morgan Closes $1.1B US Industrial Net Lease Fund",
+      "newsHeadline": "From Fashion to Concrete: J.P. Morgan Says Buy These 2 Stocks",
       "url": "https://finance.yahoo.com/quote/JPM",
       "sectorPe": 23.5
     },
@@ -438,7 +438,7 @@
       "relStrength": 3.0,
       "volumeRatio": 0.69,
       "newsScore": 0.0,
-      "newsHeadline": "Pepsi has a convenience-store problem that's not Coca-Cola",
+      "newsHeadline": "Coca-Cola vs. Pepsi: Five Years, Two Completely Different Outcomes",
       "url": "https://finance.yahoo.com/quote/KO",
       "sectorPe": 24.2
     },
@@ -657,8 +657,8 @@
       "dividendYield": null,
       "relStrength": -7.79,
       "volumeRatio": 0.83,
-      "newsScore": 0.3,
-      "newsHeadline": "If It Delivers Profit, Boeing (BA)’s Defense Franchise Can Buffer Its Commercial Recovery",
+      "newsScore": 0.2,
+      "newsHeadline": "Boeing Delivered 51 Jets in August. Here's Why the Stock is Finally Back Above $200.",
       "url": "https://finance.yahoo.com/quote/BA",
       "sectorPe": 55.5
     }
