@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-14T00:03:49.801781+00:00",
+  "updated": "2026-09-14T06:03:45.625551+00:00",
   "us": [
     {
       "ticker": "AAPL",
@@ -40,7 +40,7 @@
       "dividendYield": 0.33,
       "relStrength": 11.11,
       "volumeRatio": 1.21,
-      "newsScore": -0.1,
+      "newsScore": 0.2,
       "newsHeadline": "Apple's iPhone Duo event should put the bears to rest",
       "url": "https://finance.yahoo.com/quote/AAPL",
       "sectorPe": 31.1
@@ -85,7 +85,7 @@
       "relStrength": 2.02,
       "volumeRatio": 0.67,
       "newsScore": 0.2,
-      "newsHeadline": "Amazon, Alphabet, and Microsoft: Which 2 to Buy and Which 1 to Avoid",
+      "newsHeadline": "Slow Down AI? Microsoft CEO, President Trump Line Up Against Anthropic's Call — Big Tech's Divide Is Now Out In The Open",
       "url": "https://finance.yahoo.com/quote/MSFT",
       "sectorPe": 31.1
     },
@@ -128,8 +128,8 @@
       "dividendYield": 0.46,
       "relStrength": -1.3,
       "volumeRatio": 0.7,
-      "newsScore": 0.3,
-      "newsHeadline": "Netflix Stock Will Be Worth More by 2028: My Case for Buying NFLX Now",
+      "newsScore": -0.2,
+      "newsHeadline": "Dow Jones Futures: Techs Tumble As Anthropic Leads Call For AI Slowdown; Fed Meeting Ahead",
       "url": "https://finance.yahoo.com/quote/NVDA",
       "sectorPe": 31.1
     },
@@ -172,8 +172,8 @@
       "dividendYield": null,
       "relStrength": -2.75,
       "volumeRatio": 0.83,
-      "newsScore": 0.1,
-      "newsHeadline": "Jeff Bezos Built Amazon Into a $1.8 Trillion Company. Here's How Andy Jassy Is Making It Worth Even More.",
+      "newsScore": 0.2,
+      "newsHeadline": "Anthropic Picks Nasdaq for Its $2 Trillion IPO, Tells Investors It Expects a Second Consecutive Profitable Quarter: Reports",
       "url": "https://finance.yahoo.com/quote/AMZN",
       "sectorPe": 176.4
     },
@@ -216,8 +216,8 @@
       "dividendYield": null,
       "relStrength": 12.76,
       "volumeRatio": 0.77,
-      "newsScore": 0.0,
-      "newsHeadline": "Cathie Wood Sees an Economic Boom Wall Street Isn’t Pricing In",
+      "newsScore": 0.2,
+      "newsHeadline": "Dow Jones Futures: Techs Tumble As Anthropic Leads Call For AI Slowdown; Fed Meeting Ahead",
       "url": "https://finance.yahoo.com/quote/TSLA",
       "sectorPe": 176.4
     },
@@ -260,8 +260,8 @@
       "dividendYield": 1.7,
       "relStrength": -1.27,
       "volumeRatio": 0.97,
-      "newsScore": -0.0,
-      "newsHeadline": "From Fashion to Concrete: J.P. Morgan Says Buy These 2 Stocks",
+      "newsScore": 0.2,
+      "newsHeadline": "Goldman Sachs, JP Morgan expect September Fed hike as inflation lingers",
       "url": "https://finance.yahoo.com/quote/JPM",
       "sectorPe": 23.5
     },
@@ -302,11 +302,11 @@
       "marketCap": 691647676416,
       "weekHigh52": 385.57,
       "weekLow52": 293.89,
-      "dividendYield": 0.73,
+      "dividendYield": 0.72,
       "relStrength": NaN,
       "volumeRatio": 0.58,
       "newsScore": 0.5,
-      "newsHeadline": "Agentic commerce: Is Payments the winner this time?",
+      "newsHeadline": "AI agents to start spending your money with Visa, Mastercard",
       "url": "https://finance.yahoo.com/quote/V",
       "sectorPe": 23.5
     },
@@ -884,8 +884,8 @@
       "dividendYield": 2.33,
       "relStrength": -2.52,
       "volumeRatio": 0.67,
-      "newsScore": 0.0,
-      "newsHeadline": "Barclays Raises 2026 S&P 500 Target to 7,950 After Second-Quarter Earnings",
+      "newsScore": -0.0,
+      "newsHeadline": "UAL, AAL, DAL Stocks Suffer Weekly Loss: Barclays Cuts Price Targets But Sees A Silver Lining",
       "url": "https://finance.yahoo.com/quote/BARC.L",
       "sectorPe": 12.6
     }
