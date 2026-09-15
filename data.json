@@ -1,11 +1,11 @@
 {
-  "updated": "2026-09-15T00:03:31.612076+00:00",
+  "updated": "2026-09-15T06:03:33.661130+00:00",
   "us": [
     {
       "ticker": "AAPL",
       "name": "Apple Inc.",
-      "price": NaN,
-      "chg": NaN,
+      "price": 333.08,
+      "chg": 0.24,
       "hist": [
         305.59,
         310.03,
@@ -26,7 +26,7 @@
         315.34,
         326.57,
         332.27,
-        NaN
+        333.08
       ],
       "pe": 38.2,
       "debtEq": 0.78,
@@ -36,18 +36,18 @@
       "weekHigh52": 344.57,
       "weekLow52": 235.03,
       "dividendYield": 0.33,
-      "relStrength": NaN,
-      "volumeRatio": 0.89,
-      "newsScore": 0.0,
-      "newsHeadline": "PayPal takes No. 1 in tech power ranking",
+      "relStrength": 10.61,
+      "volumeRatio": 0.91,
+      "newsScore": 0.2,
+      "newsHeadline": "Amazon Could Buy Up to $60 Billion From Qualcomm Just as Apple Brings Modems In-House. Is the AI Pivot Real?",
       "url": "https://finance.yahoo.com/quote/AAPL",
       "sectorPe": 31.0
     },
     {
       "ticker": "MSFT",
       "name": "Microsoft Corporation",
-      "price": NaN,
-      "chg": NaN,
+      "price": 505.41,
+      "chg": 1.97,
       "hist": [
         479.45,
         480.73,
@@ -68,7 +68,7 @@
         491.65,
         492.44,
         495.63,
-        NaN
+        505.41
       ],
       "pe": 28.2,
       "debtEq": 0.29,
@@ -78,9 +78,9 @@
       "weekHigh52": 553.72,
       "weekLow52": 349.2,
       "dividendYield": 0.73,
-      "relStrength": NaN,
-      "volumeRatio": 1.09,
-      "newsScore": -0.4,
+      "relStrength": 7.02,
+      "volumeRatio": 1.1,
+      "newsScore": -0.2,
       "newsHeadline": "Tech stocks today: AI warnings send shock through chip stocks",
       "url": "https://finance.yahoo.com/quote/MSFT",
       "sectorPe": 31.0
@@ -88,8 +88,8 @@
     {
       "ticker": "NVDA",
       "name": "NVIDIA Corporation",
-      "price": NaN,
-      "chg": NaN,
+      "price": 210.96,
+      "chg": -3.36,
       "hist": [
         224.76,
         219.49,
@@ -110,7 +110,7 @@
         223.42,
         218.36,
         218.29,
-        NaN
+        210.96
       ],
       "pe": 26.7,
       "debtEq": 0.17,
@@ -120,7 +120,7 @@
       "weekHigh52": 236.54,
       "weekLow52": 164.27,
       "dividendYield": 0.46,
-      "relStrength": NaN,
+      "relStrength": -4.53,
       "volumeRatio": 1.01,
       "newsScore": 0.5,
       "newsHeadline": "Tech pulls back on AI concerns, cybersecurity takes a step up",
@@ -130,8 +130,8 @@
     {
       "ticker": "AMZN",
       "name": "Amazon.com, Inc.",
-      "price": NaN,
-      "chg": NaN,
+      "price": 253.54,
+      "chg": -1.26,
       "hist": [
         261.31,
         259.45,
@@ -152,7 +152,7 @@
         252.4,
         251.89,
         256.78,
-        NaN
+        253.54
       ],
       "pe": 20.4,
       "debtEq": 0.46,
@@ -162,9 +162,9 @@
       "weekHigh52": 287.2,
       "weekLow52": 196.0,
       "dividendYield": null,
-      "relStrength": NaN,
-      "volumeRatio": 1.04,
-      "newsScore": -0.1,
+      "relStrength": -1.36,
+      "volumeRatio": 1.07,
+      "newsScore": 0.0,
       "newsHeadline": "Tech pulls back on AI concerns, cybersecurity takes a step up",
       "url": "https://finance.yahoo.com/quote/AMZN",
       "sectorPe": 173.3
@@ -172,8 +172,8 @@
     {
       "ticker": "TSLA",
       "name": "Tesla, Inc.",
-      "price": NaN,
-      "chg": NaN,
+      "price": 358.97,
+      "chg": -1.77,
       "hist": [
         339.3,
         336.87,
@@ -194,7 +194,7 @@
         367.81,
         363.56,
         365.44,
-        NaN
+        358.97
       ],
       "pe": 326.3,
       "debtEq": 0.18,
@@ -204,9 +204,9 @@
       "weekHigh52": 498.83,
       "weekLow52": 297.38,
       "dividendYield": null,
-      "relStrength": NaN,
-      "volumeRatio": 0.82,
-      "newsScore": -0.0,
+      "relStrength": 7.41,
+      "volumeRatio": 0.83,
+      "newsScore": -0.3,
       "newsHeadline": "Elon Musk: I've been 'sounding the alarm' on AI for a while",
       "url": "https://finance.yahoo.com/quote/TSLA",
       "sectorPe": 173.3
@@ -214,8 +214,8 @@
     {
       "ticker": "JPM",
       "name": "JP Morgan Chase & Co.",
-      "price": NaN,
-      "chg": NaN,
+      "price": 350.13,
+      "chg": -1.71,
       "hist": [
         360.96,
         363.25,
@@ -236,7 +236,7 @@
         354.71,
         353.56,
         356.23,
-        NaN
+        350.13
       ],
       "pe": 15.0,
       "debtEq": null,
@@ -246,18 +246,18 @@
       "weekHigh52": 366.5,
       "weekLow52": 279.1,
       "dividendYield": 1.68,
-      "relStrength": NaN,
-      "volumeRatio": 1.47,
+      "relStrength": -1.39,
+      "volumeRatio": 1.72,
       "newsScore": 0.2,
-      "newsHeadline": "JPMorgan Chase & Co. (JPM) Declines More Than Market: Some Information for Investors",
+      "newsHeadline": "Should JPMorgan’s Long-Dated Callable Debt Push Require Action From JPMorgan Chase (JPM) Investors?",
       "url": "https://finance.yahoo.com/quote/JPM",
       "sectorPe": 23.5
     },
     {
       "ticker": "V",
       "name": "Visa Inc.",
-      "price": NaN,
-      "chg": NaN,
+      "price": 375.28,
+      "chg": 1.3,
       "hist": [
         358.84,
         364.25,
@@ -278,7 +278,7 @@
         367.39,
         367.21,
         370.45,
-        NaN
+        375.28
       ],
       "pe": 32.0,
       "debtEq": 0.68,
@@ -288,8 +288,8 @@
       "weekHigh52": 385.57,
       "weekLow52": 293.89,
       "dividendYield": 0.72,
-      "relStrength": NaN,
-      "volumeRatio": 1.0,
+      "relStrength": 6.19,
+      "volumeRatio": 1.01,
       "newsScore": 0.5,
       "newsHeadline": "Visa (V) Increases Despite Market Slip: Here's What You Need to Know",
       "url": "https://finance.yahoo.com/quote/V",
@@ -298,8 +298,8 @@
     {
       "ticker": "JNJ",
       "name": "Johnson & Johnson",
-      "price": NaN,
-      "chg": NaN,
+      "price": 266.32,
+      "chg": 0.28,
       "hist": [
         261.08,
         269.78,
@@ -320,7 +320,7 @@
         267.08,
         266.35,
         265.58,
-        NaN
+        266.32
       ],
       "pe": 30.9,
       "debtEq": 0.58,
@@ -330,39 +330,39 @@
       "weekHigh52": 281.07,
       "weekLow52": 173.33,
       "dividendYield": 2.02,
-      "relStrength": NaN,
-      "volumeRatio": 0.74,
-      "newsScore": 0.2,
-      "newsHeadline": "CTNM Stock Slumps 10% After-Hours — What’s The JNJ Connection?",
+      "relStrength": 3.62,
+      "volumeRatio": 0.75,
+      "newsScore": 0.1,
+      "newsHeadline": "AI Safety Fears Drive Investors to J&J, Costco, and CrowdStrike for Cybersecurity",
       "url": "https://finance.yahoo.com/quote/JNJ",
       "sectorPe": 27.8
     },
     {
       "ticker": "UNH",
       "name": "UnitedHealth Group Incorporated",
-      "price": NaN,
-      "chg": NaN,
+      "price": 383.55,
+      "chg": 1.8,
       "hist": [
-        395.62,
-        393.93,
-        388.61,
-        384.85,
-        390.11,
-        398.76,
-        396.59,
-        401.01,
-        395.05,
-        392.95,
-        389.41,
-        396.3,
-        399.66,
-        400.94,
-        397.14,
-        400.84,
-        393.06,
-        388.28,
-        379.09,
-        NaN
+        393.2,
+        391.52,
+        386.23,
+        382.49,
+        387.72,
+        396.32,
+        394.16,
+        398.56,
+        392.63,
+        390.55,
+        387.03,
+        393.87,
+        397.21,
+        398.49,
+        394.71,
+        398.39,
+        390.65,
+        385.9,
+        376.77,
+        383.55
       ],
       "pe": 24.7,
       "debtEq": 0.69,
@@ -372,18 +372,18 @@
       "weekHigh52": 461.62,
       "weekLow52": 255.97,
       "dividendYield": 2.45,
-      "relStrength": NaN,
-      "volumeRatio": 0.8,
-      "newsScore": 0.5,
-      "newsHeadline": "CVS Stock Returned $24B In Cash: Why Did It Still Lag The Market?",
+      "relStrength": -0.84,
+      "volumeRatio": 0.93,
+      "newsScore": 0.4,
+      "newsHeadline": "UnitedHealth Partners with TPG to Strengthen Underperforming Florida Clinics",
       "url": "https://finance.yahoo.com/quote/UNH",
       "sectorPe": 27.8
     },
     {
       "ticker": "KO",
       "name": "Coca-Cola Company (The)",
-      "price": NaN,
-      "chg": NaN,
+      "price": 89.35,
+      "chg": 1.2,
       "hist": [
         86.98,
         88.82,
@@ -404,7 +404,7 @@
         87.55,
         87.83,
         88.29,
-        NaN
+        89.35
       ],
       "pe": 26.8,
       "debtEq": 1.16,
@@ -414,18 +414,18 @@
       "weekHigh52": 92.49,
       "weekLow52": 65.35,
       "dividendYield": 2.4,
-      "relStrength": NaN,
+      "relStrength": 4.33,
       "volumeRatio": 0.95,
-      "newsScore": 0.1,
-      "newsHeadline": "Coca-Cola (KO) Ascends While Market Falls: Some Facts to Note",
+      "newsScore": 0.4,
+      "newsHeadline": "Own Coca-Cola by Sept. 15 to Qualify for the Oct. 1 Dividend. Is the Real Prize Holding Enough Shares for $1,000 in Yearly Passive Income?",
       "url": "https://finance.yahoo.com/quote/KO",
       "sectorPe": 24.5
     },
     {
       "ticker": "PG",
       "name": "Procter & Gamble Company (The)",
-      "price": NaN,
-      "chg": NaN,
+      "price": 146.13,
+      "chg": 0.59,
       "hist": [
         143.12,
         143.45,
@@ -446,18 +446,18 @@
         142.64,
         142.97,
         145.27,
-        NaN
+        146.13
       ],
       "pe": 22.1,
       "debtEq": 0.64,
       "sector": "Consumer Defensive",
       "industry": "Household & Personal Products",
-      "marketCap": 339412123648,
+      "marketCap": 339669417984,
       "weekHigh52": 167.25,
       "weekLow52": 137.62,
       "dividendYield": 3.0,
-      "relStrength": NaN,
-      "volumeRatio": 0.91,
+      "relStrength": 3.71,
+      "volumeRatio": 0.92,
       "newsScore": 0.4,
       "newsHeadline": "Can Procter & Gamble's Fabric & Home Care Segment Regain Momentum?",
       "url": "https://finance.yahoo.com/quote/PG",
@@ -466,8 +466,8 @@
     {
       "ticker": "XOM",
       "name": "ExxonMobil Holdings Corporation",
-      "price": NaN,
-      "chg": NaN,
+      "price": 165.08,
+      "chg": -0.55,
       "hist": [
         161.46,
         165.56,
@@ -488,7 +488,7 @@
         164.23,
         165.23,
         165.99,
-        NaN
+        165.08
       ],
       "pe": 21.2,
       "debtEq": 0.16,
@@ -498,8 +498,8 @@
       "weekHigh52": 176.41,
       "weekLow52": 110.39,
       "dividendYield": 2.48,
-      "relStrength": NaN,
-      "volumeRatio": 0.97,
+      "relStrength": 3.85,
+      "volumeRatio": 0.99,
       "newsScore": -0.1,
       "newsHeadline": "Global Fuel Squeeze Triggers U.S. Refiners Stocks Rally",
       "url": "https://finance.yahoo.com/quote/XOM",
@@ -508,8 +508,8 @@
     {
       "ticker": "CVX",
       "name": "Chevron Corporation",
-      "price": NaN,
-      "chg": NaN,
+      "price": 212.17,
+      "chg": -0.88,
       "hist": [
         200.95,
         203.96,
@@ -530,7 +530,7 @@
         213.81,
         212.76,
         214.06,
-        NaN
+        212.17
       ],
       "pe": 20.4,
       "debtEq": 0.19,
@@ -540,7 +540,7 @@
       "weekHigh52": 217.65,
       "weekLow52": 146.49,
       "dividendYield": 3.33,
-      "relStrength": NaN,
+      "relStrength": 7.19,
       "volumeRatio": 1.21,
       "newsScore": 0.2,
       "newsHeadline": "Diversified Upstream E&P Stocks Q2 Teardown: Chevron (NYSE:CVX) Vs The Rest",
@@ -550,8 +550,8 @@
     {
       "ticker": "CAT",
       "name": "Caterpillar, Inc.",
-      "price": NaN,
-      "chg": NaN,
+      "price": 784.0,
+      "chg": -4.22,
       "hist": [
         881.65,
         840.87,
@@ -572,7 +572,7 @@
         815.56,
         805.0,
         818.57,
-        NaN
+        784.0
       ],
       "pe": 33.7,
       "debtEq": 2.33,
@@ -582,8 +582,8 @@
       "weekHigh52": 1073.46,
       "weekLow52": 430.61,
       "dividendYield": 0.8,
-      "relStrength": NaN,
-      "volumeRatio": 1.01,
+      "relStrength": -9.47,
+      "volumeRatio": 1.02,
       "newsScore": -0.3,
       "newsHeadline": "3 Stocks That Offer AI Exposure and Dividends",
       "url": "https://finance.yahoo.com/quote/CAT",
@@ -592,8 +592,8 @@
     {
       "ticker": "BA",
       "name": "Boeing Company (The)",
-      "price": NaN,
-      "chg": NaN,
+      "price": 210.27,
+      "chg": -0.09,
       "hist": [
         225.95,
         223.06,
@@ -614,17 +614,17 @@
         206.42,
         204.8,
         210.45,
-        NaN
+        210.27
       ],
       "pe": 75.6,
       "debtEq": 7.91,
       "sector": "Industrials",
       "industry": "Aerospace & Defense",
-      "marketCap": 166191120384,
+      "marketCap": 166069682176,
       "weekHigh52": 254.35,
       "weekLow52": 176.77,
       "dividendYield": null,
-      "relStrength": NaN,
+      "relStrength": -5.33,
       "volumeRatio": 0.64,
       "newsScore": 0.5,
       "newsHeadline": "Boeing Wins $13.4 Billion KC-46 Air Force Contract Amid Defense Awards",
@@ -708,13 +708,13 @@
       "debtEq": 0.64,
       "sector": "Healthcare",
       "industry": "Drug Manufacturers - General",
-      "marketCap": 188495888384,
+      "marketCap": 188494659584,
       "weekHigh52": 15732.0,
       "weekLow52": null,
       "dividendYield": 2.04,
       "relStrength": NaN,
       "volumeRatio": 0.24,
-      "newsScore": -0.1,
+      "newsScore": 0.2,
       "newsHeadline": "Why the Market Dipped But Astrazeneca (AZN) Gained Today",
       "url": "https://finance.yahoo.com/quote/AZN.L",
       "sectorPe": 24.6
@@ -757,8 +757,8 @@
       "dividendYield": 3.26,
       "relStrength": NaN,
       "volumeRatio": 0.03,
-      "newsScore": 0.4,
-      "newsHeadline": "Energy & Utilities Roundup: Market Talk",
+      "newsScore": 0.3,
+      "newsHeadline": "Wealthy Investors Flock To Oil & Gas Assets Amid Energy Crisis",
       "url": "https://finance.yahoo.com/quote/SHEL.L",
       "sectorPe": 10.7
     },
@@ -794,7 +794,7 @@
       "debtEq": 1.75,
       "sector": "Consumer Defensive",
       "industry": "Household & Personal Products",
-      "marketCap": 101138833408,
+      "marketCap": 101138825216,
       "weekHigh52": 5542.11,
       "weekLow52": null,
       "dividendYield": 3.62,
@@ -851,6 +851,6 @@
   ],
   "benchmarks": {
     "us": -1.61,
-    "uk": -0.93
+    "uk": -0.49
   }
 }
