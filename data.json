@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-16T06:03:11.139150+00:00",
+  "updated": "2026-09-16T12:03:36.815643+00:00",
   "us": [
     {
       "ticker": "AAPL",
@@ -29,20 +29,20 @@
         333.08,
         331.34
       ],
-      "pe": 38.2,
+      "pe": 38.0,
       "debtEq": 0.78,
       "sector": "Technology",
       "industry": "Consumer Electronics",
       "marketCap": 4835635625984,
       "weekHigh52": 344.57,
-      "weekLow52": 236.32,
-      "dividendYield": 0.32,
+      "weekLow52": 236.65,
+      "dividendYield": 0.33,
       "relStrength": 10.49,
       "volumeRatio": 0.74,
-      "newsScore": 0.2,
-      "newsHeadline": "Apple Finally Built a Smarter Siri. It Still Hasn’t Caught Up in the AI Race.",
+      "newsScore": -0.0,
+      "newsHeadline": "Alphabet Vs. Apple: Heavy Regulatory Pressure Threatens Cash Flows More At This Firm",
       "url": "https://finance.yahoo.com/quote/AAPL",
-      "sectorPe": 31.1
+      "sectorPe": 31.0
     },
     {
       "ticker": "MSFT",
@@ -82,10 +82,10 @@
       "dividendYield": 0.72,
       "relStrength": 5.75,
       "volumeRatio": 0.84,
-      "newsScore": 0.4,
-      "newsHeadline": "Why Did Roblox Stock Surge Past The Target An Analyst Just Raised?",
+      "newsScore": 0.1,
+      "newsHeadline": "Death of software 'greatly overstated' as sector flips the script on chip stocks: Chart of the Day",
       "url": "https://finance.yahoo.com/quote/MSFT",
-      "sectorPe": 31.1
+      "sectorPe": 31.0
     },
     {
       "ticker": "NVDA",
@@ -115,7 +115,7 @@
         210.96,
         212.17
       ],
-      "pe": 26.8,
+      "pe": 26.7,
       "debtEq": 0.17,
       "sector": "Technology",
       "industry": "Semiconductors",
@@ -125,10 +125,10 @@
       "dividendYield": 0.47,
       "relStrength": -3.54,
       "volumeRatio": 0.67,
-      "newsScore": -0.0,
-      "newsHeadline": "Tech stocks today: CEOs call for pacing AI, as Nvidia CEO says extinction fears are made up",
+      "newsScore": 0.2,
+      "newsHeadline": "AI will not wipe out humanity: Nvidia backed tech CEO declares",
       "url": "https://finance.yahoo.com/quote/NVDA",
-      "sectorPe": 31.1
+      "sectorPe": 31.0
     },
     {
       "ticker": "AMZN",
@@ -158,7 +158,7 @@
         253.54,
         248.42
       ],
-      "pe": 20.4,
+      "pe": 20.0,
       "debtEq": 0.46,
       "sector": "Consumer Cyclical",
       "industry": "Internet Retail",
@@ -168,10 +168,10 @@
       "dividendYield": null,
       "relStrength": -2.87,
       "volumeRatio": 1.12,
-      "newsScore": 0.5,
-      "newsHeadline": "Is Amazon Stock a Buy After Its Best Quarter in Years?",
+      "newsScore": 1.0,
+      "newsHeadline": "These 7 Stocks Are Analyst Favorites For Magnificent Earnings Growth; Cloudflare Hits Buy Point",
       "url": "https://finance.yahoo.com/quote/AMZN",
-      "sectorPe": 176.8
+      "sectorPe": 176.7
     },
     {
       "ticker": "TSLA",
@@ -211,10 +211,10 @@
       "dividendYield": null,
       "relStrength": 7.15,
       "volumeRatio": 0.78,
-      "newsScore": -0.0,
+      "newsScore": 0.6,
       "newsHeadline": "Musk hints (again) at possible SpaceX, Tesla merger",
       "url": "https://finance.yahoo.com/quote/TSLA",
-      "sectorPe": 176.8
+      "sectorPe": 176.7
     },
     {
       "ticker": "JPM",
@@ -244,20 +244,20 @@
         350.13,
         352.49
       ],
-      "pe": 15.0,
+      "pe": 15.1,
       "debtEq": null,
       "sector": "Financial Services",
       "industry": "Banks - Diversified",
       "marketCap": 936984051712,
       "weekHigh52": 366.5,
       "weekLow52": 279.1,
-      "dividendYield": 1.71,
+      "dividendYield": 1.7,
       "relStrength": -0.29,
       "volumeRatio": 2.42,
-      "newsScore": -0.1,
-      "newsHeadline": "JPMorgan aggressively double-upgrades another AI stock by 41%",
+      "newsScore": 0.3,
+      "newsHeadline": "JPMorgan Says Institutions Don't Want Stablecoins Yet. Tether's CEO Just Laughed.",
       "url": "https://finance.yahoo.com/quote/JPM",
-      "sectorPe": 23.4
+      "sectorPe": 23.5
     },
     {
       "ticker": "V",
@@ -297,10 +297,10 @@
       "dividendYield": 0.71,
       "relStrength": 6.74,
       "volumeRatio": 0.81,
-      "newsScore": 0.2,
-      "newsHeadline": "Did Greg Abel Already Make His First Big Mistake as Berkshire Hathaway CEO?",
+      "newsScore": -0.2,
+      "newsHeadline": "Ripple’s RLUSD Is Building the Same Institutional Settlement Thesis as Circle Arc — Through Acquisitions Instead of Validators",
       "url": "https://finance.yahoo.com/quote/V",
-      "sectorPe": 23.4
+      "sectorPe": 23.5
     },
     {
       "ticker": "JNJ",
@@ -340,10 +340,10 @@
       "dividendYield": 2.01,
       "relStrength": 4.4,
       "volumeRatio": 0.85,
-      "newsScore": -0.2,
-      "newsHeadline": "Merck Stock: Is The $70 Billion Pipeline Worth the Premium?",
+      "newsScore": -0.4,
+      "newsHeadline": "Johnson & Johnson (JNJ) Reports Stronger Survival Data In EGFR Mutated Lung Cancer",
       "url": "https://finance.yahoo.com/quote/JNJ",
-      "sectorPe": 27.8
+      "sectorPe": 27.6
     },
     {
       "ticker": "UNH",
@@ -373,20 +373,20 @@
         383.55,
         375.93
       ],
-      "pe": 24.6,
+      "pe": 24.2,
       "debtEq": 0.69,
       "sector": "Healthcare",
       "industry": "Healthcare Plans",
       "marketCap": 337432805376,
       "weekHigh52": 461.62,
       "weekLow52": 255.97,
-      "dividendYield": 2.42,
+      "dividendYield": 2.47,
       "relStrength": -2.33,
       "volumeRatio": 0.92,
       "newsScore": 0.5,
       "newsHeadline": "How UnitedHealth (UNH) Leads the AI Revolution in the Insurance Industry",
       "url": "https://finance.yahoo.com/quote/UNH",
-      "sectorPe": 27.8
+      "sectorPe": 27.6
     },
     {
       "ticker": "KO",
@@ -423,10 +423,10 @@
       "marketCap": 381679108096,
       "weekHigh52": 92.49,
       "weekLow52": 65.35,
-      "dividendYield": 2.37,
+      "dividendYield": 2.39,
       "relStrength": 4.66,
       "volumeRatio": 0.89,
-      "newsScore": -0.0,
+      "newsScore": -0.1,
       "newsHeadline": "Coca-Cola's CFO doesn't see AI as 'the path forward' for its labor force",
       "url": "https://finance.yahoo.com/quote/KO",
       "sectorPe": 24.5
@@ -463,10 +463,10 @@
       "debtEq": 0.64,
       "sector": "Consumer Defensive",
       "industry": "Household & Personal Products",
-      "marketCap": 340924596224,
+      "marketCap": 340666351616,
       "weekHigh52": 167.25,
       "weekLow52": 137.62,
-      "dividendYield": 2.98,
+      "dividendYield": 2.97,
       "relStrength": 4.54,
       "volumeRatio": 0.93,
       "newsScore": 0.2,
@@ -509,11 +509,11 @@
       "marketCap": 696228970496,
       "weekHigh52": 176.41,
       "weekLow52": 110.39,
-      "dividendYield": 2.5,
+      "dividendYield": 2.43,
       "relStrength": 6.93,
       "volumeRatio": 0.88,
       "newsScore": 0.4,
-      "newsHeadline": "ExxonMobil’s LNG Ambitions Just Got A Major Upgrade",
+      "newsHeadline": "ExxonMobil secures regulatory approval for Rose CCS project in Texas",
       "url": "https://finance.yahoo.com/quote/XOM",
       "sectorPe": 20.8
     },
@@ -552,11 +552,11 @@
       "marketCap": 427178360832,
       "weekHigh52": 217.78,
       "weekLow52": 146.49,
-      "dividendYield": 3.36,
+      "dividendYield": 3.27,
       "relStrength": 10.43,
       "volumeRatio": 1.22,
       "newsScore": -0.4,
-      "newsHeadline": "Why Did DELL, CRWD, CVX Stocks Jump To 52-Week Highs Today?",
+      "newsHeadline": "Market Chatter: US, Vietnam Firms Set to Announce Deals During To Lam Visit",
       "url": "https://finance.yahoo.com/quote/CVX",
       "sectorPe": 20.8
     },
@@ -594,14 +594,14 @@
       "industry": "Farm & Heavy Construction Machinery",
       "marketCap": 360173633536,
       "weekHigh52": 1073.46,
-      "weekLow52": 434.28,
+      "weekLow52": 443.0,
       "dividendYield": 0.83,
       "relStrength": -9.07,
       "volumeRatio": 0.95,
       "newsScore": 0.0,
       "newsHeadline": "Should You Buy Caterpillar Stock With An Order Book Almost As Big As Its Annual Revenue?",
       "url": "https://finance.yahoo.com/quote/CAT",
-      "sectorPe": 54.8
+      "sectorPe": 54.5
     },
     {
       "ticker": "BA",
@@ -631,28 +631,28 @@
         210.27,
         209.69
       ],
-      "pe": 75.7,
+      "pe": 75.2,
       "debtEq": 7.91,
       "sector": "Industrials",
       "industry": "Aerospace & Defense",
-      "marketCap": 165611601920,
+      "marketCap": 165732696064,
       "weekHigh52": 254.35,
       "weekLow52": 176.77,
       "dividendYield": null,
       "relStrength": -5.14,
       "volumeRatio": 0.69,
       "newsScore": 0.2,
-      "newsHeadline": "Boeing Engineers Rejected a New Pay Deal. A 60-Year-Old’s Frozen Pension Could Still Rise With His Salary.",
+      "newsHeadline": "Market Chatter: US, Vietnam Firms Set to Announce Deals During To Lam Visit",
       "url": "https://finance.yahoo.com/quote/BA",
-      "sectorPe": 54.8
+      "sectorPe": 54.5
     }
   ],
   "uk": [
     {
       "ticker": "HSBA.L",
       "name": "HSBC HOLDINGS PLC ORD $0.50 (UK",
-      "price": NaN,
-      "chg": NaN,
+      "price": 1521.4,
+      "chg": 1.17,
       "hist": [
         1531.0,
         1514.6,
@@ -674,28 +674,29 @@
         1529.0,
         1552.6,
         1536.8,
-        NaN
+        1503.8,
+        1521.4
       ],
-      "pe": 14.5,
+      "pe": 15.1,
       "debtEq": null,
       "sector": "Financial Services",
       "industry": "Banks - Diversified",
-      "marketCap": 257445478400,
+      "marketCap": 260458512384,
       "weekHigh52": 1610.0,
-      "weekLow52": null,
-      "dividendYield": 3.62,
-      "relStrength": NaN,
-      "volumeRatio": 0.13,
+      "weekLow52": 959.29,
+      "dividendYield": 3.7,
+      "relStrength": -0.7,
+      "volumeRatio": 0.24,
       "newsScore": 0.4,
       "newsHeadline": "HSBC Holdings (LSE:HSBA) Dropped, What Is Behind The Fresh Attention?",
       "url": "https://finance.yahoo.com/quote/HSBA.L",
-      "sectorPe": 12.2
+      "sectorPe": 12.6
     },
     {
       "ticker": "AZN.L",
       "name": "ASTRAZENECA PLC ORD SHS $0.25",
-      "price": NaN,
-      "chg": NaN,
+      "price": 12204.0,
+      "chg": 0.73,
       "hist": [
         11560.0,
         11806.0,
@@ -717,28 +718,29 @@
         11758.0,
         11708.0,
         12154.0,
-        NaN
+        12116.0,
+        12204.0
       ],
-      "pe": 24.6,
+      "pe": 24.8,
       "debtEq": 0.64,
       "sector": "Healthcare",
       "industry": "Drug Manufacturers - General",
-      "marketCap": 187905343488,
+      "marketCap": 189271326720,
       "weekHigh52": 15732.0,
-      "weekLow52": null,
+      "weekLow52": 9892.0,
       "dividendYield": 1.97,
-      "relStrength": NaN,
-      "volumeRatio": 0.12,
+      "relStrength": 5.5,
+      "volumeRatio": 0.17,
       "newsScore": 0.1,
-      "newsHeadline": "Health Care Roundup: Market Talk",
+      "newsHeadline": "AstraZeneca's news flow next year could sustain drugs group beyond 2030, says leading bank",
       "url": "https://finance.yahoo.com/quote/AZN.L",
-      "sectorPe": 24.6
+      "sectorPe": 24.8
     },
     {
       "ticker": "SHEL.L",
       "name": "SHELL PLC ORD EUR0.07",
-      "price": NaN,
-      "chg": NaN,
+      "price": 3639.02,
+      "chg": -0.37,
       "hist": [
         3329.5,
         3388.0,
@@ -760,28 +762,29 @@
         3533.0,
         3551.0,
         3582.0,
-        NaN
+        3652.5,
+        3639.02
       ],
-      "pe": 10.9,
+      "pe": 10.7,
       "debtEq": 0.4,
       "sector": "Energy",
       "industry": "Oil & Gas Integrated",
-      "marketCap": 208791846912,
+      "marketCap": 208021159936,
       "weekHigh52": 3758.5,
-      "weekLow52": null,
-      "dividendYield": 3.23,
-      "relStrength": NaN,
-      "volumeRatio": 0.0,
+      "weekLow52": 2553.77,
+      "dividendYield": 3.17,
+      "relStrength": 9.23,
+      "volumeRatio": 0.13,
       "newsScore": 0.1,
-      "newsHeadline": "Shell and Constellation Energy Strike a $715 Million Power Deal",
+      "newsHeadline": "Europe’s Fortune 500 2026: Record revenue, shrinking margins, and a new No. 1 country",
       "url": "https://finance.yahoo.com/quote/SHEL.L",
-      "sectorPe": 10.9
+      "sectorPe": 10.7
     },
     {
       "ticker": "ULVR.L",
       "name": "UNILEVER PLC ORD 3.5P",
-      "price": NaN,
-      "chg": NaN,
+      "price": 4607.5,
+      "chg": -0.73,
       "hist": [
         4512.5,
         4578.0,
@@ -803,28 +806,29 @@
         4559.0,
         4551.5,
         4697.0,
-        NaN
+        4641.5,
+        4607.5
       ],
-      "pe": 21.3,
+      "pe": 21.1,
       "debtEq": 1.75,
       "sector": "Consumer Defensive",
       "industry": "Household & Personal Products",
-      "marketCap": 99943759872,
+      "marketCap": 99200901120,
       "weekHigh52": 5542.11,
-      "weekLow52": null,
-      "dividendYield": 3.51,
-      "relStrength": NaN,
-      "volumeRatio": 0.11,
+      "weekLow52": 3644.0,
+      "dividendYield": 3.55,
+      "relStrength": 2.04,
+      "volumeRatio": 0.2,
       "newsScore": 0.5,
       "newsHeadline": "Colgate-Palmolive Seeks Value Through Portfolio Reshaping",
       "url": "https://finance.yahoo.com/quote/ULVR.L",
-      "sectorPe": 21.3
+      "sectorPe": 21.1
     },
     {
       "ticker": "BARC.L",
       "name": "BARCLAYS PLC ORD 25P",
-      "price": NaN,
-      "chg": NaN,
+      "price": 479.9,
+      "chg": 2.04,
       "hist": [
         515.4,
         503.6,
@@ -846,26 +850,27 @@
         484.35,
         493.75,
         478.5,
-        NaN
+        470.3,
+        479.9
       ],
-      "pe": 9.8,
+      "pe": 10.2,
       "debtEq": null,
       "sector": "Financial Services",
       "industry": "Banks - Diversified",
-      "marketCap": 62996721664,
+      "marketCap": 64282648576,
       "weekHigh52": 538.3,
-      "weekLow52": null,
+      "weekLow52": 353.55,
       "dividendYield": 2.4,
-      "relStrength": NaN,
-      "volumeRatio": 0.07,
-      "newsScore": 0.1,
-      "newsHeadline": "Citigroup Lifts 2026 ROTCE Outlook Above 11%: What's Driving the Gain?",
+      "relStrength": -6.96,
+      "volumeRatio": 0.22,
+      "newsScore": 0.4,
+      "newsHeadline": "FTAI Stock’s Recent Pullback Is A Favorable Entry Point, Says Barclays – Sees Up To 60% Earnings Growth In 2027",
       "url": "https://finance.yahoo.com/quote/BARC.L",
-      "sectorPe": 12.2
+      "sectorPe": 12.6
     }
   ],
   "benchmarks": {
     "us": -2.06,
-    "uk": -0.58
+    "uk": 0.07
   }
 }
