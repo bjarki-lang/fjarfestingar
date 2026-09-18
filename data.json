@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-18T06:03:08.531098+00:00",
+  "updated": "2026-09-18T12:02:50.274337+00:00",
   "us": [
     {
       "ticker": "AAPL",
@@ -40,10 +40,10 @@
       "dividendYield": 0.32,
       "relStrength": 9.4,
       "volumeRatio": 0.86,
-      "newsScore": 0.7,
+      "newsScore": 0.3,
       "newsHeadline": "Who's really going to buy Snap's Specs",
       "url": "https://finance.yahoo.com/quote/AAPL",
-      "sectorPe": 30.8
+      "sectorPe": 31.1
     },
     {
       "ticker": "MSFT",
@@ -81,13 +81,13 @@
       "marketCap": 3696065511424,
       "weekHigh52": 553.72,
       "weekLow52": 349.2,
-      "dividendYield": 0.8,
+      "dividendYield": 0.79,
       "relStrength": 4.24,
       "volumeRatio": 0.87,
-      "newsScore": 0.4,
+      "newsScore": -0.0,
       "newsHeadline": "10-year Treasury yield eases, oil falls to $100: AlphaCheck",
       "url": "https://finance.yahoo.com/quote/MSFT",
-      "sectorPe": 30.8
+      "sectorPe": 31.1
     },
     {
       "ticker": "NVDA",
@@ -118,20 +118,20 @@
         213.9,
         219.34
       ],
-      "pe": 27.0,
+      "pe": 27.7,
       "debtEq": 0.17,
       "sector": "Technology",
       "industry": "Semiconductors",
       "marketCap": 5296402989056,
       "weekHigh52": 236.54,
       "weekLow52": 164.27,
-      "dividendYield": 0.47,
+      "dividendYield": 0.46,
       "relStrength": 0.63,
       "volumeRatio": 0.73,
-      "newsScore": 0.2,
-      "newsHeadline": "AI industry is just following Jensen Huang's lead, Salesforce CEO explains",
+      "newsScore": 0.1,
+      "newsHeadline": "Why Salesforce CEO Marc Benioff thinks AI chip king Nvidia is 'exquisite'",
       "url": "https://finance.yahoo.com/quote/NVDA",
-      "sectorPe": 30.8
+      "sectorPe": 31.1
     },
     {
       "ticker": "AMZN",
@@ -162,7 +162,7 @@
         245.96,
         251.19
       ],
-      "pe": 19.8,
+      "pe": 20.2,
       "debtEq": 0.46,
       "sector": "Consumer Cyclical",
       "industry": "Internet Retail",
@@ -172,10 +172,10 @@
       "dividendYield": null,
       "relStrength": -2.48,
       "volumeRatio": 0.95,
-      "newsScore": 0.6,
+      "newsScore": 0.4,
       "newsHeadline": "10-year Treasury yield eases, oil falls to $100: AlphaCheck",
       "url": "https://finance.yahoo.com/quote/AMZN",
-      "sectorPe": 176.3
+      "sectorPe": 182.8
     },
     {
       "ticker": "TSLA",
@@ -206,7 +206,7 @@
         358.08,
         366.2
       ],
-      "pe": 332.9,
+      "pe": 345.5,
       "debtEq": 0.18,
       "sector": "Consumer Cyclical",
       "industry": "Auto Manufacturers",
@@ -216,10 +216,10 @@
       "dividendYield": null,
       "relStrength": 9.41,
       "volumeRatio": 1.0,
-      "newsScore": 0.1,
-      "newsHeadline": "Early Uber Investor Sees ‘All Car Companies’ Joining Robotaxi Gold Rush — Lucid And Baidu Take It Global",
+      "newsScore": 0.6,
+      "newsHeadline": "Tesla Trades at 331 Times Trailing Earnings While Facing Growing Competition From China's BYD. Is Elon Musk's Premium Valuation Still Justified?",
       "url": "https://finance.yahoo.com/quote/TSLA",
-      "sectorPe": 176.3
+      "sectorPe": 182.8
     },
     {
       "ticker": "JPM",
@@ -250,7 +250,7 @@
         348.92,
         349.31
       ],
-      "pe": 14.9,
+      "pe": 15.0,
       "debtEq": null,
       "sector": "Financial Services",
       "industry": "Banks - Diversified",
@@ -260,7 +260,7 @@
       "dividendYield": 1.72,
       "relStrength": -3.14,
       "volumeRatio": 1.02,
-      "newsScore": 0.1,
+      "newsScore": -0.3,
       "newsHeadline": "$10,000 in a high-yield savings account or $10,000 in a CD: Which one will earn more in one year?",
       "url": "https://finance.yahoo.com/quote/JPM",
       "sectorPe": 23.2
@@ -304,8 +304,8 @@
       "dividendYield": 0.72,
       "relStrength": 2.26,
       "volumeRatio": 0.82,
-      "newsScore": 0.5,
-      "newsHeadline": "Visa (V) Sets AI Payment Standards, Is The Stock Fairly Valued?",
+      "newsScore": 0.4,
+      "newsHeadline": "ai Corporation and Visa partner on European fleet payments",
       "url": "https://finance.yahoo.com/quote/V",
       "sectorPe": 23.2
     },
@@ -338,20 +338,20 @@
         267.28,
         270.22
       ],
-      "pe": 31.0,
+      "pe": 31.3,
       "debtEq": 0.58,
       "sector": "Healthcare",
       "industry": "Drug Manufacturers - General",
       "marketCap": 651202789376,
       "weekHigh52": 281.07,
       "weekLow52": 173.33,
-      "dividendYield": 2.01,
+      "dividendYield": 1.98,
       "relStrength": 0.86,
       "volumeRatio": 1.07,
-      "newsScore": 0.4,
-      "newsHeadline": "Better Dividend King to Buy and Hold: Johnson & Johnson or Kenvue?",
+      "newsScore": 0.6,
+      "newsHeadline": "Johnson & Johnson (JNJ) Faces A Fresh Valuation Test On DePuy Sale Talk",
       "url": "https://finance.yahoo.com/quote/JNJ",
-      "sectorPe": 27.6
+      "sectorPe": 27.7
     },
     {
       "ticker": "UNH",
@@ -395,7 +395,7 @@
       "newsScore": 0.4,
       "newsHeadline": "Can Centene Sustain Its Turnaround Amid Membership Pressure?",
       "url": "https://finance.yahoo.com/quote/UNH",
-      "sectorPe": 27.6
+      "sectorPe": 27.7
     },
     {
       "ticker": "KO",
@@ -477,11 +477,11 @@
       "marketCap": 342710321152,
       "weekHigh52": 167.25,
       "weekLow52": 137.62,
-      "dividendYield": 2.96,
+      "dividendYield": 2.95,
       "relStrength": 3.56,
       "volumeRatio": 0.73,
-      "newsScore": 0.7,
-      "newsHeadline": "Procter And Gamble (PG) Stock Could Be Cheap As 16% Five Year Gain Continues",
+      "newsScore": 0.4,
+      "newsHeadline": "P&G Has Cut 5,000 Jobs So Far. At 60, a Worker Leaving With Company Stock Can Lose a Capital-Gains Tax Break by Rolling Everything Into an IRA.",
       "url": "https://finance.yahoo.com/quote/PG",
       "sectorPe": 24.3
     },
@@ -603,20 +603,20 @@
         782.72,
         798.57
       ],
-      "pe": 33.7,
+      "pe": 34.4,
       "debtEq": 2.33,
       "sector": "Industrials",
       "industry": "Farm & Heavy Construction Machinery",
       "marketCap": 367082569728,
       "weekHigh52": 1073.46,
-      "weekLow52": 448.87,
-      "dividendYield": 0.83,
+      "weekLow52": 459.58,
+      "dividendYield": 0.82,
       "relStrength": -4.33,
       "volumeRatio": 1.02,
-      "newsScore": 0.4,
-      "newsHeadline": "Best Dividend Stocks to Buy for Dependable Dividend Growth",
+      "newsScore": 0.7,
+      "newsHeadline": "Buy AI-Led EME, PWR and CAT for Long-Term to Gain From Recent Softness",
       "url": "https://finance.yahoo.com/quote/CAT",
-      "sectorPe": 53.1
+      "sectorPe": 53.4
     },
     {
       "ticker": "BA",
@@ -657,20 +657,19 @@
       "dividendYield": null,
       "relStrength": -10.98,
       "volumeRatio": 2.15,
-      "newsScore": 0.3,
-      "newsHeadline": "TD Bank Targets 100 U.S. Branches as AML Remediation Continues",
+      "newsScore": 0.7,
+      "newsHeadline": "Boeing Crashes Again: One Prominent Analyst Reiterated His Call for 55% Gains Within a Year",
       "url": "https://finance.yahoo.com/quote/BA",
-      "sectorPe": 53.1
+      "sectorPe": 53.4
     }
   ],
   "uk": [
     {
       "ticker": "HSBA.L",
       "name": "HSBC HOLDINGS PLC ORD $0.50 (UK",
-      "price": NaN,
-      "chg": NaN,
+      "price": 1518.8,
+      "chg": -1.21,
       "hist": [
-        1531.0,
         1514.6,
         1497.2,
         1502.6,
@@ -692,30 +691,30 @@
         1536.8,
         1503.8,
         1507.8,
-        NaN
+        1537.4,
+        1518.8
       ],
-      "pe": 14.8,
+      "pe": 14.5,
       "debtEq": null,
       "sector": "Financial Services",
       "industry": "Banks - Diversified",
-      "marketCap": 263108247552,
+      "marketCap": 259925082112,
       "weekHigh52": 1610.0,
-      "weekLow52": null,
-      "dividendYield": 3.69,
-      "relStrength": NaN,
-      "volumeRatio": 0.0,
+      "weekLow52": 959.29,
+      "dividendYield": 3.62,
+      "relStrength": 0.43,
+      "volumeRatio": 0.68,
       "newsScore": 0.3,
       "newsHeadline": "Will Truist's Prime Auto Lending Exit Strengthen Its Profitability?",
       "url": "https://finance.yahoo.com/quote/HSBA.L",
-      "sectorPe": 12.4
+      "sectorPe": 12.2
     },
     {
       "ticker": "AZN.L",
       "name": "ASTRAZENECA PLC ORD SHS $0.25",
-      "price": NaN,
-      "chg": NaN,
+      "price": 12528.0,
+      "chg": 0.8,
       "hist": [
-        11560.0,
         11806.0,
         12050.0,
         12088.0,
@@ -737,18 +736,19 @@
         12154.0,
         12116.0,
         12136.0,
-        NaN
+        12428.0,
+        12528.0
       ],
       "pe": 25.1,
       "debtEq": 0.64,
       "sector": "Healthcare",
       "industry": "Drug Manufacturers - General",
-      "marketCap": 192745340928,
+      "marketCap": 194296217600,
       "weekHigh52": 15732.0,
-      "weekLow52": null,
-      "dividendYield": 1.97,
-      "relStrength": NaN,
-      "volumeRatio": 0.1,
+      "weekLow52": 9892.0,
+      "dividendYield": 1.92,
+      "relStrength": 6.27,
+      "volumeRatio": 0.44,
       "newsScore": 0.5,
       "newsHeadline": "AstraZeneca (LSE:AZN) Reported First HER2 Directed Lung Cancer Phase III Success",
       "url": "https://finance.yahoo.com/quote/AZN.L",
@@ -757,10 +757,9 @@
     {
       "ticker": "SHEL.L",
       "name": "SHELL PLC ORD EUR0.07",
-      "price": NaN,
-      "chg": NaN,
+      "price": 3533.0,
+      "chg": -1.06,
       "hist": [
-        3329.5,
         3388.0,
         3420.5,
         3440.0,
@@ -782,30 +781,30 @@
         3582.0,
         3652.5,
         3576.5,
-        NaN
+        3571.0,
+        3533.0
       ],
-      "pe": 10.7,
+      "pe": 10.5,
       "debtEq": 0.4,
       "sector": "Energy",
       "industry": "Oil & Gas Integrated",
-      "marketCap": 204023758848,
+      "marketCap": 201852698624,
       "weekHigh52": 3758.5,
-      "weekLow52": null,
-      "dividendYield": 3.23,
-      "relStrength": NaN,
-      "volumeRatio": 0.0,
+      "weekLow52": 2553.77,
+      "dividendYield": 3.24,
+      "relStrength": 4.43,
+      "volumeRatio": 0.41,
       "newsScore": -0.3,
       "newsHeadline": "Shell Warns 36 Million Lost LNG Tons Are Exhausting Market Buffers",
       "url": "https://finance.yahoo.com/quote/SHEL.L",
-      "sectorPe": 10.7
+      "sectorPe": 10.5
     },
     {
       "ticker": "ULVR.L",
       "name": "UNILEVER PLC ORD 3.5P",
-      "price": NaN,
-      "chg": NaN,
+      "price": 4618.5,
+      "chg": -0.3,
       "hist": [
-        4512.5,
         4578.0,
         4638.5,
         4649.0,
@@ -827,30 +826,30 @@
         4697.0,
         4641.5,
         4640.0,
-        NaN
+        4632.5,
+        4618.5
       ],
-      "pe": 21.2,
+      "pe": 21.1,
       "debtEq": 1.75,
       "sector": "Consumer Defensive",
       "industry": "Household & Personal Products",
-      "marketCap": 99749986304,
+      "marketCap": 99448528896,
       "weekHigh52": 5542.11,
-      "weekLow52": null,
+      "weekLow52": 3644.0,
       "dividendYield": 3.56,
-      "relStrength": NaN,
-      "volumeRatio": 0.0,
+      "relStrength": 1.03,
+      "volumeRatio": 0.61,
       "newsScore": 0.0,
-      "newsHeadline": "Unilever accused of “double standards” for workers post McCormick merger",
+      "newsHeadline": "Update: Unilever Offers Shorter Worker Safeguards Outside Europe in McCormick Deal",
       "url": "https://finance.yahoo.com/quote/ULVR.L",
-      "sectorPe": 21.2
+      "sectorPe": 21.1
     },
     {
       "ticker": "BARC.L",
       "name": "BARCLAYS PLC ORD 25P",
-      "price": NaN,
-      "chg": NaN,
+      "price": 470.75,
+      "chg": -1.69,
       "hist": [
-        515.4,
         503.6,
         496.1,
         489.0,
@@ -872,26 +871,27 @@
         478.5,
         470.3,
         475.35,
-        NaN
+        478.85,
+        470.75
       ],
-      "pe": 10.0,
+      "pe": 9.8,
       "debtEq": null,
       "sector": "Financial Services",
       "industry": "Banks - Diversified",
-      "marketCap": 64141996032,
+      "marketCap": 63057002496,
       "weekHigh52": 538.3,
-      "weekLow52": null,
-      "dividendYield": 2.42,
-      "relStrength": NaN,
-      "volumeRatio": 0.0,
+      "weekLow52": 353.55,
+      "dividendYield": 2.4,
+      "relStrength": -6.37,
+      "volumeRatio": 0.57,
       "newsScore": 0.0,
       "newsHeadline": "How KeyCorp’s Higher 7.00 Percent Prime Lending Rate Could Shape Net Interest Income for KEY Investors",
       "url": "https://finance.yahoo.com/quote/BARC.L",
-      "sectorPe": 12.4
+      "sectorPe": 12.2
     }
   ],
   "benchmarks": {
     "us": -0.7,
-    "uk": 0.89
+    "uk": -0.15
   }
 }
