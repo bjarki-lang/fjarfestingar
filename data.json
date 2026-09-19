@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-19T12:03:17.439965+00:00",
+  "updated": "2026-09-19T18:02:46.377451+00:00",
   "us": [
     {
       "ticker": "AAPL",
@@ -40,7 +40,7 @@
       "dividendYield": 0.32,
       "relStrength": 6.84,
       "volumeRatio": 2.08,
-      "newsScore": -0.1,
+      "newsScore": 0.1,
       "newsHeadline": "John Ternus has the 'Apple DNA' that will push company to the 'next level'",
       "url": "https://finance.yahoo.com/quote/AAPL",
       "sectorPe": 31.4
@@ -84,8 +84,8 @@
       "dividendYield": 0.79,
       "relStrength": 2.9,
       "volumeRatio": 1.97,
-      "newsScore": 0.1,
-      "newsHeadline": "'Astonishing theft of unprecedented proportions': NYT vs. OpenAI, Microsoft lawsuit",
+      "newsScore": 0.2,
+      "newsHeadline": "The Stock Market's Biggest Companies Are Losing Their Grip. Here's the ETF I'd Buy If History Repeats.",
       "url": "https://finance.yahoo.com/quote/MSFT",
       "sectorPe": 31.4
     },
@@ -128,8 +128,8 @@
       "dividendYield": 0.45,
       "relStrength": 3.03,
       "volumeRatio": 1.48,
-      "newsScore": 0.1,
-      "newsHeadline": "S&P 500 wavers after best one-day rally in six weeks: AlphaCheck",
+      "newsScore": 0.0,
+      "newsHeadline": "Anthropic Reportedly Delays IPO; OpenAI Expects Massive Cash Burn",
       "url": "https://finance.yahoo.com/quote/NVDA",
       "sectorPe": 31.4
     },
@@ -162,7 +162,7 @@
         251.19,
         253.71
       ],
-      "pe": 20.2,
+      "pe": 20.4,
       "debtEq": 0.46,
       "sector": "Consumer Cyclical",
       "industry": "Internet Retail",
@@ -172,10 +172,10 @@
       "dividendYield": null,
       "relStrength": -3.81,
       "volumeRatio": 1.64,
-      "newsScore": 0.2,
-      "newsHeadline": "Cathie Wood Is Selling 2 Magnificent Seven Stocks, but Piling Into Another",
+      "newsScore": 0.1,
+      "newsHeadline": "Bank of America resets Amazon stock forecast on delivery plan",
       "url": "https://finance.yahoo.com/quote/AMZN",
-      "sectorPe": 177.2
+      "sectorPe": 177.3
     },
     {
       "ticker": "TSLA",
@@ -216,10 +216,10 @@
       "dividendYield": null,
       "relStrength": 4.5,
       "volumeRatio": 1.32,
-      "newsScore": 0.4,
-      "newsHeadline": "The SEC is bringing tokenized stocks to markets: 7 key details you need to know",
+      "newsScore": 0.3,
+      "newsHeadline": "Delivery Outlook Shows Tesla (TSLA)’s Core Business Under Pressure. Its Next Growth Engine Must Deliver",
       "url": "https://finance.yahoo.com/quote/TSLA",
-      "sectorPe": 177.2
+      "sectorPe": 177.3
     },
     {
       "ticker": "JPM",
@@ -260,8 +260,8 @@
       "dividendYield": 1.89,
       "relStrength": -1.37,
       "volumeRatio": 2.87,
-      "newsScore": -0.0,
-      "newsHeadline": "JPMorgan sends stark warning on $100 oil",
+      "newsScore": 0.1,
+      "newsHeadline": "Kevin O’Leary Warns Investors About the ‘Biggest Killer’ of Investment Value: 'Your Equity Can get Wiped Out Fast' When Markets Turn",
       "url": "https://finance.yahoo.com/quote/JPM",
       "sectorPe": 23.1
     },
@@ -305,7 +305,7 @@
       "relStrength": 1.5,
       "volumeRatio": 3.49,
       "newsScore": 0.4,
-      "newsHeadline": "Visa, Mastercard $167.5 million settlement could mean money for ATM users. Who qualifies.",
+      "newsHeadline": "Europe Has Agent Payment Rails Live Across 30+ Banks. The US Is Still Debating Who Pays When They Break.",
       "url": "https://finance.yahoo.com/quote/V",
       "sectorPe": 23.1
     },
@@ -481,7 +481,7 @@
       "relStrength": 2.14,
       "volumeRatio": 1.44,
       "newsScore": -0.2,
-      "newsHeadline": "Could high gas prices start shocking company earnings?",
+      "newsHeadline": "The S&P 500 Has Returned About 11% Annually Since 1958. Here's the ETF I'd Trust for the Next 30 Years.",
       "url": "https://finance.yahoo.com/quote/PG",
       "sectorPe": 24.3
     },
@@ -602,7 +602,7 @@
         798.57,
         808.99
       ],
-      "pe": 34.4,
+      "pe": 34.8,
       "debtEq": 2.33,
       "sector": "Industrials",
       "industry": "Farm & Heavy Construction Machinery",
@@ -615,7 +615,7 @@
       "newsScore": 0.3,
       "newsHeadline": "Is Caterpillar’s Growing Quarry Autonomy Footprint Quietly Reshaping Its Competitive Edge (CAT)?",
       "url": "https://finance.yahoo.com/quote/CAT",
-      "sectorPe": 52.7
+      "sectorPe": 53.2
     },
     {
       "ticker": "BA",
@@ -646,7 +646,7 @@
         197.0,
         198.2
       ],
-      "pe": 71.0,
+      "pe": 71.6,
       "debtEq": 7.91,
       "sector": "Industrials",
       "industry": "Aerospace & Defense",
@@ -659,7 +659,7 @@
       "newsScore": -0.1,
       "newsHeadline": "Laser Weapons Are Real Now -- and You Can Invest in Them With AeroVironment Stock",
       "url": "https://finance.yahoo.com/quote/BA",
-      "sectorPe": 52.7
+      "sectorPe": 53.2
     }
   ],
   "uk": [
