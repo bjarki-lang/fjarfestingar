@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-20T00:03:48.254498+00:00",
+  "updated": "2026-09-20T06:03:11.367425+00:00",
   "us": [
     {
       "ticker": "AAPL",
@@ -41,7 +41,7 @@
       "relStrength": 6.84,
       "volumeRatio": 2.08,
       "newsScore": 0.3,
-      "newsHeadline": "Bank of America does the math on Apple's $1,200 iPhone offer",
+      "newsHeadline": "Apple’s Cook calls Australia’s social media curbs ‘world-leading,’ PM says",
       "url": "https://finance.yahoo.com/quote/AAPL",
       "sectorPe": 31.4
     },
@@ -84,8 +84,8 @@
       "dividendYield": 0.79,
       "relStrength": 2.9,
       "volumeRatio": 1.97,
-      "newsScore": -0.2,
-      "newsHeadline": "AI risk debate: Existential threat or dangerous tool?",
+      "newsScore": 0.3,
+      "newsHeadline": "Can Nokia Oyj (HLSE:NOKIA) Speed Up Telecom AI With Its New Data Push?",
       "url": "https://finance.yahoo.com/quote/MSFT",
       "sectorPe": 31.4
     },
@@ -129,7 +129,7 @@
       "relStrength": 3.03,
       "volumeRatio": 1.48,
       "newsScore": 0.2,
-      "newsHeadline": "I Think IBM Stock Will Be Higher in 5 Years. I Still Wouldn't Buy It Today.",
+      "newsHeadline": "This Overlooked Pipeline Stock Just Became a Rival's Joint-Venture Partner Without Anyone Noticing",
       "url": "https://finance.yahoo.com/quote/NVDA",
       "sectorPe": 31.4
     },
@@ -172,8 +172,8 @@
       "dividendYield": null,
       "relStrength": -3.81,
       "volumeRatio": 1.64,
-      "newsScore": -0.2,
-      "newsHeadline": "AI risk debate: Existential threat or dangerous tool?",
+      "newsScore": -0.0,
+      "newsHeadline": "Forget Buying All Seven: The \"Magnificent Seven\" Stock Most Likely to Double by 2028",
       "url": "https://finance.yahoo.com/quote/AMZN",
       "sectorPe": 177.3
     },
@@ -216,8 +216,8 @@
       "dividendYield": null,
       "relStrength": 4.5,
       "volumeRatio": 1.32,
-      "newsScore": 0.4,
-      "newsHeadline": "SpaceX-Tesla Merger: Ron Baron Told Elon Musk 'Whatever You Decide... Is What I'm Going to Support'",
+      "newsScore": 0.7,
+      "newsHeadline": "Prediction: Here's What a $1,000 Investment in Tesla (TSLA) Stock Could Be Worth By 2036",
       "url": "https://finance.yahoo.com/quote/TSLA",
       "sectorPe": 177.3
     },
@@ -304,7 +304,7 @@
       "dividendYield": 0.73,
       "relStrength": 1.5,
       "volumeRatio": 3.49,
-      "newsScore": 0.4,
+      "newsScore": 0.2,
       "newsHeadline": "Could Circle Internet Group (CRCL) Become A Bigger Force In Onchain Finance?",
       "url": "https://finance.yahoo.com/quote/V",
       "sectorPe": 23.1
@@ -436,8 +436,8 @@
       "dividendYield": 2.4,
       "relStrength": -0.99,
       "volumeRatio": 1.86,
-      "newsScore": 0.4,
-      "newsHeadline": "What do you need to make in GA to be the 1%? It's less than you think",
+      "newsScore": 0.3,
+      "newsHeadline": "Monster Beverage Is Up 17% in 2026, But Is MNST Stock Actually Cheap at These Levels?",
       "url": "https://finance.yahoo.com/quote/KO",
       "sectorPe": 24.3
     },
@@ -474,7 +474,7 @@
       "debtEq": 0.64,
       "sector": "Consumer Defensive",
       "industry": "Household & Personal Products",
-      "marketCap": 340273758208,
+      "marketCap": 340016005120,
       "weekHigh52": 167.25,
       "weekLow52": 137.62,
       "dividendYield": 2.97,
@@ -613,7 +613,7 @@
       "relStrength": -0.13,
       "volumeRatio": 2.01,
       "newsScore": 0.1,
-      "newsHeadline": "The Next Frontier For Autonomous Vehicles is Burying Your Garbage",
+      "newsHeadline": "Oracle Has Committed Hundreds of Billions to AI Data Centers. These 2 Industrial Stocks Will Power Them.",
       "url": "https://finance.yahoo.com/quote/CAT",
       "sectorPe": 53.2
     },
@@ -650,7 +650,7 @@
       "debtEq": 7.91,
       "sector": "Industrials",
       "industry": "Aerospace & Defense",
-      "marketCap": 156536881152,
+      "marketCap": 156651339776,
       "weekHigh52": 254.35,
       "weekLow52": 176.77,
       "dividendYield": null,
@@ -742,7 +742,7 @@
       "debtEq": 0.64,
       "sector": "Healthcare",
       "industry": "Drug Manufacturers - General",
-      "marketCap": 193860730880,
+      "marketCap": 193861992448,
       "weekHigh52": 15732.0,
       "weekLow52": 9892.0,
       "dividendYield": 1.91,
@@ -832,7 +832,7 @@
       "debtEq": 1.75,
       "sector": "Consumer Defensive",
       "industry": "Household & Personal Products",
-      "marketCap": 99502342144,
+      "marketCap": 99502358528,
       "weekHigh52": 5542.11,
       "weekLow52": 3644.0,
       "dividendYield": 3.57,
