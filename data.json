@@ -1,11 +1,11 @@
 {
-  "updated": "2026-09-22T00:03:34.417925+00:00",
+  "updated": "2026-09-22T06:03:22.706047+00:00",
   "us": [
     {
       "ticker": "AAPL",
       "name": "Apple Inc.",
-      "price": NaN,
-      "chg": NaN,
+      "price": 338.98,
+      "chg": 0.85,
       "hist": [
         310.34,
         309.9,
@@ -26,7 +26,7 @@
         332.41,
         337.0,
         336.13,
-        NaN
+        338.98
       ],
       "pe": 38.9,
       "debtEq": 0.78,
@@ -36,9 +36,9 @@
       "weekHigh52": 344.57,
       "weekLow52": 243.42,
       "dividendYield": 0.32,
-      "relStrength": NaN,
+      "relStrength": 7.77,
       "volumeRatio": 0.81,
-      "newsScore": 0.1,
+      "newsScore": 0.4,
       "newsHeadline": "Meta stock jumps as Wells Fargo raises price target",
       "url": "https://finance.yahoo.com/quote/AAPL",
       "sectorPe": 31.8
@@ -46,8 +46,8 @@
     {
       "ticker": "MSFT",
       "name": "Microsoft Corporation",
-      "price": NaN,
-      "chg": NaN,
+      "price": 501.61,
+      "chg": 1.59,
       "hist": [
         487.31,
         491.71,
@@ -68,7 +68,7 @@
         490.3,
         497.75,
         493.78,
-        NaN
+        501.61
       ],
       "pe": 27.9,
       "debtEq": 0.29,
@@ -78,9 +78,9 @@
       "weekHigh52": 553.72,
       "weekLow52": 349.2,
       "dividendYield": 0.79,
-      "relStrength": NaN,
-      "volumeRatio": 1.26,
-      "newsScore": 0.2,
+      "relStrength": 1.47,
+      "volumeRatio": 1.33,
+      "newsScore": 0.3,
       "newsHeadline": "Meta stock jumps as Wells Fargo raises price target",
       "url": "https://finance.yahoo.com/quote/MSFT",
       "sectorPe": 31.8
@@ -88,8 +88,8 @@
     {
       "ticker": "NVDA",
       "name": "NVIDIA Corporation",
-      "price": NaN,
-      "chg": NaN,
+      "price": 227.38,
+      "chg": 2.3,
       "hist": [
         208.25,
         212.81,
@@ -110,7 +110,7 @@
         213.9,
         219.34,
         222.27,
-        NaN
+        227.38
       ],
       "pe": 28.7,
       "debtEq": 0.17,
@@ -120,9 +120,9 @@
       "weekHigh52": 236.54,
       "weekLow52": 164.27,
       "dividendYield": 0.45,
-      "relStrength": NaN,
+      "relStrength": 7.73,
       "volumeRatio": 0.8,
-      "newsScore": 0.0,
+      "newsScore": 0.1,
       "newsHeadline": "Could Nvidia's prospects in China shift following the Trump and Xi's meeting?",
       "url": "https://finance.yahoo.com/quote/NVDA",
       "sectorPe": 31.8
@@ -130,8 +130,8 @@
     {
       "ticker": "AMZN",
       "name": "Amazon.com, Inc.",
-      "price": NaN,
-      "chg": NaN,
+      "price": 258.45,
+      "chg": 1.87,
       "hist": [
         262.07,
         261.06,
@@ -152,7 +152,7 @@
         245.96,
         251.19,
         253.71,
-        NaN
+        258.45
       ],
       "pe": 20.8,
       "debtEq": 0.46,
@@ -162,9 +162,9 @@
       "weekHigh52": 287.2,
       "weekLow52": 196.0,
       "dividendYield": null,
-      "relStrength": NaN,
-      "volumeRatio": 1.25,
-      "newsScore": 0.2,
+      "relStrength": -2.84,
+      "volumeRatio": 1.31,
+      "newsScore": 0.7,
       "newsHeadline": "Meta stock jumps as Wells Fargo raises price target",
       "url": "https://finance.yahoo.com/quote/AMZN",
       "sectorPe": 182.6
@@ -172,8 +172,8 @@
     {
       "ticker": "TSLA",
       "name": "Tesla, Inc.",
-      "price": NaN,
-      "chg": NaN,
+      "price": 375.3,
+      "chg": 3.03,
       "hist": [
         348.95,
         350.25,
@@ -194,7 +194,7 @@
         358.08,
         366.2,
         364.27,
-        NaN
+        375.3
       ],
       "pe": 344.3,
       "debtEq": 0.18,
@@ -204,9 +204,9 @@
       "weekHigh52": 498.83,
       "weekLow52": 297.38,
       "dividendYield": null,
-      "relStrength": NaN,
+      "relStrength": 6.09,
       "volumeRatio": 0.92,
-      "newsScore": -0.2,
+      "newsScore": 0.6,
       "newsHeadline": "Maye Musk: Elon really wants to live on Mars in the coming decades",
       "url": "https://finance.yahoo.com/quote/TSLA",
       "sectorPe": 182.6
@@ -214,8 +214,8 @@
     {
       "ticker": "JPM",
       "name": "JP Morgan Chase & Co.",
-      "price": NaN,
-      "chg": NaN,
+      "price": 352.04,
+      "chg": 0.68,
       "hist": [
         356.39,
         356.69,
@@ -236,7 +236,7 @@
         348.92,
         349.31,
         349.67,
-        NaN
+        352.04
       ],
       "pe": 15.1,
       "debtEq": null,
@@ -246,18 +246,18 @@
       "weekHigh52": 366.5,
       "weekLow52": 279.1,
       "dividendYield": 1.89,
-      "relStrength": NaN,
+      "relStrength": -2.68,
       "volumeRatio": 0.93,
-      "newsScore": 0.1,
-      "newsHeadline": "Sector Update: Financial Stocks Rise Late Afternoon",
+      "newsScore": -0.2,
+      "newsHeadline": "JPMorgan's Neukirchen on India Payments Business",
       "url": "https://finance.yahoo.com/quote/JPM",
       "sectorPe": 23.3
     },
     {
       "ticker": "V",
       "name": "Visa Inc.",
-      "price": NaN,
-      "chg": NaN,
+      "price": 369.95,
+      "chg": 0.45,
       "hist": [
         382.41,
         384.14,
@@ -278,7 +278,7 @@
         370.93,
         369.93,
         368.29,
-        NaN
+        369.95
       ],
       "pe": 31.5,
       "debtEq": 0.68,
@@ -288,8 +288,8 @@
       "weekHigh52": 385.57,
       "weekLow52": 293.89,
       "dividendYield": 0.73,
-      "relStrength": NaN,
-      "volumeRatio": 1.09,
+      "relStrength": -4.72,
+      "volumeRatio": 1.13,
       "newsScore": 0.5,
       "newsHeadline": "Circle Just Launched Arc With BlackRock and Visa. Here’s What It Means for the Stock in 2026",
       "url": "https://finance.yahoo.com/quote/V",
@@ -298,8 +298,8 @@
     {
       "ticker": "JNJ",
       "name": "Johnson & Johnson",
-      "price": NaN,
-      "chg": NaN,
+      "price": 269.47,
+      "chg": -0.19,
       "hist": [
         271.7,
         273.14,
@@ -320,7 +320,7 @@
         267.28,
         270.22,
         269.99,
-        NaN
+        269.47
       ],
       "pe": 31.3,
       "debtEq": 0.58,
@@ -328,10 +328,10 @@
       "industry": "Drug Manufacturers - General",
       "marketCap": 649395372032,
       "weekHigh52": 281.07,
-      "weekLow52": 174.12,
+      "weekLow52": 174.83,
       "dividendYield": 1.99,
-      "relStrength": NaN,
-      "volumeRatio": 0.65,
+      "relStrength": -2.28,
+      "volumeRatio": 0.69,
       "newsScore": 0.3,
       "newsHeadline": "Johnson & Johnson May Offload Its Orthopedics Unit for $20 Billion -- and Investors Shouldn't Miss What That Could Signal",
       "url": "https://finance.yahoo.com/quote/JNJ",
@@ -340,8 +340,8 @@
     {
       "ticker": "UNH",
       "name": "UnitedHealth Group Incorporated",
-      "price": NaN,
-      "chg": NaN,
+      "price": 377.56,
+      "chg": 0.18,
       "hist": [
         396.32,
         394.16,
@@ -362,7 +362,7 @@
         375.26,
         375.21,
         376.9,
-        NaN
+        377.56
       ],
       "pe": 24.2,
       "debtEq": 0.69,
@@ -372,8 +372,8 @@
       "weekHigh52": 461.62,
       "weekLow52": 255.97,
       "dividendYield": 2.46,
-      "relStrength": NaN,
-      "volumeRatio": 1.0,
+      "relStrength": -6.19,
+      "volumeRatio": 1.15,
       "newsScore": 0.3,
       "newsHeadline": "Should You Buy UnitedHealth Group Stock Before Oct. 13?",
       "url": "https://finance.yahoo.com/quote/UNH",
@@ -382,8 +382,8 @@
     {
       "ticker": "KO",
       "name": "Coca-Cola Company (The)",
-      "price": NaN,
-      "chg": NaN,
+      "price": 87.12,
+      "chg": -1.28,
       "hist": [
         91.44,
         91.1,
@@ -404,7 +404,7 @@
         87.87,
         88.06,
         88.25,
-        NaN
+        87.12
       ],
       "pe": 26.2,
       "debtEq": 1.16,
@@ -414,18 +414,18 @@
       "weekHigh52": 92.49,
       "weekLow52": 65.35,
       "dividendYield": 2.4,
-      "relStrength": NaN,
-      "volumeRatio": 1.13,
+      "relStrength": -6.18,
+      "volumeRatio": 1.15,
       "newsScore": 0.4,
-      "newsHeadline": "Here Are Morgan Stanley's New Top Stock Picks For The Next 12-Months",
+      "newsHeadline": "Pepsi announces major shutdown as Coca-Cola plans $10B investment",
       "url": "https://finance.yahoo.com/quote/KO",
       "sectorPe": 24.1
     },
     {
       "ticker": "PG",
       "name": "Procter & Gamble Company (The)",
-      "price": NaN,
-      "chg": NaN,
+      "price": 146.08,
+      "chg": -0.21,
       "hist": [
         146.6,
         145.4,
@@ -446,18 +446,18 @@
         147.02,
         147.55,
         146.39,
-        NaN
+        146.08
       ],
       "pe": 22.1,
       "debtEq": 0.64,
       "sector": "Consumer Defensive",
       "industry": "Household & Personal Products",
-      "marketCap": 339295993856,
+      "marketCap": 339553189888,
       "weekHigh52": 167.25,
       "weekLow52": 137.62,
       "dividendYield": 2.97,
-      "relStrength": NaN,
-      "volumeRatio": 0.67,
+      "relStrength": -1.81,
+      "volumeRatio": 0.68,
       "newsScore": 0.7,
       "newsHeadline": "Top Stock Reports for Procter & Gamble, Sandisk & Analog Devices",
       "url": "https://finance.yahoo.com/quote/PG",
@@ -466,8 +466,8 @@
     {
       "ticker": "XOM",
       "name": "ExxonMobil Holdings Corporation",
-      "price": NaN,
-      "chg": NaN,
+      "price": 158.3,
+      "chg": -3.2,
       "hist": [
         164.05,
         160.64,
@@ -488,7 +488,7 @@
         163.32,
         163.27,
         163.54,
-        NaN
+        158.3
       ],
       "pe": 20.4,
       "debtEq": 0.16,
@@ -498,8 +498,8 @@
       "weekHigh52": 176.41,
       "weekLow52": 110.39,
       "dividendYield": 2.52,
-      "relStrength": NaN,
-      "volumeRatio": 1.03,
+      "relStrength": -4.97,
+      "volumeRatio": 1.06,
       "newsScore": -0.2,
       "newsHeadline": "ExxonMobil Nears a Venezuela Return After 19 Years. Here’s Where the Stock Could Go",
       "url": "https://finance.yahoo.com/quote/XOM",
@@ -508,8 +508,8 @@
     {
       "ticker": "CVX",
       "name": "Chevron Corporation",
-      "price": NaN,
-      "chg": NaN,
+      "price": 203.67,
+      "chg": -2.79,
       "hist": [
         203.09,
         199.89,
@@ -530,7 +530,7 @@
         211.54,
         211.57,
         209.51,
-        NaN
+        203.67
       ],
       "pe": 19.6,
       "debtEq": 0.19,
@@ -540,7 +540,7 @@
       "weekHigh52": 217.78,
       "weekLow52": 146.49,
       "dividendYield": 3.4,
-      "relStrength": NaN,
+      "relStrength": -1.17,
       "volumeRatio": 0.85,
       "newsScore": 0.2,
       "newsHeadline": "Chevron (CVX) Stock Drops Despite Market Gains: Important Facts to Note",
@@ -550,8 +550,8 @@
     {
       "ticker": "CAT",
       "name": "Caterpillar, Inc.",
-      "price": NaN,
-      "chg": NaN,
+      "price": 816.5,
+      "chg": 0.93,
       "hist": [
         811.02,
         811.29,
@@ -572,7 +572,7 @@
         782.72,
         798.57,
         808.99,
-        NaN
+        816.5
       ],
       "pe": 35.2,
       "debtEq": 2.33,
@@ -582,18 +582,18 @@
       "weekHigh52": 1073.46,
       "weekLow52": 459.58,
       "dividendYield": 0.81,
-      "relStrength": NaN,
-      "volumeRatio": 0.77,
-      "newsScore": 0.6,
-      "newsHeadline": "3 Stocks That Pay Dividends and Offer AI Exposure",
+      "relStrength": -0.78,
+      "volumeRatio": 0.78,
+      "newsScore": 0.4,
+      "newsHeadline": "Caterpillar’s CEO Says Demand Runs Past Its $72B Backlog. Here’s What That Means for the Stock",
       "url": "https://finance.yahoo.com/quote/CAT",
       "sectorPe": 53.9
     },
     {
       "ticker": "BA",
       "name": "Boeing Company (The)",
-      "price": NaN,
-      "chg": NaN,
+      "price": 201.15,
+      "chg": 1.49,
       "hist": [
         210.46,
         211.08,
@@ -614,20 +614,20 @@
         201.96,
         197.0,
         198.2,
-        NaN
+        201.15
       ],
       "pe": 72.6,
       "debtEq": 7.91,
       "sector": "Industrials",
       "industry": "Aerospace & Defense",
-      "marketCap": 158982930432,
+      "marketCap": 158866751488,
       "weekHigh52": 254.35,
       "weekLow52": 176.77,
       "dividendYield": null,
-      "relStrength": NaN,
-      "volumeRatio": 1.06,
-      "newsScore": 0.3,
-      "newsHeadline": "BA Receives A Target Cut From Jefferies - Firm Slashes Its Free Cash Flow Estimate",
+      "relStrength": -5.88,
+      "volumeRatio": 1.08,
+      "newsScore": 0.4,
+      "newsHeadline": "Boeing (BA) Strengthens its Backlog with Korean Air’s 103-Aircraft Commitment",
       "url": "https://finance.yahoo.com/quote/BA",
       "sectorPe": 53.9
     }
@@ -665,14 +665,14 @@
       "debtEq": null,
       "sector": "Financial Services",
       "industry": "Banks - Diversified",
-      "marketCap": 262446137344,
+      "marketCap": 262445989888,
       "weekHigh52": 1610.0,
       "weekLow52": null,
       "dividendYield": 3.68,
       "relStrength": NaN,
       "volumeRatio": 0.0,
-      "newsScore": 0.9,
-      "newsHeadline": "Can HSBC's Enhanced U.S. Premier Offering Drive Wealth Growth?",
+      "newsScore": 1.1,
+      "newsHeadline": "As Yields Retreat, HSBC Sees 10-Year Treasury at 4.65%, Not 6%, by Year-End",
       "url": "https://finance.yahoo.com/quote/HSBA.L",
       "sectorPe": 12.2
     },
@@ -708,14 +708,14 @@
       "debtEq": 0.64,
       "sector": "Healthcare",
       "industry": "Drug Manufacturers - General",
-      "marketCap": 194792521728,
+      "marketCap": 194791260160,
       "weekHigh52": 15732.0,
       "weekLow52": null,
       "dividendYield": 1.91,
       "relStrength": NaN,
       "volumeRatio": 0.0,
-      "newsScore": 0.0,
-      "newsHeadline": "Astrazeneca (AZN) Ascends But Remains Behind Market: Some Facts to Note",
+      "newsScore": -0.1,
+      "newsHeadline": "AstraZeneca and Daiichi Sankyo’s Breast Cancer Drug Approved for NHS Use in England",
       "url": "https://finance.yahoo.com/quote/AZN.L",
       "sectorPe": 25.1
     },
@@ -794,14 +794,14 @@
       "debtEq": 1.75,
       "sector": "Consumer Defensive",
       "industry": "Household & Personal Products",
-      "marketCap": 99965313024,
+      "marketCap": 99965304832,
       "weekHigh52": 5542.11,
       "weekLow52": null,
       "dividendYield": 3.57,
       "relStrength": NaN,
       "volumeRatio": 0.0,
       "newsScore": 0.0,
-      "newsHeadline": "Here’s Why Aristotle International Equity Fund Exited Unilever (UL)",
+      "newsHeadline": "Paper Bottles Are Coming to Stores. Why They’re More Than a Novelty.",
       "url": "https://finance.yahoo.com/quote/ULVR.L",
       "sectorPe": 21.2
     },
@@ -837,7 +837,7 @@
       "debtEq": null,
       "sector": "Financial Services",
       "industry": "Banks - Diversified",
-      "marketCap": 63103885312,
+      "marketCap": 63028260864,
       "weekHigh52": 538.3,
       "weekLow52": null,
       "dividendYield": 2.49,
@@ -851,6 +851,6 @@
   ],
   "benchmarks": {
     "us": 1.46,
-    "uk": -1.46
+    "uk": -0.72
   }
 }
