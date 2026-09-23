@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-23T06:03:11.203148+00:00",
+  "updated": "2026-09-23T12:03:16.170577+00:00",
   "us": [
     {
       "ticker": "AAPL",
@@ -29,7 +29,7 @@
         338.98,
         NaN
       ],
-      "pe": 39.0,
+      "pe": 38.9,
       "debtEq": 0.78,
       "sector": "Technology",
       "industry": "Consumer Electronics",
@@ -39,8 +39,8 @@
       "dividendYield": 0.32,
       "relStrength": NaN,
       "volumeRatio": 0.95,
-      "newsScore": 0.4,
-      "newsHeadline": "Meta’s new AI agent just got me $250 in flight credits",
+      "newsScore": -0.3,
+      "newsHeadline": "The hidden tech trap destroying your portfolio",
       "url": "https://finance.yahoo.com/quote/AAPL",
       "sectorPe": 31.9
     },
@@ -72,7 +72,7 @@
         501.61,
         NaN
       ],
-      "pe": 27.7,
+      "pe": 27.9,
       "debtEq": 0.29,
       "sector": "Technology",
       "industry": "Software - Infrastructure",
@@ -82,7 +82,7 @@
       "dividendYield": 0.78,
       "relStrength": NaN,
       "volumeRatio": 0.98,
-      "newsScore": 0.5,
+      "newsScore": 0.3,
       "newsHeadline": "Anthropic vs. OpenAI: Competition heats up with release of new AI models",
       "url": "https://finance.yahoo.com/quote/MSFT",
       "sectorPe": 31.9
@@ -125,8 +125,8 @@
       "dividendYield": 0.44,
       "relStrength": NaN,
       "volumeRatio": 0.69,
-      "newsScore": 0.7,
-      "newsHeadline": "Should investors play AI bottlenecks over social media stocks?",
+      "newsScore": 0.4,
+      "newsHeadline": "Stock market today: Dow, S&P 500, Nasdaq futures muted as oil falls, markets eye looming Trump-Xi meeting",
       "url": "https://finance.yahoo.com/quote/NVDA",
       "sectorPe": 31.9
     },
@@ -158,7 +158,7 @@
         258.45,
         NaN
       ],
-      "pe": 20.5,
+      "pe": 20.8,
       "debtEq": 0.46,
       "sector": "Consumer Cyclical",
       "industry": "Internet Retail",
@@ -168,10 +168,10 @@
       "dividendYield": null,
       "relStrength": NaN,
       "volumeRatio": 1.24,
-      "newsScore": 0.1,
-      "newsHeadline": "Meta's Muse AI teams up with Shopify, lifting its stock",
+      "newsScore": -0.2,
+      "newsHeadline": "The hidden tech trap destroying your portfolio",
       "url": "https://finance.yahoo.com/quote/AMZN",
-      "sectorPe": 184.1
+      "sectorPe": 182.7
     },
     {
       "ticker": "TSLA",
@@ -201,7 +201,7 @@
         375.3,
         NaN
       ],
-      "pe": 347.6,
+      "pe": 344.5,
       "debtEq": 0.18,
       "sector": "Consumer Cyclical",
       "industry": "Auto Manufacturers",
@@ -211,10 +211,10 @@
       "dividendYield": null,
       "relStrength": NaN,
       "volumeRatio": 0.71,
-      "newsScore": 0.2,
+      "newsScore": 0.4,
       "newsHeadline": "Is Tesla's evaluation based on pure faith or on hoping for the best?",
       "url": "https://finance.yahoo.com/quote/TSLA",
-      "sectorPe": 184.1
+      "sectorPe": 182.7
     },
     {
       "ticker": "JPM",
@@ -244,7 +244,7 @@
         352.04,
         NaN
       ],
-      "pe": 14.6,
+      "pe": 15.1,
       "debtEq": null,
       "sector": "Financial Services",
       "industry": "Banks - Diversified",
@@ -255,9 +255,9 @@
       "relStrength": NaN,
       "volumeRatio": 1.67,
       "newsScore": 0.2,
-      "newsHeadline": "Private-Credit Firms Are Buzzing About Getting In on JPMorgan’s Card Empire",
+      "newsHeadline": "JPMorgan Chase (JPM) Lands $20 Billion Mandate As Dealmaking Hits Record Levels",
       "url": "https://finance.yahoo.com/quote/JPM",
-      "sectorPe": 22.7
+      "sectorPe": 23.3
     },
     {
       "ticker": "V",
@@ -287,7 +287,7 @@
         369.95,
         NaN
       ],
-      "pe": 30.8,
+      "pe": 31.5,
       "debtEq": 0.68,
       "sector": "Financial Services",
       "industry": "Credit Services",
@@ -300,7 +300,7 @@
       "newsScore": 0.2,
       "newsHeadline": "Fed's vice chair is trying to ensure banks protect themselves from AI risks",
       "url": "https://finance.yahoo.com/quote/V",
-      "sectorPe": 22.7
+      "sectorPe": 23.3
     },
     {
       "ticker": "JNJ",
@@ -336,14 +336,14 @@
       "industry": "Drug Manufacturers - General",
       "marketCap": 648720613376,
       "weekHigh52": 281.07,
-      "weekLow52": 174.83,
+      "weekLow52": 175.74,
       "dividendYield": 1.99,
       "relStrength": NaN,
       "volumeRatio": 0.88,
-      "newsScore": 0.1,
-      "newsHeadline": "JNJ's Caplyta Shows Benefit in Bipolar 1 Related Mania Study",
+      "newsScore": 0.5,
+      "newsHeadline": "2 Stocks to Buy Hand Over Fist if a Stock Market Crash Is Coming",
       "url": "https://finance.yahoo.com/quote/JNJ",
-      "sectorPe": 27.6
+      "sectorPe": 27.8
     },
     {
       "ticker": "UNH",
@@ -373,7 +373,7 @@
         377.56,
         NaN
       ],
-      "pe": 24.0,
+      "pe": 24.3,
       "debtEq": 0.69,
       "sector": "Healthcare",
       "industry": "Healthcare Plans",
@@ -386,7 +386,7 @@
       "newsScore": 0.2,
       "newsHeadline": "UnitedHealth Group (UNH) Stock Trades At A Discount Despite A 21% Slide",
       "url": "https://finance.yahoo.com/quote/UNH",
-      "sectorPe": 27.6
+      "sectorPe": 27.8
     },
     {
       "ticker": "KO",
@@ -423,13 +423,13 @@
       "marketCap": 381248864256,
       "weekHigh52": 92.49,
       "weekLow52": 65.35,
-      "dividendYield": 2.43,
+      "dividendYield": 2.39,
       "relStrength": NaN,
       "volumeRatio": 1.09,
-      "newsScore": 0.3,
-      "newsHeadline": "If You Invested $1,000 In Coca-Cola Stock When Warren Buffett Did, Here's How Much You'd Have Today",
+      "newsScore": 0.0,
+      "newsHeadline": "2 Stocks to Buy Hand Over Fist if a Stock Market Crash Is Coming",
       "url": "https://finance.yahoo.com/quote/KO",
-      "sectorPe": 24.5
+      "sectorPe": 24.4
     },
     {
       "ticker": "PG",
@@ -459,7 +459,7 @@
         146.08,
         NaN
       ],
-      "pe": 22.4,
+      "pe": 22.1,
       "debtEq": 0.64,
       "sector": "Consumer Defensive",
       "industry": "Household & Personal Products",
@@ -470,9 +470,9 @@
       "relStrength": NaN,
       "volumeRatio": 0.67,
       "newsScore": 0.4,
-      "newsHeadline": "Procter & Gamble (PG) Stock Moves 1.45%: What You Should Know",
+      "newsHeadline": "Will P&G’s (PG) New Science-Led Head & Shoulders and Oral-B iO Push Change Its Narrative?",
       "url": "https://finance.yahoo.com/quote/PG",
-      "sectorPe": 24.5
+      "sectorPe": 24.4
     },
     {
       "ticker": "XOM",
@@ -555,8 +555,8 @@
       "dividendYield": 3.5,
       "relStrength": NaN,
       "volumeRatio": 0.95,
-      "newsScore": 0.3,
-      "newsHeadline": "Chevron CFO on Balancing Profits and Sustainability",
+      "newsScore": 0.5,
+      "newsHeadline": "Chevron Just Revealed a 50% Spending Surge in Exploration Spending for Next Year. Here's What It Means for CVX Stock.",
       "url": "https://finance.yahoo.com/quote/CVX",
       "sectorPe": 20.0
     },
@@ -641,8 +641,8 @@
       "dividendYield": null,
       "relStrength": NaN,
       "volumeRatio": 1.32,
-      "newsScore": 0.4,
-      "newsHeadline": "Boeing, GoGo test satellite-linked military drone in challenge to Starlink",
+      "newsScore": 0.1,
+      "newsHeadline": "Tariff Cuts Are The ‘Single Most Possible Deliverable’ From Trump-Xi Talks, Says Jefferies: AI Chips, Rare Earths Relief Unlikely",
       "url": "https://finance.yahoo.com/quote/BA",
       "sectorPe": 53.8
     }
@@ -651,8 +651,8 @@
     {
       "ticker": "HSBA.L",
       "name": "HSBC HOLDINGS PLC ORD $0.50 (UK",
-      "price": NaN,
-      "chg": NaN,
+      "price": 1514.6,
+      "chg": 0.34,
       "hist": [
         1529.0,
         1517.0,
@@ -674,18 +674,19 @@
         1537.4,
         1512.6,
         1533.8,
-        NaN
+        1509.4,
+        1514.6
       ],
       "pe": 14.4,
       "debtEq": null,
       "sector": "Financial Services",
       "industry": "Banks - Diversified",
-      "marketCap": 258270953472,
+      "marketCap": 259160702976,
       "weekHigh52": 1610.0,
-      "weekLow52": null,
+      "weekLow52": 959.29,
       "dividendYield": 3.63,
-      "relStrength": NaN,
-      "volumeRatio": 0.0,
+      "relStrength": 0.52,
+      "volumeRatio": 0.21,
       "newsScore": 0.2,
       "newsHeadline": "India business activity rebounds in September to 3-month high, PMI shows",
       "url": "https://finance.yahoo.com/quote/HSBA.L",
@@ -694,8 +695,8 @@
     {
       "ticker": "AZN.L",
       "name": "ASTRAZENECA PLC ORD SHS $0.25",
-      "price": NaN,
-      "chg": NaN,
+      "price": 12486.0,
+      "chg": -1.47,
       "hist": [
         12110.0,
         12476.0,
@@ -717,28 +718,29 @@
         12428.0,
         12500.0,
         12560.0,
-        NaN
+        12672.0,
+        12486.0
       ],
-      "pe": 25.4,
+      "pe": 25.0,
       "debtEq": 0.64,
       "sector": "Healthcare",
       "industry": "Drug Manufacturers - General",
-      "marketCap": 196529520640,
+      "marketCap": 193644855296,
       "weekHigh52": 15732.0,
-      "weekLow52": null,
+      "weekLow52": 9892.0,
       "dividendYield": 1.9,
-      "relStrength": NaN,
-      "volumeRatio": 0.17,
-      "newsScore": 0.1,
-      "newsHeadline": "AstraZeneca (LSE:AZN) Gets EU Support For Two Key Drugs",
+      "relStrength": 4.56,
+      "volumeRatio": 0.1,
+      "newsScore": 0.3,
+      "newsHeadline": "Biotech is one area where the US can afford to let China flourish",
       "url": "https://finance.yahoo.com/quote/AZN.L",
-      "sectorPe": 25.4
+      "sectorPe": 25.0
     },
     {
       "ticker": "SHEL.L",
       "name": "SHELL PLC ORD EUR0.07",
-      "price": NaN,
-      "chg": NaN,
+      "price": 3531.5,
+      "chg": 0.61,
       "hist": [
         3397.0,
         3386.5,
@@ -760,28 +762,29 @@
         3571.0,
         3539.0,
         3488.5,
-        NaN
+        3510.0,
+        3531.5
       ],
       "pe": 10.4,
       "debtEq": 0.4,
       "sector": "Energy",
       "industry": "Oil & Gas Integrated",
-      "marketCap": 200342077440,
+      "marketCap": 201569239040,
       "weekHigh52": 3758.5,
-      "weekLow52": null,
+      "weekLow52": 2553.77,
       "dividendYield": 3.32,
-      "relStrength": NaN,
-      "volumeRatio": 0.0,
-      "newsScore": 0.5,
-      "newsHeadline": "Sector Update: Energy Stocks Mixed Tuesday Afternoon",
+      "relStrength": 5.42,
+      "volumeRatio": 0.14,
+      "newsScore": 0.6,
+      "newsHeadline": "Shell finalises $840m sale of Gulf of Mexico platform interests",
       "url": "https://finance.yahoo.com/quote/SHEL.L",
       "sectorPe": 10.4
     },
     {
       "ticker": "ULVR.L",
       "name": "UNILEVER PLC ORD 3.5P",
-      "price": NaN,
-      "chg": NaN,
+      "price": 4723.0,
+      "chg": 0.53,
       "hist": [
         4782.5,
         4761.5,
@@ -803,28 +806,29 @@
         4632.5,
         4621.0,
         4642.5,
-        NaN
+        4698.0,
+        4723.0
       ],
-      "pe": 21.5,
+      "pe": 21.6,
       "debtEq": 1.75,
       "sector": "Consumer Defensive",
       "industry": "Household & Personal Products",
-      "marketCap": 101160370176,
+      "marketCap": 101709463552,
       "weekHigh52": 5542.11,
-      "weekLow52": null,
+      "weekLow52": 3644.0,
       "dividendYield": 3.55,
-      "relStrength": NaN,
-      "volumeRatio": 0.0,
+      "relStrength": 0.22,
+      "volumeRatio": 0.09,
       "newsScore": 0.0,
       "newsHeadline": "McCormick-Unilever Food Deal Faces UK Competition Review: What it Means for Investors",
       "url": "https://finance.yahoo.com/quote/ULVR.L",
-      "sectorPe": 21.5
+      "sectorPe": 21.6
     },
     {
       "ticker": "BARC.L",
       "name": "BARCLAYS PLC ORD 25P",
-      "price": NaN,
-      "chg": NaN,
+      "price": 463.2,
+      "chg": -0.45,
       "hist": [
         495.35,
         496.25,
@@ -846,26 +850,27 @@
         478.85,
         462.2,
         471.1,
-        NaN
+        465.3,
+        463.2
       ],
       "pe": 9.7,
       "debtEq": null,
       "sector": "Financial Services",
       "industry": "Banks - Diversified",
-      "marketCap": 62252277760,
+      "marketCap": 61971329024,
       "weekHigh52": 538.3,
-      "weekLow52": null,
+      "weekLow52": 353.55,
       "dividendYield": 2.44,
-      "relStrength": NaN,
-      "volumeRatio": 0.07,
-      "newsScore": 0.3,
-      "newsHeadline": "Barclays Sees Resilient U.K. Demand Fueling Loan Growth and Tech Expansion",
+      "relStrength": -5.03,
+      "volumeRatio": 0.17,
+      "newsScore": 0.0,
+      "newsHeadline": "Nike Stock In Focus As Barclays Cuts Price Target To $48 Ahead Of Q1 Earnings",
       "url": "https://finance.yahoo.com/quote/BARC.L",
       "sectorPe": 12.1
     }
   ],
   "benchmarks": {
     "us": NaN,
-    "uk": -1.06
+    "uk": -1.46
   }
 }
