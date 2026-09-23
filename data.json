@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-23T00:03:29.230394+00:00",
+  "updated": "2026-09-23T06:03:11.203148+00:00",
   "us": [
     {
       "ticker": "AAPL",
@@ -39,7 +39,7 @@
       "dividendYield": 0.32,
       "relStrength": NaN,
       "volumeRatio": 0.95,
-      "newsScore": 0.5,
+      "newsScore": 0.4,
       "newsHeadline": "Meta’s new AI agent just got me $250 in flight credits",
       "url": "https://finance.yahoo.com/quote/AAPL",
       "sectorPe": 31.9
@@ -82,7 +82,7 @@
       "dividendYield": 0.78,
       "relStrength": NaN,
       "volumeRatio": 0.98,
-      "newsScore": -0.0,
+      "newsScore": 0.5,
       "newsHeadline": "Anthropic vs. OpenAI: Competition heats up with release of new AI models",
       "url": "https://finance.yahoo.com/quote/MSFT",
       "sectorPe": 31.9
@@ -125,7 +125,7 @@
       "dividendYield": 0.44,
       "relStrength": NaN,
       "volumeRatio": 0.69,
-      "newsScore": 0.5,
+      "newsScore": 0.7,
       "newsHeadline": "Should investors play AI bottlenecks over social media stocks?",
       "url": "https://finance.yahoo.com/quote/NVDA",
       "sectorPe": 31.9
@@ -211,7 +211,7 @@
       "dividendYield": null,
       "relStrength": NaN,
       "volumeRatio": 0.71,
-      "newsScore": 0.5,
+      "newsScore": 0.2,
       "newsHeadline": "Is Tesla's evaluation based on pure faith or on hoping for the best?",
       "url": "https://finance.yahoo.com/quote/TSLA",
       "sectorPe": 184.1
@@ -255,7 +255,7 @@
       "relStrength": NaN,
       "volumeRatio": 1.67,
       "newsScore": 0.2,
-      "newsHeadline": "JPMorgan Drops 3.8% as $2.6 Billion AI Deal Meets Geopolitics",
+      "newsHeadline": "Private-Credit Firms Are Buzzing About Getting In on JPMorgan’s Card Empire",
       "url": "https://finance.yahoo.com/quote/JPM",
       "sectorPe": 22.7
     },
@@ -330,7 +330,7 @@
         269.47,
         NaN
       ],
-      "pe": 31.2,
+      "pe": 31.3,
       "debtEq": 0.58,
       "sector": "Healthcare",
       "industry": "Drug Manufacturers - General",
@@ -383,8 +383,8 @@
       "dividendYield": 2.46,
       "relStrength": NaN,
       "volumeRatio": 0.9,
-      "newsScore": 0.3,
-      "newsHeadline": "UnitedHealth Group (UNH) Stock Moves -1.26%: What You Should Know",
+      "newsScore": 0.2,
+      "newsHeadline": "UnitedHealth Group (UNH) Stock Trades At A Discount Despite A 21% Slide",
       "url": "https://finance.yahoo.com/quote/UNH",
       "sectorPe": 27.6
     },
@@ -512,10 +512,10 @@
       "dividendYield": 2.6,
       "relStrength": NaN,
       "volumeRatio": 0.95,
-      "newsScore": 0.2,
-      "newsHeadline": "3 High-Yielding Dividend Stocks That Are No-Brainer Buys for Retirees and Risk-Averse Investors",
+      "newsScore": 0.1,
+      "newsHeadline": "ExxonMobil (XOM) Delivers Record Oil Output And Revenue On Lower Spending",
       "url": "https://finance.yahoo.com/quote/XOM",
-      "sectorPe": 19.9
+      "sectorPe": 20.0
     },
     {
       "ticker": "CVX",
@@ -545,7 +545,7 @@
         203.67,
         NaN
       ],
-      "pe": 19.5,
+      "pe": 19.6,
       "debtEq": 0.19,
       "sector": "Energy",
       "industry": "Oil & Gas Integrated",
@@ -555,10 +555,10 @@
       "dividendYield": 3.5,
       "relStrength": NaN,
       "volumeRatio": 0.95,
-      "newsScore": 0.1,
-      "newsHeadline": "4 Integrated Energy Stocks to Benefit From Industry Tailwinds",
+      "newsScore": 0.3,
+      "newsHeadline": "Chevron CFO on Balancing Profits and Sustainability",
       "url": "https://finance.yahoo.com/quote/CVX",
-      "sectorPe": 19.9
+      "sectorPe": 20.0
     },
     {
       "ticker": "CAT",
@@ -588,7 +588,7 @@
         816.5,
         NaN
       ],
-      "pe": 34.8,
+      "pe": 35.2,
       "debtEq": 2.33,
       "sector": "Industrials",
       "industry": "Farm & Heavy Construction Machinery",
@@ -601,7 +601,7 @@
       "newsScore": 0.4,
       "newsHeadline": "Apogee Expands Performance Surfaces Segment With Groglass Buyout",
       "url": "https://finance.yahoo.com/quote/CAT",
-      "sectorPe": 52.9
+      "sectorPe": 53.8
     },
     {
       "ticker": "BA",
@@ -631,7 +631,7 @@
         201.15,
         NaN
       ],
-      "pe": 71.1,
+      "pe": 72.4,
       "debtEq": 7.91,
       "sector": "Industrials",
       "industry": "Aerospace & Defense",
@@ -644,7 +644,7 @@
       "newsScore": 0.4,
       "newsHeadline": "Boeing, GoGo test satellite-linked military drone in challenge to Starlink",
       "url": "https://finance.yahoo.com/quote/BA",
-      "sectorPe": 52.9
+      "sectorPe": 53.8
     }
   ],
   "uk": [
@@ -687,7 +687,7 @@
       "relStrength": NaN,
       "volumeRatio": 0.0,
       "newsScore": 0.2,
-      "newsHeadline": "Netflix Stock Drops on HSBC Downgrade, Citing YouTube Threat",
+      "newsHeadline": "India business activity rebounds in September to 3-month high, PMI shows",
       "url": "https://finance.yahoo.com/quote/HSBA.L",
       "sectorPe": 12.1
     },
@@ -766,7 +766,7 @@
       "debtEq": 0.4,
       "sector": "Energy",
       "industry": "Oil & Gas Integrated",
-      "marketCap": 200476327936,
+      "marketCap": 200342077440,
       "weekHigh52": 3758.5,
       "weekLow52": null,
       "dividendYield": 3.32,
@@ -858,14 +858,14 @@
       "dividendYield": 2.44,
       "relStrength": NaN,
       "volumeRatio": 0.07,
-      "newsScore": 0.5,
-      "newsHeadline": "Wells Fargo, Other Bank Stocks Fall as Meta’s Muse Adds Fuel to AI Fears",
+      "newsScore": 0.3,
+      "newsHeadline": "Barclays Sees Resilient U.K. Demand Fueling Loan Growth and Tech Expansion",
       "url": "https://finance.yahoo.com/quote/BARC.L",
       "sectorPe": 12.1
     }
   ],
   "benchmarks": {
-    "us": 1.46,
+    "us": NaN,
     "uk": -1.06
   }
 }
