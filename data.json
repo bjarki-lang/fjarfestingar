@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-25T06:03:10.016178+00:00",
+  "updated": "2026-09-25T12:03:15.807513+00:00",
   "us": [
     {
       "ticker": "AAPL",
@@ -30,7 +30,7 @@
         337.02,
         335.92
       ],
-      "pe": 38.6,
+      "pe": 38.5,
       "debtEq": 0.78,
       "sector": "Technology",
       "industry": "Consumer Electronics",
@@ -40,7 +40,7 @@
       "dividendYield": 0.32,
       "relStrength": 8.05,
       "volumeRatio": 0.58,
-      "newsScore": 0.6,
+      "newsScore": 0.5,
       "newsHeadline": "The era of AI wearables focused on listening is here",
       "url": "https://finance.yahoo.com/quote/AAPL",
       "sectorPe": 31.6
@@ -81,10 +81,10 @@
       "marketCap": 3697401921536,
       "weekHigh52": 553.72,
       "weekLow52": 349.2,
-      "dividendYield": 0.78,
+      "dividendYield": 0.79,
       "relStrength": 0.91,
       "volumeRatio": 0.78,
-      "newsScore": 0.1,
+      "newsScore": 0.3,
       "newsHeadline": "Nvidia leads tech stocks lower as Treasury yields surge: AlphaCheck",
       "url": "https://finance.yahoo.com/quote/MSFT",
       "sectorPe": 31.6
@@ -118,17 +118,17 @@
         225.51,
         224.58
       ],
-      "pe": 28.5,
+      "pe": 28.4,
       "debtEq": 0.17,
       "sector": "Technology",
       "industry": "Semiconductors",
       "marketCap": 5422933082112,
       "weekHigh52": 236.54,
       "weekLow52": 164.27,
-      "dividendYield": 0.44,
+      "dividendYield": 0.45,
       "relStrength": 5.18,
       "volumeRatio": 0.59,
-      "newsScore": 0.3,
+      "newsScore": 0.0,
       "newsHeadline": "Nvidia's valuation is falling, but it might not be a warning sign",
       "url": "https://finance.yahoo.com/quote/NVDA",
       "sectorPe": 31.6
@@ -162,7 +162,7 @@
         249.27,
         249.38
       ],
-      "pe": 20.0,
+      "pe": 20.1,
       "debtEq": 0.46,
       "sector": "Consumer Cyclical",
       "industry": "Internet Retail",
@@ -172,10 +172,10 @@
       "dividendYield": null,
       "relStrength": -4.82,
       "volumeRatio": 0.96,
-      "newsScore": 0.0,
+      "newsScore": -0.4,
       "newsHeadline": "Nvidia leads tech stocks lower as Treasury yields surge: AlphaCheck",
       "url": "https://finance.yahoo.com/quote/AMZN",
-      "sectorPe": 188.2
+      "sectorPe": 181.9
     },
     {
       "ticker": "TSLA",
@@ -206,7 +206,7 @@
         380.12,
         377.94
       ],
-      "pe": 356.5,
+      "pe": 343.6,
       "debtEq": 0.18,
       "sector": "Consumer Cyclical",
       "industry": "Auto Manufacturers",
@@ -216,10 +216,10 @@
       "dividendYield": null,
       "relStrength": 7.56,
       "volumeRatio": 0.68,
-      "newsScore": 0.3,
-      "newsHeadline": "TSLA Stock Climbs Overnight: Roadster Teaser Stokes SpaceX Buzz — Musk Calls New Semi A ‘Game-Changer’",
+      "newsScore": 0.2,
+      "newsHeadline": "Dow Jones Futures Signal Rebound For Resilient Market; Tesla, Akamai, Taiwan Semi In Focus",
       "url": "https://finance.yahoo.com/quote/TSLA",
-      "sectorPe": 188.2
+      "sectorPe": 181.9
     },
     {
       "ticker": "JPM",
@@ -257,13 +257,13 @@
       "marketCap": 899955556352,
       "weekHigh52": 366.5,
       "weekLow52": 279.1,
-      "dividendYield": 1.96,
+      "dividendYield": 1.95,
       "relStrength": -5.43,
       "volumeRatio": 0.96,
-      "newsScore": 0.5,
-      "newsHeadline": "JPMorgan sends strong message to Meta stock investors",
+      "newsScore": 0.3,
+      "newsHeadline": "GENI Stock: JPMorgan Sees Nearly 40% Upside, Cites Prediction Markets ‘Optionality’",
       "url": "https://finance.yahoo.com/quote/JPM",
-      "sectorPe": 22.6
+      "sectorPe": 22.9
     },
     {
       "ticker": "V",
@@ -293,20 +293,20 @@
         361.52,
         367.98
       ],
-      "pe": 30.8,
+      "pe": 31.3,
       "debtEq": 0.68,
       "sector": "Financial Services",
       "industry": "Credit Services",
       "marketCap": 690829197312,
       "weekHigh52": 385.57,
       "weekLow52": 293.89,
-      "dividendYield": 0.74,
+      "dividendYield": 0.73,
       "relStrength": -4.56,
       "volumeRatio": 0.72,
       "newsScore": 0.6,
       "newsHeadline": "Visa (V) vs American Express (AXP): Which is a Better Stock to Buy",
       "url": "https://finance.yahoo.com/quote/V",
-      "sectorPe": 22.6
+      "sectorPe": 22.9
     },
     {
       "ticker": "JNJ",
@@ -343,13 +343,13 @@
       "marketCap": 652311330816,
       "weekHigh52": 281.07,
       "weekLow52": 177.32,
-      "dividendYield": 1.99,
+      "dividendYield": 1.98,
       "relStrength": -1.25,
       "volumeRatio": 0.97,
       "newsScore": 0.3,
-      "newsHeadline": "J&J’s RYBREVANT Shows Strong Survival. Is J&J’s Oncology Franchise Gaining?",
+      "newsHeadline": "The Peptide Boom That Isn’t About Your Muscles",
       "url": "https://finance.yahoo.com/quote/JNJ",
-      "sectorPe": 27.6
+      "sectorPe": 27.7
     },
     {
       "ticker": "UNH",
@@ -379,20 +379,20 @@
         371.29,
         375.01
       ],
-      "pe": 23.9,
+      "pe": 24.1,
       "debtEq": 0.69,
       "sector": "Healthcare",
       "industry": "Healthcare Plans",
       "marketCap": 336607051776,
       "weekHigh52": 461.62,
       "weekLow52": 255.97,
-      "dividendYield": 2.5,
+      "dividendYield": 2.47,
       "relStrength": -5.21,
       "volumeRatio": 0.94,
       "newsScore": 0.1,
       "newsHeadline": "Does UnitedHealth’s New CAO Hire Reveal a Deeper Shift in Efficiency Strategy for UNH?",
       "url": "https://finance.yahoo.com/quote/UNH",
-      "sectorPe": 27.6
+      "sectorPe": 27.7
     },
     {
       "ticker": "KO",
@@ -432,10 +432,10 @@
       "dividendYield": 2.41,
       "relStrength": -3.64,
       "volumeRatio": 0.84,
-      "newsScore": 0.4,
-      "newsHeadline": "2 Soaring Stocks to Hold for the Next 7 Years",
+      "newsScore": -0.0,
+      "newsHeadline": "Coca-Cola’s Secret Dividend Weapon Is a Business Model Most Investors Overlook",
       "url": "https://finance.yahoo.com/quote/KO",
-      "sectorPe": 24.4
+      "sectorPe": 24.2
     },
     {
       "ticker": "PG",
@@ -465,20 +465,20 @@
         147.39,
         145.68
       ],
-      "pe": 22.3,
+      "pe": 22.0,
       "debtEq": 0.64,
       "sector": "Consumer Defensive",
       "industry": "Household & Personal Products",
       "marketCap": 338366889984,
       "weekHigh52": 167.25,
       "weekLow52": 137.62,
-      "dividendYield": 2.95,
+      "dividendYield": 2.99,
       "relStrength": -0.16,
       "volumeRatio": 0.89,
-      "newsScore": -0.4,
-      "newsHeadline": "Scholastic (SCHL) Reports Q1 Loss, Lags Revenue Estimates",
+      "newsScore": -0.1,
+      "newsHeadline": "This Dividend Stock's Moat Is as Wide as It Gets. 3 Reasons to Buy and Hold It Forever.",
       "url": "https://finance.yahoo.com/quote/PG",
-      "sectorPe": 24.4
+      "sectorPe": 24.2
     },
     {
       "ticker": "XOM",
@@ -508,20 +508,20 @@
         161.23,
         162.14
       ],
-      "pe": 20.7,
+      "pe": 20.9,
       "debtEq": 0.16,
       "sector": "Energy",
       "industry": "Oil & Gas Integrated",
       "marketCap": 666705395712,
       "weekHigh52": 176.41,
       "weekLow52": 110.39,
-      "dividendYield": 2.56,
+      "dividendYield": 2.54,
       "relStrength": 0.58,
       "volumeRatio": 0.83,
       "newsScore": -0.1,
-      "newsHeadline": "Could TotalEnergies (TTE)’ LNG Growth Give it an Edge Over ExxonMobil (XOM)?",
+      "newsHeadline": "Vietnam’s BSR inks crude oil supply agreement with ExxonMobil",
       "url": "https://finance.yahoo.com/quote/XOM",
-      "sectorPe": 20.2
+      "sectorPe": 20.4
     },
     {
       "ticker": "CVX",
@@ -561,10 +561,10 @@
       "dividendYield": 3.46,
       "relStrength": 2.53,
       "volumeRatio": 0.94,
-      "newsScore": -0.2,
-      "newsHeadline": "5 Energy Stocks Positioned for a Prolonged Iran War",
+      "newsScore": -0.3,
+      "newsHeadline": "Vietnam’s BSR inks crude oil supply agreement with ExxonMobil",
       "url": "https://finance.yahoo.com/quote/CVX",
-      "sectorPe": 20.2
+      "sectorPe": 20.4
     },
     {
       "ticker": "CAT",
@@ -594,20 +594,20 @@
         812.02,
         805.25
       ],
-      "pe": 35.0,
+      "pe": 34.7,
       "debtEq": 2.33,
       "sector": "Industrials",
       "industry": "Farm & Heavy Construction Machinery",
       "marketCap": 370153193472,
       "weekHigh52": 1073.46,
-      "weekLow52": 459.58,
-      "dividendYield": 0.8,
+      "weekLow52": 462.38,
+      "dividendYield": 0.81,
       "relStrength": -1.09,
       "volumeRatio": 0.93,
       "newsScore": 0.3,
       "newsHeadline": "Retired at 67 With $900K? These 3 ETFs Generate Your Tax Bill Without Selling Stock",
       "url": "https://finance.yahoo.com/quote/CAT",
-      "sectorPe": 53.4
+      "sectorPe": 53.2
     },
     {
       "ticker": "BA",
@@ -651,17 +651,16 @@
       "newsScore": 0.7,
       "newsHeadline": "Boeing vs. Lockheed Martin: Which Essential U.S. Aerospace Stock Is a Better Buy in 2026?",
       "url": "https://finance.yahoo.com/quote/BA",
-      "sectorPe": 53.4
+      "sectorPe": 53.2
     }
   ],
   "uk": [
     {
       "ticker": "HSBA.L",
       "name": "HSBC HOLDINGS PLC ORD $0.50 (UK",
-      "price": NaN,
-      "chg": NaN,
+      "price": 1520.56,
+      "chg": 1.38,
       "hist": [
-        1529.0,
         1517.0,
         1522.2,
         1504.0,
@@ -683,30 +682,30 @@
         1533.8,
         1509.4,
         1514.6,
-        NaN
+        1499.8,
+        1520.56
       ],
       "pe": 14.3,
       "debtEq": null,
       "sector": "Financial Services",
       "industry": "Banks - Diversified",
-      "marketCap": 256564609024,
+      "marketCap": 260116037632,
       "weekHigh52": 1610.0,
-      "weekLow52": null,
-      "dividendYield": 3.68,
-      "relStrength": NaN,
-      "volumeRatio": 0.03,
+      "weekLow52": 959.29,
+      "dividendYield": 3.71,
+      "relStrength": 1.86,
+      "volumeRatio": 0.13,
       "newsScore": 0.1,
-      "newsHeadline": "Netflix Edges Higher Despite HSBC Engagement Expectations Cut",
+      "newsHeadline": "HSBC looks to re-enter India equity broking business – report",
       "url": "https://finance.yahoo.com/quote/HSBA.L",
-      "sectorPe": 11.9
+      "sectorPe": 12.0
     },
     {
       "ticker": "AZN.L",
       "name": "ASTRAZENECA PLC ORD SHS $0.25",
-      "price": NaN,
-      "chg": NaN,
+      "price": 12462.0,
+      "chg": 0.5,
       "hist": [
-        12110.0,
         12476.0,
         12234.0,
         12114.0,
@@ -728,30 +727,30 @@
         12560.0,
         12672.0,
         12430.0,
-        NaN
+        12400.0,
+        12462.0
       ],
-      "pe": 24.8,
+      "pe": 24.9,
       "debtEq": 0.64,
       "sector": "Healthcare",
       "industry": "Drug Manufacturers - General",
-      "marketCap": 192311083008,
+      "marketCap": 193210613760,
       "weekHigh52": 15732.0,
-      "weekLow52": null,
-      "dividendYield": 1.92,
-      "relStrength": NaN,
-      "volumeRatio": 0.04,
+      "weekLow52": 9892.0,
+      "dividendYield": 1.93,
+      "relStrength": 1.52,
+      "volumeRatio": 0.1,
       "newsScore": 0.2,
       "newsHeadline": "AstraZeneca (AZN): Can Precision Medicine Offset a Narrower Breast Cancer Market?",
       "url": "https://finance.yahoo.com/quote/AZN.L",
-      "sectorPe": 24.8
+      "sectorPe": 24.9
     },
     {
       "ticker": "SHEL.L",
       "name": "SHELL PLC ORD EUR0.07",
-      "price": NaN,
-      "chg": NaN,
+      "price": 3597.22,
+      "chg": -1.2,
       "hist": [
-        3397.0,
         3386.5,
         3371.0,
         3311.0,
@@ -773,30 +772,30 @@
         3488.5,
         3510.0,
         3580.0,
-        NaN
+        3641.0,
+        3597.22
       ],
-      "pe": 10.7,
+      "pe": 10.6,
       "debtEq": 0.4,
       "sector": "Energy",
       "industry": "Oil & Gas Integrated",
-      "marketCap": 207730032640,
+      "marketCap": 205232242688,
       "weekHigh52": 3758.5,
-      "weekLow52": null,
-      "dividendYield": 3.23,
-      "relStrength": NaN,
-      "volumeRatio": 0.11,
+      "weekLow52": 2553.77,
+      "dividendYield": 3.18,
+      "relStrength": 7.85,
+      "volumeRatio": 0.09,
       "newsScore": 0.0,
       "newsHeadline": "5 Energy Stocks Positioned for a Prolonged Iran War",
       "url": "https://finance.yahoo.com/quote/SHEL.L",
-      "sectorPe": 10.7
+      "sectorPe": 10.6
     },
     {
       "ticker": "ULVR.L",
       "name": "UNILEVER PLC ORD 3.5P",
-      "price": NaN,
-      "chg": NaN,
+      "price": 4684.5,
+      "chg": -0.51,
       "hist": [
-        4782.5,
         4761.5,
         4772.0,
         4752.0,
@@ -818,30 +817,30 @@
         4642.5,
         4698.0,
         4677.0,
-        NaN
+        4708.5,
+        4684.5
       ],
-      "pe": 21.5,
+      "pe": 21.4,
       "debtEq": 1.75,
       "sector": "Consumer Defensive",
       "industry": "Household & Personal Products",
-      "marketCap": 101386469376,
+      "marketCap": 100869685248,
       "weekHigh52": 5542.11,
-      "weekLow52": null,
-      "dividendYield": 3.53,
-      "relStrength": NaN,
-      "volumeRatio": 0.0,
+      "weekLow52": 3644.0,
+      "dividendYield": 3.5,
+      "relStrength": 0.01,
+      "volumeRatio": 0.14,
       "newsScore": 0.3,
       "newsHeadline": "McCormick Likely to Keep Guidance at Fiscal Q3 Results, UBS Says",
       "url": "https://finance.yahoo.com/quote/ULVR.L",
-      "sectorPe": 21.5
+      "sectorPe": 21.4
     },
     {
       "ticker": "BARC.L",
       "name": "BARCLAYS PLC ORD 25P",
-      "price": NaN,
-      "chg": NaN,
+      "price": 463.75,
+      "chg": 1.57,
       "hist": [
-        495.35,
         496.25,
         499.55,
         492.6,
@@ -863,26 +862,27 @@
         471.1,
         465.3,
         460.5,
-        NaN
+        456.6,
+        463.75
       ],
-      "pe": 9.5,
+      "pe": 9.7,
       "debtEq": null,
       "sector": "Financial Services",
       "industry": "Banks - Diversified",
-      "marketCap": 61088313344,
+      "marketCap": 62044909568,
       "weekHigh52": 538.3,
-      "weekLow52": null,
-      "dividendYield": 2.5,
-      "relStrength": NaN,
-      "volumeRatio": 0.23,
+      "weekLow52": 353.55,
+      "dividendYield": 2.52,
+      "relStrength": -4.92,
+      "volumeRatio": 0.12,
       "newsScore": 0.3,
       "newsHeadline": "Antony Jenkins ran one of the world’s biggest banks. He knows how to solve those legacy tech nightmares (and launched a start-up to prove it)",
       "url": "https://finance.yahoo.com/quote/BARC.L",
-      "sectorPe": 11.9
+      "sectorPe": 12.0
     }
   ],
   "benchmarks": {
     "us": 0.35,
-    "uk": -1.61
+    "uk": -1.63
   }
 }
