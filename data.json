@@ -1,11 +1,11 @@
 {
-  "updated": "2026-09-25T00:03:32.082392+00:00",
+  "updated": "2026-09-25T06:03:10.016178+00:00",
   "us": [
     {
       "ticker": "AAPL",
       "name": "Apple Inc.",
-      "price": NaN,
-      "chg": NaN,
+      "price": 335.92,
+      "chg": -0.33,
       "hist": [
         309.9,
         313.45,
@@ -28,9 +28,9 @@
         338.98,
         339.75,
         337.02,
-        NaN
+        335.92
       ],
-      "pe": 38.5,
+      "pe": 38.6,
       "debtEq": 0.78,
       "sector": "Technology",
       "industry": "Consumer Electronics",
@@ -38,18 +38,18 @@
       "weekHigh52": 345.34,
       "weekLow52": 243.42,
       "dividendYield": 0.32,
-      "relStrength": NaN,
-      "volumeRatio": 0.57,
-      "newsScore": 0.7,
+      "relStrength": 8.05,
+      "volumeRatio": 0.58,
+      "newsScore": 0.6,
       "newsHeadline": "The era of AI wearables focused on listening is here",
       "url": "https://finance.yahoo.com/quote/AAPL",
-      "sectorPe": 31.5
+      "sectorPe": 31.6
     },
     {
       "ticker": "MSFT",
       "name": "Microsoft Corporation",
-      "price": NaN,
-      "chg": NaN,
+      "price": 497.93,
+      "chg": -0.53,
       "hist": [
         491.71,
         496.37,
@@ -72,9 +72,9 @@
         501.61,
         498.0,
         500.59,
-        NaN
+        497.93
       ],
-      "pe": 27.7,
+      "pe": 27.8,
       "debtEq": 0.29,
       "sector": "Technology",
       "industry": "Software - Infrastructure",
@@ -82,18 +82,18 @@
       "weekHigh52": 553.72,
       "weekLow52": 349.2,
       "dividendYield": 0.78,
-      "relStrength": NaN,
-      "volumeRatio": 0.77,
-      "newsScore": -0.3,
+      "relStrength": 0.91,
+      "volumeRatio": 0.78,
+      "newsScore": 0.1,
       "newsHeadline": "Nvidia leads tech stocks lower as Treasury yields surge: AlphaCheck",
       "url": "https://finance.yahoo.com/quote/MSFT",
-      "sectorPe": 31.5
+      "sectorPe": 31.6
     },
     {
       "ticker": "NVDA",
       "name": "NVIDIA Corporation",
-      "price": NaN,
-      "chg": NaN,
+      "price": 224.58,
+      "chg": -0.41,
       "hist": [
         212.81,
         209.43,
@@ -116,9 +116,9 @@
         227.38,
         228.87,
         225.51,
-        NaN
+        224.58
       ],
-      "pe": 28.4,
+      "pe": 28.5,
       "debtEq": 0.17,
       "sector": "Technology",
       "industry": "Semiconductors",
@@ -126,18 +126,18 @@
       "weekHigh52": 236.54,
       "weekLow52": 164.27,
       "dividendYield": 0.44,
-      "relStrength": NaN,
-      "volumeRatio": 0.58,
-      "newsScore": -0.0,
+      "relStrength": 5.18,
+      "volumeRatio": 0.59,
+      "newsScore": 0.3,
       "newsHeadline": "Nvidia's valuation is falling, but it might not be a warning sign",
       "url": "https://finance.yahoo.com/quote/NVDA",
-      "sectorPe": 31.5
+      "sectorPe": 31.6
     },
     {
       "ticker": "AMZN",
       "name": "Amazon.com, Inc.",
-      "price": NaN,
-      "chg": NaN,
+      "price": 249.38,
+      "chg": 0.04,
       "hist": [
         261.06,
         260.28,
@@ -160,7 +160,7 @@
         258.45,
         254.98,
         249.27,
-        NaN
+        249.38
       ],
       "pe": 20.0,
       "debtEq": 0.46,
@@ -170,9 +170,9 @@
       "weekHigh52": 287.2,
       "weekLow52": 196.0,
       "dividendYield": null,
-      "relStrength": NaN,
-      "volumeRatio": 0.95,
-      "newsScore": 0.4,
+      "relStrength": -4.82,
+      "volumeRatio": 0.96,
+      "newsScore": 0.0,
       "newsHeadline": "Nvidia leads tech stocks lower as Treasury yields surge: AlphaCheck",
       "url": "https://finance.yahoo.com/quote/AMZN",
       "sectorPe": 188.2
@@ -180,8 +180,8 @@
     {
       "ticker": "TSLA",
       "name": "Tesla, Inc.",
-      "price": NaN,
-      "chg": NaN,
+      "price": 377.94,
+      "chg": -0.57,
       "hist": [
         350.25,
         345.82,
@@ -204,7 +204,7 @@
         375.3,
         378.9,
         380.12,
-        NaN
+        377.94
       ],
       "pe": 356.5,
       "debtEq": 0.18,
@@ -214,18 +214,18 @@
       "weekHigh52": 498.83,
       "weekLow52": 297.38,
       "dividendYield": null,
-      "relStrength": NaN,
-      "volumeRatio": 0.67,
-      "newsScore": 0.2,
-      "newsHeadline": "Dow Jones Futures: Market Rally Resilient As Yields, Oil Prices Keep Rising; Tesla Event On Deck",
+      "relStrength": 7.56,
+      "volumeRatio": 0.68,
+      "newsScore": 0.3,
+      "newsHeadline": "TSLA Stock Climbs Overnight: Roadster Teaser Stokes SpaceX Buzz — Musk Calls New Semi A ‘Game-Changer’",
       "url": "https://finance.yahoo.com/quote/TSLA",
       "sectorPe": 188.2
     },
     {
       "ticker": "JPM",
       "name": "JP Morgan Chase & Co.",
-      "price": NaN,
-      "chg": NaN,
+      "price": 338.56,
+      "chg": 0.31,
       "hist": [
         356.69,
         356.5,
@@ -248,7 +248,7 @@
         352.04,
         340.0,
         337.53,
-        NaN
+        338.56
       ],
       "pe": 14.5,
       "debtEq": null,
@@ -258,18 +258,18 @@
       "weekHigh52": 366.5,
       "weekLow52": 279.1,
       "dividendYield": 1.96,
-      "relStrength": NaN,
+      "relStrength": -5.43,
       "volumeRatio": 0.96,
-      "newsScore": 0.3,
-      "newsHeadline": "Why Welltower Stock Topped the Market on Thursday",
+      "newsScore": 0.5,
+      "newsHeadline": "JPMorgan sends strong message to Meta stock investors",
       "url": "https://finance.yahoo.com/quote/JPM",
-      "sectorPe": 22.9
+      "sectorPe": 22.6
     },
     {
       "ticker": "V",
       "name": "Visa Inc.",
-      "price": NaN,
-      "chg": NaN,
+      "price": 367.98,
+      "chg": 1.79,
       "hist": [
         384.14,
         383.9,
@@ -291,9 +291,9 @@
         368.29,
         369.95,
         361.52,
-        NaN
+        367.98
       ],
-      "pe": 31.3,
+      "pe": 30.8,
       "debtEq": 0.68,
       "sector": "Financial Services",
       "industry": "Credit Services",
@@ -301,18 +301,18 @@
       "weekHigh52": 385.57,
       "weekLow52": 293.89,
       "dividendYield": 0.74,
-      "relStrength": NaN,
+      "relStrength": -4.56,
       "volumeRatio": 0.72,
       "newsScore": 0.6,
       "newsHeadline": "Visa (V) vs American Express (AXP): Which is a Better Stock to Buy",
       "url": "https://finance.yahoo.com/quote/V",
-      "sectorPe": 22.9
+      "sectorPe": 22.6
     },
     {
       "ticker": "JNJ",
       "name": "Johnson & Johnson",
-      "price": NaN,
-      "chg": NaN,
+      "price": 270.68,
+      "chg": 0.56,
       "hist": [
         273.14,
         270.0,
@@ -334,28 +334,28 @@
         269.99,
         269.47,
         269.17,
-        NaN
+        270.68
       ],
-      "pe": 31.4,
+      "pe": 31.3,
       "debtEq": 0.58,
       "sector": "Healthcare",
       "industry": "Drug Manufacturers - General",
       "marketCap": 652311330816,
       "weekHigh52": 281.07,
-      "weekLow52": 175.91,
+      "weekLow52": 177.32,
       "dividendYield": 1.99,
-      "relStrength": NaN,
-      "volumeRatio": 0.95,
+      "relStrength": -1.25,
+      "volumeRatio": 0.97,
       "newsScore": 0.3,
       "newsHeadline": "J&J’s RYBREVANT Shows Strong Survival. Is J&J’s Oncology Franchise Gaining?",
       "url": "https://finance.yahoo.com/quote/JNJ",
-      "sectorPe": 27.8
+      "sectorPe": 27.6
     },
     {
       "ticker": "UNH",
       "name": "UnitedHealth Group Incorporated",
-      "price": NaN,
-      "chg": NaN,
+      "price": 375.01,
+      "chg": 1.0,
       "hist": [
         394.16,
         398.56,
@@ -377,9 +377,9 @@
         376.9,
         377.56,
         371.29,
-        NaN
+        375.01
       ],
-      "pe": 24.1,
+      "pe": 23.9,
       "debtEq": 0.69,
       "sector": "Healthcare",
       "industry": "Healthcare Plans",
@@ -387,18 +387,18 @@
       "weekHigh52": 461.62,
       "weekLow52": 255.97,
       "dividendYield": 2.5,
-      "relStrength": NaN,
+      "relStrength": -5.21,
       "volumeRatio": 0.94,
       "newsScore": 0.1,
       "newsHeadline": "Does UnitedHealth’s New CAO Hire Reveal a Deeper Shift in Efficiency Strategy for UNH?",
       "url": "https://finance.yahoo.com/quote/UNH",
-      "sectorPe": 27.8
+      "sectorPe": 27.6
     },
     {
       "ticker": "KO",
       "name": "Coca-Cola Company (The)",
-      "price": NaN,
-      "chg": NaN,
+      "price": 88.1,
+      "chg": 0.01,
       "hist": [
         91.1,
         89.55,
@@ -420,7 +420,7 @@
         88.25,
         87.12,
         88.09,
-        NaN
+        88.1
       ],
       "pe": 26.5,
       "debtEq": 1.16,
@@ -430,18 +430,18 @@
       "weekHigh52": 92.49,
       "weekLow52": 65.35,
       "dividendYield": 2.41,
-      "relStrength": NaN,
-      "volumeRatio": 0.83,
-      "newsScore": 0.6,
-      "newsHeadline": "Top Stock Reports for Tesla, Bank of America & Coca-Cola",
+      "relStrength": -3.64,
+      "volumeRatio": 0.84,
+      "newsScore": 0.4,
+      "newsHeadline": "2 Soaring Stocks to Hold for the Next 7 Years",
       "url": "https://finance.yahoo.com/quote/KO",
-      "sectorPe": 24.2
+      "sectorPe": 24.4
     },
     {
       "ticker": "PG",
       "name": "Procter & Gamble Company (The)",
-      "price": NaN,
-      "chg": NaN,
+      "price": 145.68,
+      "chg": -1.16,
       "hist": [
         145.4,
         145.0,
@@ -463,9 +463,9 @@
         146.39,
         146.08,
         147.39,
-        NaN
+        145.68
       ],
-      "pe": 22.0,
+      "pe": 22.3,
       "debtEq": 0.64,
       "sector": "Consumer Defensive",
       "industry": "Household & Personal Products",
@@ -473,18 +473,18 @@
       "weekHigh52": 167.25,
       "weekLow52": 137.62,
       "dividendYield": 2.95,
-      "relStrength": NaN,
-      "volumeRatio": 0.87,
+      "relStrength": -0.16,
+      "volumeRatio": 0.89,
       "newsScore": -0.4,
       "newsHeadline": "Scholastic (SCHL) Reports Q1 Loss, Lags Revenue Estimates",
       "url": "https://finance.yahoo.com/quote/PG",
-      "sectorPe": 24.2
+      "sectorPe": 24.4
     },
     {
       "ticker": "XOM",
       "name": "ExxonMobil Holdings Corporation",
-      "price": NaN,
-      "chg": NaN,
+      "price": 162.14,
+      "chg": 0.56,
       "hist": [
         160.64,
         158.19,
@@ -506,9 +506,9 @@
         163.54,
         158.3,
         161.23,
-        NaN
+        162.14
       ],
-      "pe": 20.9,
+      "pe": 20.7,
       "debtEq": 0.16,
       "sector": "Energy",
       "industry": "Oil & Gas Integrated",
@@ -516,18 +516,18 @@
       "weekHigh52": 176.41,
       "weekLow52": 110.39,
       "dividendYield": 2.56,
-      "relStrength": NaN,
+      "relStrength": 0.58,
       "volumeRatio": 0.83,
       "newsScore": -0.1,
       "newsHeadline": "Could TotalEnergies (TTE)’ LNG Growth Give it an Edge Over ExxonMobil (XOM)?",
       "url": "https://finance.yahoo.com/quote/XOM",
-      "sectorPe": 20.4
+      "sectorPe": 20.2
     },
     {
       "ticker": "CVX",
       "name": "Chevron Corporation",
-      "price": NaN,
-      "chg": NaN,
+      "price": 205.65,
+      "chg": 0.07,
       "hist": [
         199.89,
         200.21,
@@ -549,7 +549,7 @@
         209.51,
         203.67,
         205.51,
-        NaN
+        205.65
       ],
       "pe": 19.8,
       "debtEq": 0.19,
@@ -559,18 +559,18 @@
       "weekHigh52": 217.78,
       "weekLow52": 146.49,
       "dividendYield": 3.46,
-      "relStrength": NaN,
+      "relStrength": 2.53,
       "volumeRatio": 0.94,
       "newsScore": -0.2,
-      "newsHeadline": "These Dow Jones Stocks Buck Index's Dud Performance",
+      "newsHeadline": "5 Energy Stocks Positioned for a Prolonged Iran War",
       "url": "https://finance.yahoo.com/quote/CVX",
-      "sectorPe": 20.4
+      "sectorPe": 20.2
     },
     {
       "ticker": "CAT",
       "name": "Caterpillar, Inc.",
-      "price": NaN,
-      "chg": NaN,
+      "price": 805.25,
+      "chg": -0.83,
       "hist": [
         811.29,
         821.93,
@@ -592,7 +592,7 @@
         808.99,
         816.5,
         812.02,
-        NaN
+        805.25
       ],
       "pe": 35.0,
       "debtEq": 2.33,
@@ -602,18 +602,18 @@
       "weekHigh52": 1073.46,
       "weekLow52": 459.58,
       "dividendYield": 0.8,
-      "relStrength": NaN,
-      "volumeRatio": 0.89,
+      "relStrength": -1.09,
+      "volumeRatio": 0.93,
       "newsScore": 0.3,
       "newsHeadline": "Retired at 67 With $900K? These 3 ETFs Generate Your Tax Bill Without Selling Stock",
       "url": "https://finance.yahoo.com/quote/CAT",
-      "sectorPe": 52.9
+      "sectorPe": 53.4
     },
     {
       "ticker": "BA",
       "name": "Boeing Company (The)",
-      "price": NaN,
-      "chg": NaN,
+      "price": 196.8,
+      "chg": -1.57,
       "hist": [
         211.08,
         212.09,
@@ -636,9 +636,9 @@
         201.15,
         197.72,
         199.93,
-        NaN
+        196.8
       ],
-      "pe": 70.8,
+      "pe": 71.8,
       "debtEq": 7.91,
       "sector": "Industrials",
       "industry": "Aerospace & Defense",
@@ -646,12 +646,12 @@
       "weekHigh52": 254.35,
       "weekLow52": 176.77,
       "dividendYield": null,
-      "relStrength": NaN,
-      "volumeRatio": 1.56,
+      "relStrength": -7.12,
+      "volumeRatio": 1.57,
       "newsScore": 0.7,
       "newsHeadline": "Boeing vs. Lockheed Martin: Which Essential U.S. Aerospace Stock Is a Better Buy in 2026?",
       "url": "https://finance.yahoo.com/quote/BA",
-      "sectorPe": 52.9
+      "sectorPe": 53.4
     }
   ],
   "uk": [
@@ -689,7 +689,7 @@
       "debtEq": null,
       "sector": "Financial Services",
       "industry": "Banks - Diversified",
-      "marketCap": 256628326400,
+      "marketCap": 256564609024,
       "weekHigh52": 1610.0,
       "weekLow52": null,
       "dividendYield": 3.68,
@@ -779,14 +779,14 @@
       "debtEq": 0.4,
       "sector": "Energy",
       "industry": "Oil & Gas Integrated",
-      "marketCap": 207762767872,
+      "marketCap": 207730032640,
       "weekHigh52": 3758.5,
       "weekLow52": null,
       "dividendYield": 3.23,
       "relStrength": NaN,
       "volumeRatio": 0.11,
-      "newsScore": 0.3,
-      "newsHeadline": "Could Constellation Energy (CEG)’s $715 Million Shell (SHEL) Deal Accelerate its Power Growth?",
+      "newsScore": 0.0,
+      "newsHeadline": "5 Energy Stocks Positioned for a Prolonged Iran War",
       "url": "https://finance.yahoo.com/quote/SHEL.L",
       "sectorPe": 10.7
     },
@@ -883,6 +883,6 @@
   ],
   "benchmarks": {
     "us": 0.35,
-    "uk": -1.37
+    "uk": -1.61
   }
 }
