@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-26T06:03:15.337234+00:00",
+  "updated": "2026-09-26T12:03:03.497290+00:00",
   "us": [
     {
       "ticker": "AAPL",
@@ -40,7 +40,7 @@
       "dividendYield": 0.32,
       "relStrength": 7.93,
       "volumeRatio": 0.7,
-      "newsScore": 0.7,
+      "newsScore": 0.4,
       "newsHeadline": "Trump says China's Xi 'seemed to like' renaming AI as super intelligence",
       "url": "https://finance.yahoo.com/quote/AAPL",
       "sectorPe": 32.1
@@ -81,11 +81,11 @@
       "marketCap": 3832843862016,
       "weekHigh52": 553.72,
       "weekLow52": 349.2,
-      "dividendYield": 0.79,
+      "dividendYield": 0.76,
       "relStrength": 3.11,
       "volumeRatio": 1.79,
-      "newsScore": 0.1,
-      "newsHeadline": "What's different about Microsoft's Copilot AI reboot",
+      "newsScore": -0.3,
+      "newsHeadline": "Big Tech's AI build-out ran to the Middle East. Then the Iran war hit.",
       "url": "https://finance.yahoo.com/quote/MSFT",
       "sectorPe": 32.1
     },
@@ -125,7 +125,7 @@
       "marketCap": 5434765213696,
       "weekHigh52": 236.54,
       "weekLow52": 164.27,
-      "dividendYield": 0.45,
+      "dividendYield": 0.44,
       "relStrength": 6.59,
       "volumeRatio": 0.7,
       "newsScore": 0.7,
@@ -172,10 +172,10 @@
       "dividendYield": null,
       "relStrength": -4.96,
       "volumeRatio": 0.98,
-      "newsScore": -0.3,
-      "newsHeadline": "Musk’s ‘Zuckerberg moment,’ mortgage rates, and Google’s space bet",
+      "newsScore": -0.5,
+      "newsHeadline": "Big Tech's AI build-out ran to the Middle East. Then the Iran war hit.",
       "url": "https://finance.yahoo.com/quote/AMZN",
-      "sectorPe": 179.2
+      "sectorPe": 182.3
     },
     {
       "ticker": "TSLA",
@@ -206,7 +206,7 @@
         377.94,
         372.11
       ],
-      "pe": 338.3,
+      "pe": 344.5,
       "debtEq": 0.18,
       "sector": "Consumer Cyclical",
       "industry": "Auto Manufacturers",
@@ -216,10 +216,10 @@
       "dividendYield": null,
       "relStrength": 6.72,
       "volumeRatio": 1.2,
-      "newsScore": 0.9,
+      "newsScore": 0.7,
       "newsHeadline": "Trump says China's Xi 'seemed to like' renaming AI as super intelligence",
       "url": "https://finance.yahoo.com/quote/TSLA",
-      "sectorPe": 179.2
+      "sectorPe": 182.3
     },
     {
       "ticker": "JPM",
@@ -257,13 +257,13 @@
       "marketCap": 911917383680,
       "weekHigh52": 366.5,
       "weekLow52": 279.1,
-      "dividendYield": 1.95,
+      "dividendYield": 1.92,
       "relStrength": -4.65,
       "volumeRatio": 1.57,
-      "newsScore": 0.1,
-      "newsHeadline": "Morgan Stanley public finance co-head Zach Solomon leaves for TD - Bloomberg",
+      "newsScore": -0.0,
+      "newsHeadline": "Here's how high-income Americans keep spending in a shaky economy",
       "url": "https://finance.yahoo.com/quote/JPM",
-      "sectorPe": 23.0
+      "sectorPe": 22.9
     },
     {
       "ticker": "V",
@@ -294,7 +294,7 @@
         367.98,
         367.38
       ],
-      "pe": 31.3,
+      "pe": 31.2,
       "debtEq": 0.68,
       "sector": "Financial Services",
       "industry": "Credit Services",
@@ -307,7 +307,7 @@
       "newsScore": 0.2,
       "newsHeadline": "Visa (V): Is Its Economic Moat Strong Enough to Last?",
       "url": "https://finance.yahoo.com/quote/V",
-      "sectorPe": 23.0
+      "sectorPe": 22.9
     },
     {
       "ticker": "JNJ",
@@ -350,7 +350,7 @@
       "relStrength": NaN,
       "volumeRatio": 0.65,
       "newsScore": -0.0,
-      "newsHeadline": "AbbVie vs. Johnson & Johnson: Which Healthcare Stock Is a Better Buy in 2026?",
+      "newsHeadline": "What Does Johnson & Johnson (JNJ) New Clinical Data Mean For Its Stock?",
       "url": "https://finance.yahoo.com/quote/JNJ",
       "sectorPe": 27.9
     },
@@ -390,7 +390,7 @@
       "marketCap": 338025218048,
       "weekHigh52": 461.62,
       "weekLow52": 255.97,
-      "dividendYield": 2.47,
+      "dividendYield": 2.46,
       "relStrength": -6.39,
       "volumeRatio": 0.81,
       "newsScore": 0.4,
@@ -438,7 +438,7 @@
       "relStrength": -2.82,
       "volumeRatio": 0.76,
       "newsScore": -0.2,
-      "newsHeadline": "Coca-Cola Hasn't Sold Much More Soda in a Decade. Its Dividend Has Gone Up Every Year Anyway.",
+      "newsHeadline": "Most of Berkshire Hathaway's Earnings Don't Come From Its Stock Portfolio. Here's Where They Do Come From.",
       "url": "https://finance.yahoo.com/quote/KO",
       "sectorPe": 24.2
     },
@@ -475,14 +475,14 @@
       "debtEq": 0.64,
       "sector": "Consumer Defensive",
       "industry": "Household & Personal Products",
-      "marketCap": 339901841408,
+      "marketCap": 339644383232,
       "weekHigh52": 167.25,
       "weekLow52": 137.62,
-      "dividendYield": 2.99,
+      "dividendYield": 2.98,
       "relStrength": -0.03,
       "volumeRatio": 0.71,
-      "newsScore": -0.0,
-      "newsHeadline": "Procter And Gamble (PG) Pushes Scalp Care While Valuation Debate Stays In Focus",
+      "newsScore": 0.2,
+      "newsHeadline": "If You Invest $100 Per Month in Procter & Gamble Stock, Here's the Passive Dividend Income It Could Generate Over 10 Years",
       "url": "https://finance.yahoo.com/quote/PG",
       "sectorPe": 24.2
     },
@@ -522,13 +522,13 @@
       "marketCap": 660331954176,
       "weekHigh52": 176.41,
       "weekLow52": 110.39,
-      "dividendYield": 2.54,
+      "dividendYield": 2.57,
       "relStrength": 0.64,
       "volumeRatio": 0.75,
-      "newsScore": 0.7,
+      "newsScore": -0.0,
       "newsHeadline": "The 8:30: Trump-Xi summit takeaways, an interview with Microsoft CEO Satya Nadella",
       "url": "https://finance.yahoo.com/quote/XOM",
-      "sectorPe": 20.2
+      "sectorPe": 20.1
     },
     {
       "ticker": "CVX",
@@ -559,20 +559,20 @@
         205.65,
         204.45
       ],
-      "pe": 19.7,
+      "pe": 19.6,
       "debtEq": 0.19,
       "sector": "Energy",
       "industry": "Oil & Gas Integrated",
       "marketCap": 401049780224,
       "weekHigh52": 217.78,
       "weekLow52": 146.49,
-      "dividendYield": 3.46,
+      "dividendYield": 3.48,
       "relStrength": 1.24,
       "volumeRatio": 0.71,
-      "newsScore": 0.6,
-      "newsHeadline": "Vitesse Energy (VTS) Acquires Chevron-Backed Assets in $26 Million Deal. Can it Drive Further Growth?",
+      "newsScore": 0.1,
+      "newsHeadline": "U.S. pressure campaign cuts Iran’s banking and air links as war drags on - WSJ",
       "url": "https://finance.yahoo.com/quote/CVX",
-      "sectorPe": 20.2
+      "sectorPe": 20.1
     },
     {
       "ticker": "CAT",
@@ -603,20 +603,20 @@
         805.25,
         821.58
       ],
-      "pe": 35.4,
+      "pe": 35.3,
       "debtEq": 2.33,
       "sector": "Industrials",
       "industry": "Farm & Heavy Construction Machinery",
       "marketCap": 377659686912,
       "weekHigh52": 1073.46,
-      "weekLow52": 462.38,
-      "dividendYield": 0.81,
+      "weekLow52": 467.46,
+      "dividendYield": 0.79,
       "relStrength": -0.92,
       "volumeRatio": 0.83,
-      "newsScore": 0.5,
-      "newsHeadline": "Can Caterpillar (CAT) Keep Growing as Construction Slows? AI May Hold the Key",
+      "newsScore": 0.4,
+      "newsHeadline": "China agrees to buy 10 million tons of U.S. coal in 2027 and 2028",
       "url": "https://finance.yahoo.com/quote/CAT",
-      "sectorPe": 53.5
+      "sectorPe": 53.4
     },
     {
       "ticker": "BA",
@@ -651,7 +651,7 @@
       "debtEq": 7.91,
       "sector": "Industrials",
       "industry": "Aerospace & Defense",
-      "marketCap": 156434202624,
+      "marketCap": 156548595712,
       "weekHigh52": 254.35,
       "weekLow52": 176.77,
       "dividendYield": null,
@@ -660,15 +660,15 @@
       "newsScore": 0.5,
       "newsHeadline": "Boeing (BA) Reaches a Tentative Deal with Engineers. Will Higher Pay Help it Avoid a Strike?",
       "url": "https://finance.yahoo.com/quote/BA",
-      "sectorPe": 53.5
+      "sectorPe": 53.4
     }
   ],
   "uk": [
     {
       "ticker": "HSBA.L",
       "name": "HSBC HOLDINGS PLC ORD $0.50 (UK",
-      "price": NaN,
-      "chg": NaN,
+      "price": 1512.2,
+      "chg": 0.83,
       "hist": [
         1517.0,
         1522.2,
@@ -692,7 +692,7 @@
         1509.4,
         1514.6,
         1499.8,
-        NaN
+        1512.2
       ],
       "pe": 14.3,
       "debtEq": null,
@@ -701,8 +701,8 @@
       "marketCap": 258685812736,
       "weekHigh52": 1610.0,
       "weekLow52": 959.29,
-      "dividendYield": 3.71,
-      "relStrength": NaN,
+      "dividendYield": 3.68,
+      "relStrength": 1.43,
       "volumeRatio": 0.52,
       "newsScore": -0.2,
       "newsHeadline": "Why Twilio (TWLO) Shares Are Getting Obliterated Today",
@@ -712,8 +712,8 @@
     {
       "ticker": "AZN.L",
       "name": "ASTRAZENECA PLC ORD SHS $0.25",
-      "price": NaN,
-      "chg": NaN,
+      "price": 12552.0,
+      "chg": 1.23,
       "hist": [
         12476.0,
         12234.0,
@@ -737,17 +737,17 @@
         12672.0,
         12430.0,
         12400.0,
-        NaN
+        12552.0
       ],
       "pe": 25.1,
       "debtEq": 0.64,
       "sector": "Healthcare",
       "industry": "Drug Manufacturers - General",
-      "marketCap": 194667184128,
+      "marketCap": 194668445696,
       "weekHigh52": 15732.0,
       "weekLow52": 9892.0,
-      "dividendYield": 1.93,
-      "relStrength": NaN,
+      "dividendYield": 1.9,
+      "relStrength": 2.36,
       "volumeRatio": 0.54,
       "newsScore": -0.0,
       "newsHeadline": "Sector Update: Healthcare Stocks Higher Late Afternoon",
@@ -757,8 +757,8 @@
     {
       "ticker": "SHEL.L",
       "name": "SHELL PLC ORD EUR0.07",
-      "price": NaN,
-      "chg": NaN,
+      "price": 3611.0,
+      "chg": -0.82,
       "hist": [
         3386.5,
         3371.0,
@@ -782,7 +782,7 @@
         3510.0,
         3580.0,
         3641.0,
-        NaN
+        3611.0
       ],
       "pe": 10.7,
       "debtEq": 0.4,
@@ -791,9 +791,9 @@
       "marketCap": 205990526976,
       "weekHigh52": 3758.5,
       "weekLow52": 2553.77,
-      "dividendYield": 3.18,
-      "relStrength": NaN,
-      "volumeRatio": 1.09,
+      "dividendYield": 3.2,
+      "relStrength": 8.38,
+      "volumeRatio": 1.17,
       "newsScore": 0.4,
       "newsHeadline": "Shell (SHEL) is Eyeing a Massive LNG Expansion in Canada: Could this Be its Next Big Move?",
       "url": "https://finance.yahoo.com/quote/SHEL.L",
@@ -802,8 +802,8 @@
     {
       "ticker": "ULVR.L",
       "name": "UNILEVER PLC ORD 3.5P",
-      "price": NaN,
-      "chg": NaN,
+      "price": 4664.5,
+      "chg": -0.93,
       "hist": [
         4761.5,
         4772.0,
@@ -827,28 +827,28 @@
         4698.0,
         4677.0,
         4708.5,
-        NaN
+        4664.5
       ],
-      "pe": 21.3,
+      "pe": 21.2,
       "debtEq": 1.75,
       "sector": "Consumer Defensive",
       "industry": "Household & Personal Products",
-      "marketCap": 100439015424,
+      "marketCap": 100439023616,
       "weekHigh52": 5542.11,
       "weekLow52": 3644.0,
-      "dividendYield": 3.5,
-      "relStrength": NaN,
+      "dividendYield": 3.54,
+      "relStrength": -0.29,
       "volumeRatio": 1.47,
       "newsScore": 0.3,
       "newsHeadline": "McCormick Likely to Keep Guidance at Fiscal Q3 Results, UBS Says",
       "url": "https://finance.yahoo.com/quote/ULVR.L",
-      "sectorPe": 21.3
+      "sectorPe": 21.2
     },
     {
       "ticker": "BARC.L",
       "name": "BARCLAYS PLC ORD 25P",
-      "price": NaN,
-      "chg": NaN,
+      "price": 463.9,
+      "chg": 1.6,
       "hist": [
         496.25,
         499.55,
@@ -872,7 +872,7 @@
         465.3,
         460.5,
         456.6,
-        NaN
+        463.9
       ],
       "pe": 9.7,
       "debtEq": null,
@@ -881,11 +881,11 @@
       "marketCap": 62064975872,
       "weekHigh52": 538.3,
       "weekLow52": 353.55,
-      "dividendYield": 2.52,
-      "relStrength": NaN,
+      "dividendYield": 2.48,
+      "relStrength": -4.77,
       "volumeRatio": 1.12,
-      "newsScore": 0.5,
-      "newsHeadline": "Humana Stock Jumps. Why It Could Be a Big Winner in Next Medicare Star Ratings.",
+      "newsScore": 0.2,
+      "newsHeadline": "UK PM Burnham to set out economic vision as inflation, Iran war pose challenges",
       "url": "https://finance.yahoo.com/quote/BARC.L",
       "sectorPe": 12.0
     }
