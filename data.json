@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-26T12:03:03.497290+00:00",
+  "updated": "2026-09-26T18:02:58.871289+00:00",
   "us": [
     {
       "ticker": "AAPL",
@@ -40,7 +40,7 @@
       "dividendYield": 0.32,
       "relStrength": 7.93,
       "volumeRatio": 0.7,
-      "newsScore": 0.4,
+      "newsScore": 1.0,
       "newsHeadline": "Trump says China's Xi 'seemed to like' renaming AI as super intelligence",
       "url": "https://finance.yahoo.com/quote/AAPL",
       "sectorPe": 32.1
@@ -84,7 +84,7 @@
       "dividendYield": 0.76,
       "relStrength": 3.11,
       "volumeRatio": 1.79,
-      "newsScore": -0.3,
+      "newsScore": -0.6,
       "newsHeadline": "Big Tech's AI build-out ran to the Middle East. Then the Iran war hit.",
       "url": "https://finance.yahoo.com/quote/MSFT",
       "sectorPe": 32.1
@@ -172,7 +172,7 @@
       "dividendYield": null,
       "relStrength": -4.96,
       "volumeRatio": 0.98,
-      "newsScore": -0.5,
+      "newsScore": 0.4,
       "newsHeadline": "Big Tech's AI build-out ran to the Middle East. Then the Iran war hit.",
       "url": "https://finance.yahoo.com/quote/AMZN",
       "sectorPe": 182.3
@@ -216,7 +216,7 @@
       "dividendYield": null,
       "relStrength": 6.72,
       "volumeRatio": 1.2,
-      "newsScore": 0.7,
+      "newsScore": 0.4,
       "newsHeadline": "Trump says China's Xi 'seemed to like' renaming AI as super intelligence",
       "url": "https://finance.yahoo.com/quote/TSLA",
       "sectorPe": 182.3
@@ -260,8 +260,8 @@
       "dividendYield": 1.92,
       "relStrength": -4.65,
       "volumeRatio": 1.57,
-      "newsScore": -0.0,
-      "newsHeadline": "Here's how high-income Americans keep spending in a shaky economy",
+      "newsScore": -0.1,
+      "newsHeadline": "JPMorgan Predicts IREN Will Generate $24 Billion in Annual Revenue by 2030",
       "url": "https://finance.yahoo.com/quote/JPM",
       "sectorPe": 22.9
     },
@@ -304,8 +304,8 @@
       "dividendYield": 0.73,
       "relStrength": -5.18,
       "volumeRatio": 0.75,
-      "newsScore": 0.2,
-      "newsHeadline": "Visa (V): Is Its Economic Moat Strong Enough to Last?",
+      "newsScore": 0.1,
+      "newsHeadline": "‘It Won’t Work’: Clark Howard Warns Capital One Quietly Moved Its Cheapest Customers to Discover",
       "url": "https://finance.yahoo.com/quote/V",
       "sectorPe": 22.9
     },
@@ -349,8 +349,8 @@
       "dividendYield": 1.98,
       "relStrength": NaN,
       "volumeRatio": 0.65,
-      "newsScore": -0.0,
-      "newsHeadline": "What Does Johnson & Johnson (JNJ) New Clinical Data Mean For Its Stock?",
+      "newsScore": 0.0,
+      "newsHeadline": "Want Bulletproof Dividend Income? These 3 Stocks Have Raised Payouts Through 8 Major Downturns",
       "url": "https://finance.yahoo.com/quote/JNJ",
       "sectorPe": 27.9
     },
@@ -437,8 +437,8 @@
       "dividendYield": 2.41,
       "relStrength": -2.82,
       "volumeRatio": 0.76,
-      "newsScore": -0.2,
-      "newsHeadline": "Most of Berkshire Hathaway's Earnings Don't Come From Its Stock Portfolio. Here's Where They Do Come From.",
+      "newsScore": 0.1,
+      "newsHeadline": "How to Build $7,250 a Month in Dividend Income Without Owning a Single Yield Trap",
       "url": "https://finance.yahoo.com/quote/KO",
       "sectorPe": 24.2
     },
@@ -481,8 +481,8 @@
       "dividendYield": 2.98,
       "relStrength": -0.03,
       "volumeRatio": 0.71,
-      "newsScore": 0.2,
-      "newsHeadline": "If You Invest $100 Per Month in Procter & Gamble Stock, Here's the Passive Dividend Income It Could Generate Over 10 Years",
+      "newsScore": 0.6,
+      "newsHeadline": "Want Bulletproof Dividend Income? These 3 Stocks Have Raised Payouts Through 8 Major Downturns",
       "url": "https://finance.yahoo.com/quote/PG",
       "sectorPe": 24.2
     },
@@ -525,8 +525,8 @@
       "dividendYield": 2.57,
       "relStrength": 0.64,
       "volumeRatio": 0.75,
-      "newsScore": -0.0,
-      "newsHeadline": "The 8:30: Trump-Xi summit takeaways, an interview with Microsoft CEO Satya Nadella",
+      "newsScore": -0.3,
+      "newsHeadline": "For Retirees Who Want Oil Income: Chevron vs. ExxonMobil",
       "url": "https://finance.yahoo.com/quote/XOM",
       "sectorPe": 20.1
     },
@@ -569,8 +569,8 @@
       "dividendYield": 3.48,
       "relStrength": 1.24,
       "volumeRatio": 0.71,
-      "newsScore": 0.1,
-      "newsHeadline": "U.S. pressure campaign cuts Iran’s banking and air links as war drags on - WSJ",
+      "newsScore": 0.2,
+      "newsHeadline": "For Retirees Who Want Oil Income: Chevron vs. ExxonMobil",
       "url": "https://finance.yahoo.com/quote/CVX",
       "sectorPe": 20.1
     },
@@ -704,8 +704,8 @@
       "dividendYield": 3.68,
       "relStrength": 1.43,
       "volumeRatio": 0.52,
-      "newsScore": -0.2,
-      "newsHeadline": "Why Twilio (TWLO) Shares Are Getting Obliterated Today",
+      "newsScore": 0.0,
+      "newsHeadline": "3 Financial Stocks to Watch as Higher Bond Yields Reshape Bank and Insurer Profits",
       "url": "https://finance.yahoo.com/quote/HSBA.L",
       "sectorPe": 12.0
     },
