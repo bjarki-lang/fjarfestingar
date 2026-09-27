@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-27T00:03:50.022139+00:00",
+  "updated": "2026-09-27T06:03:12.906613+00:00",
   "us": [
     {
       "ticker": "AAPL",
@@ -40,8 +40,8 @@
       "dividendYield": 0.32,
       "relStrength": 7.93,
       "volumeRatio": 0.7,
-      "newsScore": 0.7,
-      "newsHeadline": "The 3 \"Magnificent Seven\" Stocks That I'm Buying Now",
+      "newsScore": 0.8,
+      "newsHeadline": "A $1,000 Investment Split Between Alphabet and Nvidia Will Be Worth This Much by 2030",
       "url": "https://finance.yahoo.com/quote/AAPL",
       "sectorPe": 32.1
     },
@@ -84,7 +84,7 @@
       "dividendYield": 0.76,
       "relStrength": 3.11,
       "volumeRatio": 1.79,
-      "newsScore": -0.3,
+      "newsScore": -0.6,
       "newsHeadline": "Big Tech's AI build-out ran to the Middle East. Then the Iran war hit.",
       "url": "https://finance.yahoo.com/quote/MSFT",
       "sectorPe": 32.1
@@ -129,7 +129,7 @@
       "relStrength": 6.59,
       "volumeRatio": 0.7,
       "newsScore": 0.6,
-      "newsHeadline": "This Little-Known Cryptocurrency Is Up 217% for the Year. But Is It a Buy?",
+      "newsHeadline": "Prediction: This Space Stock Will Outperform SpaceX Over the Next 10 Years",
       "url": "https://finance.yahoo.com/quote/NVDA",
       "sectorPe": 32.1
     },
@@ -172,7 +172,7 @@
       "dividendYield": null,
       "relStrength": -4.96,
       "volumeRatio": 0.98,
-      "newsScore": 0.4,
+      "newsScore": 0.0,
       "newsHeadline": "Big Tech's AI build-out ran to the Middle East. Then the Iran war hit.",
       "url": "https://finance.yahoo.com/quote/AMZN",
       "sectorPe": 182.3
@@ -216,8 +216,8 @@
       "dividendYield": null,
       "relStrength": 6.72,
       "volumeRatio": 1.2,
-      "newsScore": -0.0,
-      "newsHeadline": "Ross Gerber Asks Why Tesla Isn't Advertising With Gas at $6.50 a Gallon in LA. 'It's Just Infuriating to Me How Poorly Run Tesla Is'",
+      "newsScore": -0.1,
+      "newsHeadline": "3 Founder Led Stocks To Own In September 2026",
       "url": "https://finance.yahoo.com/quote/TSLA",
       "sectorPe": 182.3
     },
@@ -393,8 +393,8 @@
       "dividendYield": 2.46,
       "relStrength": -6.39,
       "volumeRatio": 0.81,
-      "newsScore": 0.4,
-      "newsHeadline": "Goldman Sachs Outweighs Microsoft in This Popular Dow ETF, and Share Price Is the Only Reason",
+      "newsScore": 0.2,
+      "newsHeadline": "3 U.S. Dividend Stocks Offering Defensive Income as Fed Rate Pressure Persists",
       "url": "https://finance.yahoo.com/quote/UNH",
       "sectorPe": 27.9
     },
@@ -569,8 +569,8 @@
       "dividendYield": 3.48,
       "relStrength": 1.24,
       "volumeRatio": 0.71,
-      "newsScore": 0.2,
-      "newsHeadline": "For Retirees Who Want Oil Income: Chevron vs. ExxonMobil",
+      "newsScore": 0.6,
+      "newsHeadline": "Trump administration set to ease Biden-era fuel economy rules",
       "url": "https://finance.yahoo.com/quote/CVX",
       "sectorPe": 20.2
     },
@@ -613,8 +613,8 @@
       "dividendYield": 0.79,
       "relStrength": -0.92,
       "volumeRatio": 0.83,
-      "newsScore": 0.4,
-      "newsHeadline": "China agrees to buy 10 million tons of U.S. coal in 2027 and 2028",
+      "newsScore": 0.5,
+      "newsHeadline": "Atlas Energy Solutions (AESI) Expands Into AI Power, Is 33% Undervalued?",
       "url": "https://finance.yahoo.com/quote/CAT",
       "sectorPe": 53.4
     },
@@ -885,7 +885,7 @@
       "relStrength": -4.77,
       "volumeRatio": 1.12,
       "newsScore": 0.7,
-      "newsHeadline": "Genel Energy (LSE:GENL) Stock Gets Fair Value Boost As Growth And Margin Forecasts Rise",
+      "newsHeadline": "Humana (HUM) Jumped, But What Is Drawing Fresh Attention Now?",
       "url": "https://finance.yahoo.com/quote/BARC.L",
       "sectorPe": 12.0
     }
