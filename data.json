@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-27T12:03:28.366172+00:00",
+  "updated": "2026-09-27T18:03:01.997649+00:00",
   "us": [
     {
       "ticker": "AAPL",
@@ -41,7 +41,7 @@
       "relStrength": 7.93,
       "volumeRatio": 0.7,
       "newsScore": 0.5,
-      "newsHeadline": "Gene Munster Says Personalized AI Could Be Apple, Meta’s Next Big Profit Machine — 'Numbers So Large They’re Hard To Believe'",
+      "newsHeadline": "Qualcomm Stock Has an Opportunity Investors May Be Underestimating",
       "url": "https://finance.yahoo.com/quote/AAPL",
       "sectorPe": 32.1
     },
@@ -84,8 +84,8 @@
       "dividendYield": 0.76,
       "relStrength": 3.11,
       "volumeRatio": 1.79,
-      "newsScore": -0.2,
-      "newsHeadline": "The AI gold rush is fueling a record corporate bond boom: Chart of the Day",
+      "newsScore": 0.0,
+      "newsHeadline": "The AI gold rush is fueling a record tech bond boom: Chart of the Day",
       "url": "https://finance.yahoo.com/quote/MSFT",
       "sectorPe": 32.1
     },
@@ -128,8 +128,8 @@
       "dividendYield": 0.44,
       "relStrength": 6.59,
       "volumeRatio": 0.7,
-      "newsScore": 0.2,
-      "newsHeadline": "This Stock's 10% Yield Beats the Market. Its 10-Year Return Doesn't. Is It a Value Trap, or a Real Opportunity?",
+      "newsScore": 0.4,
+      "newsHeadline": "Is VOO Near an All-Time High a Better Buy Than Lululemon Stock Trading Under $105 Per Share?",
       "url": "https://finance.yahoo.com/quote/NVDA",
       "sectorPe": 32.1
     },
@@ -172,8 +172,8 @@
       "dividendYield": null,
       "relStrength": -4.96,
       "volumeRatio": 0.98,
-      "newsScore": -0.0,
-      "newsHeadline": "The AI gold rush is fueling a record corporate bond boom: Chart of the Day",
+      "newsScore": -0.1,
+      "newsHeadline": "The AI gold rush is fueling a record tech bond boom: Chart of the Day",
       "url": "https://finance.yahoo.com/quote/AMZN",
       "sectorPe": 182.3
     },
@@ -216,8 +216,8 @@
       "dividendYield": null,
       "relStrength": 6.72,
       "volumeRatio": 1.2,
-      "newsScore": -0.3,
-      "newsHeadline": "Elon Musk Says Optimus Could Make Tesla a $25 Trillion Company. Here's What the Math Actually Requires.",
+      "newsScore": 0.1,
+      "newsHeadline": "Dow Jones Futures Due Amid Trump Iran Comments; Micron, SpaceX, Tesla Eye Buy Points",
       "url": "https://finance.yahoo.com/quote/TSLA",
       "sectorPe": 182.3
     },
@@ -261,7 +261,7 @@
       "relStrength": -4.65,
       "volumeRatio": 1.57,
       "newsScore": -0.1,
-      "newsHeadline": "McDonald’s New Investment Plan Signals Long-Term Growth—and a Short-Term Reality Check",
+      "newsHeadline": "A Decade of JPMorgan Chase Delivered 572% Returns but This Year Tells a Different Story",
       "url": "https://finance.yahoo.com/quote/JPM",
       "sectorPe": 22.9
     },
@@ -394,7 +394,7 @@
       "relStrength": -6.39,
       "volumeRatio": 0.81,
       "newsScore": 0.2,
-      "newsHeadline": "3 U.S. Dividend Stocks Offering Defensive Income as Fed Rate Pressure Persists",
+      "newsHeadline": "UnitedHealth Stock Is Up 14% in 2026. Time to Sell or Load Up?",
       "url": "https://finance.yahoo.com/quote/UNH",
       "sectorPe": 27.9
     },
@@ -475,14 +475,14 @@
       "debtEq": 0.64,
       "sector": "Consumer Defensive",
       "industry": "Household & Personal Products",
-      "marketCap": 339644383232,
+      "marketCap": 339901841408,
       "weekHigh52": 167.25,
       "weekLow52": 137.62,
       "dividendYield": 2.98,
       "relStrength": -0.03,
       "volumeRatio": 0.71,
-      "newsScore": 0.6,
-      "newsHeadline": "Want Bulletproof Dividend Income? These 3 Stocks Have Raised Payouts Through 8 Major Downturns",
+      "newsScore": 0.5,
+      "newsHeadline": "Colgate-Palmolive Has Paid a Dividend Since 1895. Does That Streak Still Deserves Your Money?",
       "url": "https://finance.yahoo.com/quote/PG",
       "sectorPe": 24.2
     },
@@ -528,7 +528,7 @@
       "newsScore": -0.3,
       "newsHeadline": "For Retirees Who Want Oil Income: Chevron vs. ExxonMobil",
       "url": "https://finance.yahoo.com/quote/XOM",
-      "sectorPe": 20.1
+      "sectorPe": 20.2
     },
     {
       "ticker": "CVX",
@@ -559,7 +559,7 @@
         205.65,
         204.45
       ],
-      "pe": 19.6,
+      "pe": 19.7,
       "debtEq": 0.19,
       "sector": "Energy",
       "industry": "Oil & Gas Integrated",
@@ -572,7 +572,7 @@
       "newsScore": 0.6,
       "newsHeadline": "Trump administration set to ease Biden-era fuel economy rules",
       "url": "https://finance.yahoo.com/quote/CVX",
-      "sectorPe": 20.1
+      "sectorPe": 20.2
     },
     {
       "ticker": "CAT",
@@ -651,7 +651,7 @@
       "debtEq": 7.91,
       "sector": "Industrials",
       "industry": "Aerospace & Defense",
-      "marketCap": 156548595712,
+      "marketCap": 156434202624,
       "weekHigh52": 254.35,
       "weekLow52": 176.77,
       "dividendYield": null,
@@ -743,7 +743,7 @@
       "debtEq": 0.64,
       "sector": "Healthcare",
       "industry": "Drug Manufacturers - General",
-      "marketCap": 194668445696,
+      "marketCap": 194667184128,
       "weekHigh52": 15732.0,
       "weekLow52": 9892.0,
       "dividendYield": 1.9,
@@ -833,7 +833,7 @@
       "debtEq": 1.75,
       "sector": "Consumer Defensive",
       "industry": "Household & Personal Products",
-      "marketCap": 100439023616,
+      "marketCap": 100439015424,
       "weekHigh52": 5542.11,
       "weekLow52": 3644.0,
       "dividendYield": 3.54,
