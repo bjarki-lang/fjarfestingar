@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-27T06:03:12.906613+00:00",
+  "updated": "2026-09-27T12:03:28.366172+00:00",
   "us": [
     {
       "ticker": "AAPL",
@@ -40,8 +40,8 @@
       "dividendYield": 0.32,
       "relStrength": 7.93,
       "volumeRatio": 0.7,
-      "newsScore": 0.8,
-      "newsHeadline": "A $1,000 Investment Split Between Alphabet and Nvidia Will Be Worth This Much by 2030",
+      "newsScore": 0.5,
+      "newsHeadline": "Gene Munster Says Personalized AI Could Be Apple, Meta’s Next Big Profit Machine — 'Numbers So Large They’re Hard To Believe'",
       "url": "https://finance.yahoo.com/quote/AAPL",
       "sectorPe": 32.1
     },
@@ -84,8 +84,8 @@
       "dividendYield": 0.76,
       "relStrength": 3.11,
       "volumeRatio": 1.79,
-      "newsScore": -0.6,
-      "newsHeadline": "Big Tech's AI build-out ran to the Middle East. Then the Iran war hit.",
+      "newsScore": -0.2,
+      "newsHeadline": "The AI gold rush is fueling a record corporate bond boom: Chart of the Day",
       "url": "https://finance.yahoo.com/quote/MSFT",
       "sectorPe": 32.1
     },
@@ -128,8 +128,8 @@
       "dividendYield": 0.44,
       "relStrength": 6.59,
       "volumeRatio": 0.7,
-      "newsScore": 0.6,
-      "newsHeadline": "Prediction: This Space Stock Will Outperform SpaceX Over the Next 10 Years",
+      "newsScore": 0.2,
+      "newsHeadline": "This Stock's 10% Yield Beats the Market. Its 10-Year Return Doesn't. Is It a Value Trap, or a Real Opportunity?",
       "url": "https://finance.yahoo.com/quote/NVDA",
       "sectorPe": 32.1
     },
@@ -172,8 +172,8 @@
       "dividendYield": null,
       "relStrength": -4.96,
       "volumeRatio": 0.98,
-      "newsScore": 0.0,
-      "newsHeadline": "Big Tech's AI build-out ran to the Middle East. Then the Iran war hit.",
+      "newsScore": -0.0,
+      "newsHeadline": "The AI gold rush is fueling a record corporate bond boom: Chart of the Day",
       "url": "https://finance.yahoo.com/quote/AMZN",
       "sectorPe": 182.3
     },
@@ -216,8 +216,8 @@
       "dividendYield": null,
       "relStrength": 6.72,
       "volumeRatio": 1.2,
-      "newsScore": -0.1,
-      "newsHeadline": "3 Founder Led Stocks To Own In September 2026",
+      "newsScore": -0.3,
+      "newsHeadline": "Elon Musk Says Optimus Could Make Tesla a $25 Trillion Company. Here's What the Math Actually Requires.",
       "url": "https://finance.yahoo.com/quote/TSLA",
       "sectorPe": 182.3
     },
@@ -261,7 +261,7 @@
       "relStrength": -4.65,
       "volumeRatio": 1.57,
       "newsScore": -0.1,
-      "newsHeadline": "JPMorgan Predicts IREN Will Generate $24 Billion in Annual Revenue by 2030",
+      "newsHeadline": "McDonald’s New Investment Plan Signals Long-Term Growth—and a Short-Term Reality Check",
       "url": "https://finance.yahoo.com/quote/JPM",
       "sectorPe": 22.9
     },
@@ -475,7 +475,7 @@
       "debtEq": 0.64,
       "sector": "Consumer Defensive",
       "industry": "Household & Personal Products",
-      "marketCap": 339901841408,
+      "marketCap": 339644383232,
       "weekHigh52": 167.25,
       "weekLow52": 137.62,
       "dividendYield": 2.98,
@@ -528,7 +528,7 @@
       "newsScore": -0.3,
       "newsHeadline": "For Retirees Who Want Oil Income: Chevron vs. ExxonMobil",
       "url": "https://finance.yahoo.com/quote/XOM",
-      "sectorPe": 20.2
+      "sectorPe": 20.1
     },
     {
       "ticker": "CVX",
@@ -559,7 +559,7 @@
         205.65,
         204.45
       ],
-      "pe": 19.7,
+      "pe": 19.6,
       "debtEq": 0.19,
       "sector": "Energy",
       "industry": "Oil & Gas Integrated",
@@ -572,7 +572,7 @@
       "newsScore": 0.6,
       "newsHeadline": "Trump administration set to ease Biden-era fuel economy rules",
       "url": "https://finance.yahoo.com/quote/CVX",
-      "sectorPe": 20.2
+      "sectorPe": 20.1
     },
     {
       "ticker": "CAT",
@@ -613,8 +613,8 @@
       "dividendYield": 0.79,
       "relStrength": -0.92,
       "volumeRatio": 0.83,
-      "newsScore": 0.5,
-      "newsHeadline": "Atlas Energy Solutions (AESI) Expands Into AI Power, Is 33% Undervalued?",
+      "newsScore": 0.3,
+      "newsHeadline": "Valmont Industries Targets $35 EPS by 2029 on Utility Infrastructure Boom",
       "url": "https://finance.yahoo.com/quote/CAT",
       "sectorPe": 53.4
     },
@@ -651,14 +651,14 @@
       "debtEq": 7.91,
       "sector": "Industrials",
       "industry": "Aerospace & Defense",
-      "marketCap": 156434202624,
+      "marketCap": 156548595712,
       "weekHigh52": 254.35,
       "weekLow52": 176.77,
       "dividendYield": null,
       "relStrength": -7.49,
       "volumeRatio": 0.84,
-      "newsScore": 0.1,
-      "newsHeadline": "A 737 MAX Software Glitch Gives Boeing Investors a Fresh Headache",
+      "newsScore": -0.0,
+      "newsHeadline": "North Korea tests swarm attacks combining drones and missiles - WSJ",
       "url": "https://finance.yahoo.com/quote/BA",
       "sectorPe": 53.4
     }
@@ -743,7 +743,7 @@
       "debtEq": 0.64,
       "sector": "Healthcare",
       "industry": "Drug Manufacturers - General",
-      "marketCap": 194667184128,
+      "marketCap": 194668445696,
       "weekHigh52": 15732.0,
       "weekLow52": 9892.0,
       "dividendYield": 1.9,
@@ -795,7 +795,7 @@
       "relStrength": 8.38,
       "volumeRatio": 1.17,
       "newsScore": 0.4,
-      "newsHeadline": "Shell (SHEL) is Eyeing a Massive LNG Expansion in Canada: Could this Be its Next Big Move?",
+      "newsHeadline": "Buybacks, Balance Sheet Strength and Portfolio Strategy in Focus for Shell (SHEL)",
       "url": "https://finance.yahoo.com/quote/SHEL.L",
       "sectorPe": 10.7
     },
@@ -833,7 +833,7 @@
       "debtEq": 1.75,
       "sector": "Consumer Defensive",
       "industry": "Household & Personal Products",
-      "marketCap": 100439015424,
+      "marketCap": 100439023616,
       "weekHigh52": 5542.11,
       "weekLow52": 3644.0,
       "dividendYield": 3.54,
