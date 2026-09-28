@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-28T06:03:38.561376+00:00",
+  "updated": "2026-09-28T12:03:17.518218+00:00",
   "us": [
     {
       "ticker": "AAPL",
@@ -40,8 +40,8 @@
       "dividendYield": 0.32,
       "relStrength": 7.93,
       "volumeRatio": 0.7,
-      "newsScore": 0.2,
-      "newsHeadline": "TSMC 2nm wafer capacity to exceed earlier estimates, EDN reports",
+      "newsScore": -0.2,
+      "newsHeadline": "Apple and Amazon face revived UK consumer lawsuit over product sales",
       "url": "https://finance.yahoo.com/quote/AAPL",
       "sectorPe": 32.1
     },
@@ -84,8 +84,8 @@
       "dividendYield": 0.76,
       "relStrength": 3.11,
       "volumeRatio": 1.79,
-      "newsScore": -0.0,
-      "newsHeadline": "The AI gold rush is fueling a record tech bond boom: Chart of the Day",
+      "newsScore": 0.0,
+      "newsHeadline": "Trust the customers, not the loudest online critics: Stagwell CEO",
       "url": "https://finance.yahoo.com/quote/MSFT",
       "sectorPe": 32.1
     },
@@ -128,8 +128,8 @@
       "dividendYield": 0.44,
       "relStrength": 6.59,
       "volumeRatio": 0.7,
-      "newsScore": 0.4,
-      "newsHeadline": "If You'd Invested $10,000 in Tesla (TSLA) 10 Years Ago, Here's How Much You'd Have Today",
+      "newsScore": -0.0,
+      "newsHeadline": "Stock market today: Dow, S&P 500 and Nasdaq slip as AI safety concerns and US-Iran tensions resurface",
       "url": "https://finance.yahoo.com/quote/NVDA",
       "sectorPe": 32.1
     },
@@ -172,8 +172,8 @@
       "dividendYield": null,
       "relStrength": -4.96,
       "volumeRatio": 0.98,
-      "newsScore": 0.3,
-      "newsHeadline": "The AI gold rush is fueling a record tech bond boom: Chart of the Day",
+      "newsScore": 0.0,
+      "newsHeadline": "Apple and Amazon face revived UK consumer lawsuit over product sales",
       "url": "https://finance.yahoo.com/quote/AMZN",
       "sectorPe": 182.3
     },
@@ -216,8 +216,8 @@
       "dividendYield": null,
       "relStrength": 6.72,
       "volumeRatio": 1.2,
-      "newsScore": 0.3,
-      "newsHeadline": "If You'd Invested $10,000 in Tesla (TSLA) 10 Years Ago, Here's How Much You'd Have Today",
+      "newsScore": -0.1,
+      "newsHeadline": "Prediction: Tesla Stock Will Plunge to $100 if the S&P 500 Enters a Bear Market",
       "url": "https://finance.yahoo.com/quote/TSLA",
       "sectorPe": 182.3
     },
@@ -260,7 +260,7 @@
       "dividendYield": 1.92,
       "relStrength": -4.65,
       "volumeRatio": 1.57,
-      "newsScore": 0.0,
+      "newsScore": -0.2,
       "newsHeadline": "JPMorgan doubles down on diesel as record prices test inflation",
       "url": "https://finance.yahoo.com/quote/JPM",
       "sectorPe": 22.9
@@ -393,8 +393,8 @@
       "dividendYield": 2.46,
       "relStrength": -6.39,
       "volumeRatio": 0.81,
-      "newsScore": 0.1,
-      "newsHeadline": "UnitedHealthcare Is Dropping Prior Authorization for Roughly 1,700 Medical Procedures in October. Only About 120 Apply to Medicare Advantage, Where It Denied 17% of Standard Requests",
+      "newsScore": 0.2,
+      "newsHeadline": "2 Healthcare Stocks to Target This Week and 1 We Avoid",
       "url": "https://finance.yahoo.com/quote/UNH",
       "sectorPe": 27.9
     },
@@ -525,8 +525,8 @@
       "dividendYield": 2.57,
       "relStrength": 0.64,
       "volumeRatio": 0.75,
-      "newsScore": -0.2,
-      "newsHeadline": "Marjorie Taylor Greene Calls US Refinery Drought Since 1977 'Catastrophic Failure,’ Demands 'All Hands On Deck’ in Washington",
+      "newsScore": -0.4,
+      "newsHeadline": "Intel, Sandisk, Chevron, Boeing, NIO, and More Stocks That Explain Today’s Market",
       "url": "https://finance.yahoo.com/quote/XOM",
       "sectorPe": 20.2
     },
@@ -569,8 +569,8 @@
       "dividendYield": 3.48,
       "relStrength": 1.24,
       "volumeRatio": 0.71,
-      "newsScore": 0.1,
-      "newsHeadline": "HSBC sets new Chevron price target amid Iran tensions",
+      "newsScore": 0.0,
+      "newsHeadline": "Intel, Sandisk, Chevron, Boeing, NIO, and More Stocks That Explain Today’s Market",
       "url": "https://finance.yahoo.com/quote/CVX",
       "sectorPe": 20.2
     },
@@ -657,8 +657,8 @@
       "dividendYield": null,
       "relStrength": -7.49,
       "volumeRatio": 0.84,
-      "newsScore": 0.1,
-      "newsHeadline": "Defense Firms Are Rushing to Boost Missile Output. It’s Coming Too Late.",
+      "newsScore": 0.2,
+      "newsHeadline": "Premarket movers Boeing falls on software glitch; Kodiak surges",
       "url": "https://finance.yahoo.com/quote/BA",
       "sectorPe": 53.4
     }
@@ -667,12 +667,9 @@
     {
       "ticker": "HSBA.L",
       "name": "HSBC HOLDINGS PLC ORD $0.50 (UK",
-      "price": 1512.2,
-      "chg": 0.83,
+      "price": 1526.4,
+      "chg": 0.94,
       "hist": [
-        1517.0,
-        1522.2,
-        1504.0,
         1528.4,
         1533.4,
         1545.2,
@@ -692,32 +689,30 @@
         1509.4,
         1514.6,
         1499.8,
-        1512.2
+        1512.2,
+        1526.4
       ],
-      "pe": 14.3,
+      "pe": 14.4,
       "debtEq": null,
       "sector": "Financial Services",
       "industry": "Banks - Diversified",
-      "marketCap": 258685812736,
+      "marketCap": 261080727552,
       "weekHigh52": 1610.0,
       "weekLow52": 959.29,
       "dividendYield": 3.68,
-      "relStrength": 1.43,
-      "volumeRatio": 0.52,
+      "relStrength": 0.74,
+      "volumeRatio": 0.24,
       "newsScore": -0.1,
       "newsHeadline": "HSBC sets new Chevron price target amid Iran tensions",
       "url": "https://finance.yahoo.com/quote/HSBA.L",
-      "sectorPe": 12.0
+      "sectorPe": 12.1
     },
     {
       "ticker": "AZN.L",
       "name": "ASTRAZENECA PLC ORD SHS $0.25",
-      "price": 12552.0,
-      "chg": 1.23,
+      "price": 12494.0,
+      "chg": -0.46,
       "hist": [
-        12476.0,
-        12234.0,
-        12114.0,
         11970.0,
         11962.0,
         11976.0,
@@ -737,32 +732,30 @@
         12672.0,
         12430.0,
         12400.0,
-        12552.0
+        12552.0,
+        12494.0
       ],
-      "pe": 25.1,
+      "pe": 24.9,
       "debtEq": 0.64,
       "sector": "Healthcare",
       "industry": "Drug Manufacturers - General",
-      "marketCap": 194668445696,
+      "marketCap": 193768931328,
       "weekHigh52": 15732.0,
       "weekLow52": 9892.0,
       "dividendYield": 1.9,
-      "relStrength": 2.36,
-      "volumeRatio": 0.54,
+      "relStrength": 5.25,
+      "volumeRatio": 0.14,
       "newsScore": -0.0,
       "newsHeadline": "Sector Update: Healthcare Stocks Higher Late Afternoon",
       "url": "https://finance.yahoo.com/quote/AZN.L",
-      "sectorPe": 25.1
+      "sectorPe": 24.9
     },
     {
       "ticker": "SHEL.L",
       "name": "SHELL PLC ORD EUR0.07",
-      "price": 3611.0,
-      "chg": -0.82,
+      "price": 3671.0,
+      "chg": 1.66,
       "hist": [
-        3386.5,
-        3371.0,
-        3311.0,
         3344.5,
         3432.5,
         3443.0,
@@ -782,32 +775,30 @@
         3510.0,
         3580.0,
         3641.0,
-        3611.0
+        3611.0,
+        3671.0
       ],
-      "pe": 10.7,
+      "pe": 10.8,
       "debtEq": 0.4,
       "sector": "Energy",
       "industry": "Oil & Gas Integrated",
-      "marketCap": 205990526976,
+      "marketCap": 209413259264,
       "weekHigh52": 3758.5,
       "weekLow52": 2553.77,
       "dividendYield": 3.2,
-      "relStrength": 8.38,
-      "volumeRatio": 1.17,
-      "newsScore": 0.4,
-      "newsHeadline": "Buybacks, Balance Sheet Strength and Portfolio Strategy in Focus for Shell (SHEL)",
+      "relStrength": 10.63,
+      "volumeRatio": 0.12,
+      "newsScore": 0.2,
+      "newsHeadline": "U.S. Pressure Is Awakening an Energy Giant in Canada",
       "url": "https://finance.yahoo.com/quote/SHEL.L",
-      "sectorPe": 10.7
+      "sectorPe": 10.8
     },
     {
       "ticker": "ULVR.L",
       "name": "UNILEVER PLC ORD 3.5P",
-      "price": 4664.5,
-      "chg": -0.93,
+      "price": 4683.79,
+      "chg": 0.41,
       "hist": [
-        4761.5,
-        4772.0,
-        4752.0,
         4776.0,
         4811.0,
         4782.5,
@@ -827,32 +818,30 @@
         4698.0,
         4677.0,
         4708.5,
-        4664.5
+        4664.5,
+        4683.79
       ],
-      "pe": 21.2,
+      "pe": 21.3,
       "debtEq": 1.75,
       "sector": "Consumer Defensive",
       "industry": "Household & Personal Products",
-      "marketCap": 100439023616,
+      "marketCap": 100854374400,
       "weekHigh52": 5542.11,
       "weekLow52": 3644.0,
       "dividendYield": 3.54,
-      "relStrength": -0.29,
-      "volumeRatio": 1.47,
+      "relStrength": -1.06,
+      "volumeRatio": 0.1,
       "newsScore": 0.3,
       "newsHeadline": "McCormick Likely to Keep Guidance at Fiscal Q3 Results, UBS Says",
       "url": "https://finance.yahoo.com/quote/ULVR.L",
-      "sectorPe": 21.2
+      "sectorPe": 21.3
     },
     {
       "ticker": "BARC.L",
       "name": "BARCLAYS PLC ORD 25P",
-      "price": 463.9,
-      "chg": 1.6,
+      "price": 463.95,
+      "chg": 0.01,
       "hist": [
-        496.25,
-        499.55,
-        492.6,
         496.65,
         486.1,
         483.45,
@@ -872,26 +861,27 @@
         465.3,
         460.5,
         456.6,
-        463.9
+        463.9,
+        463.95
       ],
       "pe": 9.7,
       "debtEq": null,
       "sector": "Financial Services",
       "industry": "Banks - Diversified",
-      "marketCap": 62064975872,
+      "marketCap": 62071668736,
       "weekHigh52": 538.3,
       "weekLow52": 353.55,
       "dividendYield": 2.48,
-      "relStrength": -4.77,
-      "volumeRatio": 1.12,
+      "relStrength": -5.71,
+      "volumeRatio": 0.09,
       "newsScore": 0.5,
       "newsHeadline": "Barclays sees lasting labor-market pressures as immigration slows, population ages",
       "url": "https://finance.yahoo.com/quote/BARC.L",
-      "sectorPe": 12.0
+      "sectorPe": 12.1
     }
   ],
   "benchmarks": {
     "us": 0.88,
-    "uk": -1.75
+    "uk": -0.87
   }
 }
