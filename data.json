@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-27T18:03:01.997649+00:00",
+  "updated": "2026-09-28T00:03:36.354332+00:00",
   "us": [
     {
       "ticker": "AAPL",
@@ -40,8 +40,8 @@
       "dividendYield": 0.32,
       "relStrength": 7.93,
       "volumeRatio": 0.7,
-      "newsScore": 0.5,
-      "newsHeadline": "Qualcomm Stock Has an Opportunity Investors May Be Underestimating",
+      "newsScore": 0.2,
+      "newsHeadline": "Apple (AAPL) Opens the Ternus Era with a Foldable iPhone. Can Premium Devices Lift Revenue?",
       "url": "https://finance.yahoo.com/quote/AAPL",
       "sectorPe": 32.1
     },
@@ -84,7 +84,7 @@
       "dividendYield": 0.76,
       "relStrength": 3.11,
       "volumeRatio": 1.79,
-      "newsScore": 0.0,
+      "newsScore": 0.2,
       "newsHeadline": "The AI gold rush is fueling a record tech bond boom: Chart of the Day",
       "url": "https://finance.yahoo.com/quote/MSFT",
       "sectorPe": 32.1
@@ -128,8 +128,8 @@
       "dividendYield": 0.44,
       "relStrength": 6.59,
       "volumeRatio": 0.7,
-      "newsScore": 0.4,
-      "newsHeadline": "Is VOO Near an All-Time High a Better Buy Than Lululemon Stock Trading Under $105 Per Share?",
+      "newsScore": 0.3,
+      "newsHeadline": "Here's How Many Shares of Coca-Cola You'd Need for $10,000 in Yearly Dividends",
       "url": "https://finance.yahoo.com/quote/NVDA",
       "sectorPe": 32.1
     },
@@ -172,7 +172,7 @@
       "dividendYield": null,
       "relStrength": -4.96,
       "volumeRatio": 0.98,
-      "newsScore": -0.1,
+      "newsScore": 0.0,
       "newsHeadline": "The AI gold rush is fueling a record tech bond boom: Chart of the Day",
       "url": "https://finance.yahoo.com/quote/AMZN",
       "sectorPe": 182.3
@@ -217,7 +217,7 @@
       "relStrength": 6.72,
       "volumeRatio": 1.2,
       "newsScore": 0.1,
-      "newsHeadline": "Dow Jones Futures Due Amid Trump Iran Comments; Micron, SpaceX, Tesla Eye Buy Points",
+      "newsHeadline": "Dow Jones Futures Fall, Oil Prices Rise Amid Trump Iran Comments; Micron, SpaceX, Tesla Eye Buy Points",
       "url": "https://finance.yahoo.com/quote/TSLA",
       "sectorPe": 182.3
     },
@@ -260,8 +260,8 @@
       "dividendYield": 1.92,
       "relStrength": -4.65,
       "volumeRatio": 1.57,
-      "newsScore": -0.1,
-      "newsHeadline": "A Decade of JPMorgan Chase Delivered 572% Returns but This Year Tells a Different Story",
+      "newsScore": 0.0,
+      "newsHeadline": "JPMorgan doubles down on diesel as record prices test inflation",
       "url": "https://finance.yahoo.com/quote/JPM",
       "sectorPe": 22.9
     },
@@ -349,8 +349,8 @@
       "dividendYield": 1.98,
       "relStrength": NaN,
       "volumeRatio": 0.65,
-      "newsScore": 0.0,
-      "newsHeadline": "Want Bulletproof Dividend Income? These 3 Stocks Have Raised Payouts Through 8 Major Downturns",
+      "newsScore": 0.5,
+      "newsHeadline": "Gilead or Johnson & Johnson: Is Faster Growth Better than Greater Diversification?",
       "url": "https://finance.yahoo.com/quote/JNJ",
       "sectorPe": 27.9
     },
@@ -393,8 +393,8 @@
       "dividendYield": 2.46,
       "relStrength": -6.39,
       "volumeRatio": 0.81,
-      "newsScore": 0.2,
-      "newsHeadline": "UnitedHealth Stock Is Up 14% in 2026. Time to Sell or Load Up?",
+      "newsScore": 0.1,
+      "newsHeadline": "UnitedHealthcare Is Dropping Prior Authorization for Roughly 1,700 Medical Procedures in October. Only About 120 Apply to Medicare Advantage, Where It Denied 17% of Standard Requests",
       "url": "https://finance.yahoo.com/quote/UNH",
       "sectorPe": 27.9
     },
@@ -437,8 +437,8 @@
       "dividendYield": 2.41,
       "relStrength": -2.82,
       "volumeRatio": 0.76,
-      "newsScore": -0.0,
-      "newsHeadline": "What Could Rob Gehring's Return Mean For Coca-Cola (KO) Investors?",
+      "newsScore": -0.2,
+      "newsHeadline": "Coca-Cola, Pepsi killed 3 holiday soda flavors fans still miss",
       "url": "https://finance.yahoo.com/quote/KO",
       "sectorPe": 24.2
     },
@@ -475,7 +475,7 @@
       "debtEq": 0.64,
       "sector": "Consumer Defensive",
       "industry": "Household & Personal Products",
-      "marketCap": 339901841408,
+      "marketCap": 339644383232,
       "weekHigh52": 167.25,
       "weekLow52": 137.62,
       "dividendYield": 2.98,
@@ -569,8 +569,8 @@
       "dividendYield": 3.48,
       "relStrength": 1.24,
       "volumeRatio": 0.71,
-      "newsScore": 0.6,
-      "newsHeadline": "Trump administration set to ease Biden-era fuel economy rules",
+      "newsScore": 0.1,
+      "newsHeadline": "HSBC sets new Chevron price target amid Iran tensions",
       "url": "https://finance.yahoo.com/quote/CVX",
       "sectorPe": 20.2
     },
@@ -651,7 +651,7 @@
       "debtEq": 7.91,
       "sector": "Industrials",
       "industry": "Aerospace & Defense",
-      "marketCap": 156434202624,
+      "marketCap": 156548595712,
       "weekHigh52": 254.35,
       "weekLow52": 176.77,
       "dividendYield": null,
@@ -704,8 +704,8 @@
       "dividendYield": 3.68,
       "relStrength": 1.43,
       "volumeRatio": 0.52,
-      "newsScore": 0.0,
-      "newsHeadline": "3 Financial Stocks to Watch as Higher Bond Yields Reshape Bank and Insurer Profits",
+      "newsScore": -0.1,
+      "newsHeadline": "HSBC sets new Chevron price target amid Iran tensions",
       "url": "https://finance.yahoo.com/quote/HSBA.L",
       "sectorPe": 12.0
     },
@@ -743,7 +743,7 @@
       "debtEq": 0.64,
       "sector": "Healthcare",
       "industry": "Drug Manufacturers - General",
-      "marketCap": 194667184128,
+      "marketCap": 194668445696,
       "weekHigh52": 15732.0,
       "weekLow52": 9892.0,
       "dividendYield": 1.9,
@@ -833,7 +833,7 @@
       "debtEq": 1.75,
       "sector": "Consumer Defensive",
       "industry": "Household & Personal Products",
-      "marketCap": 100439015424,
+      "marketCap": 100439023616,
       "weekHigh52": 5542.11,
       "weekLow52": 3644.0,
       "dividendYield": 3.54,
@@ -884,8 +884,8 @@
       "dividendYield": 2.48,
       "relStrength": -4.77,
       "volumeRatio": 1.12,
-      "newsScore": 0.7,
-      "newsHeadline": "Humana (HUM) Jumped, But What Is Drawing Fresh Attention Now?",
+      "newsScore": 0.5,
+      "newsHeadline": "Barclays sees lasting labor-market pressures as immigration slows, population ages",
       "url": "https://finance.yahoo.com/quote/BARC.L",
       "sectorPe": 12.0
     }
