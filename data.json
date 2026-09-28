@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-28T00:03:36.354332+00:00",
+  "updated": "2026-09-28T06:03:38.561376+00:00",
   "us": [
     {
       "ticker": "AAPL",
@@ -41,7 +41,7 @@
       "relStrength": 7.93,
       "volumeRatio": 0.7,
       "newsScore": 0.2,
-      "newsHeadline": "Apple (AAPL) Opens the Ternus Era with a Foldable iPhone. Can Premium Devices Lift Revenue?",
+      "newsHeadline": "TSMC 2nm wafer capacity to exceed earlier estimates, EDN reports",
       "url": "https://finance.yahoo.com/quote/AAPL",
       "sectorPe": 32.1
     },
@@ -84,7 +84,7 @@
       "dividendYield": 0.76,
       "relStrength": 3.11,
       "volumeRatio": 1.79,
-      "newsScore": 0.2,
+      "newsScore": -0.0,
       "newsHeadline": "The AI gold rush is fueling a record tech bond boom: Chart of the Day",
       "url": "https://finance.yahoo.com/quote/MSFT",
       "sectorPe": 32.1
@@ -128,8 +128,8 @@
       "dividendYield": 0.44,
       "relStrength": 6.59,
       "volumeRatio": 0.7,
-      "newsScore": 0.3,
-      "newsHeadline": "Here's How Many Shares of Coca-Cola You'd Need for $10,000 in Yearly Dividends",
+      "newsScore": 0.4,
+      "newsHeadline": "If You'd Invested $10,000 in Tesla (TSLA) 10 Years Ago, Here's How Much You'd Have Today",
       "url": "https://finance.yahoo.com/quote/NVDA",
       "sectorPe": 32.1
     },
@@ -172,7 +172,7 @@
       "dividendYield": null,
       "relStrength": -4.96,
       "volumeRatio": 0.98,
-      "newsScore": 0.0,
+      "newsScore": 0.3,
       "newsHeadline": "The AI gold rush is fueling a record tech bond boom: Chart of the Day",
       "url": "https://finance.yahoo.com/quote/AMZN",
       "sectorPe": 182.3
@@ -216,8 +216,8 @@
       "dividendYield": null,
       "relStrength": 6.72,
       "volumeRatio": 1.2,
-      "newsScore": 0.1,
-      "newsHeadline": "Dow Jones Futures Fall, Oil Prices Rise Amid Trump Iran Comments; Micron, SpaceX, Tesla Eye Buy Points",
+      "newsScore": 0.3,
+      "newsHeadline": "If You'd Invested $10,000 in Tesla (TSLA) 10 Years Ago, Here's How Much You'd Have Today",
       "url": "https://finance.yahoo.com/quote/TSLA",
       "sectorPe": 182.3
     },
@@ -304,8 +304,8 @@
       "dividendYield": 0.73,
       "relStrength": -5.18,
       "volumeRatio": 0.75,
-      "newsScore": 0.1,
-      "newsHeadline": "‘It Won’t Work’: Clark Howard Warns Capital One Quietly Moved Its Cheapest Customers to Discover",
+      "newsScore": -0.0,
+      "newsHeadline": "Visa (V) is Turning a Legal Burden into an EPS Tailwind. Can it Last?",
       "url": "https://finance.yahoo.com/quote/V",
       "sectorPe": 22.9
     },
@@ -525,8 +525,8 @@
       "dividendYield": 2.57,
       "relStrength": 0.64,
       "volumeRatio": 0.75,
-      "newsScore": -0.3,
-      "newsHeadline": "For Retirees Who Want Oil Income: Chevron vs. ExxonMobil",
+      "newsScore": -0.2,
+      "newsHeadline": "Marjorie Taylor Greene Calls US Refinery Drought Since 1977 'Catastrophic Failure,’ Demands 'All Hands On Deck’ in Washington",
       "url": "https://finance.yahoo.com/quote/XOM",
       "sectorPe": 20.2
     },
@@ -657,8 +657,8 @@
       "dividendYield": null,
       "relStrength": -7.49,
       "volumeRatio": 0.84,
-      "newsScore": -0.0,
-      "newsHeadline": "North Korea tests swarm attacks combining drones and missiles - WSJ",
+      "newsScore": 0.1,
+      "newsHeadline": "Defense Firms Are Rushing to Boost Missile Output. It’s Coming Too Late.",
       "url": "https://finance.yahoo.com/quote/BA",
       "sectorPe": 53.4
     }
