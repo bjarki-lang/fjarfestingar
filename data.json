@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-01T06:06:01.855597+00:00",
+  "updated": "2026-10-01T12:06:07.026347+00:00",
   "us": [
     {
       "ticker": "AAPL",
@@ -29,20 +29,20 @@
         329.4,
         333.02
       ],
-      "pe": 37.7,
+      "pe": 38.1,
       "debtEq": 0.78,
       "sector": "Technology",
       "industry": "Consumer Electronics",
       "marketCap": 4860153954304,
       "weekHigh52": 345.34,
       "weekLow52": 243.42,
-      "dividendYield": 0.33,
+      "dividendYield": 0.32,
       "relStrength": 2.17,
       "volumeRatio": 1.18,
-      "newsScore": 0.2,
+      "newsScore": 0.3,
       "newsHeadline": "Apple's new CEO John Ternus plans on making some changes",
       "url": "https://finance.yahoo.com/quote/AAPL",
-      "sectorPe": 31.7
+      "sectorPe": 31.8
     },
     {
       "ticker": "MSFT",
@@ -79,13 +79,13 @@
       "marketCap": 3808562511872,
       "weekHigh52": 553.72,
       "weekLow52": 349.2,
-      "dividendYield": 0.77,
+      "dividendYield": 0.76,
       "relStrength": 2.11,
       "volumeRatio": 1.29,
-      "newsScore": -0.0,
-      "newsHeadline": "AI in America has a huge 1.7 million job shortage problem",
+      "newsScore": 0.7,
+      "newsHeadline": "Dow Jones Futures Rise, S&P 500 Finds Key Support As Micron Earnings Crush Views; Oil Prices, Treasury Yields In Focus",
       "url": "https://finance.yahoo.com/quote/MSFT",
-      "sectorPe": 31.7
+      "sectorPe": 31.8
     },
     {
       "ticker": "NVDA",
@@ -115,7 +115,7 @@
         227.21,
         228.38
       ],
-      "pe": 29.1,
+      "pe": 28.9,
       "debtEq": 0.17,
       "sector": "Technology",
       "industry": "Semiconductors",
@@ -125,10 +125,10 @@
       "dividendYield": 0.44,
       "relStrength": 4.89,
       "volumeRatio": 1.08,
-      "newsScore": 0.1,
+      "newsScore": -0.3,
       "newsHeadline": "Breaking down Jensen Huang's biggest moves of Q3 2026",
       "url": "https://finance.yahoo.com/quote/NVDA",
-      "sectorPe": 31.7
+      "sectorPe": 31.8
     },
     {
       "ticker": "AMZN",
@@ -211,8 +211,8 @@
       "dividendYield": null,
       "relStrength": -0.62,
       "volumeRatio": 1.02,
-      "newsScore": -0.2,
-      "newsHeadline": "Elon Musk's Tesla Postpones Roadster Reveal Event to October 15, Cites Severe Weather Conditions",
+      "newsScore": 0.1,
+      "newsHeadline": "Latest News In Energy Transition - Wind Power's Surge: Driving Global Renewable Energy Growth",
       "url": "https://finance.yahoo.com/quote/TSLA",
       "sectorPe": 172.7
     },
@@ -244,20 +244,20 @@
         334.98,
         330.83
       ],
-      "pe": 14.3,
+      "pe": 14.2,
       "debtEq": null,
       "sector": "Financial Services",
       "industry": "Banks - Diversified",
       "marketCap": 879407726592,
       "weekHigh52": 366.5,
       "weekLow52": 279.1,
-      "dividendYield": 1.97,
+      "dividendYield": 1.99,
       "relStrength": -7.06,
       "volumeRatio": 1.14,
-      "newsScore": -0.0,
-      "newsHeadline": "JPM vs. BAC: The Bank Built to Sustain Dividend Growth When Markets Turn",
+      "newsScore": -0.2,
+      "newsHeadline": "Bank Stocks Are Beaten Down. The Case for Buying Now.",
       "url": "https://finance.yahoo.com/quote/JPM",
-      "sectorPe": 22.8
+      "sectorPe": 22.4
     },
     {
       "ticker": "V",
@@ -287,20 +287,20 @@
         365.88,
         359.33
       ],
-      "pe": 31.2,
+      "pe": 30.7,
       "debtEq": 0.68,
       "sector": "Financial Services",
       "industry": "Credit Services",
       "marketCap": 674590031872,
       "weekHigh52": 385.57,
       "weekLow52": 293.89,
-      "dividendYield": 0.73,
+      "dividendYield": 0.75,
       "relStrength": -3.84,
       "volumeRatio": 1.22,
       "newsScore": -0.2,
       "newsHeadline": "Visa (V) Falls More Steeply Than Broader Market: What Investors Need to Know",
       "url": "https://finance.yahoo.com/quote/V",
-      "sectorPe": 22.8
+      "sectorPe": 22.4
     },
     {
       "ticker": "JNJ",
@@ -330,20 +330,20 @@
         267.57,
         264.74
       ],
-      "pe": 31.1,
+      "pe": 30.7,
       "debtEq": 0.58,
       "sector": "Healthcare",
       "industry": "Drug Manufacturers - General",
       "marketCap": 637996498944,
       "weekHigh52": 281.07,
       "weekLow52": 182.94,
-      "dividendYield": 2.0,
+      "dividendYield": 2.02,
       "relStrength": -2.64,
       "volumeRatio": 1.01,
-      "newsScore": 0.3,
-      "newsHeadline": "What is Johnson & Johnson’s (JNJ) Economic Moat, and is it Widening or Narrowing?",
+      "newsScore": 0.1,
+      "newsHeadline": "5 High-Yield Dividend Stocks That Pass the Coverage Test (Not Just the Yield Test)",
       "url": "https://finance.yahoo.com/quote/JNJ",
-      "sectorPe": 27.4
+      "sectorPe": 27.1
     },
     {
       "ticker": "UNH",
@@ -386,7 +386,7 @@
       "newsScore": 0.1,
       "newsHeadline": "UnitedHealth Group (UNH) Dips More Than Broader Market: What You Should Know",
       "url": "https://finance.yahoo.com/quote/UNH",
-      "sectorPe": 27.4
+      "sectorPe": 27.1
     },
     {
       "ticker": "KO",
@@ -416,7 +416,7 @@
         86.84,
         86.08
       ],
-      "pe": 25.8,
+      "pe": 26.1,
       "debtEq": 1.16,
       "sector": "Consumer Defensive",
       "industry": "Beverages - Non-Alcoholic",
@@ -429,7 +429,7 @@
       "newsScore": 0.4,
       "newsHeadline": "Coca Cola (KO) Keeps Raising Its Outlook After Consecutive Earnings Beats",
       "url": "https://finance.yahoo.com/quote/KO",
-      "sectorPe": 24.1
+      "sectorPe": 24.0
     },
     {
       "ticker": "PG",
@@ -459,20 +459,20 @@
         148.32,
         145.28
       ],
-      "pe": 22.4,
+      "pe": 21.9,
       "debtEq": 0.64,
       "sector": "Consumer Defensive",
       "industry": "Household & Personal Products",
-      "marketCap": 337437851648,
+      "marketCap": 337693638656,
       "weekHigh52": 167.25,
       "weekLow52": 137.62,
-      "dividendYield": 2.94,
+      "dividendYield": 3.0,
       "relStrength": -0.9,
       "volumeRatio": 1.08,
       "newsScore": 0.2,
       "newsHeadline": "Kimberly-Clark Keeps Raising Its Dividend. The Question Is Whether It Is Keeping Up With Your Costs",
       "url": "https://finance.yahoo.com/quote/PG",
-      "sectorPe": 24.1
+      "sectorPe": 24.0
     },
     {
       "ticker": "XOM",
@@ -502,14 +502,14 @@
         161.35,
         162.75
       ],
-      "pe": 20.8,
+      "pe": 21.0,
       "debtEq": 0.16,
       "sector": "Energy",
       "industry": "Oil & Gas Integrated",
       "marketCap": 669213655040,
       "weekHigh52": 176.41,
       "weekLow52": 110.39,
-      "dividendYield": 2.55,
+      "dividendYield": 2.53,
       "relStrength": -1.35,
       "volumeRatio": 0.93,
       "newsScore": 0.2,
@@ -545,14 +545,14 @@
         204.38,
         204.21
       ],
-      "pe": 19.9,
+      "pe": 19.7,
       "debtEq": 0.19,
       "sector": "Energy",
       "industry": "Oil & Gas Integrated",
       "marketCap": 400579035136,
       "weekHigh52": 217.78,
       "weekLow52": 146.49,
-      "dividendYield": 3.48,
+      "dividendYield": 3.49,
       "relStrength": -3.5,
       "volumeRatio": 0.64,
       "newsScore": -0.3,
@@ -588,20 +588,20 @@
         826.64,
         810.79
       ],
-      "pe": 35.6,
+      "pe": 35.0,
       "debtEq": 2.33,
       "sector": "Industrials",
       "industry": "Farm & Heavy Construction Machinery",
       "marketCap": 372699791360,
       "weekHigh52": 1073.46,
-      "weekLow52": 471.14,
-      "dividendYield": 0.79,
+      "weekLow52": 483.55,
+      "dividendYield": 0.8,
       "relStrength": 3.8,
       "volumeRatio": 0.82,
       "newsScore": 0.3,
       "newsHeadline": "Is Caterpillar Stock Increasing Your Market Risk?",
       "url": "https://finance.yahoo.com/quote/CAT",
-      "sectorPe": 51.7
+      "sectorPe": 51.1
     },
     {
       "ticker": "BA",
@@ -631,28 +631,28 @@
         187.68,
         186.05
       ],
-      "pe": 67.7,
+      "pe": 67.2,
       "debtEq": 7.91,
       "sector": "Industrials",
       "industry": "Aerospace & Defense",
-      "marketCap": 147048349696,
+      "marketCap": 146940903424,
       "weekHigh52": 254.35,
       "weekLow52": 176.77,
       "dividendYield": null,
       "relStrength": -9.8,
       "volumeRatio": 1.55,
-      "newsScore": 0.1,
-      "newsHeadline": "Pilot-on-Pilot Stabbing Forces Emergency Landing of Israel-Bound Plane",
+      "newsScore": -0.0,
+      "newsHeadline": "Trump praises Boeing 737 Max after Flydubai incident",
       "url": "https://finance.yahoo.com/quote/BA",
-      "sectorPe": 51.7
+      "sectorPe": 51.1
     }
   ],
   "uk": [
     {
       "ticker": "HSBA.L",
       "name": "HSBC HOLDINGS PLC ORD $0.50 (UK",
-      "price": NaN,
-      "chg": NaN,
+      "price": 1456.2,
+      "chg": -2.76,
       "hist": [
         1533.4,
         1545.2,
@@ -675,28 +675,29 @@
         1512.2,
         1516.4,
         1510.0,
-        NaN
+        1497.6,
+        1456.2
       ],
-      "pe": 14.1,
+      "pe": 13.9,
       "debtEq": null,
       "sector": "Financial Services",
       "industry": "Banks - Diversified",
-      "marketCap": 256188252160,
+      "marketCap": 249106104320,
       "weekHigh52": 1610.0,
-      "weekLow52": null,
-      "dividendYield": 3.69,
-      "relStrength": NaN,
-      "volumeRatio": 0.0,
+      "weekLow52": 959.29,
+      "dividendYield": 3.72,
+      "relStrength": -2.34,
+      "volumeRatio": 0.3,
       "newsScore": -0.3,
       "newsHeadline": "Money Problem: 'HSBC error put me £6,000 in debt - why is it taking weeks to correct?'",
       "url": "https://finance.yahoo.com/quote/HSBA.L",
-      "sectorPe": 11.8
+      "sectorPe": 11.7
     },
     {
       "ticker": "AZN.L",
       "name": "ASTRAZENECA PLC ORD SHS $0.25",
-      "price": NaN,
-      "chg": NaN,
+      "price": 12138.0,
+      "chg": -1.16,
       "hist": [
         11962.0,
         11976.0,
@@ -719,28 +720,29 @@
         12552.0,
         12492.0,
         12428.0,
-        NaN
+        12280.0,
+        12138.0
       ],
-      "pe": 24.3,
+      "pe": 24.2,
       "debtEq": 0.64,
       "sector": "Healthcare",
       "industry": "Drug Manufacturers - General",
-      "marketCap": 190450008064,
+      "marketCap": 188246523904,
       "weekHigh52": 15732.0,
-      "weekLow52": null,
-      "dividendYield": 1.92,
-      "relStrength": NaN,
-      "volumeRatio": 0.0,
+      "weekLow52": 9892.0,
+      "dividendYield": 1.95,
+      "relStrength": 4.16,
+      "volumeRatio": 0.24,
       "newsScore": 0.0,
       "newsHeadline": "700,000 Seniors Have Started GLP-1s Through Medicare. Now AstraZeneca Just Moved a Once-Daily Pill Into Phase 3",
       "url": "https://finance.yahoo.com/quote/AZN.L",
-      "sectorPe": 24.3
+      "sectorPe": 24.2
     },
     {
       "ticker": "SHEL.L",
       "name": "SHELL PLC ORD EUR0.07",
-      "price": NaN,
-      "chg": NaN,
+      "price": 3542.5,
+      "chg": -0.76,
       "hist": [
         3432.5,
         3443.0,
@@ -763,28 +765,29 @@
         3611.0,
         3654.5,
         3594.0,
-        NaN
+        3569.5,
+        3542.5
       ],
-      "pe": 10.5,
+      "pe": 10.4,
       "debtEq": 0.4,
       "sector": "Energy",
       "industry": "Oil & Gas Integrated",
-      "marketCap": 203440193536,
+      "marketCap": 201901342720,
       "weekHigh52": 3758.5,
-      "weekLow52": null,
-      "dividendYield": 3.22,
-      "relStrength": NaN,
-      "volumeRatio": 0.02,
-      "newsScore": 0.3,
-      "newsHeadline": "What Is Shell (LSE:SHEL) Facing With A $5.2 Billion Fine And LNG Bet?",
+      "weekLow52": 2553.77,
+      "dividendYield": 3.24,
+      "relStrength": 5.89,
+      "volumeRatio": 0.21,
+      "newsScore": 0.4,
+      "newsHeadline": "3 British Energy Stocks With Market Caps Over £5 Billion",
       "url": "https://finance.yahoo.com/quote/SHEL.L",
-      "sectorPe": 10.5
+      "sectorPe": 10.4
     },
     {
       "ticker": "ULVR.L",
       "name": "UNILEVER PLC ORD 3.5P",
-      "price": NaN,
-      "chg": NaN,
+      "price": 4564.0,
+      "chg": -0.86,
       "hist": [
         4811.0,
         4782.5,
@@ -807,28 +810,29 @@
         4664.5,
         4671.0,
         4615.5,
-        NaN
+        4603.5,
+        4564.0
       ],
-      "pe": 21.0,
+      "pe": 20.8,
       "debtEq": 1.75,
       "sector": "Consumer Defensive",
       "industry": "Household & Personal Products",
-      "marketCap": 99130171392,
+      "marketCap": 98279587840,
       "weekHigh52": 5542.11,
-      "weekLow52": null,
-      "dividendYield": 3.57,
-      "relStrength": NaN,
-      "volumeRatio": 0.0,
+      "weekLow52": 3644.0,
+      "dividendYield": 3.58,
+      "relStrength": -2.44,
+      "volumeRatio": 0.33,
       "newsScore": 0.3,
       "newsHeadline": "Unilever (UL) is Pruning Its Portfolio. Could That Unlock Growth?",
       "url": "https://finance.yahoo.com/quote/ULVR.L",
-      "sectorPe": 21.0
+      "sectorPe": 20.8
     },
     {
       "ticker": "BARC.L",
       "name": "BARCLAYS PLC ORD 25P",
-      "price": NaN,
-      "chg": NaN,
+      "price": 450.85,
+      "chg": -1.46,
       "hist": [
         486.1,
         483.45,
@@ -851,26 +855,27 @@
         463.9,
         462.4,
         459.0,
-        NaN
+        457.55,
+        450.85
       ],
-      "pe": 9.5,
+      "pe": 9.4,
       "debtEq": null,
       "sector": "Financial Services",
       "industry": "Banks - Diversified",
-      "marketCap": 61321330688,
+      "marketCap": 60423393280,
       "weekHigh52": 538.3,
-      "weekLow52": null,
+      "weekLow52": 353.55,
       "dividendYield": 2.51,
-      "relStrength": NaN,
-      "volumeRatio": 0.02,
-      "newsScore": 0.5,
-      "newsHeadline": "Bank Stock Pullback Presents Buying Opportunity",
+      "relStrength": -4.56,
+      "volumeRatio": 0.33,
+      "newsScore": 0.1,
+      "newsHeadline": "Trump Threatens To Ban Diesel Exports To France And Germany Unless They Release 120 Million Barrels From Reserves. Analysts Say Ban Could Backfire On American Drivers.",
       "url": "https://finance.yahoo.com/quote/BARC.L",
-      "sectorPe": 11.8
+      "sectorPe": 11.7
     }
   ],
   "benchmarks": {
     "us": 0.26,
-    "uk": -1.7
+    "uk": -2.69
   }
 }
