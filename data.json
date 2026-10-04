@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-03T20:18:28.167828+00:00",
+  "updated": "2026-10-04T03:11:56.455977+00:00",
   "us": [
     {
       "ticker": "AAPL",
@@ -72,7 +72,7 @@
         512.8,
         517.53
       ],
-      "pe": 28.6,
+      "pe": 28.8,
       "debtEq": 0.29,
       "sector": "Technology",
       "industry": "Software - Infrastructure",
@@ -158,7 +158,7 @@
         248.23,
         251.52
       ],
-      "pe": 20.0,
+      "pe": 20.2,
       "debtEq": 0.46,
       "sector": "Consumer Cyclical",
       "industry": "Internet Retail",
@@ -287,7 +287,7 @@
         359.85,
         360.66
       ],
-      "pe": 30.6,
+      "pe": 30.7,
       "debtEq": 0.68,
       "sector": "Financial Services",
       "industry": "Credit Services",
@@ -416,7 +416,7 @@
         86.1,
         85.65
       ],
-      "pe": 25.9,
+      "pe": 25.7,
       "debtEq": 1.16,
       "sector": "Consumer Defensive",
       "industry": "Beverages - Non-Alcoholic",
@@ -429,7 +429,7 @@
       "newsScore": 0,
       "newsHeadline": null,
       "url": "https://finance.yahoo.com/quote/KO",
-      "sectorPe": 23.9
+      "sectorPe": 23.8
     },
     {
       "ticker": "PG",
@@ -463,7 +463,7 @@
       "debtEq": 0.64,
       "sector": "Consumer Defensive",
       "industry": "Household & Personal Products",
-      "marketCap": 336833609728,
+      "marketCap": 336578478080,
       "weekHigh52": 167.25,
       "weekLow52": 137.62,
       "dividendYield": 3.0,
@@ -472,7 +472,7 @@
       "newsScore": 0,
       "newsHeadline": null,
       "url": "https://finance.yahoo.com/quote/PG",
-      "sectorPe": 23.9
+      "sectorPe": 23.8
     },
     {
       "ticker": "XOM",
@@ -635,7 +635,7 @@
       "debtEq": 7.91,
       "sector": "Industrials",
       "industry": "Aerospace & Defense",
-      "marketCap": 152872239104,
+      "marketCap": 152984027136,
       "weekHigh52": 254.35,
       "weekLow52": 176.77,
       "dividendYield": null,
