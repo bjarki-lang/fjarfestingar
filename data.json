@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-04T20:36:08.753609+00:00",
+  "updated": "2026-10-05T02:45:44.934574+00:00",
   "us": [
     {
       "ticker": "AAPL",
@@ -165,13 +165,13 @@
       "marketCap": 2712973606912,
       "weekHigh52": 287.2,
       "weekLow52": 196.0,
-      "dividendYield": null,
+      "dividendYield": 0.0,
       "relStrength": -2.53,
       "volumeRatio": 0.96,
       "newsScore": 0,
       "newsHeadline": null,
       "url": "https://finance.yahoo.com/quote/AMZN",
-      "sectorPe": 183.2
+      "sectorPe": 181.7
     },
     {
       "ticker": "TSLA",
@@ -201,20 +201,20 @@
         354.11,
         370.59
       ],
-      "pe": 346.3,
+      "pe": 343.1,
       "debtEq": 0.18,
       "sector": "Consumer Cyclical",
       "industry": "Auto Manufacturers",
       "marketCap": 1463662804992,
       "weekHigh52": 498.83,
       "weekLow52": 297.38,
-      "dividendYield": null,
+      "dividendYield": 0.0,
       "relStrength": -1.22,
       "volumeRatio": 1.43,
       "newsScore": 0,
       "newsHeadline": null,
       "url": "https://finance.yahoo.com/quote/TSLA",
-      "sectorPe": 183.2
+      "sectorPe": 181.7
     },
     {
       "ticker": "JPM",
@@ -601,7 +601,7 @@
       "newsScore": 0,
       "newsHeadline": null,
       "url": "https://finance.yahoo.com/quote/CAT",
-      "sectorPe": 52.9
+      "sectorPe": 52.8
     },
     {
       "ticker": "BA",
@@ -631,20 +631,20 @@
         192.28,
         193.56
       ],
-      "pe": 69.4,
+      "pe": 69.1,
       "debtEq": 7.91,
       "sector": "Industrials",
       "industry": "Aerospace & Defense",
       "marketCap": 152984027136,
       "weekHigh52": 254.35,
       "weekLow52": 176.77,
-      "dividendYield": null,
+      "dividendYield": 0.0,
       "relStrength": -7.73,
       "volumeRatio": 1.55,
       "newsScore": 0,
       "newsHeadline": null,
       "url": "https://finance.yahoo.com/quote/BA",
-      "sectorPe": 52.9
+      "sectorPe": 52.8
     }
   ],
   "uk": [
@@ -678,7 +678,7 @@
         1437.0,
         1442.2
       ],
-      "pe": 13.6,
+      "pe": 13.9,
       "debtEq": null,
       "sector": "Financial Services",
       "industry": "Banks - Diversified",
@@ -691,7 +691,7 @@
       "newsScore": 0,
       "newsHeadline": null,
       "url": "https://finance.yahoo.com/quote/HSBA.L",
-      "sectorPe": 11.4
+      "sectorPe": 11.6
     },
     {
       "ticker": "AZN.L",
@@ -723,7 +723,7 @@
         12032.0,
         11870.0
       ],
-      "pe": 23.6,
+      "pe": 23.8,
       "debtEq": 0.64,
       "sector": "Healthcare",
       "industry": "Drug Manufacturers - General",
@@ -736,7 +736,7 @@
       "newsScore": 0,
       "newsHeadline": null,
       "url": "https://finance.yahoo.com/quote/AZN.L",
-      "sectorPe": 23.6
+      "sectorPe": 23.8
     },
     {
       "ticker": "SHEL.L",
@@ -768,7 +768,7 @@
         3589.0,
         3596.5
       ],
-      "pe": 10.5,
+      "pe": 10.6,
       "debtEq": 0.4,
       "sector": "Energy",
       "industry": "Oil & Gas Integrated",
@@ -781,7 +781,7 @@
       "newsScore": 0,
       "newsHeadline": null,
       "url": "https://finance.yahoo.com/quote/SHEL.L",
-      "sectorPe": 10.5
+      "sectorPe": 10.6
     },
     {
       "ticker": "ULVR.L",
@@ -813,7 +813,7 @@
         4494.0,
         4483.5
       ],
-      "pe": 20.7,
+      "pe": 12.2,
       "debtEq": 1.75,
       "sector": "Consumer Defensive",
       "industry": "Household & Personal Products",
@@ -826,7 +826,7 @@
       "newsScore": 0,
       "newsHeadline": null,
       "url": "https://finance.yahoo.com/quote/ULVR.L",
-      "sectorPe": 20.7
+      "sectorPe": 12.2
     },
     {
       "ticker": "BARC.L",
@@ -871,7 +871,7 @@
       "newsScore": 0,
       "newsHeadline": null,
       "url": "https://finance.yahoo.com/quote/BARC.L",
-      "sectorPe": 11.4
+      "sectorPe": 11.6
     }
   ],
   "benchmarks": {
