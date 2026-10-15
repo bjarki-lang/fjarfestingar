@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-14T21:03:45.773479+00:00",
+  "updated": "2026-10-15T02:09:00.934642+00:00",
   "us": [
     {
       "ticker": "AAPL",
@@ -83,7 +83,7 @@
       "weekLow52": 349.2,
       "dividendYield": 0.72,
       "relStrength": 5.6,
-      "volumeRatio": 0.97,
+      "volumeRatio": 1.0,
       "newsScore": 0,
       "newsHeadline": null,
       "url": "https://finance.yahoo.com/quote/MSFT",
@@ -171,7 +171,7 @@
       "weekLow52": 196.0,
       "dividendYield": 0.0,
       "relStrength": 0.52,
-      "volumeRatio": 0.93,
+      "volumeRatio": 0.95,
       "newsScore": 0,
       "newsHeadline": null,
       "url": "https://finance.yahoo.com/quote/AMZN",
@@ -299,11 +299,11 @@
       "sector": "Financial Services",
       "industry": "Credit Services",
       "marketCap": 734853136384,
-      "weekHigh52": 396.35,
+      "weekHigh52": 397.19,
       "weekLow52": 293.89,
       "dividendYield": 0.68,
       "relStrength": 2.45,
-      "volumeRatio": 1.21,
+      "volumeRatio": 1.23,
       "newsScore": 0,
       "newsHeadline": null,
       "url": "https://finance.yahoo.com/quote/V",
@@ -392,7 +392,7 @@
       "weekLow52": 255.97,
       "dividendYield": 2.46,
       "relStrength": NaN,
-      "volumeRatio": 1.48,
+      "volumeRatio": 1.49,
       "newsScore": 0,
       "newsHeadline": null,
       "url": "https://finance.yahoo.com/quote/UNH",
@@ -433,7 +433,7 @@
       "industry": "Beverages - Non-Alcoholic",
       "marketCap": 394887954432,
       "weekHigh52": 92.49,
-      "weekLow52": 66.92,
+      "weekLow52": 67.16,
       "dividendYield": 2.35,
       "relStrength": 1.7,
       "volumeRatio": 0.9,
@@ -612,7 +612,7 @@
       "weekLow52": 510.21,
       "dividendYield": 0.84,
       "relStrength": -6.17,
-      "volumeRatio": 1.32,
+      "volumeRatio": 1.36,
       "newsScore": 0,
       "newsHeadline": null,
       "url": "https://finance.yahoo.com/quote/CAT",
@@ -667,8 +667,8 @@
     {
       "ticker": "HSBA.L",
       "name": "HSBC HOLDINGS PLC ORD $0.50 (UK",
-      "price": 1422.6,
-      "chg": -0.57,
+      "price": NaN,
+      "chg": NaN,
       "hist": [
         1536.8,
         1503.8,
@@ -692,7 +692,7 @@
         1395.8,
         1428.4,
         1430.8,
-        1422.6
+        NaN
       ],
       "pe": 13.7,
       "debtEq": null,
@@ -700,10 +700,10 @@
       "industry": "Banks - Diversified",
       "marketCap": 243263799296,
       "weekHigh52": 1610.0,
-      "weekLow52": 959.29,
+      "weekLow52": null,
       "dividendYield": 3.89,
-      "relStrength": -7.68,
-      "volumeRatio": 0.74,
+      "relStrength": NaN,
+      "volumeRatio": 0.0,
       "newsScore": 0,
       "newsHeadline": null,
       "url": "https://finance.yahoo.com/quote/HSBA.L",
@@ -712,8 +712,8 @@
     {
       "ticker": "AZN.L",
       "name": "ASTRAZENECA PLC ORD SHS $0.25",
-      "price": 12300.0,
-      "chg": 3.4,
+      "price": NaN,
+      "chg": NaN,
       "hist": [
         12154.0,
         12116.0,
@@ -737,7 +737,7 @@
         11998.0,
         12026.0,
         11896.0,
-        12300.0
+        NaN
       ],
       "pe": 24.6,
       "debtEq": 0.64,
@@ -745,10 +745,10 @@
       "industry": "Drug Manufacturers - General",
       "marketCap": 190761418752,
       "weekHigh52": 15732.0,
-      "weekLow52": 9892.0,
+      "weekLow52": null,
       "dividendYield": 2.01,
-      "relStrength": 0.95,
-      "volumeRatio": 0.68,
+      "relStrength": NaN,
+      "volumeRatio": 0.0,
       "newsScore": 0,
       "newsHeadline": null,
       "url": "https://finance.yahoo.com/quote/AZN.L",
@@ -757,8 +757,8 @@
     {
       "ticker": "SHEL.L",
       "name": "SHELL PLC ORD EUR0.07",
-      "price": 3911.5,
-      "chg": 1.19,
+      "price": NaN,
+      "chg": NaN,
       "hist": [
         3582.0,
         3652.5,
@@ -782,18 +782,18 @@
         3793.5,
         3836.0,
         3865.5,
-        3911.5
+        NaN
       ],
       "pe": 11.6,
       "debtEq": 0.4,
       "sector": "Energy",
       "industry": "Oil & Gas Integrated",
       "marketCap": 222519934976,
-      "weekHigh52": 3919.5,
-      "weekLow52": 2553.77,
+      "weekHigh52": 3869.0,
+      "weekLow52": null,
       "dividendYield": 2.99,
-      "relStrength": 8.95,
-      "volumeRatio": 0.75,
+      "relStrength": NaN,
+      "volumeRatio": 0.0,
       "newsScore": 0,
       "newsHeadline": null,
       "url": "https://finance.yahoo.com/quote/SHEL.L",
@@ -802,8 +802,8 @@
     {
       "ticker": "ULVR.L",
       "name": "UNILEVER PLC ORD 3.5P",
-      "price": 4829.0,
-      "chg": 2.52,
+      "price": NaN,
+      "chg": NaN,
       "hist": [
         4697.0,
         4641.5,
@@ -827,7 +827,7 @@
         4673.5,
         4738.0,
         4710.5,
-        4829.0
+        NaN
       ],
       "pe": 13.1,
       "debtEq": 1.75,
@@ -835,10 +835,10 @@
       "industry": "Household & Personal Products",
       "marketCap": 103994400768,
       "weekHigh52": 5542.11,
-      "weekLow52": 3644.0,
+      "weekLow52": null,
       "dividendYield": 3.5,
-      "relStrength": 2.56,
-      "volumeRatio": 0.67,
+      "relStrength": NaN,
+      "volumeRatio": 0.0,
       "newsScore": 0,
       "newsHeadline": null,
       "url": "https://finance.yahoo.com/quote/ULVR.L",
@@ -847,8 +847,8 @@
     {
       "ticker": "BARC.L",
       "name": "BARCLAYS PLC ORD 25P",
-      "price": 431.8,
-      "chg": -0.97,
+      "price": NaN,
+      "chg": NaN,
       "hist": [
         478.5,
         470.3,
@@ -872,7 +872,7 @@
         429.65,
         437.6,
         436.05,
-        431.8
+        NaN
       ],
       "pe": 9.0,
       "debtEq": null,
@@ -880,10 +880,10 @@
       "industry": "Banks - Diversified",
       "marketCap": 57564975104,
       "weekHigh52": 538.3,
-      "weekLow52": 353.55,
+      "weekLow52": null,
       "dividendYield": 2.64,
-      "relStrength": -10.01,
-      "volumeRatio": 0.61,
+      "relStrength": NaN,
+      "volumeRatio": 0.0,
       "newsScore": 0,
       "newsHeadline": null,
       "url": "https://finance.yahoo.com/quote/BARC.L",
@@ -892,6 +892,6 @@
   ],
   "benchmarks": {
     "us": 1.76,
-    "uk": 0.25
+    "uk": 0.26
   }
 }
