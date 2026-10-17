@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-17T09:50:36.703385+00:00",
+  "updated": "2026-10-17T14:33:24.682283+00:00",
   "us": [
     {
       "ticker": "AAPL",
@@ -828,7 +828,7 @@
         4915.5,
         4966.0
       ],
-      "pe": 13.6,
+      "pe": 13.5,
       "debtEq": 1.75,
       "sector": "Consumer Defensive",
       "industry": "Household & Personal Products",
@@ -841,7 +841,7 @@
       "newsScore": 0,
       "newsHeadline": null,
       "url": "https://finance.yahoo.com/quote/ULVR.L",
-      "sectorPe": 13.6
+      "sectorPe": 13.5
     },
     {
       "ticker": "BARC.L",
