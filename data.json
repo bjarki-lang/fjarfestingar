@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-18T01:53:48.502182+00:00",
+  "updated": "2026-10-18T10:02:10.669836+00:00",
   "us": [
     {
       "ticker": "AAPL",
@@ -474,7 +474,7 @@
       "debtEq": 0.64,
       "sector": "Consumer Defensive",
       "industry": "Household & Personal Products",
-      "marketCap": 370117869568,
+      "marketCap": 370398429184,
       "weekHigh52": 167.25,
       "weekLow52": 137.62,
       "dividendYield": 2.73,
@@ -527,7 +527,7 @@
       "newsScore": 0,
       "newsHeadline": null,
       "url": "https://finance.yahoo.com/quote/XOM",
-      "sectorPe": 22.1
+      "sectorPe": 22.4
     },
     {
       "ticker": "CVX",
@@ -558,7 +558,7 @@
         219.32,
         224.99
       ],
-      "pe": 21.2,
+      "pe": 21.7,
       "debtEq": 0.19,
       "sector": "Energy",
       "industry": "Oil & Gas Integrated",
@@ -571,7 +571,7 @@
       "newsScore": 0,
       "newsHeadline": null,
       "url": "https://finance.yahoo.com/quote/CVX",
-      "sectorPe": 22.1
+      "sectorPe": 22.4
     },
     {
       "ticker": "CAT",
@@ -650,7 +650,7 @@
       "debtEq": 7.91,
       "sector": "Industrials",
       "industry": "Aerospace & Defense",
-      "marketCap": 150336290816,
+      "marketCap": 150226436096,
       "weekHigh52": 254.35,
       "weekLow52": 176.77,
       "dividendYield": 0.0,
@@ -700,7 +700,7 @@
       "marketCap": 244187201536,
       "weekHigh52": 1610.0,
       "weekLow52": 963.9,
-      "dividendYield": 3.92,
+      "dividendYield": 3.9,
       "relStrength": -7.1,
       "volumeRatio": 1.4,
       "newsScore": 0,
@@ -738,20 +738,20 @@
         12698.0,
         12446.0
       ],
-      "pe": 24.1,
+      "pe": 25.8,
       "debtEq": 0.64,
       "sector": "Healthcare",
       "industry": "Drug Manufacturers - General",
       "marketCap": 193025736704,
       "weekHigh52": 15732.0,
       "weekLow52": 9892.0,
-      "dividendYield": 1.88,
+      "dividendYield": 1.92,
       "relStrength": 0.74,
       "volumeRatio": 0.96,
       "newsScore": 0,
       "newsHeadline": null,
       "url": "https://finance.yahoo.com/quote/AZN.L",
-      "sectorPe": 24.1
+      "sectorPe": 25.8
     },
     {
       "ticker": "SHEL.L",
@@ -790,7 +790,7 @@
       "marketCap": 224027459584,
       "weekHigh52": 3949.5,
       "weekLow52": 2553.77,
-      "dividendYield": 2.96,
+      "dividendYield": 2.94,
       "relStrength": 8.3,
       "volumeRatio": 1.12,
       "newsScore": 0,
@@ -835,7 +835,7 @@
       "marketCap": 106944749568,
       "weekHigh52": 5542.11,
       "weekLow52": 3644.0,
-      "dividendYield": 3.36,
+      "dividendYield": 3.32,
       "relStrength": 5.22,
       "volumeRatio": 0.82,
       "newsScore": 0,
