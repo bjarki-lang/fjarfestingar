@@ -1,11 +1,11 @@
 {
-  "updated": "2026-10-19T17:53:21.587385+00:00",
+  "updated": "2026-10-19T21:48:52.502483+00:00",
   "us": [
     {
       "ticker": "AAPL",
       "name": "Apple Inc.",
-      "price": 342.78,
-      "chg": -0.2,
+      "price": 342.94,
+      "chg": -0.15,
       "hist": [
         338.98,
         339.75,
@@ -27,18 +27,18 @@
         342.96,
         342.0,
         343.46,
-        342.78
+        342.94
       ],
       "pe": 39.3,
       "debtEq": 0.78,
       "sector": "Technology",
       "industry": "Consumer Electronics",
-      "marketCap": 5002228137984,
+      "marketCap": 5004928221184,
       "weekHigh52": 348.15,
       "weekLow52": 243.42,
       "dividendYield": 0.31,
-      "relStrength": 2.0,
-      "volumeRatio": 0.5,
+      "relStrength": 2.12,
+      "volumeRatio": 0.93,
       "newsScore": 0,
       "newsHeadline": null,
       "url": "https://finance.yahoo.com/quote/AAPL",
@@ -47,8 +47,8 @@
     {
       "ticker": "MSFT",
       "name": "Microsoft Corporation",
-      "price": 533.77,
-      "chg": 0.89,
+      "price": 533.52,
+      "chg": 0.84,
       "hist": [
         501.61,
         498.0,
@@ -70,18 +70,18 @@
         533.69,
         539.44,
         529.05,
-        533.77
+        533.52
       ],
       "pe": 29.7,
       "debtEq": 0.29,
       "sector": "Technology",
       "industry": "Software - Infrastructure",
-      "marketCap": 3963533656064,
+      "marketCap": 3961677414400,
       "weekHigh52": 553.72,
       "weekLow52": 349.2,
       "dividendYield": 0.74,
-      "relStrength": 7.29,
-      "volumeRatio": 0.42,
+      "relStrength": 7.31,
+      "volumeRatio": 0.78,
       "newsScore": 0,
       "newsHeadline": null,
       "url": "https://finance.yahoo.com/quote/MSFT",
@@ -90,8 +90,8 @@
     {
       "ticker": "NVDA",
       "name": "NVIDIA Corporation",
-      "price": 217.01,
-      "chg": 1.34,
+      "price": 217.09,
+      "chg": 1.38,
       "hist": [
         227.38,
         228.87,
@@ -113,18 +113,18 @@
         221.3,
         217.23,
         214.13,
-        217.01
+        217.09
       ],
       "pe": 27.4,
       "debtEq": 0.17,
       "sector": "Technology",
       "industry": "Semiconductors",
-      "marketCap": 5240140070912,
+      "marketCap": 5242072072192,
       "weekHigh52": 243.37,
       "weekLow52": 164.27,
       "dividendYield": 0.47,
-      "relStrength": -3.68,
-      "volumeRatio": 0.58,
+      "relStrength": -3.58,
+      "volumeRatio": 0.94,
       "newsScore": 0,
       "newsHeadline": null,
       "url": "https://finance.yahoo.com/quote/NVDA",
@@ -133,8 +133,8 @@
     {
       "ticker": "AMZN",
       "name": "Amazon.com, Inc.",
-      "price": 262.37,
-      "chg": 4.95,
+      "price": 262.45,
+      "chg": 4.98,
       "hist": [
         258.45,
         254.98,
@@ -156,28 +156,28 @@
         254.08,
         254.76,
         250.0,
-        262.37
+        262.45
       ],
       "pe": 21.1,
       "debtEq": 0.46,
       "sector": "Consumer Cyclical",
       "industry": "Internet Retail",
-      "marketCap": 2830004912128,
+      "marketCap": 2830868152320,
       "weekHigh52": 287.2,
       "weekLow52": 196.0,
       "dividendYield": 0.0,
-      "relStrength": 2.4,
-      "volumeRatio": 0.93,
+      "relStrength": 2.5,
+      "volumeRatio": 1.53,
       "newsScore": 0,
       "newsHeadline": null,
       "url": "https://finance.yahoo.com/quote/AMZN",
-      "sectorPe": 180.8
+      "sectorPe": 181.0
     },
     {
       "ticker": "TSLA",
       "name": "Tesla, Inc.",
-      "price": 367.63,
-      "chg": 3.64,
+      "price": 368.06,
+      "chg": 3.76,
       "hist": [
         375.3,
         378.9,
@@ -199,28 +199,28 @@
         367.16,
         362.44,
         354.72,
-        367.63
+        368.06
       ],
-      "pe": 340.5,
+      "pe": 340.8,
       "debtEq": 0.18,
       "sector": "Consumer Cyclical",
       "industry": "Auto Manufacturers",
-      "marketCap": 1452243550208,
+      "marketCap": 1453670400000,
       "weekHigh52": 498.83,
       "weekLow52": 297.38,
       "dividendYield": 0.0,
-      "relStrength": -1.16,
-      "volumeRatio": 0.77,
+      "relStrength": -0.98,
+      "volumeRatio": 1.12,
       "newsScore": 0,
       "newsHeadline": null,
       "url": "https://finance.yahoo.com/quote/TSLA",
-      "sectorPe": 180.8
+      "sectorPe": 181.0
     },
     {
       "ticker": "JPM",
       "name": "JP Morgan Chase & Co.",
-      "price": 335.97,
-      "chg": -1.1,
+      "price": 333.53,
+      "chg": -1.82,
       "hist": [
         350.29,
         338.31,
@@ -242,28 +242,28 @@
         335.28,
         335.53,
         339.72,
-        335.97
+        333.53
       ],
-      "pe": 14.1,
+      "pe": 14.0,
       "debtEq": null,
       "sector": "Financial Services",
       "industry": "Banks - Diversified",
-      "marketCap": 892201992192,
+      "marketCap": 885722316800,
       "weekHigh52": 366.5,
       "weekLow52": 279.1,
       "dividendYield": 1.94,
-      "relStrength": -3.21,
-      "volumeRatio": 0.33,
+      "relStrength": -3.83,
+      "volumeRatio": 0.85,
       "newsScore": 0,
       "newsHeadline": null,
       "url": "https://finance.yahoo.com/quote/JPM",
-      "sectorPe": 24.2
+      "sectorPe": 24.1
     },
     {
       "ticker": "V",
       "name": "Visa Inc.",
-      "price": 402.83,
-      "chg": 0.05,
+      "price": 402.92,
+      "chg": 0.08,
       "hist": [
         369.95,
         362.04,
@@ -285,28 +285,28 @@
         391.43,
         399.75,
         402.61,
-        402.83
+        402.92
       ],
       "pe": 34.3,
       "debtEq": 0.68,
       "sector": "Financial Services",
       "industry": "Credit Services",
-      "marketCap": 756254965760,
+      "marketCap": 756423983104,
       "weekHigh52": 404.74,
       "weekLow52": 293.89,
       "dividendYield": 0.67,
-      "relStrength": 9.77,
-      "volumeRatio": 0.38,
+      "relStrength": 9.86,
+      "volumeRatio": 0.98,
       "newsScore": 0,
       "newsHeadline": null,
       "url": "https://finance.yahoo.com/quote/V",
-      "sectorPe": 24.2
+      "sectorPe": 24.1
     },
     {
       "ticker": "JNJ",
       "name": "Johnson & Johnson",
-      "price": 254.15,
-      "chg": -0.55,
+      "price": 253.79,
+      "chg": -0.69,
       "hist": [
         269.47,
         269.19,
@@ -328,28 +328,28 @@
         253.91,
         253.28,
         255.56,
-        254.15
+        253.79
       ],
-      "pe": 38.6,
+      "pe": 38.5,
       "debtEq": 0.58,
       "sector": "Healthcare",
       "industry": "Drug Manufacturers - General",
-      "marketCap": 612475666432,
+      "marketCap": 611608100864,
       "weekHigh52": 281.07,
       "weekLow52": 184.66,
       "dividendYield": 2.1,
-      "relStrength": -4.81,
-      "volumeRatio": 0.44,
+      "relStrength": -4.87,
+      "volumeRatio": 1.18,
       "newsScore": 0,
       "newsHeadline": null,
       "url": "https://finance.yahoo.com/quote/JNJ",
-      "sectorPe": 32.3
+      "sectorPe": 32.4
     },
     {
       "ticker": "UNH",
       "name": "UnitedHealth Group Incorporated",
-      "price": 403.69,
-      "chg": 0.56,
+      "price": 406.88,
+      "chg": 1.36,
       "hist": [
         377.56,
         372.95,
@@ -371,28 +371,28 @@
         395.62,
         406.67,
         401.43,
-        403.69
+        406.88
       ],
-      "pe": 26.0,
+      "pe": 26.2,
       "debtEq": 0.7,
       "sector": "Healthcare",
       "industry": "Healthcare Plans",
-      "marketCap": 362349854720,
+      "marketCap": 365213384704,
       "weekHigh52": 461.62,
       "weekLow52": 255.97,
       "dividendYield": 2.31,
-      "relStrength": 7.8,
-      "volumeRatio": 0.42,
+      "relStrength": 8.72,
+      "volumeRatio": 0.84,
       "newsScore": 0,
       "newsHeadline": null,
       "url": "https://finance.yahoo.com/quote/UNH",
-      "sectorPe": 32.3
+      "sectorPe": 32.4
     },
     {
       "ticker": "KO",
       "name": "Coca-Cola Company (The)",
-      "price": 93.86,
-      "chg": -0.04,
+      "price": 93.42,
+      "chg": -0.51,
       "hist": [
         87.12,
         88.61,
@@ -414,18 +414,18 @@
         91.78,
         92.0,
         93.9,
-        93.86
+        93.42
       ],
-      "pe": 28.2,
+      "pe": 28.1,
       "debtEq": 1.16,
       "sector": "Consumer Defensive",
       "industry": "Beverages - Non-Alcoholic",
-      "marketCap": 403815759872,
+      "marketCap": 401944117248,
       "weekHigh52": 94.1,
       "weekLow52": 67.27,
       "dividendYield": 2.26,
-      "relStrength": 8.62,
-      "volumeRatio": 0.44,
+      "relStrength": 8.18,
+      "volumeRatio": 1.03,
       "newsScore": 0,
       "newsHeadline": null,
       "url": "https://finance.yahoo.com/quote/KO",
@@ -434,8 +434,8 @@
     {
       "ticker": "PG",
       "name": "Procter & Gamble Company (The)",
-      "price": 158.04,
-      "chg": -0.82,
+      "price": 157.69,
+      "chg": -1.04,
       "hist": [
         146.08,
         148.22,
@@ -457,18 +457,18 @@
         156.53,
         157.08,
         159.35,
-        158.04
+        157.69
       ],
-      "pe": 23.9,
+      "pe": 23.8,
       "debtEq": 0.64,
       "sector": "Consumer Defensive",
       "industry": "Household & Personal Products",
-      "marketCap": 367341797376,
+      "marketCap": 366262222848,
       "weekHigh52": 167.25,
       "weekLow52": 137.62,
       "dividendYield": 2.73,
-      "relStrength": 9.07,
-      "volumeRatio": 0.48,
+      "relStrength": 8.9,
+      "volumeRatio": 0.96,
       "newsScore": 0,
       "newsHeadline": null,
       "url": "https://finance.yahoo.com/quote/PG",
@@ -477,8 +477,8 @@
     {
       "ticker": "XOM",
       "name": "ExxonMobil Holdings Corporation",
-      "price": 178.69,
-      "chg": -0.16,
+      "price": 178.28,
+      "chg": -0.39,
       "hist": [
         158.3,
         158.71,
@@ -500,28 +500,28 @@
         177.01,
         174.68,
         178.98,
-        178.69
+        178.28
       ],
-      "pe": 23.0,
+      "pe": 22.9,
       "debtEq": 0.16,
       "sector": "Energy",
       "industry": "Oil & Gas Integrated",
-      "marketCap": 734757584896,
+      "marketCap": 733071671296,
       "weekHigh52": 179.3,
       "weekLow52": 111.98,
       "dividendYield": 2.3,
-      "relStrength": 13.76,
-      "volumeRatio": 0.45,
+      "relStrength": 13.57,
+      "volumeRatio": 0.95,
       "newsScore": 0,
       "newsHeadline": null,
       "url": "https://finance.yahoo.com/quote/XOM",
-      "sectorPe": 22.3
+      "sectorPe": 22.0
     },
     {
       "ticker": "CVX",
       "name": "Chevron Corporation",
-      "price": 224.77,
-      "chg": -0.1,
+      "price": 224.37,
+      "chg": -0.28,
       "hist": [
         203.67,
         202.41,
@@ -543,28 +543,28 @@
         222.04,
         219.32,
         224.99,
-        224.77
+        224.37
       ],
-      "pe": 21.6,
+      "pe": 21.2,
       "debtEq": 0.19,
       "sector": "Energy",
       "industry": "Oil & Gas Integrated",
-      "marketCap": 440909594624,
+      "marketCap": 440124932096,
       "weekHigh52": 225.67,
       "weekLow52": 146.49,
       "dividendYield": 3.16,
-      "relStrength": 11.24,
-      "volumeRatio": 0.68,
+      "relStrength": 11.11,
+      "volumeRatio": 1.25,
       "newsScore": 0,
       "newsHeadline": null,
       "url": "https://finance.yahoo.com/quote/CVX",
-      "sectorPe": 22.3
+      "sectorPe": 22.0
     },
     {
       "ticker": "CAT",
       "name": "Caterpillar, Inc.",
-      "price": 723.02,
-      "chg": -1.06,
+      "price": 725.79,
+      "chg": -0.68,
       "hist": [
         816.5,
         808.01,
@@ -586,28 +586,28 @@
         748.98,
         735.64,
         730.76,
-        723.02
+        725.79
       ],
-      "pe": 31.1,
+      "pe": 31.2,
       "debtEq": 2.33,
       "sector": "Industrials",
       "industry": "Farm & Heavy Construction Machinery",
-      "marketCap": 332351832064,
+      "marketCap": 333627424768,
       "weekHigh52": 1073.46,
       "weekLow52": 510.21,
       "dividendYield": 0.89,
-      "relStrength": -10.57,
-      "volumeRatio": 0.52,
+      "relStrength": -10.16,
+      "volumeRatio": 0.98,
       "newsScore": 0,
       "newsHeadline": null,
       "url": "https://finance.yahoo.com/quote/CAT",
-      "sectorPe": 49.7
+      "sectorPe": 49.8
     },
     {
       "ticker": "BA",
       "name": "Boeing Company (The)",
-      "price": 190.84,
-      "chg": 0.33,
+      "price": 191.42,
+      "chg": 0.64,
       "hist": [
         201.15,
         197.72,
@@ -629,22 +629,22 @@
         184.66,
         188.73,
         190.21,
-        190.84
+        191.42
       ],
-      "pe": 68.2,
+      "pe": 68.4,
       "debtEq": 7.91,
       "sector": "Industrials",
       "industry": "Aerospace & Defense",
-      "marketCap": 150724001792,
+      "marketCap": 151292641280,
       "weekHigh52": 254.35,
       "weekLow52": 176.77,
       "dividendYield": 0.0,
-      "relStrength": -4.25,
-      "volumeRatio": 0.32,
+      "relStrength": -3.89,
+      "volumeRatio": 0.64,
       "newsScore": 0,
       "newsHeadline": null,
       "url": "https://finance.yahoo.com/quote/BA",
-      "sectorPe": 49.7
+      "sectorPe": 49.8
     }
   ],
   "uk": [
@@ -719,7 +719,7 @@
         12446.0,
         12400.0
       ],
-      "pe": 25.7,
+      "pe": 24.0,
       "debtEq": 0.64,
       "sector": "Healthcare",
       "industry": "Drug Manufacturers - General",
@@ -732,7 +732,7 @@
       "newsScore": 0,
       "newsHeadline": null,
       "url": "https://finance.yahoo.com/quote/AZN.L",
-      "sectorPe": 25.7
+      "sectorPe": 24.0
     },
     {
       "ticker": "SHEL.L",
@@ -865,7 +865,7 @@
     }
   ],
   "benchmarks": {
-    "us": -0.88,
+    "us": -0.95,
     "uk": 0.24
   }
 }
