@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-19T02:09:24.370606+00:00",
+  "updated": "2026-10-19T11:26:26.390737+00:00",
   "us": [
     {
       "ticker": "AAPL",
@@ -474,7 +474,7 @@
       "debtEq": 0.64,
       "sector": "Consumer Defensive",
       "industry": "Household & Personal Products",
-      "marketCap": 370117869568,
+      "marketCap": 370398429184,
       "weekHigh52": 167.25,
       "weekLow52": 137.62,
       "dividendYield": 2.73,
@@ -527,7 +527,7 @@
       "newsScore": 0,
       "newsHeadline": null,
       "url": "https://finance.yahoo.com/quote/XOM",
-      "sectorPe": 22.1
+      "sectorPe": 22.4
     },
     {
       "ticker": "CVX",
@@ -558,7 +558,7 @@
         219.32,
         224.99
       ],
-      "pe": 21.2,
+      "pe": 21.7,
       "debtEq": 0.19,
       "sector": "Energy",
       "industry": "Oil & Gas Integrated",
@@ -571,7 +571,7 @@
       "newsScore": 0,
       "newsHeadline": null,
       "url": "https://finance.yahoo.com/quote/CVX",
-      "sectorPe": 22.1
+      "sectorPe": 22.4
     },
     {
       "ticker": "CAT",
@@ -650,7 +650,7 @@
       "debtEq": 7.91,
       "sector": "Industrials",
       "industry": "Aerospace & Defense",
-      "marketCap": 150336290816,
+      "marketCap": 150226436096,
       "weekHigh52": 254.35,
       "weekLow52": 176.77,
       "dividendYield": 0.0,
@@ -666,12 +666,9 @@
     {
       "ticker": "HSBA.L",
       "name": "HSBC HOLDINGS PLC ORD $0.50 (UK",
-      "price": 1428.0,
-      "chg": 0.48,
+      "price": 1398.4,
+      "chg": -2.07,
       "hist": [
-        1507.8,
-        1537.4,
-        1512.6,
         1533.8,
         1509.4,
         1514.6,
@@ -691,32 +688,30 @@
         1430.8,
         1422.6,
         1421.2,
-        1428.0
+        1428.0,
+        1398.4
       ],
-      "pe": 13.7,
+      "pe": 13.4,
       "debtEq": null,
       "sector": "Financial Services",
       "industry": "Banks - Diversified",
-      "marketCap": 244187201536,
+      "marketCap": 239159803904,
       "weekHigh52": 1610.0,
       "weekLow52": 963.9,
       "dividendYield": 3.9,
-      "relStrength": -7.1,
-      "volumeRatio": 1.4,
+      "relStrength": -9.1,
+      "volumeRatio": 0.22,
       "newsScore": 0,
       "newsHeadline": null,
       "url": "https://finance.yahoo.com/quote/HSBA.L",
-      "sectorPe": 11.3
+      "sectorPe": 11.1
     },
     {
       "ticker": "AZN.L",
       "name": "ASTRAZENECA PLC ORD SHS $0.25",
-      "price": 12446.0,
-      "chg": -1.98,
+      "price": 12332.0,
+      "chg": -0.92,
       "hist": [
-        12136.0,
-        12428.0,
-        12500.0,
         12560.0,
         12672.0,
         12430.0,
@@ -736,32 +731,30 @@
         11896.0,
         12300.0,
         12698.0,
-        12446.0
+        12446.0,
+        12332.0
       ],
-      "pe": 24.1,
+      "pe": 25.5,
       "debtEq": 0.64,
       "sector": "Healthcare",
       "industry": "Drug Manufacturers - General",
-      "marketCap": 193025736704,
+      "marketCap": 191257706496,
       "weekHigh52": 15732.0,
       "weekLow52": 9892.0,
       "dividendYield": 1.92,
-      "relStrength": 0.74,
-      "volumeRatio": 0.96,
+      "relStrength": -2.09,
+      "volumeRatio": 0.09,
       "newsScore": 0,
       "newsHeadline": null,
       "url": "https://finance.yahoo.com/quote/AZN.L",
-      "sectorPe": 24.1
+      "sectorPe": 25.5
     },
     {
       "ticker": "SHEL.L",
       "name": "SHELL PLC ORD EUR0.07",
-      "price": 3938.0,
-      "chg": 0.77,
+      "price": 3940.0,
+      "chg": 0.05,
       "hist": [
-        3576.5,
-        3571.0,
-        3539.0,
         3488.5,
         3510.0,
         3580.0,
@@ -781,18 +774,19 @@
         3865.5,
         3911.5,
         3908.0,
-        3938.0
+        3938.0,
+        3940.0
       ],
       "pe": 11.7,
       "debtEq": 0.4,
       "sector": "Energy",
       "industry": "Oil & Gas Integrated",
-      "marketCap": 224027459584,
-      "weekHigh52": 3949.5,
+      "marketCap": 224112803840,
+      "weekHigh52": 3980.0,
       "weekLow52": 2553.77,
       "dividendYield": 2.94,
-      "relStrength": 8.3,
-      "volumeRatio": 1.12,
+      "relStrength": 12.67,
+      "volumeRatio": 0.13,
       "newsScore": 0,
       "newsHeadline": null,
       "url": "https://finance.yahoo.com/quote/SHEL.L",
@@ -801,12 +795,9 @@
     {
       "ticker": "ULVR.L",
       "name": "UNILEVER PLC ORD 3.5P",
-      "price": 4966.0,
-      "chg": 1.03,
+      "price": 4909.5,
+      "chg": -1.14,
       "hist": [
-        4640.0,
-        4632.5,
-        4621.0,
         4642.5,
         4698.0,
         4677.0,
@@ -826,32 +817,30 @@
         4710.5,
         4829.0,
         4915.5,
-        4966.0
+        4966.0,
+        4909.5
       ],
-      "pe": 13.5,
+      "pe": 13.3,
       "debtEq": 1.75,
       "sector": "Consumer Defensive",
       "industry": "Household & Personal Products",
-      "marketCap": 106944749568,
+      "marketCap": 105728000000,
       "weekHigh52": 5542.11,
       "weekLow52": 3644.0,
       "dividendYield": 3.32,
-      "relStrength": 5.22,
-      "volumeRatio": 0.82,
+      "relStrength": 5.48,
+      "volumeRatio": 0.1,
       "newsScore": 0,
       "newsHeadline": null,
       "url": "https://finance.yahoo.com/quote/ULVR.L",
-      "sectorPe": 13.5
+      "sectorPe": 13.3
     },
     {
       "ticker": "BARC.L",
       "name": "BARCLAYS PLC ORD 25P",
-      "price": 432.65,
-      "chg": 0.06,
+      "price": 418.4,
+      "chg": -3.29,
       "hist": [
-        475.35,
-        478.85,
-        462.2,
         471.1,
         465.3,
         460.5,
@@ -871,26 +860,27 @@
         436.05,
         431.8,
         432.4,
-        432.65
+        432.65,
+        418.4
       ],
-      "pe": 9.0,
+      "pe": 8.7,
       "debtEq": null,
       "sector": "Financial Services",
       "industry": "Banks - Diversified",
-      "marketCap": 57678295040,
+      "marketCap": 55778570240,
       "weekHigh52": 538.3,
       "weekLow52": 357.6,
       "dividendYield": 2.66,
-      "relStrength": -10.79,
-      "volumeRatio": 1.71,
+      "relStrength": -11.46,
+      "volumeRatio": 0.29,
       "newsScore": 0,
       "newsHeadline": null,
       "url": "https://finance.yahoo.com/quote/BARC.L",
-      "sectorPe": 11.3
+      "sectorPe": 11.1
     }
   ],
   "benchmarks": {
     "us": 0.28,
-    "uk": 1.81
+    "uk": 0.27
   }
 }
