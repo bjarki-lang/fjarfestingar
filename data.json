@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-24T09:56:30.286258+00:00",
+  "updated": "2026-10-24T14:59:13.213612+00:00",
   "us": [
     {
       "ticker": "AAPL",
@@ -207,7 +207,7 @@
         372.22
       ],
       "pe": 409.0,
-      "debtEq": 0.11,
+      "debtEq": 0.18,
       "sector": "Consumer Cyclical",
       "industry": "Auto Manufacturers",
       "marketCap": 1471285166080,
@@ -608,7 +608,7 @@
       "industry": "Farm & Heavy Construction Machinery",
       "marketCap": 315796652032,
       "weekHigh52": 1073.46,
-      "weekLow52": 521.02,
+      "weekLow52": 521.43,
       "dividendYield": 0.95,
       "relStrength": -13.64,
       "volumeRatio": 1.17,
@@ -650,7 +650,7 @@
       "debtEq": 7.91,
       "sector": "Industrials",
       "industry": "Aerospace & Defense",
-      "marketCap": 148757430272,
+      "marketCap": 148866203648,
       "weekHigh52": 254.35,
       "weekLow52": 176.77,
       "dividendYield": 0.0,
@@ -693,7 +693,7 @@
         1366.6,
         1352.0
       ],
-      "pe": 12.9,
+      "pe": 13.0,
       "debtEq": null,
       "sector": "Financial Services",
       "industry": "Banks - Diversified",
@@ -706,7 +706,7 @@
       "newsScore": 0,
       "newsHeadline": null,
       "url": "https://finance.yahoo.com/quote/HSBA.L",
-      "sectorPe": 10.5
+      "sectorPe": 10.6
     },
     {
       "ticker": "AZN.L",
@@ -738,7 +738,7 @@
         12980.0,
         12824.0
       ],
-      "pe": 26.6,
+      "pe": 25.7,
       "debtEq": 0.64,
       "sector": "Healthcare",
       "industry": "Drug Manufacturers - General",
@@ -751,7 +751,7 @@
       "newsScore": 0,
       "newsHeadline": null,
       "url": "https://finance.yahoo.com/quote/AZN.L",
-      "sectorPe": 26.6
+      "sectorPe": 25.7
     },
     {
       "ticker": "SHEL.L",
@@ -787,7 +787,7 @@
       "debtEq": 0.4,
       "sector": "Energy",
       "industry": "Oil & Gas Integrated",
-      "marketCap": 229252186112,
+      "marketCap": 229189681152,
       "weekHigh52": 4035.5,
       "weekLow52": 2553.77,
       "dividendYield": 2.87,
@@ -828,7 +828,7 @@
         4975.5,
         4937.5
       ],
-      "pe": 13.3,
+      "pe": 13.4,
       "debtEq": 1.75,
       "sector": "Consumer Defensive",
       "industry": "Household & Personal Products",
@@ -841,7 +841,7 @@
       "newsScore": 0,
       "newsHeadline": null,
       "url": "https://finance.yahoo.com/quote/ULVR.L",
-      "sectorPe": 13.3
+      "sectorPe": 13.4
     },
     {
       "ticker": "BARC.L",
@@ -886,7 +886,7 @@
       "newsScore": 0,
       "newsHeadline": null,
       "url": "https://finance.yahoo.com/quote/BARC.L",
-      "sectorPe": 10.5
+      "sectorPe": 10.6
     }
   ],
   "benchmarks": {
