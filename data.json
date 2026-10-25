@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-25T10:18:21.814500+00:00",
+  "updated": "2026-10-25T15:10:29.057170+00:00",
   "us": [
     {
       "ticker": "AAPL",
@@ -787,7 +787,7 @@
       "debtEq": 0.4,
       "sector": "Energy",
       "industry": "Oil & Gas Integrated",
-      "marketCap": 229189681152,
+      "marketCap": 229124734976,
       "weekHigh52": 4035.5,
       "weekLow52": 2553.77,
       "dividendYield": 2.87,
