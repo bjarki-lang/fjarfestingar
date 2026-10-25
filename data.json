@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-25T02:04:13.017467+00:00",
+  "updated": "2026-10-25T10:18:21.814500+00:00",
   "us": [
     {
       "ticker": "AAPL",
@@ -650,7 +650,7 @@
       "debtEq": 7.91,
       "sector": "Industrials",
       "industry": "Aerospace & Defense",
-      "marketCap": 148757430272,
+      "marketCap": 148866203648,
       "weekHigh52": 254.35,
       "weekLow52": 176.77,
       "dividendYield": 0.0,
@@ -738,7 +738,7 @@
         12980.0,
         12824.0
       ],
-      "pe": 26.6,
+      "pe": 25.7,
       "debtEq": 0.64,
       "sector": "Healthcare",
       "industry": "Drug Manufacturers - General",
@@ -751,7 +751,7 @@
       "newsScore": 0,
       "newsHeadline": null,
       "url": "https://finance.yahoo.com/quote/AZN.L",
-      "sectorPe": 26.6
+      "sectorPe": 25.7
     },
     {
       "ticker": "SHEL.L",
