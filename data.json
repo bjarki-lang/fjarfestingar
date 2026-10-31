@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-30T21:45:22.586458+00:00",
+  "updated": "2026-10-31T03:00:23.004038+00:00",
   "us": [
     {
       "ticker": "AAPL",
@@ -40,7 +40,7 @@
       "weekLow52": 243.42,
       "dividendYield": 0.31,
       "relStrength": 4.42,
-      "volumeRatio": 1.74,
+      "volumeRatio": 1.73,
       "newsScore": 0,
       "newsHeadline": null,
       "url": "https://finance.yahoo.com/quote/AAPL",
@@ -130,7 +130,7 @@
       "weekLow52": 164.27,
       "dividendYield": 0.47,
       "relStrength": -9.46,
-      "volumeRatio": 1.65,
+      "volumeRatio": 1.67,
       "newsScore": 0,
       "newsHeadline": null,
       "url": "https://finance.yahoo.com/quote/NVDA",
@@ -265,7 +265,7 @@
       "weekLow52": 279.1,
       "dividendYield": 1.92,
       "relStrength": 3.31,
-      "volumeRatio": 1.12,
+      "volumeRatio": 1.13,
       "newsScore": 0,
       "newsHeadline": null,
       "url": "https://finance.yahoo.com/quote/JPM",
@@ -306,7 +306,7 @@
       "sector": "Financial Services",
       "industry": "Credit Services",
       "marketCap": 773002166272,
-      "weekHigh52": 416.99,
+      "weekHigh52": 417.0,
       "weekLow52": 293.89,
       "dividendYield": 0.65,
       "relStrength": 16.03,
@@ -351,7 +351,7 @@
       "sector": "Healthcare",
       "industry": "Drug Manufacturers - General",
       "marketCap": 657677221888,
-      "weekHigh52": 282.0,
+      "weekHigh52": 282.02,
       "weekLow52": 185.12,
       "dividendYield": 1.95,
       "relStrength": 4.13,
@@ -436,7 +436,7 @@
         92.82,
         94.08
       ],
-      "pe": 28.3,
+      "pe": 27.8,
       "debtEq": 1.07,
       "sector": "Consumer Defensive",
       "industry": "Beverages - Non-Alcoholic",
@@ -449,7 +449,7 @@
       "newsScore": 0,
       "newsHeadline": null,
       "url": "https://finance.yahoo.com/quote/KO",
-      "sectorPe": 26.3
+      "sectorPe": 26.1
     },
     {
       "ticker": "PG",
@@ -494,7 +494,7 @@
       "newsScore": 0,
       "newsHeadline": null,
       "url": "https://finance.yahoo.com/quote/PG",
-      "sectorPe": 26.3
+      "sectorPe": 26.1
     },
     {
       "ticker": "XOM",
@@ -535,7 +535,7 @@
       "weekLow52": 112.51,
       "dividendYield": 2.25,
       "relStrength": 15.98,
-      "volumeRatio": 1.83,
+      "volumeRatio": 1.88,
       "newsScore": 0,
       "newsHeadline": null,
       "url": "https://finance.yahoo.com/quote/XOM",
@@ -576,7 +576,7 @@
       "sector": "Energy",
       "industry": "Oil & Gas Integrated",
       "marketCap": 461996818432,
-      "weekHigh52": 236.46,
+      "weekHigh52": 236.48,
       "weekLow52": 146.49,
       "dividendYield": 3.08,
       "relStrength": 16.26,
@@ -625,7 +625,7 @@
       "weekLow52": 537.08,
       "dividendYield": 1.01,
       "relStrength": -22.08,
-      "volumeRatio": 1.74,
+      "volumeRatio": 1.8,
       "newsScore": 0,
       "newsHeadline": null,
       "url": "https://finance.yahoo.com/quote/CAT",
@@ -681,8 +681,8 @@
     {
       "ticker": "HSBA.L",
       "name": "HSBC HOLDINGS PLC ORD $0.50 (UK",
-      "price": 1277.0,
-      "chg": -1.21,
+      "price": NaN,
+      "chg": NaN,
       "hist": [
         1497.6,
         1437.0,
@@ -706,7 +706,7 @@
         1291.4,
         1296.6,
         1292.6,
-        1277.0
+        NaN
       ],
       "pe": 11.2,
       "debtEq": null,
@@ -716,7 +716,7 @@
       "weekHigh52": 1610.0,
       "weekLow52": 1027.8,
       "dividendYield": 4.31,
-      "relStrength": -15.9,
+      "relStrength": NaN,
       "volumeRatio": 0.72,
       "newsScore": 0,
       "newsHeadline": null,
@@ -726,8 +726,8 @@
     {
       "ticker": "AZN.L",
       "name": "ASTRAZENECA PLC ORD SHS $0.25",
-      "price": 13960.0,
-      "chg": 6.96,
+      "price": NaN,
+      "chg": NaN,
       "hist": [
         12280.0,
         12032.0,
@@ -751,9 +751,9 @@
         12822.0,
         12764.0,
         13052.0,
-        13960.0
+        NaN
       ],
-      "pe": 28.0,
+      "pe": 28.6,
       "debtEq": 0.64,
       "sector": "Healthcare",
       "industry": "Drug Manufacturers - General",
@@ -761,18 +761,18 @@
       "weekHigh52": 15732.0,
       "weekLow52": 9892.0,
       "dividendYield": 1.83,
-      "relStrength": 12.51,
+      "relStrength": NaN,
       "volumeRatio": 1.83,
       "newsScore": 0,
       "newsHeadline": null,
       "url": "https://finance.yahoo.com/quote/AZN.L",
-      "sectorPe": 28.0
+      "sectorPe": 28.6
     },
     {
       "ticker": "SHEL.L",
       "name": "SHELL PLC ORD EUR0.07",
-      "price": 4036.5,
-      "chg": -0.04,
+      "price": NaN,
+      "chg": NaN,
       "hist": [
         3569.5,
         3589.0,
@@ -796,9 +796,9 @@
         3927.5,
         3956.5,
         4038.0,
-        4036.5
+        NaN
       ],
-      "pe": 12.0,
+      "pe": 9.6,
       "debtEq": 0.38,
       "sector": "Energy",
       "industry": "Oil & Gas Integrated",
@@ -806,18 +806,18 @@
       "weekHigh52": 4110.0,
       "weekLow52": 2553.77,
       "dividendYield": 2.9,
-      "relStrength": 11.91,
+      "relStrength": NaN,
       "volumeRatio": 0.94,
       "newsScore": 0,
       "newsHeadline": null,
       "url": "https://finance.yahoo.com/quote/SHEL.L",
-      "sectorPe": 12.0
+      "sectorPe": 9.6
     },
     {
       "ticker": "ULVR.L",
       "name": "UNILEVER PLC ORD 3.5P",
-      "price": 4870.5,
-      "chg": 2.07,
+      "price": NaN,
+      "chg": NaN,
       "hist": [
         4603.5,
         4494.0,
@@ -841,7 +841,7 @@
         4892.5,
         4792.0,
         4771.5,
-        4870.5
+        NaN
       ],
       "pe": 13.2,
       "debtEq": 1.75,
@@ -851,7 +851,7 @@
       "weekHigh52": 5542.11,
       "weekLow52": 3644.0,
       "dividendYield": 3.28,
-      "relStrength": 4.63,
+      "relStrength": NaN,
       "volumeRatio": 1.4,
       "newsScore": 0,
       "newsHeadline": null,
@@ -861,8 +861,8 @@
     {
       "ticker": "BARC.L",
       "name": "BARCLAYS PLC ORD 25P",
-      "price": 415.05,
-      "chg": -3.95,
+      "price": NaN,
+      "chg": NaN,
       "hist": [
         457.55,
         438.95,
@@ -886,7 +886,7 @@
         422.05,
         428.9,
         432.1,
-        415.05
+        NaN
       ],
       "pe": 8.3,
       "debtEq": null,
@@ -896,7 +896,7 @@
       "weekHigh52": 538.3,
       "weekLow52": 361.35,
       "dividendYield": 2.66,
-      "relStrength": -10.46,
+      "relStrength": NaN,
       "volumeRatio": 0.72,
       "newsScore": 0,
       "newsHeadline": null,
