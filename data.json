@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-03T22:39:32.261102+00:00",
+  "updated": "2026-11-04T03:40:28.431568+00:00",
   "us": [
     {
       "ticker": "AAPL",
@@ -39,11 +39,11 @@
       "weekLow52": 243.42,
       "dividendYield": 0.32,
       "relStrength": 2.34,
-      "volumeRatio": 1.48,
+      "volumeRatio": 1.49,
       "newsScore": -0.2,
       "newsHeadline": "Apple fails to impress Wall Street, bear market chatter heats up, and AI assessing job productivity",
       "url": "https://finance.yahoo.com/quote/AAPL",
-      "sectorPe": 30.1
+      "sectorPe": 29.9
     },
     {
       "ticker": "MSFT",
@@ -74,7 +74,7 @@
         507.12,
         520.99
       ],
-      "pe": 27.2,
+      "pe": 26.5,
       "debtEq": 0.28,
       "sector": "Technology",
       "industry": "Software - Infrastructure",
@@ -84,10 +84,10 @@
       "dividendYield": 0.77,
       "relStrength": 1.84,
       "volumeRatio": 0.88,
-      "newsScore": 0.5,
-      "newsHeadline": "Apple just made twice as much free cash as Microsoft, Meta, Alphabet and Amazon combined: Chart of the Day",
+      "newsScore": -0.2,
+      "newsHeadline": "Stock Market Election Night: Dow Futures Fall, Techs Tumble In Blue Wave; AMD, Arista Rise On Earnings",
       "url": "https://finance.yahoo.com/quote/MSFT",
-      "sectorPe": 30.1
+      "sectorPe": 29.9
     },
     {
       "ticker": "NVDA",
@@ -131,7 +131,7 @@
       "newsScore": 0.2,
       "newsHeadline": "This AI Boom is not 1999 all over again — and here's why",
       "url": "https://finance.yahoo.com/quote/NVDA",
-      "sectorPe": 30.1
+      "sectorPe": 29.9
     },
     {
       "ticker": "AMZN",
@@ -171,8 +171,8 @@
       "weekLow52": 196.0,
       "dividendYield": 0.0,
       "relStrength": 2.36,
-      "volumeRatio": 0.88,
-      "newsScore": 0.3,
+      "volumeRatio": 0.89,
+      "newsScore": -0.0,
       "newsHeadline": "Binance deposits overtake withdrawals, and the SEC creates crypto FAQs on governance",
       "url": "https://finance.yahoo.com/quote/AMZN",
       "sectorPe": 229.1
@@ -215,8 +215,8 @@
       "weekLow52": 297.38,
       "dividendYield": 0.0,
       "relStrength": 7.86,
-      "volumeRatio": 0.71,
-      "newsScore": 0.0,
+      "volumeRatio": 0.72,
+      "newsScore": -0.2,
       "newsHeadline": "Binance deposits overtake withdrawals, and the SEC creates crypto FAQs on governance",
       "url": "https://finance.yahoo.com/quote/TSLA",
       "sectorPe": 229.1
@@ -259,8 +259,8 @@
       "weekLow52": 279.1,
       "dividendYield": 1.94,
       "relStrength": 4.83,
-      "volumeRatio": 0.95,
-      "newsScore": 0.3,
+      "volumeRatio": 0.98,
+      "newsScore": 0.2,
       "newsHeadline": "J.P. Morgan Recruits Financial Advisor From Merrill Who Oversaw $940 Million in Assets",
       "url": "https://finance.yahoo.com/quote/JPM",
       "sectorPe": 24.1
@@ -391,7 +391,7 @@
       "weekLow52": 255.97,
       "dividendYield": 2.32,
       "relStrength": 9.47,
-      "volumeRatio": 0.66,
+      "volumeRatio": 0.67,
       "newsScore": 0.3,
       "newsHeadline": "UnitedHealth Group Incorporated (UNH) Rebounded After Better-Than-Expected Results: Mott Capital’s Take",
       "url": "https://finance.yahoo.com/quote/UNH",
@@ -480,8 +480,8 @@
       "dividendYield": 2.66,
       "relStrength": 14.42,
       "volumeRatio": 1.03,
-      "newsScore": 0.3,
-      "newsHeadline": "Greenlight Capital Discussed PG&E Corporation (PG) in Its Q3 2026 Investor Letter",
+      "newsScore": 0.5,
+      "newsHeadline": "Nike vs. Procter & Gamble: Which Consumer Stock Is a Better Buy for 2027?",
       "url": "https://finance.yahoo.com/quote/PG",
       "sectorPe": 26.2
     },
@@ -514,7 +514,7 @@
         179.67,
         177.46
       ],
-      "pe": 18.3,
+      "pe": 18.5,
       "debtEq": 0.13,
       "sector": "Energy",
       "industry": "Oil & Gas Integrated",
@@ -524,10 +524,10 @@
       "dividendYield": 2.38,
       "relStrength": 10.85,
       "volumeRatio": 0.94,
-      "newsScore": 0.3,
-      "newsHeadline": "Oil Edges Lower As U.S. Bombs Iran Before Election Day",
+      "newsScore": -0.2,
+      "newsHeadline": "Big Oil Puts Debt Reduction Ahead of New Investments",
       "url": "https://finance.yahoo.com/quote/XOM",
-      "sectorPe": 17.4
+      "sectorPe": 17.6
     },
     {
       "ticker": "CVX",
@@ -558,7 +558,7 @@
         227.77,
         225.27
       ],
-      "pe": 16.5,
+      "pe": 16.7,
       "debtEq": 0.19,
       "sector": "Energy",
       "industry": "Oil & Gas Integrated",
@@ -568,10 +568,10 @@
       "dividendYield": 3.13,
       "relStrength": 11.75,
       "volumeRatio": 0.97,
-      "newsScore": 0.7,
-      "newsHeadline": "Trump Says Iran “Wants a Settlement.” CEO Predicts Peace Sends Oil 40% Lower for Exxon, Chevron",
+      "newsScore": 0.5,
+      "newsHeadline": "Big Oil Puts Debt Reduction Ahead of New Investments",
       "url": "https://finance.yahoo.com/quote/CVX",
-      "sectorPe": 17.4
+      "sectorPe": 17.6
     },
     {
       "ticker": "CAT",
@@ -602,7 +602,7 @@
         613.62,
         623.94
       ],
-      "pe": 24.5,
+      "pe": 24.1,
       "debtEq": 2.1,
       "sector": "Industrials",
       "industry": "Farm & Heavy Construction Machinery",
@@ -611,11 +611,11 @@
       "weekLow52": 537.08,
       "dividendYield": 1.06,
       "relStrength": -23.62,
-      "volumeRatio": 1.03,
-      "newsScore": 0.5,
-      "newsHeadline": "General Dynamics stands out as a balanced industrial stock pick",
+      "volumeRatio": 1.04,
+      "newsScore": 0.6,
+      "newsHeadline": "Atlas Energy Solutions Inc (AESI) (Q3 2026) Earnings Call Highlights: Data Center Power Push ...",
       "url": "https://finance.yahoo.com/quote/CAT",
-      "sectorPe": 21.2
+      "sectorPe": 21.0
     },
     {
       "ticker": "BA",
@@ -659,15 +659,15 @@
       "newsScore": 0.3,
       "newsHeadline": "Archer Aviation Just Dropped 15% in a Month. Is It Time to Sell, or Load Up?",
       "url": "https://finance.yahoo.com/quote/BA",
-      "sectorPe": 21.2
+      "sectorPe": 21.0
     }
   ],
   "uk": [
     {
       "ticker": "HSBA.L",
       "name": "HSBC HOLDINGS PLC ORD $0.50 (UK",
-      "price": 1258.0,
-      "chg": -1.98,
+      "price": NaN,
+      "chg": NaN,
       "hist": [
         1459.0,
         1472.2,
@@ -690,7 +690,7 @@
         1292.6,
         1277.0,
         1283.4,
-        1258.0
+        NaN
       ],
       "pe": 11.0,
       "debtEq": null,
@@ -700,18 +700,18 @@
       "weekHigh52": 1610.0,
       "weekLow52": 1027.8,
       "dividendYield": 4.34,
-      "relStrength": -15.12,
+      "relStrength": NaN,
       "volumeRatio": 1.35,
-      "newsScore": -0.3,
-      "newsHeadline": "Man Group And 2 Other British Dividend Stocks",
+      "newsScore": -0.1,
+      "newsHeadline": "HSBC Holdings: 3 Key Takeaways for Long-Term Investors",
       "url": "https://finance.yahoo.com/quote/HSBA.L",
       "sectorPe": 9.7
     },
     {
       "ticker": "AZN.L",
       "name": "ASTRAZENECA PLC ORD SHS $0.25",
-      "price": 13760.0,
-      "chg": -0.72,
+      "price": NaN,
+      "chg": NaN,
       "hist": [
         11764.0,
         11958.0,
@@ -734,7 +734,7 @@
         13052.0,
         13960.0,
         13860.0,
-        13760.0
+        NaN
       ],
       "pe": 26.1,
       "debtEq": 0.66,
@@ -744,7 +744,7 @@
       "weekHigh52": 15732.0,
       "weekLow52": 9892.0,
       "dividendYield": 1.72,
-      "relStrength": 15.63,
+      "relStrength": NaN,
       "volumeRatio": 0.9,
       "newsScore": 0.5,
       "newsHeadline": "Health Care Roundup: Market Talk",
@@ -754,8 +754,8 @@
     {
       "ticker": "SHEL.L",
       "name": "SHELL PLC ORD EUR0.07",
-      "price": 3863.5,
-      "chg": -1.47,
+      "price": NaN,
+      "chg": NaN,
       "hist": [
         3631.5,
         3651.0,
@@ -778,7 +778,7 @@
         4038.0,
         4036.5,
         3921.0,
-        3863.5
+        NaN
       ],
       "pe": 9.0,
       "debtEq": 0.38,
@@ -788,7 +788,7 @@
       "weekHigh52": 4110.0,
       "weekLow52": 2553.77,
       "dividendYield": 2.98,
-      "relStrength": 5.05,
+      "relStrength": NaN,
       "volumeRatio": 0.88,
       "newsScore": 0.4,
       "newsHeadline": "Rivian spinout Also was working on an e-moto project in Kenya — until it walked away",
@@ -798,8 +798,8 @@
     {
       "ticker": "ULVR.L",
       "name": "UNILEVER PLC ORD 3.5P",
-      "price": 4857.0,
-      "chg": -0.9,
+      "price": NaN,
+      "chg": NaN,
       "hist": [
         4500.5,
         4569.0,
@@ -822,7 +822,7 @@
         4771.5,
         4870.5,
         4901.0,
-        4857.0
+        NaN
       ],
       "pe": 13.2,
       "debtEq": 1.75,
@@ -832,7 +832,7 @@
       "weekHigh52": 5542.11,
       "weekLow52": 3644.0,
       "dividendYield": 3.19,
-      "relStrength": 6.58,
+      "relStrength": NaN,
       "volumeRatio": 1.16,
       "newsScore": 0.1,
       "newsHeadline": "Unilever Eyes $1.1 Billion in Savings as It Plans Leaner Future Away From Food",
@@ -842,8 +842,8 @@
     {
       "ticker": "BARC.L",
       "name": "BARCLAYS PLC ORD 25P",
-      "price": 419.55,
-      "chg": -1.07,
+      "price": NaN,
+      "chg": NaN,
       "hist": [
         446.7,
         447.3,
@@ -866,7 +866,7 @@
         432.1,
         415.05,
         424.1,
-        419.55
+        NaN
       ],
       "pe": 8.4,
       "debtEq": null,
@@ -876,7 +876,7 @@
       "weekHigh52": 538.3,
       "weekLow52": 361.35,
       "dividendYield": 2.71,
-      "relStrength": -7.42,
+      "relStrength": NaN,
       "volumeRatio": 1.81,
       "newsScore": 0.1,
       "newsHeadline": "Bloom Energy Rallies 11% on Barclays Upgrade and California Resources Tie-Up; FuelCell Energy Gains 5%, GE Vernova Climbs 3%",
