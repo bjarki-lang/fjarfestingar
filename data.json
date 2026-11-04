@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-04T03:40:28.431568+00:00",
+  "updated": "2026-11-04T13:25:08.135991+00:00",
   "us": [
     {
       "ticker": "AAPL",
@@ -31,19 +31,19 @@
         331.9
       ],
       "pe": 37.0,
-      "debtEq": 0.78,
+      "debtEq": 0.71,
       "sector": "Technology",
       "industry": "Consumer Electronics",
-      "marketCap": 4843808227328,
+      "marketCap": 4823230971904,
       "weekHigh52": 351.73,
       "weekLow52": 243.42,
-      "dividendYield": 0.32,
+      "dividendYield": 0.33,
       "relStrength": 2.34,
       "volumeRatio": 1.49,
-      "newsScore": -0.2,
-      "newsHeadline": "Apple fails to impress Wall Street, bear market chatter heats up, and AI assessing job productivity",
+      "newsScore": 0.5,
+      "newsHeadline": "The AI sell-off saved Apple from a sell-off of its own",
       "url": "https://finance.yahoo.com/quote/AAPL",
-      "sectorPe": 29.9
+      "sectorPe": 30.1
     },
     {
       "ticker": "MSFT",
@@ -74,20 +74,20 @@
         507.12,
         520.99
       ],
-      "pe": 26.5,
+      "pe": 27.2,
       "debtEq": 0.28,
       "sector": "Technology",
       "industry": "Software - Infrastructure",
       "marketCap": 3868973072384,
       "weekHigh52": 551.15,
       "weekLow52": 349.2,
-      "dividendYield": 0.77,
+      "dividendYield": 0.75,
       "relStrength": 1.84,
       "volumeRatio": 0.88,
-      "newsScore": -0.2,
-      "newsHeadline": "Stock Market Election Night: Dow Futures Fall, Techs Tumble In Blue Wave; AMD, Arista Rise On Earnings",
+      "newsScore": -0.4,
+      "newsHeadline": "Meta Just Paid 7.5% to Borrow for 30 Years as Bond Sale Drew $58 Billion in Orders",
       "url": "https://finance.yahoo.com/quote/MSFT",
-      "sectorPe": 29.9
+      "sectorPe": 30.1
     },
     {
       "ticker": "NVDA",
@@ -125,13 +125,13 @@
       "marketCap": 4990943363072,
       "weekHigh52": 243.37,
       "weekLow52": 164.27,
-      "dividendYield": 0.49,
+      "dividendYield": 0.48,
       "relStrength": -10.84,
       "volumeRatio": 0.89,
-      "newsScore": 0.2,
-      "newsHeadline": "This AI Boom is not 1999 all over again — and here's why",
+      "newsScore": -0.3,
+      "newsHeadline": "Wall Street reacts to the stunning election day Blue Wave: winners, losers and those in between",
       "url": "https://finance.yahoo.com/quote/NVDA",
-      "sectorPe": 29.9
+      "sectorPe": 30.1
     },
     {
       "ticker": "AMZN",
@@ -172,8 +172,8 @@
       "dividendYield": 0.0,
       "relStrength": 2.36,
       "volumeRatio": 0.89,
-      "newsScore": -0.0,
-      "newsHeadline": "Binance deposits overtake withdrawals, and the SEC creates crypto FAQs on governance",
+      "newsScore": 0.1,
+      "newsHeadline": "Why tech earnings are facing an unprecedented high bar",
       "url": "https://finance.yahoo.com/quote/AMZN",
       "sectorPe": 229.1
     },
@@ -217,7 +217,7 @@
       "relStrength": 7.86,
       "volumeRatio": 0.72,
       "newsScore": -0.2,
-      "newsHeadline": "Binance deposits overtake withdrawals, and the SEC creates crypto FAQs on governance",
+      "newsHeadline": "Which sectors will benefit most and face pressure after Democratic sweep?",
       "url": "https://finance.yahoo.com/quote/TSLA",
       "sectorPe": 229.1
     },
@@ -257,11 +257,11 @@
       "marketCap": 897539768320,
       "weekHigh52": 366.5,
       "weekLow52": 279.1,
-      "dividendYield": 1.94,
+      "dividendYield": 1.95,
       "relStrength": 4.83,
       "volumeRatio": 0.98,
-      "newsScore": 0.2,
-      "newsHeadline": "J.P. Morgan Recruits Financial Advisor From Merrill Who Oversaw $940 Million in Assets",
+      "newsScore": 0.4,
+      "newsHeadline": "Health Care Roundup: Market Talk",
       "url": "https://finance.yahoo.com/quote/JPM",
       "sectorPe": 24.1
     },
@@ -301,11 +301,11 @@
       "marketCap": 785767530496,
       "weekHigh52": 426.78,
       "weekLow52": 293.89,
-      "dividendYield": 0.63,
+      "dividendYield": 0.64,
       "relStrength": 16.36,
       "volumeRatio": 0.87,
-      "newsScore": 0.4,
-      "newsHeadline": "4 Companies Just Raised Their Dividends. Which Payout Has the Most Room to Grow?",
+      "newsScore": 0.3,
+      "newsHeadline": "Buy, Sell, or Hold? Wednesday’s Top Upgrades and Downgrades: Adobe, Apple, Duolingo, Exxon Mobil, Fiserv, Fortinet, Gartner, Lockheed Martin, Skyworks Solutions, Visa and More",
       "url": "https://finance.yahoo.com/quote/V",
       "sectorPe": 24.1
     },
@@ -345,11 +345,11 @@
       "marketCap": 640753795072,
       "weekHigh52": 282.02,
       "weekLow52": 185.12,
-      "dividendYield": 1.98,
+      "dividendYield": 2.01,
       "relStrength": 7.87,
       "volumeRatio": 0.85,
-      "newsScore": 0.0,
-      "newsHeadline": "Should You Buy Baxter Stock For Its Cash?",
+      "newsScore": 0.2,
+      "newsHeadline": "The One Thing To Settle Before Buying Eli Lilly Stock",
       "url": "https://finance.yahoo.com/quote/JNJ",
       "sectorPe": 31.8
     },
@@ -389,11 +389,11 @@
       "marketCap": 363023237120,
       "weekHigh52": 461.62,
       "weekLow52": 255.97,
-      "dividendYield": 2.32,
+      "dividendYield": 2.29,
       "relStrength": 9.47,
       "volumeRatio": 0.67,
-      "newsScore": 0.3,
-      "newsHeadline": "UnitedHealth Group Incorporated (UNH) Rebounded After Better-Than-Expected Results: Mott Capital’s Take",
+      "newsScore": 0.6,
+      "newsHeadline": "State Street Health Care SPDR (XLV) Adds Eli Lilly and J&J on Nov. 2",
       "url": "https://finance.yahoo.com/quote/UNH",
       "sectorPe": 31.8
     },
@@ -426,20 +426,20 @@
         95.83,
         94.8
       ],
-      "pe": 28.0,
+      "pe": 28.3,
       "debtEq": 1.07,
       "sector": "Consumer Defensive",
       "industry": "Beverages - Non-Alcoholic",
       "marketCap": 407820369920,
       "weekHigh52": 96.26,
       "weekLow52": 67.27,
-      "dividendYield": 2.21,
+      "dividendYield": 2.24,
       "relStrength": 12.22,
       "volumeRatio": 0.95,
       "newsScore": 0.3,
-      "newsHeadline": "Coca-Cola vs. Monster Beverage: Measuring Quarter-Over-Quarter Revenue Trends",
+      "newsHeadline": "What Kraft Heinz (KHC) Said on Its Q3 Earnings Call",
       "url": "https://finance.yahoo.com/quote/KO",
-      "sectorPe": 26.2
+      "sectorPe": 26.4
     },
     {
       "ticker": "PG",
@@ -477,13 +477,13 @@
       "marketCap": 375619911680,
       "weekHigh52": 167.25,
       "weekLow52": 137.62,
-      "dividendYield": 2.66,
+      "dividendYield": 2.69,
       "relStrength": 14.42,
       "volumeRatio": 1.03,
       "newsScore": 0.5,
-      "newsHeadline": "Nike vs. Procter & Gamble: Which Consumer Stock Is a Better Buy for 2027?",
+      "newsHeadline": "What iShares Core High Dividend (HDV) Bought: Exxon Leads on Nov. 2",
       "url": "https://finance.yahoo.com/quote/PG",
-      "sectorPe": 26.2
+      "sectorPe": 26.4
     },
     {
       "ticker": "XOM",
@@ -514,20 +514,20 @@
         179.67,
         177.46
       ],
-      "pe": 18.5,
+      "pe": 18.3,
       "debtEq": 0.13,
       "sector": "Energy",
       "industry": "Oil & Gas Integrated",
-      "marketCap": 723859406848,
+      "marketCap": 723898859520,
       "weekHigh52": 188.5,
-      "weekLow52": 112.51,
-      "dividendYield": 2.38,
+      "weekLow52": 113.64,
+      "dividendYield": 2.41,
       "relStrength": 10.85,
       "volumeRatio": 0.94,
-      "newsScore": -0.2,
-      "newsHeadline": "Big Oil Puts Debt Reduction Ahead of New Investments",
+      "newsScore": 0.3,
+      "newsHeadline": "Buy, Sell, or Hold? Wednesday’s Top Upgrades and Downgrades: Adobe, Apple, Duolingo, Exxon Mobil, Fiserv, Fortinet, Gartner, Lockheed Martin, Skyworks Solutions, Visa and More",
       "url": "https://finance.yahoo.com/quote/XOM",
-      "sectorPe": 17.6
+      "sectorPe": 17.4
     },
     {
       "ticker": "CVX",
@@ -558,20 +558,20 @@
         227.77,
         225.27
       ],
-      "pe": 16.7,
+      "pe": 16.5,
       "debtEq": 0.19,
       "sector": "Energy",
       "industry": "Oil & Gas Integrated",
       "marketCap": 439501783040,
       "weekHigh52": 236.48,
       "weekLow52": 146.49,
-      "dividendYield": 3.13,
+      "dividendYield": 3.16,
       "relStrength": 11.75,
       "volumeRatio": 0.97,
-      "newsScore": 0.5,
-      "newsHeadline": "Big Oil Puts Debt Reduction Ahead of New Investments",
+      "newsScore": 0.1,
+      "newsHeadline": "What iShares Core High Dividend (HDV) Bought: Exxon Leads on Nov. 2",
       "url": "https://finance.yahoo.com/quote/CVX",
-      "sectorPe": 17.6
+      "sectorPe": 17.4
     },
     {
       "ticker": "CAT",
@@ -602,20 +602,20 @@
         613.62,
         623.94
       ],
-      "pe": 24.1,
+      "pe": 24.5,
       "debtEq": 2.1,
       "sector": "Industrials",
       "industry": "Farm & Heavy Construction Machinery",
       "marketCap": 286809554944,
       "weekHigh52": 1073.46,
       "weekLow52": 537.08,
-      "dividendYield": 1.06,
+      "dividendYield": 1.05,
       "relStrength": -23.62,
       "volumeRatio": 1.04,
-      "newsScore": 0.6,
-      "newsHeadline": "Atlas Energy Solutions Inc (AESI) (Q3 2026) Earnings Call Highlights: Data Center Power Push ...",
+      "newsScore": 0.3,
+      "newsHeadline": "What State Street Industrial Select Sector SPDR (XLI) Sold: GE Leads on Nov. 2",
       "url": "https://finance.yahoo.com/quote/CAT",
-      "sectorPe": 21.0
+      "sectorPe": 21.2
     },
     {
       "ticker": "BA",
@@ -656,18 +656,18 @@
       "dividendYield": 0.0,
       "relStrength": -7.43,
       "volumeRatio": 0.71,
-      "newsScore": 0.3,
-      "newsHeadline": "Archer Aviation Just Dropped 15% in a Month. Is It Time to Sell, or Load Up?",
+      "newsScore": 0.2,
+      "newsHeadline": "Up 26% in October as Boeing stumbles: What’s powering this defense contractor?",
       "url": "https://finance.yahoo.com/quote/BA",
-      "sectorPe": 21.0
+      "sectorPe": 21.2
     }
   ],
   "uk": [
     {
       "ticker": "HSBA.L",
       "name": "HSBC HOLDINGS PLC ORD $0.50 (UK",
-      "price": NaN,
-      "chg": NaN,
+      "price": 1317.2,
+      "chg": 4.71,
       "hist": [
         1459.0,
         1472.2,
@@ -690,28 +690,29 @@
         1292.6,
         1277.0,
         1283.4,
-        NaN
+        1258.0,
+        1317.2
       ],
-      "pe": 11.0,
+      "pe": 11.6,
       "debtEq": null,
       "sector": "Financial Services",
       "industry": "Banks - Diversified",
-      "marketCap": 215107420160,
+      "marketCap": 225227882496,
       "weekHigh52": 1610.0,
       "weekLow52": 1027.8,
-      "dividendYield": 4.34,
-      "relStrength": NaN,
-      "volumeRatio": 1.35,
+      "dividendYield": 4.43,
+      "relStrength": -12.66,
+      "volumeRatio": 0.28,
       "newsScore": -0.1,
       "newsHeadline": "HSBC Holdings: 3 Key Takeaways for Long-Term Investors",
       "url": "https://finance.yahoo.com/quote/HSBA.L",
-      "sectorPe": 9.7
+      "sectorPe": 10.1
     },
     {
       "ticker": "AZN.L",
       "name": "ASTRAZENECA PLC ORD SHS $0.25",
-      "price": NaN,
-      "chg": NaN,
+      "price": 13934.0,
+      "chg": 1.26,
       "hist": [
         11764.0,
         11958.0,
@@ -734,28 +735,29 @@
         13052.0,
         13960.0,
         13860.0,
-        NaN
+        13760.0,
+        13934.0
       ],
-      "pe": 26.1,
+      "pe": 26.4,
       "debtEq": 0.66,
       "sector": "Healthcare",
       "industry": "Drug Manufacturers - General",
-      "marketCap": 213406269440,
+      "marketCap": 216104861696,
       "weekHigh52": 15732.0,
       "weekLow52": 9892.0,
-      "dividendYield": 1.72,
-      "relStrength": NaN,
-      "volumeRatio": 0.9,
+      "dividendYield": 1.74,
+      "relStrength": 15.51,
+      "volumeRatio": 0.25,
       "newsScore": 0.5,
       "newsHeadline": "Health Care Roundup: Market Talk",
       "url": "https://finance.yahoo.com/quote/AZN.L",
-      "sectorPe": 26.1
+      "sectorPe": 26.4
     },
     {
       "ticker": "SHEL.L",
       "name": "SHELL PLC ORD EUR0.07",
-      "price": NaN,
-      "chg": NaN,
+      "price": 3863.5,
+      "chg": 0.0,
       "hist": [
         3631.5,
         3651.0,
@@ -778,28 +780,29 @@
         4038.0,
         4036.5,
         3921.0,
-        NaN
+        3863.5,
+        3863.5
       ],
-      "pe": 9.0,
+      "pe": 8.9,
       "debtEq": 0.38,
       "sector": "Energy",
       "industry": "Oil & Gas Integrated",
-      "marketCap": 219094777856,
+      "marketCap": 219023114240,
       "weekHigh52": 4110.0,
       "weekLow52": 2553.77,
-      "dividendYield": 2.98,
-      "relStrength": NaN,
-      "volumeRatio": 0.88,
-      "newsScore": 0.4,
-      "newsHeadline": "Rivian spinout Also was working on an e-moto project in Kenya — until it walked away",
+      "dividendYield": 3.02,
+      "relStrength": 3.45,
+      "volumeRatio": 0.28,
+      "newsScore": -0.1,
+      "newsHeadline": "Clariant shares fall as Deutsche Bank flags rising litigation risks",
       "url": "https://finance.yahoo.com/quote/SHEL.L",
-      "sectorPe": 9.0
+      "sectorPe": 8.9
     },
     {
       "ticker": "ULVR.L",
       "name": "UNILEVER PLC ORD 3.5P",
-      "price": NaN,
-      "chg": NaN,
+      "price": 4888.5,
+      "chg": 0.65,
       "hist": [
         4500.5,
         4569.0,
@@ -822,18 +825,19 @@
         4771.5,
         4870.5,
         4901.0,
-        NaN
+        4857.0,
+        4888.5
       ],
       "pe": 13.2,
       "debtEq": 1.75,
       "sector": "Consumer Defensive",
       "industry": "Household & Personal Products",
-      "marketCap": 104589041664,
+      "marketCap": 105267355648,
       "weekHigh52": 5542.11,
       "weekLow52": 3644.0,
-      "dividendYield": 3.19,
-      "relStrength": NaN,
-      "volumeRatio": 1.16,
+      "dividendYield": 3.22,
+      "relStrength": 5.68,
+      "volumeRatio": 0.36,
       "newsScore": 0.1,
       "newsHeadline": "Unilever Eyes $1.1 Billion in Savings as It Plans Leaner Future Away From Food",
       "url": "https://finance.yahoo.com/quote/ULVR.L",
@@ -842,8 +846,8 @@
     {
       "ticker": "BARC.L",
       "name": "BARCLAYS PLC ORD 25P",
-      "price": NaN,
-      "chg": NaN,
+      "price": 437.4,
+      "chg": 4.25,
       "hist": [
         446.7,
         447.3,
@@ -866,26 +870,27 @@
         432.1,
         415.05,
         424.1,
-        NaN
+        419.55,
+        437.4
       ],
-      "pe": 8.4,
+      "pe": 8.7,
       "debtEq": null,
       "sector": "Financial Services",
       "industry": "Banks - Diversified",
-      "marketCap": 55747821568,
+      "marketCap": 58119643136,
       "weekHigh52": 538.3,
       "weekLow52": 361.35,
-      "dividendYield": 2.71,
-      "relStrength": NaN,
-      "volumeRatio": 1.81,
-      "newsScore": 0.1,
-      "newsHeadline": "Bloom Energy Rallies 11% on Barclays Upgrade and California Resources Tie-Up; FuelCell Energy Gains 5%, GE Vernova Climbs 3%",
+      "dividendYield": 2.74,
+      "relStrength": -5.02,
+      "volumeRatio": 0.29,
+      "newsScore": 0.0,
+      "newsHeadline": "Barclays backs Technoprobe on surging demand for AI chip testing",
       "url": "https://finance.yahoo.com/quote/BARC.L",
-      "sectorPe": 9.7
+      "sectorPe": 10.1
     }
   ],
   "benchmarks": {
     "us": -2.64,
-    "uk": 1.34
+    "uk": 2.94
   }
 }
