@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-05T03:59:20.564513+00:00",
+  "updated": "2026-11-05T13:39:26.101086+00:00",
   "us": [
     {
       "ticker": "AAPL",
@@ -32,19 +32,19 @@
         349.51
       ],
       "pe": 38.9,
-      "debtEq": 0.71,
+      "debtEq": 0.84,
       "sector": "Technology",
       "industry": "Consumer Electronics",
       "marketCap": 5079143284736,
-      "weekHigh52": 354.47,
+      "weekHigh52": 354.5,
       "weekLow52": 243.42,
-      "dividendYield": 0.33,
+      "dividendYield": 0.31,
       "relStrength": 6.09,
       "volumeRatio": 2.1,
-      "newsScore": 0.2,
-      "newsHeadline": "Apple, Microsoft hit all-time highs as Nasdaq surges 2% in post-election rally: AlphaCheck",
+      "newsScore": 0.4,
+      "newsHeadline": "Dow Jones Futures Rise As Techs Fall; Apple, Microsoft, Amazon Flash Buy Signals",
       "url": "https://finance.yahoo.com/quote/AAPL",
-      "sectorPe": 31.3
+      "sectorPe": 31.1
     },
     {
       "ticker": "MSFT",
@@ -83,13 +83,13 @@
       "marketCap": 4127478775808,
       "weekHigh52": 559.15,
       "weekLow52": 349.2,
-      "dividendYield": 0.75,
+      "dividendYield": 0.71,
       "relStrength": 6.93,
       "volumeRatio": 2.26,
       "newsScore": 0.4,
-      "newsHeadline": "Apple, Microsoft hit all-time highs as Nasdaq surges 2% in post-election rally: AlphaCheck",
+      "newsHeadline": "Dow Jones Futures Rise As Techs Fall; Apple, Microsoft, Amazon Flash Buy Signals",
       "url": "https://finance.yahoo.com/quote/MSFT",
-      "sectorPe": 31.3
+      "sectorPe": 31.1
     },
     {
       "ticker": "NVDA",
@@ -121,20 +121,20 @@
         206.69,
         200.13
       ],
-      "pe": 26.1,
+      "pe": 25.3,
       "debtEq": 0.17,
       "sector": "Technology",
       "industry": "Semiconductors",
       "marketCap": 4832539181056,
       "weekHigh52": 243.37,
       "weekLow52": 164.27,
-      "dividendYield": 0.48,
+      "dividendYield": 0.5,
       "relStrength": -15.13,
       "volumeRatio": 1.46,
-      "newsScore": 0.1,
-      "newsHeadline": "Mine, Enrich, Build, Operate: Which Link in the Nuclear Supply Chain Is the Best Stock Right Now?",
+      "newsScore": 0.4,
+      "newsHeadline": "How the AI boom might affect your career: Fireworks AI CEO",
       "url": "https://finance.yahoo.com/quote/NVDA",
-      "sectorPe": 31.3
+      "sectorPe": 31.1
     },
     {
       "ticker": "AMZN",
@@ -177,7 +177,7 @@
       "relStrength": 6.92,
       "volumeRatio": 2.2,
       "newsScore": 0.1,
-      "newsHeadline": "Three reasons stocks are moving higher after the midterms",
+      "newsHeadline": "Amazon partners with Uber Eats to bring restaurant delivery to Prime members",
       "url": "https://finance.yahoo.com/quote/AMZN",
       "sectorPe": 222.4
     },
@@ -221,8 +221,8 @@
       "dividendYield": 0.0,
       "relStrength": 2.81,
       "volumeRatio": 1.32,
-      "newsScore": 0.2,
-      "newsHeadline": "SpaceX, Tesla stocks sink as analyst warns Democrats' victory will create 'major hurdles' for AI build-out",
+      "newsScore": -0.1,
+      "newsHeadline": "Ferrari vs. Tesla: Can the Luce Outsell the Roadster?",
       "url": "https://finance.yahoo.com/quote/TSLA",
       "sectorPe": 222.4
     },
@@ -256,20 +256,20 @@
         337.98,
         352.11
       ],
-      "pe": 14.2,
+      "pe": 14.8,
       "debtEq": null,
       "sector": "Financial Services",
       "industry": "Banks - Diversified",
-      "marketCap": 935063322624,
+      "marketCap": 935066664960,
       "weekHigh52": 366.5,
       "weekLow52": 279.1,
-      "dividendYield": 1.95,
+      "dividendYield": 1.87,
       "relStrength": 7.56,
       "volumeRatio": 1.51,
       "newsScore": 0.4,
       "newsHeadline": "What Does JPMorgan Chase (JPM) Gain From Its Dubai Push And US Hires?",
       "url": "https://finance.yahoo.com/quote/JPM",
-      "sectorPe": 24.8
+      "sectorPe": 25.1
     },
     {
       "ticker": "V",
@@ -306,15 +306,15 @@
       "sector": "Financial Services",
       "industry": "Credit Services",
       "marketCap": 815951970304,
-      "weekHigh52": 436.67,
+      "weekHigh52": 436.76,
       "weekLow52": 293.89,
-      "dividendYield": 0.64,
+      "dividendYield": 0.71,
       "relStrength": 19.18,
       "volumeRatio": 1.53,
-      "newsScore": 0.7,
-      "newsHeadline": "Grayscale and BlackRock Say Democratic Midterm Sweep Won’t Slow Crypto Growth",
+      "newsScore": 0.6,
+      "newsHeadline": "Visa Just Raised Its Dividend 16%. Is It a Better Buy Than Mastercard?",
       "url": "https://finance.yahoo.com/quote/V",
-      "sectorPe": 24.8
+      "sectorPe": 25.1
     },
     {
       "ticker": "JNJ",
@@ -346,20 +346,20 @@
         266.17,
         276.32
       ],
-      "pe": 40.4,
+      "pe": 41.9,
       "debtEq": 0.55,
       "sector": "Healthcare",
       "industry": "Drug Manufacturers - General",
       "marketCap": 665188040704,
       "weekHigh52": 282.02,
       "weekLow52": 185.12,
-      "dividendYield": 2.01,
+      "dividendYield": 1.94,
       "relStrength": 10.35,
       "volumeRatio": 1.27,
-      "newsScore": -0.0,
-      "newsHeadline": "What Could Go Wrong At Gilead From Here?",
+      "newsScore": 0.1,
+      "newsHeadline": "What Changed In Bristol Myers Squibb's Story?",
       "url": "https://finance.yahoo.com/quote/JNJ",
-      "sectorPe": 31.8
+      "sectorPe": 32.6
     },
     {
       "ticker": "UNH",
@@ -391,20 +391,20 @@
         404.44,
         409.38
       ],
-      "pe": 23.1,
+      "pe": 23.4,
       "debtEq": 0.7,
       "sector": "Healthcare",
       "industry": "Healthcare Plans",
-      "marketCap": 367457370112,
+      "marketCap": 366813741056,
       "weekHigh52": 461.62,
       "weekLow52": 255.97,
-      "dividendYield": 2.29,
+      "dividendYield": 2.27,
       "relStrength": 9.24,
       "volumeRatio": 1.6,
-      "newsScore": 0.3,
-      "newsHeadline": "UnitedHealth (UNH) Q3 Earnings Lift Confidence In Margin Recovery",
+      "newsScore": 0.7,
+      "newsHeadline": "What Needs To Be True To Buy Elevance Health Stock?",
       "url": "https://finance.yahoo.com/quote/UNH",
-      "sectorPe": 31.8
+      "sectorPe": 32.6
     },
     {
       "ticker": "KO",
@@ -443,11 +443,11 @@
       "marketCap": 412122251264,
       "weekHigh52": 96.56,
       "weekLow52": 67.27,
-      "dividendYield": 2.24,
+      "dividendYield": 2.21,
       "relStrength": 11.84,
       "volumeRatio": 1.6,
-      "newsScore": 0.2,
-      "newsHeadline": "Coca-Cola Consolidated: Q3 Earnings Snapshot",
+      "newsScore": 0.1,
+      "newsHeadline": "If You'd Invested $1,000 Alongside Warren Buffett in Coca-Cola, Here's How Much You'd Have Today",
       "url": "https://finance.yahoo.com/quote/KO",
       "sectorPe": 26.8
     },
@@ -486,13 +486,13 @@
       "sector": "Consumer Defensive",
       "industry": "Household & Personal Products",
       "marketCap": 387811475456,
-      "weekHigh52": 168.16,
+      "weekHigh52": 168.17,
       "weekLow52": 137.62,
-      "dividendYield": 2.69,
+      "dividendYield": 2.6,
       "relStrength": 16.51,
       "volumeRatio": 1.37,
       "newsScore": 0.0,
-      "newsHeadline": "Here’s Why Dividend Kings Coca-Cola, Procter & Gamble, and Colgate-Palmolive Are Hitting 52-Week Highs Following Midterm Election Results",
+      "newsHeadline": "Coca-Cola Is Up 39% This Year. How Much of That Is Earnings and How Much Is Multiple?",
       "url": "https://finance.yahoo.com/quote/PG",
       "sectorPe": 26.8
     },
@@ -533,11 +533,11 @@
       "marketCap": 690489982976,
       "weekHigh52": 188.5,
       "weekLow52": 113.64,
-      "dividendYield": 2.41,
+      "dividendYield": 2.53,
       "relStrength": 4.31,
       "volumeRatio": 2.1,
-      "newsScore": 0.0,
-      "newsHeadline": "Joe Terranova Says “Inflation Lost” on Election Night. What That Means for Energy Stocks",
+      "newsScore": 0.1,
+      "newsHeadline": "Is Exxon Mobil Stock Still Worth Owning After Its Quarter?",
       "url": "https://finance.yahoo.com/quote/XOM",
       "sectorPe": 16.6
     },
@@ -578,11 +578,11 @@
       "marketCap": 423288995840,
       "weekHigh52": 236.48,
       "weekLow52": 146.49,
-      "dividendYield": 3.16,
+      "dividendYield": 3.28,
       "relStrength": 6.18,
       "volumeRatio": 1.53,
       "newsScore": 0.7,
-      "newsHeadline": "Joe Terranova Says “Inflation Lost” on Election Night. What That Means for Energy Stocks",
+      "newsHeadline": "Is Exxon Mobil Stock Still Worth Owning After Its Quarter?",
       "url": "https://finance.yahoo.com/quote/CVX",
       "sectorPe": 16.6
     },
@@ -620,16 +620,16 @@
       "debtEq": 2.1,
       "sector": "Industrials",
       "industry": "Farm & Heavy Construction Machinery",
-      "marketCap": 271805743104,
+      "marketCap": 270575435776,
       "weekHigh52": 1073.46,
       "weekLow52": 537.08,
-      "dividendYield": 1.05,
+      "dividendYield": 1.1,
       "relStrength": -29.02,
       "volumeRatio": 1.78,
-      "newsScore": 0.4,
-      "newsHeadline": "Dow Rallies 1,590 Points on Midterm Relief: Stock Market Today",
+      "newsScore": 0.6,
+      "newsHeadline": "The Dow Just Jumped 1,569 Points for Its Best Post-Midterm Day in 44 Years",
       "url": "https://finance.yahoo.com/quote/CAT",
-      "sectorPe": 20.5
+      "sectorPe": 20.8
     },
     {
       "ticker": "BA",
@@ -661,7 +661,7 @@
         173.31,
         177.0
       ],
-      "pe": 17.9,
+      "pe": 18.3,
       "debtEq": 7.39,
       "sector": "Industrials",
       "industry": "Aerospace & Defense",
@@ -671,18 +671,18 @@
       "dividendYield": 0.0,
       "relStrength": -7.06,
       "volumeRatio": 0.84,
-      "newsScore": 0.2,
-      "newsHeadline": "Can Lockheed Martin Stock Compound Your Money?",
+      "newsScore": -0.1,
+      "newsHeadline": "Boeing, ServiceNow and Nebius Keep Their Stock Off ICE-OKX Token Venue, Lifting Objectors to 62",
       "url": "https://finance.yahoo.com/quote/BA",
-      "sectorPe": 20.5
+      "sectorPe": 20.8
     }
   ],
   "uk": [
     {
       "ticker": "HSBA.L",
       "name": "HSBC HOLDINGS PLC ORD $0.50 (UK",
-      "price": NaN,
-      "chg": NaN,
+      "price": 1334.2,
+      "chg": 1.21,
       "hist": [
         1459.0,
         1472.2,
@@ -706,28 +706,29 @@
         1277.0,
         1283.4,
         1258.0,
-        NaN
+        1318.2,
+        1334.2
       ],
-      "pe": 11.6,
+      "pe": 11.7,
       "debtEq": null,
       "sector": "Financial Services",
       "industry": "Banks - Diversified",
-      "marketCap": 225398882304,
+      "marketCap": 228132929536,
       "weekHigh52": 1610.0,
       "weekLow52": 1027.8,
-      "dividendYield": 4.43,
-      "relStrength": NaN,
-      "volumeRatio": 1.08,
+      "dividendYield": 2.26,
+      "relStrength": -12.47,
+      "volumeRatio": 0.2,
       "newsScore": -0.3,
       "newsHeadline": "Man Group And 2 British Dividend Stocks To Watch",
       "url": "https://finance.yahoo.com/quote/HSBA.L",
-      "sectorPe": 10.1
+      "sectorPe": 10.2
     },
     {
       "ticker": "AZN.L",
       "name": "ASTRAZENECA PLC ORD SHS $0.25",
-      "price": NaN,
-      "chg": NaN,
+      "price": 14095.91,
+      "chg": 0.51,
       "hist": [
         11764.0,
         11958.0,
@@ -751,28 +752,29 @@
         13960.0,
         13860.0,
         13760.0,
-        NaN
+        14024.0,
+        14095.91
       ],
-      "pe": 26.6,
+      "pe": 26.7,
       "debtEq": 0.66,
       "sector": "Healthcare",
       "industry": "Drug Manufacturers - General",
-      "marketCap": 217500680192,
+      "marketCap": 218615889920,
       "weekHigh52": 15732.0,
       "weekLow52": 9892.0,
-      "dividendYield": 1.74,
-      "relStrength": NaN,
-      "volumeRatio": 1.47,
-      "newsScore": 0.3,
-      "newsHeadline": "AstraZeneca made $10 billion offer for obesity drugmaker Rhythm, sources say",
+      "dividendYield": 1.7,
+      "relStrength": 15.9,
+      "volumeRatio": 0.26,
+      "newsScore": 0.5,
+      "newsHeadline": "SMMT's Q3 Earnings Beat Estimates, Ivonescimab Development in Focus",
       "url": "https://finance.yahoo.com/quote/AZN.L",
-      "sectorPe": 26.6
+      "sectorPe": 26.7
     },
     {
       "ticker": "SHEL.L",
       "name": "SHELL PLC ORD EUR0.07",
-      "price": NaN,
-      "chg": NaN,
+      "price": 3812.0,
+      "chg": 0.43,
       "hist": [
         3631.5,
         3651.0,
@@ -796,28 +798,29 @@
         4036.5,
         3921.0,
         3863.5,
-        NaN
+        3795.5,
+        3812.0
       ],
-      "pe": 8.8,
+      "pe": 8.9,
       "debtEq": 0.38,
       "sector": "Energy",
       "industry": "Oil & Gas Integrated",
-      "marketCap": 215168172032,
+      "marketCap": 216031494144,
       "weekHigh52": 4110.0,
       "weekLow52": 2553.77,
-      "dividendYield": 3.02,
-      "relStrength": NaN,
-      "volumeRatio": 1.28,
-      "newsScore": 0.1,
+      "dividendYield": 3.06,
+      "relStrength": 1.05,
+      "volumeRatio": 0.61,
+      "newsScore": 0.3,
       "newsHeadline": "Shell And 2 Other British Undervalued Stocks To Watch",
       "url": "https://finance.yahoo.com/quote/SHEL.L",
-      "sectorPe": 8.8
+      "sectorPe": 8.9
     },
     {
       "ticker": "ULVR.L",
       "name": "UNILEVER PLC ORD 3.5P",
-      "price": NaN,
-      "chg": NaN,
+      "price": 4954.0,
+      "chg": -0.33,
       "hist": [
         4500.5,
         4569.0,
@@ -841,28 +844,29 @@
         4870.5,
         4901.0,
         4857.0,
-        NaN
+        4970.5,
+        4954.0
       ],
-      "pe": 13.5,
+      "pe": 13.4,
       "debtEq": 1.75,
       "sector": "Consumer Defensive",
       "industry": "Household & Personal Products",
-      "marketCap": 107033108480,
+      "marketCap": 106677805056,
       "weekHigh52": 5542.11,
       "weekLow52": 3644.0,
-      "dividendYield": 3.22,
-      "relStrength": NaN,
-      "volumeRatio": 1.2,
+      "dividendYield": 3.14,
+      "relStrength": 6.16,
+      "volumeRatio": 0.34,
       "newsScore": 0.4,
       "newsHeadline": "Unilever Targets 4%-6% Sales Growth and Higher Margins After Foods Separation",
       "url": "https://finance.yahoo.com/quote/ULVR.L",
-      "sectorPe": 13.5
+      "sectorPe": 13.4
     },
     {
       "ticker": "BARC.L",
       "name": "BARCLAYS PLC ORD 25P",
-      "price": NaN,
-      "chg": NaN,
+      "price": 440.25,
+      "chg": 1.28,
       "hist": [
         446.7,
         447.3,
@@ -886,26 +890,27 @@
         415.05,
         424.1,
         419.55,
-        NaN
+        434.7,
+        440.25
       ],
-      "pe": 8.7,
+      "pe": 8.8,
       "debtEq": null,
       "sector": "Financial Services",
       "industry": "Banks - Diversified",
-      "marketCap": 57760882688,
+      "marketCap": 58537852928,
       "weekHigh52": 538.3,
       "weekLow52": 361.35,
-      "dividendYield": 2.74,
-      "relStrength": NaN,
-      "volumeRatio": 1.6,
-      "newsScore": 0.3,
-      "newsHeadline": "Bank Rate Pressure Puts Barclays Lloyds And NatWest Shares In Focus",
+      "dividendYield": 2.65,
+      "relStrength": -5.36,
+      "volumeRatio": 0.68,
+      "newsScore": -0.0,
+      "newsHeadline": "XYZ’s Latest Target Hike From Barclays Implies Over 20% Upside Potential – What CEO Jack Dorsey Said In Shareholder Letter",
       "url": "https://finance.yahoo.com/quote/BARC.L",
-      "sectorPe": 10.1
+      "sectorPe": 10.2
     }
   ],
   "benchmarks": {
     "us": -1.1,
-    "uk": 3.16
+    "uk": 3.92
   }
 }
