@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-05T22:59:18.126714+00:00",
+  "updated": "2026-11-06T03:57:28.654925+00:00",
   "us": [
     {
       "ticker": "AAPL",
@@ -31,7 +31,7 @@
         349.51,
         344.17
       ],
-      "pe": 38.3,
+      "pe": 38.9,
       "debtEq": 0.84,
       "sector": "Technology",
       "industry": "Consumer Electronics",
@@ -40,11 +40,11 @@
       "weekLow52": 243.42,
       "dividendYield": 0.31,
       "relStrength": 9.11,
-      "volumeRatio": 1.65,
-      "newsScore": -0.2,
-      "newsHeadline": "Dow Jones Futures: Nasdaq Dives 5.5%, Nvidia, Sandisk, CoreWeave, SpaceX Plunge, But Sell-Off Spreads Beyond AI",
+      "volumeRatio": 1.67,
+      "newsScore": -0.1,
+      "newsHeadline": "Dow Jones Futures Fall, Techs Rise After Nasdaq Dives 5.5%; Nvidia, Sandisk, CoreWeave, SpaceX Plunge",
       "url": "https://finance.yahoo.com/quote/AAPL",
-      "sectorPe": 29.8
+      "sectorPe": 30.7
     },
     {
       "ticker": "MSFT",
@@ -85,11 +85,11 @@
       "weekLow52": 349.2,
       "dividendYield": 0.71,
       "relStrength": 7.2,
-      "volumeRatio": 1.76,
-      "newsScore": 0.4,
-      "newsHeadline": "Docusign vs. Monday.com: Which Technology Stock Is a Better Buy for 2027?",
+      "volumeRatio": 1.79,
+      "newsScore": 0.7,
+      "newsHeadline": "3 Value Stocks With Up To 38% Discount To Fair Value",
       "url": "https://finance.yahoo.com/quote/MSFT",
-      "sectorPe": 29.8
+      "sectorPe": 30.7
     },
     {
       "ticker": "NVDA",
@@ -121,7 +121,7 @@
         200.13,
         181.6
       ],
-      "pe": 23.0,
+      "pe": 25.3,
       "debtEq": 0.17,
       "sector": "Technology",
       "industry": "Semiconductors",
@@ -130,11 +130,11 @@
       "weekLow52": 164.27,
       "dividendYield": 0.5,
       "relStrength": -18.14,
-      "volumeRatio": 2.94,
-      "newsScore": -0.0,
-      "newsHeadline": "Nvidia has lost nearly $1.4 trillion since its October record",
+      "volumeRatio": 2.96,
+      "newsScore": -0.2,
+      "newsHeadline": "Dow Jones Futures Fall, Techs Rise After Nasdaq Dives 5.5%; Nvidia, Sandisk, CoreWeave, SpaceX Plunge",
       "url": "https://finance.yahoo.com/quote/NVDA",
-      "sectorPe": 29.8
+      "sectorPe": 30.7
     },
     {
       "ticker": "AMZN",
@@ -175,9 +175,9 @@
       "weekLow52": 196.0,
       "dividendYield": 0.0,
       "relStrength": 7.48,
-      "volumeRatio": 1.87,
-      "newsScore": -0.0,
-      "newsHeadline": "Amazon partners with Uber Eats to bring restaurant delivery to Prime members",
+      "volumeRatio": 1.91,
+      "newsScore": 0.7,
+      "newsHeadline": "Purple Innovation Inc (PRPL) Q3 2026 Earnings Call Highlights: Cash Flow Turns Positive as ...",
       "url": "https://finance.yahoo.com/quote/AMZN",
       "sectorPe": 199.3
     },
@@ -220,8 +220,8 @@
       "weekLow52": 297.38,
       "dividendYield": 0.0,
       "relStrength": -3.77,
-      "volumeRatio": 2.15,
-      "newsScore": 0.1,
+      "volumeRatio": 2.17,
+      "newsScore": 0.2,
       "newsHeadline": "Stocks slide as Wall Street's post-election rally fizzles",
       "url": "https://finance.yahoo.com/quote/TSLA",
       "sectorPe": 199.3
@@ -256,7 +256,7 @@
         352.11,
         337.34
       ],
-      "pe": 14.2,
+      "pe": 14.8,
       "debtEq": null,
       "sector": "Financial Services",
       "industry": "Banks - Diversified",
@@ -265,11 +265,11 @@
       "weekLow52": 279.1,
       "dividendYield": 1.87,
       "relStrength": 7.78,
-      "volumeRatio": 1.82,
-      "newsScore": 0.0,
-      "newsHeadline": "OpenAI Could Go Public In 2027 As Greg Brockman Signals IPO Readiness",
+      "volumeRatio": 1.83,
+      "newsScore": 0.1,
+      "newsHeadline": "Elizabeth Warren’s Power in New Senate Is a Wall Street Nightmare",
       "url": "https://finance.yahoo.com/quote/JPM",
-      "sectorPe": 24.2
+      "sectorPe": 24.5
     },
     {
       "ticker": "V",
@@ -310,11 +310,11 @@
       "weekLow52": 293.89,
       "dividendYield": 0.71,
       "relStrength": 19.97,
-      "volumeRatio": 2.29,
-      "newsScore": 0.7,
-      "newsHeadline": "Visa (V) Reports Record Earnings And Dividend Hike, Is The Stock Overvalued?",
+      "volumeRatio": 2.3,
+      "newsScore": 0.4,
+      "newsHeadline": "US Fintech Weekly: Fiserv Bounces Post-Earnings, Crypto Brokers Suffer, And Federal Agencies Prepare Innovation Guidelines",
       "url": "https://finance.yahoo.com/quote/V",
-      "sectorPe": 24.2
+      "sectorPe": 24.5
     },
     {
       "ticker": "JNJ",
@@ -346,7 +346,7 @@
         276.32,
         272.32
       ],
-      "pe": 41.3,
+      "pe": 42.0,
       "debtEq": 0.55,
       "sector": "Healthcare",
       "industry": "Drug Manufacturers - General",
@@ -356,10 +356,10 @@
       "dividendYield": 1.94,
       "relStrength": 12.83,
       "volumeRatio": 1.27,
-      "newsScore": 0.1,
-      "newsHeadline": "Pfizer (PFE) Stock Looks Attractive for Income Investors",
+      "newsScore": 0.3,
+      "newsHeadline": "Johnson & Johnson wins FDA approval for Rybrevant cancer treatment",
       "url": "https://finance.yahoo.com/quote/JNJ",
-      "sectorPe": 31.9
+      "sectorPe": 32.7
     },
     {
       "ticker": "UNH",
@@ -391,7 +391,7 @@
         409.38,
         395.72
       ],
-      "pe": 22.6,
+      "pe": 23.4,
       "debtEq": 0.7,
       "sector": "Healthcare",
       "industry": "Healthcare Plans",
@@ -401,10 +401,10 @@
       "dividendYield": 2.27,
       "relStrength": 11.11,
       "volumeRatio": 1.12,
-      "newsScore": 0.6,
-      "newsHeadline": "Cigna Q3 Earnings Top Estimates on Cigna Healthcare Strength",
+      "newsScore": 0.4,
+      "newsHeadline": "Did The Market Read Molina Healthcare Stock Right?",
       "url": "https://finance.yahoo.com/quote/UNH",
-      "sectorPe": 31.9
+      "sectorPe": 32.7
     },
     {
       "ticker": "KO",
@@ -445,9 +445,9 @@
       "weekLow52": 67.27,
       "dividendYield": 2.21,
       "relStrength": 17.04,
-      "volumeRatio": 1.8,
+      "volumeRatio": 1.81,
       "newsScore": 0.3,
-      "newsHeadline": "Monster Beverage shares fall despite Q3 revenue beat",
+      "newsHeadline": "Bottler Coca-Cola HBC says no notification from Russia on asset changes",
       "url": "https://finance.yahoo.com/quote/KO",
       "sectorPe": 26.7
     },
@@ -490,7 +490,7 @@
       "weekLow52": 137.62,
       "dividendYield": 2.6,
       "relStrength": 19.29,
-      "volumeRatio": 1.54,
+      "volumeRatio": 1.55,
       "newsScore": 0.6,
       "newsHeadline": "Procter & Gamble vs. Colgate-Palmolive: Which Dividend Stock Is Safer?",
       "url": "https://finance.yahoo.com/quote/PG",
@@ -537,7 +537,7 @@
       "relStrength": 6.45,
       "volumeRatio": 1.46,
       "newsScore": 0.3,
-      "newsHeadline": "Is ExxonMobil Holdings (XOM) Rethinking Its Portfolio With An Infineum Exit?",
+      "newsHeadline": "Targa Resources Corp. Q3 2026 Earnings Call Summary",
       "url": "https://finance.yahoo.com/quote/XOM",
       "sectorPe": 16.3
     },
@@ -580,7 +580,7 @@
       "weekLow52": 146.49,
       "dividendYield": 3.28,
       "relStrength": 8.53,
-      "volumeRatio": 1.31,
+      "volumeRatio": 1.34,
       "newsScore": 0.7,
       "newsHeadline": "Top Stock Reports for Berkshire Hathaway, Micron & Chevron",
       "url": "https://finance.yahoo.com/quote/CVX",
@@ -625,11 +625,11 @@
       "weekLow52": 537.08,
       "dividendYield": 1.1,
       "relStrength": -29.78,
-      "volumeRatio": 1.87,
-      "newsScore": -0.3,
-      "newsHeadline": "Caterpillar Sinks Another 6%, Vertiv Down 14%, Quanta Down 12% as AI Selloff Spreads to Industrials",
+      "volumeRatio": 1.91,
+      "newsScore": -0.5,
+      "newsHeadline": "Can Oshkosh Stock Compound Your Money?",
       "url": "https://finance.yahoo.com/quote/CAT",
-      "sectorPe": 19.8
+      "sectorPe": 20.0
     },
     {
       "ticker": "BA",
@@ -661,7 +661,7 @@
         177.0,
         172.5
       ],
-      "pe": 17.8,
+      "pe": 18.3,
       "debtEq": 7.39,
       "sector": "Industrials",
       "industry": "Aerospace & Defense",
@@ -670,19 +670,19 @@
       "weekLow52": 165.01,
       "dividendYield": 0.0,
       "relStrength": -3.17,
-      "volumeRatio": 1.14,
-      "newsScore": 0.5,
-      "newsHeadline": "Apple and Home Depot join list of objectors to tokenized stock plan pushed by NYSE owner",
+      "volumeRatio": 1.15,
+      "newsScore": 0.4,
+      "newsHeadline": "America’s Rare Earth Reckoning Is Less Than 60 Days Away",
       "url": "https://finance.yahoo.com/quote/BA",
-      "sectorPe": 19.8
+      "sectorPe": 20.0
     }
   ],
   "uk": [
     {
       "ticker": "HSBA.L",
       "name": "HSBC HOLDINGS PLC ORD $0.50 (UK",
-      "price": 1307.4,
-      "chg": -0.82,
+      "price": NaN,
+      "chg": NaN,
       "hist": [
         1459.0,
         1472.2,
@@ -707,7 +707,7 @@
         1283.4,
         1258.0,
         1318.2,
-        1307.4
+        NaN
       ],
       "pe": 11.5,
       "debtEq": null,
@@ -717,7 +717,7 @@
       "weekHigh52": 1610.0,
       "weekLow52": 1027.8,
       "dividendYield": 2.26,
-      "relStrength": -13.1,
+      "relStrength": NaN,
       "volumeRatio": 0.79,
       "newsScore": -0.3,
       "newsHeadline": "HSBC raises AMD target to $540 but flags a troubling risk",
@@ -727,8 +727,8 @@
     {
       "ticker": "AZN.L",
       "name": "ASTRAZENECA PLC ORD SHS $0.25",
-      "price": 14042.0,
-      "chg": 0.13,
+      "price": NaN,
+      "chg": NaN,
       "hist": [
         11764.0,
         11958.0,
@@ -753,7 +753,7 @@
         13860.0,
         13760.0,
         14024.0,
-        14042.0
+        NaN
       ],
       "pe": 26.6,
       "debtEq": 0.66,
@@ -763,7 +763,7 @@
       "weekHigh52": 15732.0,
       "weekLow52": 9892.0,
       "dividendYield": 1.7,
-      "relStrength": 16.65,
+      "relStrength": NaN,
       "volumeRatio": 2.21,
       "newsScore": -0.4,
       "newsHeadline": "European Stocks Close Mostly Lower in Thursday Trading as Investors Parse Earnings Reports, US Elections, Rising Oil Prices",
@@ -773,8 +773,8 @@
     {
       "ticker": "SHEL.L",
       "name": "SHELL PLC ORD EUR0.07",
-      "price": 3784.0,
-      "chg": -0.3,
+      "price": NaN,
+      "chg": NaN,
       "hist": [
         3631.5,
         3651.0,
@@ -799,7 +799,7 @@
         3921.0,
         3863.5,
         3795.5,
-        3784.0
+        NaN
       ],
       "pe": 8.8,
       "debtEq": 0.38,
@@ -809,18 +809,18 @@
       "weekHigh52": 4110.0,
       "weekLow52": 2553.77,
       "dividendYield": 3.06,
-      "relStrength": 1.49,
+      "relStrength": NaN,
       "volumeRatio": 1.99,
       "newsScore": 0.5,
-      "newsHeadline": "Is ExxonMobil Holdings (XOM) Rethinking Its Portfolio With An Infineum Exit?",
+      "newsHeadline": "Hornbeck Offshore Services Inc (HOS) (Q3 2026) Earnings Call Highlights: Helix Merger Fuels $1. ...",
       "url": "https://finance.yahoo.com/quote/SHEL.L",
       "sectorPe": 8.8
     },
     {
       "ticker": "ULVR.L",
       "name": "UNILEVER PLC ORD 3.5P",
-      "price": 5032.0,
-      "chg": 1.24,
+      "price": NaN,
+      "chg": NaN,
       "hist": [
         4500.5,
         4569.0,
@@ -845,7 +845,7 @@
         4901.0,
         4857.0,
         4970.5,
-        5032.0
+        NaN
       ],
       "pe": 13.6,
       "debtEq": 1.75,
@@ -855,7 +855,7 @@
       "weekHigh52": 5542.11,
       "weekLow52": 3644.0,
       "dividendYield": 3.14,
-      "relStrength": 9.1,
+      "relStrength": NaN,
       "volumeRatio": 1.31,
       "newsScore": 0.2,
       "newsHeadline": "Unilever ramps up pricing to offset higher commodity costs",
@@ -865,8 +865,8 @@
     {
       "ticker": "BARC.L",
       "name": "BARCLAYS PLC ORD 25P",
-      "price": 424.0,
-      "chg": -2.46,
+      "price": NaN,
+      "chg": NaN,
       "hist": [
         446.7,
         447.3,
@@ -891,7 +891,7 @@
         424.1,
         419.55,
         434.7,
-        424.0
+        NaN
       ],
       "pe": 8.5,
       "debtEq": null,
@@ -901,7 +901,7 @@
       "weekHigh52": 538.3,
       "weekLow52": 361.35,
       "dividendYield": 2.65,
-      "relStrength": -7.79,
+      "relStrength": NaN,
       "volumeRatio": 1.67,
       "newsScore": 0.0,
       "newsHeadline": "With a $325 Target, Barclays Says Arm Holdings’ Selloff Went Too Far",
