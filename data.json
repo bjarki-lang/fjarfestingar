@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-06T22:28:59.773802+00:00",
+  "updated": "2026-11-07T03:32:20.841177+00:00",
   "us": [
     {
       "ticker": "AAPL",
@@ -31,7 +31,7 @@
         344.17,
         342.37
       ],
-      "pe": 38.1,
+      "pe": 38.3,
       "debtEq": 0.84,
       "sector": "Technology",
       "industry": "Consumer Electronics",
@@ -40,11 +40,11 @@
       "weekLow52": 243.42,
       "dividendYield": 0.31,
       "relStrength": 7.14,
-      "volumeRatio": 0.93,
-      "newsScore": 0.1,
-      "newsHeadline": "Tech Stock Sell-Off 'Golden Buying Opportunity,' Says Dan Ives",
+      "volumeRatio": 0.95,
+      "newsScore": -0.0,
+      "newsHeadline": "Lassonde Industries Inc (LSDAF) (Q3 2026) Earnings Call Highlights: Margin Pressure and ...",
       "url": "https://finance.yahoo.com/quote/AAPL",
-      "sectorPe": 29.8
+      "sectorPe": 30.0
     },
     {
       "ticker": "MSFT",
@@ -76,7 +76,7 @@
         535.93,
         530.61
       ],
-      "pe": 27.7,
+      "pe": 28.0,
       "debtEq": 0.28,
       "sector": "Technology",
       "industry": "Software - Infrastructure",
@@ -85,11 +85,11 @@
       "weekLow52": 349.2,
       "dividendYield": 0.73,
       "relStrength": 5.61,
-      "volumeRatio": 1.07,
-      "newsScore": 0.1,
+      "volumeRatio": 1.1,
+      "newsScore": 0.3,
       "newsHeadline": "The US adds in the latest  jobs report, markets try to bounce back from an awful sell-off",
       "url": "https://finance.yahoo.com/quote/MSFT",
-      "sectorPe": 29.8
+      "sectorPe": 30.0
     },
     {
       "ticker": "NVDA",
@@ -130,11 +130,11 @@
       "weekLow52": 164.27,
       "dividendYield": 0.55,
       "relStrength": -15.95,
-      "volumeRatio": 1.6,
+      "volumeRatio": 1.61,
       "newsScore": -0.3,
       "newsHeadline": "Chip rally may be time for investors to 'harvest cash and wait'",
       "url": "https://finance.yahoo.com/quote/NVDA",
-      "sectorPe": 29.8
+      "sectorPe": 30.0
     },
     {
       "ticker": "AMZN",
@@ -175,9 +175,9 @@
       "weekLow52": 196.0,
       "dividendYield": 0.0,
       "relStrength": 5.21,
-      "volumeRatio": 0.88,
-      "newsScore": 0.4,
-      "newsHeadline": "Tech Stock Sell-Off 'Golden Buying Opportunity,' Says Dan Ives",
+      "volumeRatio": 0.9,
+      "newsScore": 0.3,
+      "newsHeadline": "Carysil Ltd (BOM:524091) (Q2 2027) Earnings Call Highlights: Record Q2 Revenue of Rs 275. ...",
       "url": "https://finance.yahoo.com/quote/AMZN",
       "sectorPe": 207.3
     },
@@ -266,9 +266,9 @@
       "weekLow52": 279.1,
       "dividendYield": 1.96,
       "relStrength": NaN,
-      "volumeRatio": 1.06,
-      "newsScore": 0.4,
-      "newsHeadline": "Week’s Best: How to Get In on Anthropic’s IPO",
+      "volumeRatio": 1.11,
+      "newsScore": 0.5,
+      "newsHeadline": "The JPMorgan Alums Whose AI Stocks Bet Is Being Tested",
       "url": "https://finance.yahoo.com/quote/JPM",
       "sectorPe": 24.1
     },
@@ -311,9 +311,9 @@
       "weekLow52": 293.89,
       "dividendYield": 0.74,
       "relStrength": 19.04,
-      "volumeRatio": 1.3,
+      "volumeRatio": 1.31,
       "newsScore": 0.2,
-      "newsHeadline": "Mastercard Hit a Record as Visa Raised Its Dividend 16%. Here’s Where Mastercard’s Cash Goes",
+      "newsHeadline": "Visa (V) Q4 Earnings Justified Strong Growth But Left Valuation Questions",
       "url": "https://finance.yahoo.com/quote/V",
       "sectorPe": 24.1
     },
@@ -401,7 +401,7 @@
       "weekLow52": 255.97,
       "dividendYield": 2.35,
       "relStrength": 10.28,
-      "volumeRatio": 0.92,
+      "volumeRatio": 0.95,
       "newsScore": 0.6,
       "newsHeadline": "What UnitedHealth Group Stock's Institutional Buying Means For Shareholders",
       "url": "https://finance.yahoo.com/quote/UNH",
@@ -538,7 +538,7 @@
       "relStrength": 6.56,
       "volumeRatio": 1.2,
       "newsScore": 0.3,
-      "newsHeadline": "A $5.9 Billion Fund Is Betting Big on ExxonMobil",
+      "newsHeadline": "Exxon (XOM) Reports Q3 Earnings: What Key Metrics Have to Say",
       "url": "https://finance.yahoo.com/quote/XOM",
       "sectorPe": 16.4
     },
@@ -581,9 +581,9 @@
       "weekLow52": 146.49,
       "dividendYield": 3.34,
       "relStrength": 9.09,
-      "volumeRatio": 0.99,
-      "newsScore": 0.5,
-      "newsHeadline": "$600,000 in Dividend Stocks: How a Roth IRA Could Save You $4,460 a Year",
+      "volumeRatio": 1.01,
+      "newsScore": 0.6,
+      "newsHeadline": "Chevron (CVX) Q3 Earnings Spotlight Strong Cash Flow And Flat Production",
       "url": "https://finance.yahoo.com/quote/CVX",
       "sectorPe": 16.4
     },
@@ -617,7 +617,7 @@
         553.64,
         558.63
       ],
-      "pe": 21.9,
+      "pe": 21.7,
       "debtEq": 2.1,
       "sector": "Industrials",
       "industry": "Farm & Heavy Construction Machinery",
@@ -627,10 +627,10 @@
       "dividendYield": 1.18,
       "relStrength": -25.74,
       "volumeRatio": 1.32,
-      "newsScore": -0.2,
-      "newsHeadline": "Stock Market Today: Nasdaq Rallies In Tech Turnaround; Airbnb Rockets Higher",
+      "newsScore": -0.1,
+      "newsHeadline": "What Mattered Most In Caterpillar's Latest Quarter?",
       "url": "https://finance.yahoo.com/quote/CAT",
-      "sectorPe": 19.9
+      "sectorPe": 19.8
     },
     {
       "ticker": "BA",
@@ -671,19 +671,19 @@
       "weekLow52": 165.01,
       "dividendYield": 0.0,
       "relStrength": -2.47,
-      "volumeRatio": 0.62,
-      "newsScore": -0.1,
-      "newsHeadline": "What WW International (WW) Said on Its Q3 Earnings Call",
+      "volumeRatio": 0.63,
+      "newsScore": 0.3,
+      "newsHeadline": "3 Space Stocks With Revenue Growth Up To 27%",
       "url": "https://finance.yahoo.com/quote/BA",
-      "sectorPe": 19.9
+      "sectorPe": 19.8
     }
   ],
   "uk": [
     {
       "ticker": "HSBA.L",
       "name": "HSBC HOLDINGS PLC ORD $0.50 (UK",
-      "price": 1304.6,
-      "chg": -0.21,
+      "price": NaN,
+      "chg": NaN,
       "hist": [
         1472.09,
         1407.89,
@@ -708,7 +708,7 @@
         1257.9,
         1318.1,
         1307.4,
-        1304.6
+        NaN
       ],
       "pe": 11.4,
       "debtEq": null,
@@ -718,7 +718,7 @@
       "weekHigh52": 1610.0,
       "weekLow52": 1027.8,
       "dividendYield": 2.27,
-      "relStrength": -12.63,
+      "relStrength": NaN,
       "volumeRatio": 1.25,
       "newsScore": -0.2,
       "newsHeadline": "Chip Stocks Roar Back as Strong Data Sink Bonds",
@@ -728,8 +728,8 @@
     {
       "ticker": "AZN.L",
       "name": "ASTRAZENECA PLC ORD SHS $0.25",
-      "price": 13930.0,
-      "chg": -0.8,
+      "price": NaN,
+      "chg": NaN,
       "hist": [
         11958.0,
         12180.0,
@@ -754,7 +754,7 @@
         13760.0,
         14024.0,
         14042.0,
-        13930.0
+        NaN
       ],
       "pe": 26.4,
       "debtEq": 0.66,
@@ -764,18 +764,18 @@
       "weekHigh52": 15732.0,
       "weekLow52": 9892.0,
       "dividendYield": 1.7,
-      "relStrength": 15.24,
+      "relStrength": NaN,
       "volumeRatio": 0.94,
       "newsScore": 0.4,
-      "newsHeadline": "Merck Stock Shows Sustained Strength: Time to Buy, Sell or Hold?",
+      "newsHeadline": "British Healthcare Stocks To Watch In November 2026",
       "url": "https://finance.yahoo.com/quote/AZN.L",
       "sectorPe": 26.4
     },
     {
       "ticker": "SHEL.L",
       "name": "SHELL PLC ORD EUR0.07",
-      "price": 3722.5,
-      "chg": -1.63,
+      "price": NaN,
+      "chg": NaN,
       "hist": [
         3651.0,
         3648.0,
@@ -800,7 +800,7 @@
         3863.5,
         3795.5,
         3784.0,
-        3722.5
+        NaN
       ],
       "pe": 8.7,
       "debtEq": 0.38,
@@ -810,7 +810,7 @@
       "weekHigh52": 4110.0,
       "weekLow52": 2553.77,
       "dividendYield": 3.06,
-      "relStrength": 0.71,
+      "relStrength": NaN,
       "volumeRatio": 1.41,
       "newsScore": 0.3,
       "newsHeadline": "Top Analyst Reports for Shell, Dell & Amphenol",
@@ -820,8 +820,8 @@
     {
       "ticker": "ULVR.L",
       "name": "UNILEVER PLC ORD 3.5P",
-      "price": 4930.0,
-      "chg": -2.03,
+      "price": NaN,
+      "chg": NaN,
       "hist": [
         4569.0,
         4623.0,
@@ -846,7 +846,7 @@
         4857.0,
         4970.5,
         5032.0,
-        4930.0
+        NaN
       ],
       "pe": 13.4,
       "debtEq": 1.75,
@@ -856,7 +856,7 @@
       "weekHigh52": 5542.11,
       "weekLow52": 3644.0,
       "dividendYield": 3.11,
-      "relStrength": 6.65,
+      "relStrength": NaN,
       "volumeRatio": 1.08,
       "newsScore": 0.2,
       "newsHeadline": "European Equities Traded in the US as American Depositary Receipts Decline in Friday Trading",
@@ -866,8 +866,8 @@
     {
       "ticker": "BARC.L",
       "name": "BARCLAYS PLC ORD 25P",
-      "price": 420.25,
-      "chg": -0.88,
+      "price": NaN,
+      "chg": NaN,
       "hist": [
         447.3,
         432.05,
@@ -892,7 +892,7 @@
         419.55,
         434.7,
         424.0,
-        420.25
+        NaN
       ],
       "pe": 8.4,
       "debtEq": null,
@@ -902,7 +902,7 @@
       "weekHigh52": 538.3,
       "weekLow52": 361.35,
       "dividendYield": 2.71,
-      "relStrength": -7.3,
+      "relStrength": NaN,
       "volumeRatio": 1.18,
       "newsScore": 0.2,
       "newsHeadline": "5 questions with Barclays head of US cards",
