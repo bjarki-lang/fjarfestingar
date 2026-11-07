@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-07T12:00:43.361551+00:00",
+  "updated": "2026-11-07T21:11:04.013992+00:00",
   "us": [
     {
       "ticker": "AAPL",
@@ -41,8 +41,8 @@
       "dividendYield": 0.32,
       "relStrength": 7.14,
       "volumeRatio": 0.95,
-      "newsScore": 0.1,
-      "newsHeadline": "Big Tech’s $1 Trillion Rally Bets Regulation Won’t Touch “the Profits of the Tech Companies”",
+      "newsScore": 1.3,
+      "newsHeadline": "Republican Senator Who Won Reelection Is Selling Magnificent Seven Stocks: Here Are the Trades",
       "url": "https://finance.yahoo.com/quote/AAPL",
       "sectorPe": 29.8
     },
@@ -86,8 +86,8 @@
       "dividendYield": 0.74,
       "relStrength": 5.61,
       "volumeRatio": 1.1,
-      "newsScore": 0.1,
-      "newsHeadline": "Big Tech’s $1 Trillion Rally Bets Regulation Won’t Touch “the Profits of the Tech Companies”",
+      "newsScore": 0.9,
+      "newsHeadline": "What Concentrix (CNXC)'s AI Migration Tool Launch Means For Shareholders",
       "url": "https://finance.yahoo.com/quote/MSFT",
       "sectorPe": 29.8
     },
@@ -131,8 +131,8 @@
       "dividendYield": 0.54,
       "relStrength": -15.95,
       "volumeRatio": 1.61,
-      "newsScore": 0.1,
-      "newsHeadline": "Chip rally may be time for investors to 'harvest cash and wait'",
+      "newsScore": 0.3,
+      "newsHeadline": "This Warren Buffett Dividend Stock Is the One I'd Buy With $1,000 in November",
       "url": "https://finance.yahoo.com/quote/NVDA",
       "sectorPe": 29.8
     },
@@ -176,8 +176,8 @@
       "dividendYield": 0.0,
       "relStrength": 5.21,
       "volumeRatio": 0.9,
-      "newsScore": 0.3,
-      "newsHeadline": "3 Internet Giants to Hold for the Next 10 Years",
+      "newsScore": 0.8,
+      "newsHeadline": "He Loses His Job at 62 as Amazon Cuts 95 More Positions. He Claims Social Security to Get By, Then Faces an $8,400 Bill to Undo It",
       "url": "https://finance.yahoo.com/quote/AMZN",
       "sectorPe": 207.3
     },
@@ -222,7 +222,7 @@
       "relStrength": 0.26,
       "volumeRatio": 0.94,
       "newsScore": 0.3,
-      "newsHeadline": "Top 3 EV Stocks To Watch In November 2026",
+      "newsHeadline": "Every Humanoid Robot Needs Rare-Earth Magnets. Here's the American Stock Positioned to Sell Them -- and It's Down 62%.",
       "url": "https://finance.yahoo.com/quote/TSLA",
       "sectorPe": 207.3
     },
@@ -267,8 +267,8 @@
       "dividendYield": 1.97,
       "relStrength": NaN,
       "volumeRatio": 1.11,
-      "newsScore": 0.4,
-      "newsHeadline": "JPMorgan CEO Jamie Dimon declares the US will hang on as the world's top reserve currency — for 2 key reasons",
+      "newsScore": 0.5,
+      "newsHeadline": "Here's How These 6 Big Bank Stocks Make Their Money",
       "url": "https://finance.yahoo.com/quote/JPM",
       "sectorPe": 24.1
     },
@@ -306,14 +306,14 @@
       "debtEq": 0.64,
       "sector": "Financial Services",
       "industry": "Credit Services",
-      "marketCap": 789935357952,
+      "marketCap": 788580401152,
       "weekHigh52": 442.23,
       "weekLow52": 293.89,
       "dividendYield": 0.74,
       "relStrength": 19.04,
       "volumeRatio": 1.31,
       "newsScore": 0.9,
-      "newsHeadline": "5 Best Stocks To Buy According to Billionaire Armitage",
+      "newsHeadline": "Ackman Calls Mastercard “One of the Greatest Businesses in the World.” The Stock Is Up 33% in Six Months",
       "url": "https://finance.yahoo.com/quote/V",
       "sectorPe": 24.1
     },
@@ -447,8 +447,8 @@
       "dividendYield": 2.22,
       "relStrength": 16.93,
       "volumeRatio": 1.03,
-      "newsScore": 0.0,
-      "newsHeadline": "What If You Add Gold And Cash To A Dividend Portfolio?",
+      "newsScore": 0.3,
+      "newsHeadline": "Popular thrill ride theme park closes after 50 years",
       "url": "https://finance.yahoo.com/quote/KO",
       "sectorPe": 26.5
     },
@@ -576,7 +576,7 @@
       "debtEq": 0.17,
       "sector": "Energy",
       "industry": "Oil & Gas Integrated",
-      "marketCap": 414802116608,
+      "marketCap": 414856019968,
       "weekHigh52": 236.48,
       "weekLow52": 146.49,
       "dividendYield": 3.35,
@@ -672,8 +672,8 @@
       "dividendYield": 0.0,
       "relStrength": -2.47,
       "volumeRatio": 0.63,
-      "newsScore": 0.3,
-      "newsHeadline": "Top 3 Space Stocks With P E Under 19 To Watch",
+      "newsScore": 0.2,
+      "newsHeadline": "Apple Completes the Set: Every Magnificent Seven Stock Opts Out of OKX-ICE Venue",
       "url": "https://finance.yahoo.com/quote/BA",
       "sectorPe": 19.9
     }
@@ -714,14 +714,14 @@
       "debtEq": null,
       "sector": "Financial Services",
       "industry": "Banks - Diversified",
-      "marketCap": 223069470720,
+      "marketCap": 223023792128,
       "weekHigh52": 1610.0,
       "weekLow52": 1027.8,
       "dividendYield": 2.27,
       "relStrength": -12.63,
       "volumeRatio": 1.25,
       "newsScore": -0.2,
-      "newsHeadline": "Chip Stocks Roar Back as Strong Data Sink Bonds",
+      "newsHeadline": "HSBC Holdings (LSE:HSBA) Reworks Its Funding Stack, Is The Stock Still A Bargain?",
       "url": "https://finance.yahoo.com/quote/HSBA.L",
       "sectorPe": 9.9
     },
@@ -756,7 +756,7 @@
         14042.0,
         13930.0
       ],
-      "pe": 26.2,
+      "pe": 26.4,
       "debtEq": 0.66,
       "sector": "Healthcare",
       "industry": "Drug Manufacturers - General",
@@ -769,7 +769,7 @@
       "newsScore": 0.4,
       "newsHeadline": "British Healthcare Stocks To Watch In November 2026",
       "url": "https://finance.yahoo.com/quote/AZN.L",
-      "sectorPe": 26.2
+      "sectorPe": 26.4
     },
     {
       "ticker": "SHEL.L",
@@ -802,20 +802,20 @@
         3784.0,
         3722.5
       ],
-      "pe": 8.5,
+      "pe": 8.7,
       "debtEq": 0.38,
       "sector": "Energy",
       "industry": "Oil & Gas Integrated",
-      "marketCap": 210889539584,
+      "marketCap": 210817236992,
       "weekHigh52": 4110.0,
       "weekLow52": 2553.77,
       "dividendYield": 3.06,
       "relStrength": 0.71,
       "volumeRatio": 1.45,
-      "newsScore": 0.2,
+      "newsScore": 0.3,
       "newsHeadline": "Shell And 2 British Undervalued Stocks To Watch",
       "url": "https://finance.yahoo.com/quote/SHEL.L",
-      "sectorPe": 8.5
+      "sectorPe": 8.7
     },
     {
       "ticker": "ULVR.L",
