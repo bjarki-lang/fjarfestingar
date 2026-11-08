@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-08T12:21:28.573292+00:00",
+  "updated": "2026-11-08T21:26:20.742729+00:00",
   "us": [
     {
       "ticker": "AAPL",
@@ -41,8 +41,8 @@
       "dividendYield": 0.32,
       "relStrength": 7.14,
       "volumeRatio": 0.95,
-      "newsScore": 0.5,
-      "newsHeadline": "Cellcom Israel (TASE:CEL) Stock Still Looks Reasonable After A 192% Run",
+      "newsScore": -0.0,
+      "newsHeadline": "Dow Jones Futures Loom For Damaged Market; Nvidia Probes Huang Spying Case",
       "url": "https://finance.yahoo.com/quote/AAPL",
       "sectorPe": 29.8
     },
@@ -87,7 +87,7 @@
       "relStrength": 5.61,
       "volumeRatio": 1.1,
       "newsScore": 0.5,
-      "newsHeadline": "Got $5,000? 2 Growth Stocks Building the Software Backbone of Artificial Intelligence (AI).",
+      "newsHeadline": "Dow Jones Futures Loom For Damaged Market; Nvidia Probes Huang Spying Case",
       "url": "https://finance.yahoo.com/quote/MSFT",
       "sectorPe": 29.8
     },
@@ -131,8 +131,8 @@
       "dividendYield": 0.54,
       "relStrength": -15.95,
       "volumeRatio": 1.61,
-      "newsScore": 0.3,
-      "newsHeadline": "Want to Become a Stock Market Millionaire? $250 a Month in This ETF Could Get You There.",
+      "newsScore": 0.2,
+      "newsHeadline": "Nvidia's Jensen Huang admits to affair after allegations of romance with Chinese spy: Report",
       "url": "https://finance.yahoo.com/quote/NVDA",
       "sectorPe": 29.8
     },
@@ -176,8 +176,8 @@
       "dividendYield": 0.0,
       "relStrength": 5.21,
       "volumeRatio": 0.9,
-      "newsScore": 0.0,
-      "newsHeadline": "DoorDash Shareholders Aren’t Convinced the Company Can Take On Amazon",
+      "newsScore": -0.1,
+      "newsHeadline": "Dow Jones Futures Loom For Damaged Market; Nvidia Probes Huang Spying Case",
       "url": "https://finance.yahoo.com/quote/AMZN",
       "sectorPe": 207.3
     },
@@ -221,8 +221,8 @@
       "dividendYield": 0.0,
       "relStrength": 0.26,
       "volumeRatio": 0.94,
-      "newsScore": 0.0,
-      "newsHeadline": "Tesla Stock Hasn't Closed at a Record in Nearly 11 Months. Here's How Its Past Record Droughts Ended.",
+      "newsScore": 0.3,
+      "newsHeadline": "This Is the Best-Performing Magnificent Seven Stock of 2026. Is It Still a Buy?",
       "url": "https://finance.yahoo.com/quote/TSLA",
       "sectorPe": 207.3
     },
@@ -267,7 +267,7 @@
       "dividendYield": 1.97,
       "relStrength": NaN,
       "volumeRatio": 1.11,
-      "newsScore": 0.4,
+      "newsScore": 0.6,
       "newsHeadline": "JPMorgan vs. Bank of America: Which Dividend Stock Is Better for Retirement?",
       "url": "https://finance.yahoo.com/quote/JPM",
       "sectorPe": 24.1
@@ -312,8 +312,8 @@
       "dividendYield": 0.74,
       "relStrength": 19.04,
       "volumeRatio": 1.31,
-      "newsScore": 0.9,
-      "newsHeadline": "Ackman Calls Mastercard “One of the Greatest Businesses in the World.” The Stock Is Up 33% in Six Months",
+      "newsScore": 1.1,
+      "newsHeadline": "Visa (V): A 15% Revenue Gain at Scale, With 7% Average Analyst Upside",
       "url": "https://finance.yahoo.com/quote/V",
       "sectorPe": 24.1
     },
@@ -357,8 +357,8 @@
       "dividendYield": 1.94,
       "relStrength": 12.33,
       "volumeRatio": 1.14,
-      "newsScore": -0.3,
-      "newsHeadline": "Is Intuitive Surgical's Next Big Thing Already Here?",
+      "newsScore": 0.6,
+      "newsHeadline": "Smith & Nephew SNATS Q3 Earnings Call Highlights",
       "url": "https://finance.yahoo.com/quote/JNJ",
       "sectorPe": 32.2
     },
@@ -402,8 +402,8 @@
       "dividendYield": 2.35,
       "relStrength": 10.28,
       "volumeRatio": 0.95,
-      "newsScore": 0.4,
-      "newsHeadline": "What Humana (HUM) Said on Its Q3 Earnings Call",
+      "newsScore": 0.3,
+      "newsHeadline": "UnitedHealth (UNH): A Dow Stock for 2027 Where the Margin Repair Is Starting to Show",
       "url": "https://finance.yahoo.com/quote/UNH",
       "sectorPe": 32.2
     },
@@ -448,7 +448,7 @@
       "relStrength": 16.93,
       "volumeRatio": 1.03,
       "newsScore": 0.2,
-      "newsHeadline": "50-year-old popular family theme park closes permanently",
+      "newsHeadline": "Coca-Cola (KO) Makes the Dow’s Low-Upside List While Selling More Drinks, Not Just Charging More",
       "url": "https://finance.yahoo.com/quote/KO",
       "sectorPe": 26.5
     },
@@ -492,8 +492,8 @@
       "dividendYield": 2.63,
       "relStrength": 18.08,
       "volumeRatio": 0.74,
-      "newsScore": -0.0,
-      "newsHeadline": "What If You Add Gold And Cash To A Dividend Portfolio?",
+      "newsScore": -0.1,
+      "newsHeadline": "Volume, Not Price, Drove the Surprise at Procter & Gamble (PG)",
       "url": "https://finance.yahoo.com/quote/PG",
       "sectorPe": 26.5
     },
@@ -537,8 +537,8 @@
       "dividendYield": 2.58,
       "relStrength": 6.56,
       "volumeRatio": 1.2,
-      "newsScore": 0.4,
-      "newsHeadline": "ExxonMobil Is Up 38% in 2026 and Chevron Is Up 39%: Take Profits, or Hold On?",
+      "newsScore": 0.2,
+      "newsHeadline": "What Targa Resources (TRGP) Said on Its Q3 Earnings Call",
       "url": "https://finance.yahoo.com/quote/XOM",
       "sectorPe": 16.4
     },
@@ -582,8 +582,8 @@
       "dividendYield": 3.35,
       "relStrength": 9.09,
       "volumeRatio": 1.01,
-      "newsScore": 0.8,
-      "newsHeadline": "3 Great Dividend Stocks With Yield Over 3%",
+      "newsScore": 0.7,
+      "newsHeadline": "Chevron’s Refineries Ran at 98%. Its January Report Must Absorb a $4 Billion Hess Charge",
       "url": "https://finance.yahoo.com/quote/CVX",
       "sectorPe": 16.4
     },
@@ -672,8 +672,8 @@
       "dividendYield": 0.0,
       "relStrength": -2.47,
       "volumeRatio": 0.63,
-      "newsScore": 0.2,
-      "newsHeadline": "Apple Completes the Set: Every Magnificent Seven Stock Opts Out of OKX-ICE Venue",
+      "newsScore": 0.3,
+      "newsHeadline": "Boeing (BA): A Top 10 Dow Stock for 2027 With a Record $745B of Orders",
       "url": "https://finance.yahoo.com/quote/BA",
       "sectorPe": 19.9
     }
@@ -720,8 +720,8 @@
       "dividendYield": 2.28,
       "relStrength": -12.63,
       "volumeRatio": 1.25,
-      "newsScore": -0.2,
-      "newsHeadline": "HSBC Holdings (LSE:HSBA) Reworks Its Funding Stack, Is The Stock Still A Bargain?",
+      "newsScore": 0.2,
+      "newsHeadline": "HSBC Says Strong Democratic Midterm Performance Could Pressure US Dollar in Near Term",
       "url": "https://finance.yahoo.com/quote/HSBA.L",
       "sectorPe": 9.9
     },
@@ -812,8 +812,8 @@
       "dividendYield": 3.12,
       "relStrength": 0.71,
       "volumeRatio": 1.45,
-      "newsScore": 0.3,
-      "newsHeadline": "Shell And 2 British Undervalued Stocks To Watch",
+      "newsScore": 0.5,
+      "newsHeadline": "Top 3 British Value Stocks To Watch In November 2026",
       "url": "https://finance.yahoo.com/quote/SHEL.L",
       "sectorPe": 8.7
     },
