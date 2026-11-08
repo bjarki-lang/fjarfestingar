@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-07T21:11:04.013992+00:00",
+  "updated": "2026-11-08T03:01:01.375114+00:00",
   "us": [
     {
       "ticker": "AAPL",
@@ -41,8 +41,8 @@
       "dividendYield": 0.32,
       "relStrength": 7.14,
       "volumeRatio": 0.95,
-      "newsScore": 1.3,
-      "newsHeadline": "Republican Senator Who Won Reelection Is Selling Magnificent Seven Stocks: Here Are the Trades",
+      "newsScore": 0.9,
+      "newsHeadline": "5 Worst Dow Stocks To Buy According to Analysts",
       "url": "https://finance.yahoo.com/quote/AAPL",
       "sectorPe": 29.8
     },
@@ -86,8 +86,8 @@
       "dividendYield": 0.74,
       "relStrength": 5.61,
       "volumeRatio": 1.1,
-      "newsScore": 0.9,
-      "newsHeadline": "What Concentrix (CNXC)'s AI Migration Tool Launch Means For Shareholders",
+      "newsScore": 0.5,
+      "newsHeadline": "How to invest in AI amid AI spending worries?",
       "url": "https://finance.yahoo.com/quote/MSFT",
       "sectorPe": 29.8
     },
@@ -131,8 +131,8 @@
       "dividendYield": 0.54,
       "relStrength": -15.95,
       "volumeRatio": 1.61,
-      "newsScore": 0.3,
-      "newsHeadline": "This Warren Buffett Dividend Stock Is the One I'd Buy With $1,000 in November",
+      "newsScore": 0.1,
+      "newsHeadline": "Anduril Keeps Winning Billion-Dollar Contracts and You Can't Buy It. Here Are 3 Public Stocks That Get Paid Alongside It.",
       "url": "https://finance.yahoo.com/quote/NVDA",
       "sectorPe": 29.8
     },
@@ -176,8 +176,8 @@
       "dividendYield": 0.0,
       "relStrength": 5.21,
       "volumeRatio": 0.9,
-      "newsScore": 0.8,
-      "newsHeadline": "He Loses His Job at 62 as Amazon Cuts 95 More Positions. He Claims Social Security to Get By, Then Faces an $8,400 Bill to Undo It",
+      "newsScore": 0.2,
+      "newsHeadline": "How to invest in AI amid AI spending worries?",
       "url": "https://finance.yahoo.com/quote/AMZN",
       "sectorPe": 207.3
     },
@@ -222,7 +222,7 @@
       "relStrength": 0.26,
       "volumeRatio": 0.94,
       "newsScore": 0.3,
-      "newsHeadline": "Every Humanoid Robot Needs Rare-Earth Magnets. Here's the American Stock Positioned to Sell Them -- and It's Down 62%.",
+      "newsHeadline": "Elon Musk Is Winding Down Cybertruck Production to Build Cybercabs. The Model S and Model X Already Gave Up Their Factory Space to Robots.",
       "url": "https://finance.yahoo.com/quote/TSLA",
       "sectorPe": 207.3
     },
@@ -267,8 +267,8 @@
       "dividendYield": 1.97,
       "relStrength": NaN,
       "volumeRatio": 1.11,
-      "newsScore": 0.5,
-      "newsHeadline": "Here's How These 6 Big Bank Stocks Make Their Money",
+      "newsScore": 0.3,
+      "newsHeadline": "What Could A Senate Epstein Probe Mean For JPMorgan Chase (JPM)?",
       "url": "https://finance.yahoo.com/quote/JPM",
       "sectorPe": 24.1
     },
@@ -402,8 +402,8 @@
       "dividendYield": 2.35,
       "relStrength": 10.28,
       "volumeRatio": 0.95,
-      "newsScore": 0.5,
-      "newsHeadline": "What Did CVS Health's Quarter Change For Its Stock?",
+      "newsScore": 0.4,
+      "newsHeadline": "What Humana (HUM) Said on Its Q3 Earnings Call",
       "url": "https://finance.yahoo.com/quote/UNH",
       "sectorPe": 32.2
     },
@@ -447,8 +447,8 @@
       "dividendYield": 2.22,
       "relStrength": 16.93,
       "volumeRatio": 1.03,
-      "newsScore": 0.3,
-      "newsHeadline": "Popular thrill ride theme park closes after 50 years",
+      "newsScore": 0.2,
+      "newsHeadline": "50-year-old popular family theme park closes permanently",
       "url": "https://finance.yahoo.com/quote/KO",
       "sectorPe": 26.5
     },
@@ -582,7 +582,7 @@
       "dividendYield": 3.35,
       "relStrength": 9.09,
       "volumeRatio": 1.01,
-      "newsScore": 0.7,
+      "newsScore": 0.5,
       "newsHeadline": "3 Oil Stocks Trading At Least 43% Below Future Cash Flow Value",
       "url": "https://finance.yahoo.com/quote/CVX",
       "sectorPe": 16.4
@@ -627,8 +627,8 @@
       "dividendYield": 1.17,
       "relStrength": -25.74,
       "volumeRatio": 1.32,
-      "newsScore": 0.0,
-      "newsHeadline": "Caterpillar (CAT) Falls After Steady Guidance As Fair Value Debate Grows",
+      "newsScore": 0.5,
+      "newsHeadline": "5 Best Dow Stocks to Buy for 2027",
       "url": "https://finance.yahoo.com/quote/CAT",
       "sectorPe": 19.9
     },
@@ -767,7 +767,7 @@
       "relStrength": 15.24,
       "volumeRatio": 0.95,
       "newsScore": 0.4,
-      "newsHeadline": "British Healthcare Stocks To Watch In November 2026",
+      "newsHeadline": "3 British Biotech Stocks With P E Under 27 To Watch",
       "url": "https://finance.yahoo.com/quote/AZN.L",
       "sectorPe": 26.4
     },
