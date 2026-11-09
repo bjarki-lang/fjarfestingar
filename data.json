@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-08T21:26:20.742729+00:00",
+  "updated": "2026-11-09T03:24:21.551596+00:00",
   "us": [
     {
       "ticker": "AAPL",
@@ -41,8 +41,8 @@
       "dividendYield": 0.32,
       "relStrength": 7.14,
       "volumeRatio": 0.95,
-      "newsScore": -0.0,
-      "newsHeadline": "Dow Jones Futures Loom For Damaged Market; Nvidia Probes Huang Spying Case",
+      "newsScore": 0.2,
+      "newsHeadline": "Dow Jones Futures Rise As Nvidia Probes CEO Jensen Huang Spying Case",
       "url": "https://finance.yahoo.com/quote/AAPL",
       "sectorPe": 29.8
     },
@@ -86,8 +86,8 @@
       "dividendYield": 0.74,
       "relStrength": 5.61,
       "volumeRatio": 1.1,
-      "newsScore": 0.5,
-      "newsHeadline": "Dow Jones Futures Loom For Damaged Market; Nvidia Probes Huang Spying Case",
+      "newsScore": 0.4,
+      "newsHeadline": "Dow Jones Futures Rise As Nvidia Probes CEO Jensen Huang Spying Case",
       "url": "https://finance.yahoo.com/quote/MSFT",
       "sectorPe": 29.8
     },
@@ -131,8 +131,8 @@
       "dividendYield": 0.54,
       "relStrength": -15.95,
       "volumeRatio": 1.61,
-      "newsScore": 0.2,
-      "newsHeadline": "Nvidia's Jensen Huang admits to affair after allegations of romance with Chinese spy: Report",
+      "newsScore": -0.0,
+      "newsHeadline": "Nvidia's board launches investigation into CEO Jensen Huang's affair with an alleged Chinese spy",
       "url": "https://finance.yahoo.com/quote/NVDA",
       "sectorPe": 29.8
     },
@@ -176,8 +176,8 @@
       "dividendYield": 0.0,
       "relStrength": 5.21,
       "volumeRatio": 0.9,
-      "newsScore": -0.1,
-      "newsHeadline": "Dow Jones Futures Loom For Damaged Market; Nvidia Probes Huang Spying Case",
+      "newsScore": 0.4,
+      "newsHeadline": "Dow Jones Futures Rise As Nvidia Probes CEO Jensen Huang Spying Case",
       "url": "https://finance.yahoo.com/quote/AMZN",
       "sectorPe": 207.3
     },
@@ -221,8 +221,8 @@
       "dividendYield": 0.0,
       "relStrength": 0.26,
       "volumeRatio": 0.94,
-      "newsScore": 0.3,
-      "newsHeadline": "This Is the Best-Performing Magnificent Seven Stock of 2026. Is It Still a Buy?",
+      "newsScore": 0.2,
+      "newsHeadline": "Here's What a $1,000 Investment in Tesla Stock Could Be Worth in 5 Years",
       "url": "https://finance.yahoo.com/quote/TSLA",
       "sectorPe": 207.3
     },
@@ -268,7 +268,7 @@
       "relStrength": NaN,
       "volumeRatio": 1.11,
       "newsScore": 0.6,
-      "newsHeadline": "JPMorgan vs. Bank of America: Which Dividend Stock Is Better for Retirement?",
+      "newsHeadline": "An Analyst Who Expects One More Big Drop Still Sees Bitcoin Reaching $2 Million. Can BTC Rise 26 Times From $75,000?",
       "url": "https://finance.yahoo.com/quote/JPM",
       "sectorPe": 24.1
     },
@@ -448,7 +448,7 @@
       "relStrength": 16.93,
       "volumeRatio": 1.03,
       "newsScore": 0.2,
-      "newsHeadline": "Coca-Cola (KO) Makes the Dow’s Low-Upside List While Selling More Drinks, Not Just Charging More",
+      "newsHeadline": "Warren Buffett’s Coca-Cola Shares Now Pay Back Two-Thirds of What He Paid, Every Single Year",
       "url": "https://finance.yahoo.com/quote/KO",
       "sectorPe": 26.5
     },
@@ -492,8 +492,8 @@
       "dividendYield": 2.63,
       "relStrength": 18.08,
       "volumeRatio": 0.74,
-      "newsScore": -0.1,
-      "newsHeadline": "Volume, Not Price, Drove the Surprise at Procter & Gamble (PG)",
+      "newsScore": 0.1,
+      "newsHeadline": "Procter & Gamble's Dividend Has Survived 26 Recessions. Here's What $10,000 Now Earns in Yearly Dividend Income.",
       "url": "https://finance.yahoo.com/quote/PG",
       "sectorPe": 26.5
     },
@@ -672,8 +672,8 @@
       "dividendYield": 0.0,
       "relStrength": -2.47,
       "volumeRatio": 0.63,
-      "newsScore": 0.3,
-      "newsHeadline": "Boeing (BA): A Top 10 Dow Stock for 2027 With a Record $745B of Orders",
+      "newsScore": 0.1,
+      "newsHeadline": "How much SpaceX stock does CEO Elon Musk actually own?",
       "url": "https://finance.yahoo.com/quote/BA",
       "sectorPe": 19.9
     }
