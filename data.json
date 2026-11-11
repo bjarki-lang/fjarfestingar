@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-10T22:37:43.642314+00:00",
+  "updated": "2026-11-11T03:31:54.469345+00:00",
   "us": [
     {
       "ticker": "AAPL",
@@ -30,7 +30,7 @@
         350.69,
         348.51
       ],
-      "pe": 38.8,
+      "pe": 39.1,
       "debtEq": 0.84,
       "sector": "Technology",
       "industry": "Consumer Electronics",
@@ -39,11 +39,11 @@
       "weekLow52": 243.42,
       "dividendYield": 0.31,
       "relStrength": 5.88,
-      "volumeRatio": 0.58,
+      "volumeRatio": 0.61,
       "newsScore": -0.4,
       "newsHeadline": "New iOS exploit could let apps steal crypto keys",
       "url": "https://finance.yahoo.com/quote/AAPL",
-      "sectorPe": 29.3
+      "sectorPe": 29.8
     },
     {
       "ticker": "MSFT",
@@ -83,11 +83,11 @@
       "weekLow52": 349.2,
       "dividendYield": 0.72,
       "relStrength": 2.19,
-      "volumeRatio": 1.04,
-      "newsScore": 0.2,
-      "newsHeadline": "Dow Jones Futures: Stock Market Falls On Surging Treasury Yields, Nvidia Sell-Off; CoreWeave Falls Late",
+      "volumeRatio": 1.05,
+      "newsScore": 0.1,
+      "newsHeadline": "Dow Jones Futures Rise As CoreWave Jumps, Lifts AI Stocks; Look For This Bullish Signal",
       "url": "https://finance.yahoo.com/quote/MSFT",
-      "sectorPe": 29.3
+      "sectorPe": 29.8
     },
     {
       "ticker": "NVDA",
@@ -118,7 +118,7 @@
         178.67,
         168.89
       ],
-      "pe": 21.4,
+      "pe": 22.6,
       "debtEq": 0.17,
       "sector": "Technology",
       "industry": "Semiconductors",
@@ -127,11 +127,11 @@
       "weekLow52": 164.27,
       "dividendYield": 0.56,
       "relStrength": -21.71,
-      "volumeRatio": 3.17,
-      "newsScore": -0.0,
-      "newsHeadline": "Chip stocks' slide nears $5 trillion as Nvidia hits most extreme selling level since 2019",
+      "volumeRatio": 3.18,
+      "newsScore": -0.2,
+      "newsHeadline": "OpenAI's Q3 results and Nvidia's scandal impact on the AI ecosystem",
       "url": "https://finance.yahoo.com/quote/NVDA",
-      "sectorPe": 29.3
+      "sectorPe": 29.8
     },
     {
       "ticker": "AMZN",
@@ -172,8 +172,8 @@
       "dividendYield": 0.0,
       "relStrength": 8.04,
       "volumeRatio": 0.8,
-      "newsScore": 0.6,
-      "newsHeadline": "Stock Market Today: Dow Dips As Yields Soar; Nvidia Dives; Anthropic Seeks This IPO Price",
+      "newsScore": 0.1,
+      "newsHeadline": "Is Seagate A Better Way Than Apple To Own AI Hardware Demand?",
       "url": "https://finance.yahoo.com/quote/AMZN",
       "sectorPe": 219.6
     },
@@ -217,7 +217,7 @@
       "relStrength": 4.13,
       "volumeRatio": 0.6,
       "newsScore": 0.3,
-      "newsHeadline": "Ethereum ended CoreWeave's mining days. Earnings test its AI bet",
+      "newsHeadline": "After Terafab Chips, Tesla’s $10 Billion Crystal Sun Solar Factory Breaks Ground",
       "url": "https://finance.yahoo.com/quote/TSLA",
       "sectorPe": 219.6
     },
@@ -259,9 +259,9 @@
       "weekLow52": 279.1,
       "dividendYield": 1.93,
       "relStrength": 5.99,
-      "volumeRatio": 0.65,
-      "newsScore": 0.1,
-      "newsHeadline": "JPMorgan Names Dividend Giant Its Top Stock Pick for a Rocky Market",
+      "volumeRatio": 0.67,
+      "newsScore": 0.3,
+      "newsHeadline": "JPMorgan Chase (JPM) Takes Lead Role In A Major AI IPO",
       "url": "https://finance.yahoo.com/quote/JPM",
       "sectorPe": 24.3
     },
@@ -271,27 +271,27 @@
       "price": 423.0,
       "chg": 0.38,
       "hist": [
-        389.27,
-        396.06,
-        391.43,
-        399.75,
-        402.61,
-        402.92,
-        406.57,
-        407.85,
-        414.34,
-        407.92,
-        404.16,
-        401.86,
-        400.6,
-        410.54,
-        413.59,
-        425.51,
-        420.42,
-        436.57,
-        422.59,
-        422.65,
-        422.16,
+        388.55,
+        395.33,
+        390.71,
+        399.01,
+        401.87,
+        402.18,
+        405.82,
+        407.1,
+        413.57,
+        407.17,
+        403.41,
+        401.12,
+        399.86,
+        409.78,
+        412.83,
+        424.72,
+        419.64,
+        435.76,
+        421.81,
+        421.87,
+        421.38,
         423.0
       ],
       "pe": 34.3,
@@ -302,10 +302,10 @@
       "weekHigh52": 442.23,
       "weekLow52": 293.89,
       "dividendYield": 0.74,
-      "relStrength": 12.33,
-      "volumeRatio": 0.76,
-      "newsScore": 0.5,
-      "newsHeadline": "Goldman, Citi Commit $270M to Their Own Stablecoin: Can Tether and Circle Hold On?",
+      "relStrength": 12.54,
+      "volumeRatio": 0.77,
+      "newsScore": 0.4,
+      "newsHeadline": "Visa’s Services Grow Over 20% as Company Pushes Beyond Payments",
       "url": "https://finance.yahoo.com/quote/V",
       "sectorPe": 24.3
     },
@@ -338,7 +338,7 @@
         282.11,
         280.78
       ],
-      "pe": 42.6,
+      "pe": 42.8,
       "debtEq": 0.55,
       "sector": "Healthcare",
       "industry": "Drug Manufacturers - General",
@@ -347,11 +347,11 @@
       "weekLow52": 189.05,
       "dividendYield": 1.9,
       "relStrength": 10.13,
-      "volumeRatio": 0.91,
+      "volumeRatio": 0.92,
       "newsScore": 0.5,
       "newsHeadline": "Can Gilead’s Cash Keep Growing?",
       "url": "https://finance.yahoo.com/quote/JNJ",
-      "sectorPe": 32.9
+      "sectorPe": 32.8
     },
     {
       "ticker": "UNH",
@@ -382,7 +382,7 @@
         397.62,
         405.12
       ],
-      "pe": 23.1,
+      "pe": 22.7,
       "debtEq": 0.7,
       "sector": "Healthcare",
       "industry": "Healthcare Plans",
@@ -391,11 +391,11 @@
       "weekLow52": 255.97,
       "dividendYield": 2.33,
       "relStrength": 10.7,
-      "volumeRatio": 0.73,
-      "newsScore": 0.7,
-      "newsHeadline": "Stock Market Today: Dow Dips As Yields Soar; Nvidia Dives; Anthropic Seeks This IPO Price",
+      "volumeRatio": 0.74,
+      "newsScore": 0.4,
+      "newsHeadline": "UnitedHealth Group (UNH) Will Drop Medicare Plans In 140 Counties And Leave Wyoming",
       "url": "https://finance.yahoo.com/quote/UNH",
-      "sectorPe": 32.9
+      "sectorPe": 32.8
     },
     {
       "ticker": "KO",
@@ -435,7 +435,7 @@
       "weekLow52": 67.27,
       "dividendYield": 2.21,
       "relStrength": 11.6,
-      "volumeRatio": 0.91,
+      "volumeRatio": 0.92,
       "newsScore": 0.2,
       "newsHeadline": "Coca-Cola Stock Is Up 36% in a Year. Here’s What That Did to Its Dividend Yield",
       "url": "https://finance.yahoo.com/quote/KO",
@@ -524,8 +524,8 @@
       "dividendYield": 2.6,
       "relStrength": -0.79,
       "volumeRatio": 0.82,
-      "newsScore": -0.1,
-      "newsHeadline": "Treasuries Now Offer 2.66% Above Inflation. Are Dividend Stocks in Trouble?",
+      "newsScore": 0.2,
+      "newsHeadline": "A Venezuelan Billionaire Just Shared The Details Behind Trump’s “Biggest Oil Deal In World History.” Here’s What It Means For A 68 Year Old With A $2.4M Portfolio Heavily Invested In Energy Stocks",
       "url": "https://finance.yahoo.com/quote/XOM",
       "sectorPe": 16.2
     },
@@ -567,7 +567,7 @@
       "weekLow52": 146.49,
       "dividendYield": 3.38,
       "relStrength": 1.91,
-      "volumeRatio": 1.19,
+      "volumeRatio": 1.21,
       "newsScore": -0.1,
       "newsHeadline": "What Ranger Energy Services (RNGR) Said on Its Q3 Earnings Call",
       "url": "https://finance.yahoo.com/quote/CVX",
@@ -612,8 +612,8 @@
       "dividendYield": 1.09,
       "relStrength": -23.03,
       "volumeRatio": 1.08,
-      "newsScore": 0.0,
-      "newsHeadline": "Stock Market Today: Dow Dips As Yields Soar; Nvidia Dives; Anthropic Seeks This IPO Price",
+      "newsScore": -0.2,
+      "newsHeadline": "Is The Market Underpricing Caterpillar Stock?",
       "url": "https://finance.yahoo.com/quote/CAT",
       "sectorPe": 20.4
     },
@@ -646,7 +646,7 @@
         172.38,
         173.38
       ],
-      "pe": 17.9,
+      "pe": 17.8,
       "debtEq": 7.39,
       "sector": "Industrials",
       "industry": "Aerospace & Defense",
@@ -657,7 +657,7 @@
       "relStrength": -4.84,
       "volumeRatio": 0.61,
       "newsScore": -0.2,
-      "newsHeadline": "Boeing October Jet Deliveries Decline, Trail Airbus Tally",
+      "newsHeadline": "Northrop Grumman (NOC) Will Not Protest Its F A XX Loss",
       "url": "https://finance.yahoo.com/quote/BA",
       "sectorPe": 20.4
     }
@@ -666,8 +666,8 @@
     {
       "ticker": "HSBA.L",
       "name": "HSBC HOLDINGS PLC ORD $0.50 (UK",
-      "price": 1341.4,
-      "chg": 0.31,
+      "price": NaN,
+      "chg": NaN,
       "hist": [
         1428.29,
         1430.69,
@@ -690,7 +690,7 @@
         1307.4,
         1304.6,
         1337.2,
-        1341.4
+        NaN
       ],
       "pe": 11.8,
       "debtEq": null,
@@ -700,7 +700,7 @@
       "weekHigh52": 1610.0,
       "weekLow52": 1027.8,
       "dividendYield": 2.28,
-      "relStrength": -6.97,
+      "relStrength": NaN,
       "volumeRatio": 1.51,
       "newsScore": 0.4,
       "newsHeadline": "HSBC retains Shore Capital’s ‘hold’ as UK recovery needs proof",
@@ -710,8 +710,8 @@
     {
       "ticker": "AZN.L",
       "name": "ASTRAZENECA PLC ORD SHS $0.25",
-      "price": 13884.0,
-      "chg": -1.29,
+      "price": NaN,
+      "chg": NaN,
       "hist": [
         12026.0,
         11896.0,
@@ -734,7 +734,7 @@
         14042.0,
         13930.0,
         14066.0,
-        13884.0
+        NaN
       ],
       "pe": 26.3,
       "debtEq": 0.66,
@@ -744,18 +744,18 @@
       "weekHigh52": 15732.0,
       "weekLow52": 9892.0,
       "dividendYield": 1.72,
-      "relStrength": 14.56,
+      "relStrength": NaN,
       "volumeRatio": 1.2,
       "newsScore": 0.1,
-      "newsHeadline": "AstraZeneca (LSE:AZN) Stock Fair Value Edges Higher After Mixed Analyst Target Changes",
+      "newsHeadline": "AstraZeneca (LSE:AZN) Reaffirms Guidance As Pipeline Strength Keeps Undervaluation In View",
       "url": "https://finance.yahoo.com/quote/AZN.L",
       "sectorPe": 26.3
     },
     {
       "ticker": "SHEL.L",
       "name": "SHELL PLC ORD EUR0.07",
-      "price": 3624.5,
-      "chg": -2.07,
+      "price": NaN,
+      "chg": NaN,
       "hist": [
         3836.0,
         3865.5,
@@ -778,7 +778,7 @@
         3784.0,
         3722.5,
         3701.0,
-        3624.5
+        NaN
       ],
       "pe": 8.4,
       "debtEq": 0.38,
@@ -788,7 +788,7 @@
       "weekHigh52": 4110.0,
       "weekLow52": 2553.77,
       "dividendYield": 3.12,
-      "relStrength": -6.4,
+      "relStrength": NaN,
       "volumeRatio": 1.84,
       "newsScore": 0.4,
       "newsHeadline": "Did First Half Earnings Just Shift DCC Energy (LSE:DCC) Investment Narrative?",
@@ -798,8 +798,8 @@
     {
       "ticker": "ULVR.L",
       "name": "UNILEVER PLC ORD 3.5P",
-      "price": 4939.0,
-      "chg": 0.47,
+      "price": NaN,
+      "chg": NaN,
       "hist": [
         4738.0,
         4710.5,
@@ -822,7 +822,7 @@
         5032.0,
         4930.0,
         4916.0,
-        4939.0
+        NaN
       ],
       "pe": 13.4,
       "debtEq": 1.75,
@@ -832,7 +832,7 @@
       "weekHigh52": 5542.11,
       "weekLow52": 3644.0,
       "dividendYield": 3.17,
-      "relStrength": 3.35,
+      "relStrength": NaN,
       "volumeRatio": 0.77,
       "newsScore": 0.4,
       "newsHeadline": "What Does Procter & Gamble (PG) Naming A New India Beauty Head Signal?",
@@ -842,8 +842,8 @@
     {
       "ticker": "BARC.L",
       "name": "BARCLAYS PLC ORD 25P",
-      "price": 430.05,
-      "chg": 0.09,
+      "price": NaN,
+      "chg": NaN,
       "hist": [
         437.6,
         436.05,
@@ -866,7 +866,7 @@
         424.0,
         420.25,
         429.65,
-        430.05
+        NaN
       ],
       "pe": 8.6,
       "debtEq": null,
@@ -876,10 +876,10 @@
       "weekHigh52": 538.3,
       "weekLow52": 361.35,
       "dividendYield": 2.74,
-      "relStrength": -2.62,
+      "relStrength": NaN,
       "volumeRatio": 0.55,
-      "newsScore": 0.3,
-      "newsHeadline": "Treasury Yields Jump as Inflation Fuels Fed Wagers",
+      "newsScore": 0.4,
+      "newsHeadline": "Barclays (LSE:BARC) Opens Riyadh Office And Names Saudi Leadership Team",
       "url": "https://finance.yahoo.com/quote/BARC.L",
       "sectorPe": 10.2
     }
