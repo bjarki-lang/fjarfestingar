@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-11T23:47:15.630065+00:00",
+  "updated": "2026-11-12T04:41:31.200334+00:00",
   "us": [
     {
       "ticker": "AAPL",
@@ -31,25 +31,25 @@
         348.51,
         355.63
       ],
-      "pe": 39.6,
+      "pe": 38.8,
       "debtEq": 0.84,
       "sector": "Technology",
       "industry": "Consumer Electronics",
       "marketCap": 5168079831040,
       "weekHigh52": 355.9,
       "weekLow52": 243.42,
-      "dividendYield": 0.31,
+      "dividendYield": 0.3,
       "relStrength": 6.71,
-      "volumeRatio": 0.71,
-      "newsScore": 0.1,
-      "newsHeadline": "Stock Market Today, Nov. 11: Stock Market Today, Nov. 11: Nasdaq Surges as CoreWeave's 25% Rally Reignites the AI Trade",
+      "volumeRatio": 0.72,
+      "newsScore": 0.2,
+      "newsHeadline": "Tim Cook as Nvidia CEO? Kalshi Bettors See These Names as Top Replacement Bets for Scandal-Embroiled Jensen Huang",
       "url": "https://finance.yahoo.com/quote/AAPL",
-      "sectorPe": 29.6
+      "sectorPe": 29.1
     },
     {
       "ticker": "MSFT",
       "name": "Microsoft Corporation",
-      "price": 521.12,
+      "price": 521.13,
       "chg": -2.26,
       "hist": [
         541.15,
@@ -74,7 +74,7 @@
         530.61,
         545.18,
         533.16,
-        521.12
+        521.13
       ],
       "pe": 27.2,
       "debtEq": 0.28,
@@ -83,13 +83,13 @@
       "marketCap": 3869975511040,
       "weekHigh52": 559.15,
       "weekLow52": 349.2,
-      "dividendYield": 0.74,
+      "dividendYield": 0.75,
       "relStrength": -1.29,
-      "volumeRatio": 1.11,
-      "newsScore": -0.4,
+      "volumeRatio": 1.13,
+      "newsScore": 0.0,
       "newsHeadline": "Is the AI boom hiding a jobs crisis for graduates?",
       "url": "https://finance.yahoo.com/quote/MSFT",
-      "sectorPe": 29.6
+      "sectorPe": 29.1
     },
     {
       "ticker": "NVDA",
@@ -121,7 +121,7 @@
         168.89,
         173.73
       ],
-      "pe": 22.0,
+      "pe": 21.3,
       "debtEq": 0.17,
       "sector": "Technology",
       "industry": "Semiconductors",
@@ -130,11 +130,11 @@
       "weekLow52": 164.27,
       "dividendYield": 0.59,
       "relStrength": -20.83,
-      "volumeRatio": 1.91,
+      "volumeRatio": 2.12,
       "newsScore": -0.1,
       "newsHeadline": "Who is Nvidia executive Kimberly Powell?",
       "url": "https://finance.yahoo.com/quote/NVDA",
-      "sectorPe": 29.6
+      "sectorPe": 29.1
     },
     {
       "ticker": "AMZN",
@@ -166,7 +166,7 @@
         270.87,
         266.17
       ],
-      "pe": 21.5,
+      "pe": 21.9,
       "debtEq": 0.5,
       "sector": "Consumer Cyclical",
       "industry": "Internet Retail",
@@ -175,11 +175,11 @@
       "weekLow52": 196.0,
       "dividendYield": 0.0,
       "relStrength": 4.97,
-      "volumeRatio": 0.77,
-      "newsScore": 0.1,
-      "newsHeadline": "Amazon (AMZN) Could Face Trial In Italy Over Unpaid Import VAT",
+      "volumeRatio": 0.78,
+      "newsScore": 0.7,
+      "newsHeadline": "Trade Desk Stock Boosted by Wall Street Optimism Following Earnings Beat",
       "url": "https://finance.yahoo.com/quote/AMZN",
-      "sectorPe": 225.5
+      "sectorPe": 218.8
     },
     {
       "ticker": "TSLA",
@@ -211,7 +211,7 @@
         379.78,
         390.84
       ],
-      "pe": 429.5,
+      "pe": 415.8,
       "debtEq": 0.18,
       "sector": "Consumer Cyclical",
       "industry": "Auto Manufacturers",
@@ -221,10 +221,10 @@
       "dividendYield": 0.0,
       "relStrength": 5.8,
       "volumeRatio": 0.71,
-      "newsScore": 0.6,
-      "newsHeadline": "3 Growth Stocks With At Least 18% Revenue Growth",
+      "newsScore": 0.4,
+      "newsHeadline": "SpaceX investors confront a painful post-election reality",
       "url": "https://finance.yahoo.com/quote/TSLA",
-      "sectorPe": 225.5
+      "sectorPe": 218.8
     },
     {
       "ticker": "JPM",
@@ -256,7 +256,7 @@
         342.07,
         343.39
       ],
-      "pe": 14.4,
+      "pe": 14.3,
       "debtEq": null,
       "sector": "Financial Services",
       "industry": "Banks - Diversified",
@@ -266,10 +266,10 @@
       "dividendYield": 1.93,
       "relStrength": 5.13,
       "volumeRatio": 0.6,
-      "newsScore": 0.3,
-      "newsHeadline": "CCC Intelligent Solutions ends year-long LBO loan hiatus for software borrowers",
+      "newsScore": 0.5,
+      "newsHeadline": "JPMorgan Predicted Strong Wegovy Pill Sales (and Was Right). Is Novo Nordisk Stock a Buy Now?",
       "url": "https://finance.yahoo.com/quote/JPM",
-      "sectorPe": 24.4
+      "sectorPe": 24.3
     },
     {
       "ticker": "V",
@@ -301,7 +301,7 @@
         423.0,
         425.55
       ],
-      "pe": 34.5,
+      "pe": 34.3,
       "debtEq": 0.64,
       "sector": "Financial Services",
       "industry": "Credit Services",
@@ -314,7 +314,7 @@
       "newsScore": 0.2,
       "newsHeadline": "Visa adds Monad to stablecoin settlement options",
       "url": "https://finance.yahoo.com/quote/V",
-      "sectorPe": 24.4
+      "sectorPe": 24.3
     },
     {
       "ticker": "JNJ",
@@ -355,11 +355,11 @@
       "weekLow52": 193.07,
       "dividendYield": 1.91,
       "relStrength": 8.73,
-      "volumeRatio": 0.67,
-      "newsScore": 0.5,
-      "newsHeadline": "Johnson & Johnson vs. Eli Lilly: Which Healthcare Giant's Stock Is a Better Buy for 2027?",
+      "volumeRatio": 0.68,
+      "newsScore": 0.3,
+      "newsHeadline": "These 5 Dividend Aristocrats® Have Raised Payouts for Decades",
       "url": "https://finance.yahoo.com/quote/JNJ",
-      "sectorPe": 32.8
+      "sectorPe": 32.9
     },
     {
       "ticker": "UNH",
@@ -391,7 +391,7 @@
         405.12,
         402.94
       ],
-      "pe": 23.0,
+      "pe": 23.1,
       "debtEq": 0.7,
       "sector": "Healthcare",
       "industry": "Healthcare Plans",
@@ -401,10 +401,10 @@
       "dividendYield": 2.29,
       "relStrength": 8.86,
       "volumeRatio": 0.69,
-      "newsScore": 0.2,
-      "newsHeadline": "Bosses Have a New Plan to Boost Morale at the Office: Desk Plants",
+      "newsScore": 0.3,
+      "newsHeadline": "CVS Beat Earnings by 27% and Split in Two, and Elizabeth Warren Says She Is Not Fooled",
       "url": "https://finance.yahoo.com/quote/UNH",
-      "sectorPe": 32.8
+      "sectorPe": 32.9
     },
     {
       "ticker": "KO",
@@ -443,11 +443,11 @@
       "marketCap": 419736616960,
       "weekHigh52": 97.82,
       "weekLow52": 67.27,
-      "dividendYield": 2.19,
+      "dividendYield": 2.17,
       "relStrength": 11.07,
-      "volumeRatio": 0.81,
+      "volumeRatio": 0.82,
       "newsScore": 0.2,
-      "newsHeadline": "Costco Just Declared a $30 Special Dividend. Is It Reason Enough to Buy the Stock Before Nov. 24?",
+      "newsHeadline": "These 5 Dividend Aristocrats® Have Raised Payouts for Decades",
       "url": "https://finance.yahoo.com/quote/KO",
       "sectorPe": 27.1
     },
@@ -481,18 +481,18 @@
         168.66,
         167.67
       ],
-      "pe": 25.3,
+      "pe": 25.4,
       "debtEq": 0.7,
       "sector": "Consumer Defensive",
       "industry": "Household & Personal Products",
       "marketCap": 388622680064,
       "weekHigh52": 170.52,
       "weekLow52": 137.62,
-      "dividendYield": 2.58,
+      "dividendYield": 2.6,
       "relStrength": 12.58,
       "volumeRatio": 0.71,
       "newsScore": -0.1,
-      "newsHeadline": "These Stocks Are Beating the S&P 500—and Have Steady Yields",
+      "newsHeadline": "These 5 Dividend Aristocrats® Have Raised Payouts for Decades",
       "url": "https://finance.yahoo.com/quote/PG",
       "sectorPe": 27.1
     },
@@ -533,11 +533,11 @@
       "marketCap": 680047214592,
       "weekHigh52": 188.5,
       "weekLow52": 114.19,
-      "dividendYield": 2.6,
+      "dividendYield": 2.57,
       "relStrength": -0.75,
-      "volumeRatio": 0.95,
-      "newsScore": 0.5,
-      "newsHeadline": "Exxon files legal challenge to EU carbon capture law, FT reports",
+      "volumeRatio": 0.97,
+      "newsScore": 0.2,
+      "newsHeadline": "Exxon, Chevron, and Shell Just Reported. Here's What Each One Said About Where Oil Goes Next.",
       "url": "https://finance.yahoo.com/quote/XOM",
       "sectorPe": 16.4
     },
@@ -578,11 +578,11 @@
       "marketCap": 416163364864,
       "weekHigh52": 236.48,
       "weekLow52": 146.49,
-      "dividendYield": 3.37,
+      "dividendYield": 3.34,
       "relStrength": 1.61,
-      "volumeRatio": 0.67,
-      "newsScore": 1.0,
-      "newsHeadline": "Exxon vs. Chevron: 45 and 39 Straight Years of Raises. Which Oil Dividend Wins the Next Decade?",
+      "volumeRatio": 0.75,
+      "newsScore": 0.0,
+      "newsHeadline": "Exxon, Chevron, and Shell Just Reported. Here's What Each One Said About Where Oil Goes Next.",
       "url": "https://finance.yahoo.com/quote/CVX",
       "sectorPe": 16.4
     },
@@ -616,20 +616,20 @@
         584.57,
         601.61
       ],
-      "pe": 23.6,
+      "pe": 22.9,
       "debtEq": 2.1,
       "sector": "Industrials",
       "industry": "Farm & Heavy Construction Machinery",
       "marketCap": 275293241344,
       "weekHigh52": 1073.46,
       "weekLow52": 537.08,
-      "dividendYield": 1.12,
+      "dividendYield": 1.08,
       "relStrength": -22.15,
       "volumeRatio": 0.96,
       "newsScore": -0.2,
       "newsHeadline": "Caterpillar (CAT) Stock Looks Like A Bargain On Its 222% Run",
       "url": "https://finance.yahoo.com/quote/CAT",
-      "sectorPe": 20.8
+      "sectorPe": 20.4
     },
     {
       "ticker": "BA",
@@ -661,7 +661,7 @@
         173.38,
         174.54
       ],
-      "pe": 18.0,
+      "pe": 17.9,
       "debtEq": 7.39,
       "sector": "Industrials",
       "industry": "Aerospace & Defense",
@@ -674,15 +674,15 @@
       "newsScore": -0.4,
       "newsHeadline": "Embraer In Buy Zone After Earnings. Here's How Boeing, Airbus Compare.",
       "url": "https://finance.yahoo.com/quote/BA",
-      "sectorPe": 20.8
+      "sectorPe": 20.4
     }
   ],
   "uk": [
     {
       "ticker": "HSBA.L",
       "name": "HSBC HOLDINGS PLC ORD $0.50 (UK",
-      "price": 1355.6,
-      "chg": 1.06,
+      "price": NaN,
+      "chg": NaN,
       "hist": [
         1428.29,
         1430.69,
@@ -706,7 +706,7 @@
         1304.6,
         1337.2,
         1341.4,
-        1355.6
+        NaN
       ],
       "pe": 11.9,
       "debtEq": null,
@@ -716,7 +716,7 @@
       "weekHigh52": 1610.0,
       "weekLow52": 1027.8,
       "dividendYield": 2.22,
-      "relStrength": -6.77,
+      "relStrength": NaN,
       "volumeRatio": 1.38,
       "newsScore": 0.1,
       "newsHeadline": "3 British Dividend Stocks To Own In November 2026",
@@ -726,8 +726,8 @@
     {
       "ticker": "AZN.L",
       "name": "ASTRAZENECA PLC ORD SHS $0.25",
-      "price": 13896.0,
-      "chg": 0.09,
+      "price": NaN,
+      "chg": NaN,
       "hist": [
         12026.0,
         11896.0,
@@ -751,9 +751,9 @@
         13930.0,
         14066.0,
         13884.0,
-        13896.0
+        NaN
       ],
-      "pe": 26.4,
+      "pe": 26.0,
       "debtEq": 0.66,
       "sector": "Healthcare",
       "industry": "Drug Manufacturers - General",
@@ -761,18 +761,18 @@
       "weekHigh52": 15732.0,
       "weekLow52": 9892.0,
       "dividendYield": 1.72,
-      "relStrength": 13.87,
+      "relStrength": NaN,
       "volumeRatio": 0.48,
       "newsScore": 0.5,
       "newsHeadline": "Here's Why Ionis Pharmaceuticals' Stock is Down 28.5% Post Q3 Earnings",
       "url": "https://finance.yahoo.com/quote/AZN.L",
-      "sectorPe": 26.4
+      "sectorPe": 26.0
     },
     {
       "ticker": "SHEL.L",
       "name": "SHELL PLC ORD EUR0.07",
-      "price": 3670.5,
-      "chg": 1.27,
+      "price": NaN,
+      "chg": NaN,
       "hist": [
         3836.0,
         3865.5,
@@ -796,9 +796,9 @@
         3722.5,
         3701.0,
         3624.5,
-        3670.5
+        NaN
       ],
-      "pe": 8.5,
+      "pe": 8.4,
       "debtEq": 0.38,
       "sector": "Energy",
       "industry": "Oil & Gas Integrated",
@@ -806,18 +806,18 @@
       "weekHigh52": 4110.0,
       "weekLow52": 2553.77,
       "dividendYield": 3.21,
-      "relStrength": -5.99,
+      "relStrength": NaN,
       "volumeRatio": 0.68,
-      "newsScore": 0.7,
-      "newsHeadline": "3 British Value Stocks To Watch In November 2026",
+      "newsScore": 0.6,
+      "newsHeadline": "Exxon, Chevron, and Shell Just Reported. Here's What Each One Said About Where Oil Goes Next.",
       "url": "https://finance.yahoo.com/quote/SHEL.L",
-      "sectorPe": 8.5
+      "sectorPe": 8.4
     },
     {
       "ticker": "ULVR.L",
       "name": "UNILEVER PLC ORD 3.5P",
-      "price": 4916.0,
-      "chg": -0.47,
+      "price": NaN,
+      "chg": NaN,
       "hist": [
         4738.0,
         4710.5,
@@ -841,7 +841,7 @@
         4930.0,
         4916.0,
         4939.0,
-        4916.0
+        NaN
       ],
       "pe": 13.3,
       "debtEq": 1.75,
@@ -851,7 +851,7 @@
       "weekHigh52": 5542.11,
       "weekLow52": 3644.0,
       "dividendYield": 3.16,
-      "relStrength": 2.08,
+      "relStrength": NaN,
       "volumeRatio": 0.76,
       "newsScore": -0.5,
       "newsHeadline": "McCormick’s Food Deal With Unilever Puts Sauce Mixes Under Threat, U.K. Says",
@@ -861,8 +861,8 @@
     {
       "ticker": "BARC.L",
       "name": "BARCLAYS PLC ORD 25P",
-      "price": 434.75,
-      "chg": 1.09,
+      "price": NaN,
+      "chg": NaN,
       "hist": [
         437.6,
         436.05,
@@ -886,7 +886,7 @@
         420.25,
         429.65,
         430.05,
-        434.75
+        NaN
       ],
       "pe": 8.7,
       "debtEq": null,
@@ -896,10 +896,10 @@
       "weekHigh52": 538.3,
       "weekLow52": 361.35,
       "dividendYield": 2.67,
-      "relStrength": -2.33,
+      "relStrength": NaN,
       "volumeRatio": 0.63,
-      "newsScore": 0.1,
-      "newsHeadline": "Crypto Market Today, Nov. 11: 2. Bitcoin Climbs Back Above $74,000 as Wall Street's Crypto Outlook Begins to Shift",
+      "newsScore": -0.1,
+      "newsHeadline": "Barclays (LSE:BARC) Could Be 23% Undervalued As It Expands In Saudi Arabia",
       "url": "https://finance.yahoo.com/quote/BARC.L",
       "sectorPe": 10.3
     }
