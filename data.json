@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-13T22:58:47.423203+00:00",
+  "updated": "2026-11-14T03:52:24.132722+00:00",
   "us": [
     {
       "ticker": "AAPL",
@@ -40,11 +40,11 @@
       "weekLow52": 243.42,
       "dividendYield": 0.3,
       "relStrength": 6.0,
-      "volumeRatio": 0.82,
-      "newsScore": -0.1,
+      "volumeRatio": 0.83,
+      "newsScore": -0.3,
       "newsHeadline": "What to make of Jensen Huang's resignation: AI Investing Panel",
       "url": "https://finance.yahoo.com/quote/AAPL",
-      "sectorPe": 29.2
+      "sectorPe": 29.3
     },
     {
       "ticker": "MSFT",
@@ -85,11 +85,11 @@
       "weekLow52": 349.2,
       "dividendYield": 0.75,
       "relStrength": 0.2,
-      "volumeRatio": 0.98,
+      "volumeRatio": 1.01,
       "newsScore": 0.1,
       "newsHeadline": "Cerebras stock surges on Microsoft deal: What it means for Nvidia",
       "url": "https://finance.yahoo.com/quote/MSFT",
-      "sectorPe": 29.2
+      "sectorPe": 29.3
     },
     {
       "ticker": "NVDA",
@@ -121,7 +121,7 @@
         166.19,
         162.85
       ],
-      "pe": 20.6,
+      "pe": 21.0,
       "debtEq": 0.17,
       "sector": "Technology",
       "industry": "Semiconductors",
@@ -130,11 +130,11 @@
       "weekLow52": 148.8,
       "dividendYield": 0.6,
       "relStrength": -24.37,
-      "volumeRatio": 1.91,
-      "newsScore": 0.2,
-      "newsHeadline": "How the Nvidia scandal impacts US–China relations: Department of Defense CTO",
+      "volumeRatio": 1.92,
+      "newsScore": 0.0,
+      "newsHeadline": "Nvidia's competitors pounce, and what GPU rental prices say about the AI race",
       "url": "https://finance.yahoo.com/quote/NVDA",
-      "sectorPe": 29.2
+      "sectorPe": 29.3
     },
     {
       "ticker": "AMZN",
@@ -176,8 +176,8 @@
       "dividendYield": 0.0,
       "relStrength": 6.99,
       "volumeRatio": 0.63,
-      "newsScore": 0.6,
-      "newsHeadline": "FRMI Stock Clocks Best Day Ever After Report Names Amazon As Project Matador Customer",
+      "newsScore": 0.3,
+      "newsHeadline": "What It Takes to Get Your Wings Delivered During a Football Game—Fast and Hot",
       "url": "https://finance.yahoo.com/quote/AMZN",
       "sectorPe": 225.2
     },
@@ -220,8 +220,8 @@
       "weekLow52": 297.38,
       "dividendYield": 0.0,
       "relStrength": 8.32,
-      "volumeRatio": 0.8,
-      "newsScore": -0.1,
+      "volumeRatio": 0.81,
+      "newsScore": -0.2,
       "newsHeadline": "Tesla-SpaceX merger announcement as early as December: Bloomberg",
       "url": "https://finance.yahoo.com/quote/TSLA",
       "sectorPe": 225.2
@@ -256,7 +256,7 @@
         342.82,
         346.19
       ],
-      "pe": 14.5,
+      "pe": 14.4,
       "debtEq": null,
       "sector": "Financial Services",
       "industry": "Banks - Diversified",
@@ -266,10 +266,10 @@
       "dividendYield": 1.93,
       "relStrength": 5.29,
       "volumeRatio": 0.61,
-      "newsScore": -0.0,
+      "newsScore": 0.4,
       "newsHeadline": "Amodei: Anthropic ‘not super fussed’ with timing of IPO",
       "url": "https://finance.yahoo.com/quote/JPM",
-      "sectorPe": 24.6
+      "sectorPe": 24.5
     },
     {
       "ticker": "V",
@@ -314,7 +314,7 @@
       "newsScore": 0.0,
       "newsHeadline": "Top Stock Reports for Visa, ExxonMobil & Pfizer",
       "url": "https://finance.yahoo.com/quote/V",
-      "sectorPe": 24.6
+      "sectorPe": 24.5
     },
     {
       "ticker": "JNJ",
@@ -346,7 +346,7 @@
         283.52,
         285.75
       ],
-      "pe": 43.4,
+      "pe": 43.0,
       "debtEq": 0.55,
       "sector": "Healthcare",
       "industry": "Drug Manufacturers - General",
@@ -356,10 +356,10 @@
       "dividendYield": 1.89,
       "relStrength": 14.58,
       "volumeRatio": 0.82,
-      "newsScore": 0.3,
-      "newsHeadline": "4 Healthcare Dividend Stocks for Retirees. One Yields Over 4%",
+      "newsScore": 0.1,
+      "newsHeadline": "Could You Have Held Glaukos Stock Through Its Falls?",
       "url": "https://finance.yahoo.com/quote/JNJ",
-      "sectorPe": 33.4
+      "sectorPe": 33.0
     },
     {
       "ticker": "UNH",
@@ -391,7 +391,7 @@
         405.13,
         407.46
       ],
-      "pe": 23.3,
+      "pe": 23.1,
       "debtEq": 0.7,
       "sector": "Healthcare",
       "industry": "Healthcare Plans",
@@ -400,11 +400,11 @@
       "weekLow52": 255.97,
       "dividendYield": 2.29,
       "relStrength": 5.03,
-      "volumeRatio": 0.6,
+      "volumeRatio": 0.63,
       "newsScore": 0.4,
-      "newsHeadline": "Can UNH's Optum Rx Sustain Profit Growth as Prescription Volumes Fall?",
+      "newsHeadline": "Elevance Health Targets 12% Earnings Growth in 2027 as Insurance Margins Recover",
       "url": "https://finance.yahoo.com/quote/UNH",
-      "sectorPe": 33.4
+      "sectorPe": 33.0
     },
     {
       "ticker": "KO",
@@ -446,8 +446,8 @@
       "dividendYield": 2.18,
       "relStrength": 10.18,
       "volumeRatio": 0.98,
-      "newsScore": 0.6,
-      "newsHeadline": "3 Favorite Warren Buffett Stocks Hit Record Highs As Nvidia Sinks",
+      "newsScore": 0.7,
+      "newsHeadline": "KO Stock Alert: Coca-Cola Just Hit a New All-Time High",
       "url": "https://finance.yahoo.com/quote/KO",
       "sectorPe": 27.5
     },
@@ -536,8 +536,8 @@
       "dividendYield": 2.52,
       "relStrength": -1.59,
       "volumeRatio": 0.81,
-      "newsScore": 0.2,
-      "newsHeadline": "The Price Tag on Jensen Huang’s Resignation: $639 Billion and Counting",
+      "newsScore": 0.1,
+      "newsHeadline": "Is ExxonMobil Holdings (XOM) Undervalued After Its $12.5b Guyana Longtail Approval?",
       "url": "https://finance.yahoo.com/quote/XOM",
       "sectorPe": 16.9
     },
@@ -626,8 +626,8 @@
       "dividendYield": 1.08,
       "relStrength": -17.63,
       "volumeRatio": 0.59,
-      "newsScore": 0.9,
-      "newsHeadline": "What Is Caterpillar (CAT) Signaling With Its Biggest Underground Mining Machine Yet?",
+      "newsScore": 0.4,
+      "newsHeadline": "Tariffs Pushed Prices Up. Why Retail and Industrial Investors Shouldn't Expect a Quick Reversal",
       "url": "https://finance.yahoo.com/quote/CAT",
       "sectorPe": 20.6
     },
@@ -672,7 +672,7 @@
       "relStrength": -5.09,
       "volumeRatio": 0.52,
       "newsScore": 0.2,
-      "newsHeadline": "Boeing Booked 165 Jet Orders. How Much It Matters for Jim Cramer’s Trust Holding?",
+      "newsHeadline": "What Is Driving Intuitive Machines Stock?",
       "url": "https://finance.yahoo.com/quote/BA",
       "sectorPe": 20.6
     }
@@ -681,8 +681,8 @@
     {
       "ticker": "HSBA.L",
       "name": "HSBC HOLDINGS PLC ORD $0.50 (UK",
-      "price": 1354.4,
-      "chg": 0.03,
+      "price": NaN,
+      "chg": NaN,
       "hist": [
         1430.69,
         1422.49,
@@ -707,7 +707,7 @@
         1341.4,
         1355.6,
         1354.0,
-        1354.4
+        NaN
       ],
       "pe": 11.9,
       "debtEq": null,
@@ -717,7 +717,7 @@
       "weekHigh52": 1610.0,
       "weekLow52": 1027.8,
       "dividendYield": 2.21,
-      "relStrength": -7.7,
+      "relStrength": NaN,
       "volumeRatio": 0.48,
       "newsScore": -0.3,
       "newsHeadline": "Stock Market Today, Nov. 13: Nvidia Slides After HSBC Downgrades Stock to Hold on CEO Uncertainty",
@@ -727,8 +727,8 @@
     {
       "ticker": "AZN.L",
       "name": "ASTRAZENECA PLC ORD SHS $0.25",
-      "price": 13982.0,
-      "chg": 0.37,
+      "price": NaN,
+      "chg": NaN,
       "hist": [
         11896.0,
         12300.0,
@@ -753,7 +753,7 @@
         13884.0,
         13896.0,
         13930.0,
-        13982.0
+        NaN
       ],
       "pe": 26.4,
       "debtEq": 0.66,
@@ -763,18 +763,18 @@
       "weekHigh52": 15732.0,
       "weekLow52": 9892.0,
       "dividendYield": 1.72,
-      "relStrength": 15.17,
+      "relStrength": NaN,
       "volumeRatio": 0.39,
-      "newsScore": -0.1,
-      "newsHeadline": "Sector Update: Healthcare Stocks Rise Late Afternoon",
+      "newsScore": 0.2,
+      "newsHeadline": "3 British Healthcare Stocks With Revenue Growth Up To 13%",
       "url": "https://finance.yahoo.com/quote/AZN.L",
       "sectorPe": 26.4
     },
     {
       "ticker": "SHEL.L",
       "name": "SHELL PLC ORD EUR0.07",
-      "price": 3719.5,
-      "chg": 1.49,
+      "price": NaN,
+      "chg": NaN,
       "hist": [
         3865.09,
         3911.08,
@@ -799,7 +799,7 @@
         3624.11,
         3670.11,
         3665.0,
-        3719.5
+        NaN
       ],
       "pe": 8.7,
       "debtEq": 0.38,
@@ -809,7 +809,7 @@
       "weekHigh52": 4110.0,
       "weekLow52": 2553.77,
       "dividendYield": 3.19,
-      "relStrength": -6.14,
+      "relStrength": NaN,
       "volumeRatio": 0.76,
       "newsScore": 0.3,
       "newsHeadline": "LNG Prices Soar. These Exporters Could Benefit as Europe Faces a Tough Winter.",
@@ -819,8 +819,8 @@
     {
       "ticker": "ULVR.L",
       "name": "UNILEVER PLC ORD 3.5P",
-      "price": 4987.5,
-      "chg": 1.2,
+      "price": NaN,
+      "chg": NaN,
       "hist": [
         4710.13,
         4828.62,
@@ -845,7 +845,7 @@
         4938.61,
         4915.61,
         4928.5,
-        4987.5
+        NaN
       ],
       "pe": 13.5,
       "debtEq": 1.75,
@@ -855,7 +855,7 @@
       "weekHigh52": 5542.11,
       "weekLow52": 3644.0,
       "dividendYield": 3.18,
-      "relStrength": 3.52,
+      "relStrength": NaN,
       "volumeRatio": 0.55,
       "newsScore": 0.1,
       "newsHeadline": "Pressure Across Staples. Why Deutsche Bank Still Upgraded Unilever (UL)",
@@ -865,8 +865,8 @@
     {
       "ticker": "BARC.L",
       "name": "BARCLAYS PLC ORD 25P",
-      "price": 431.35,
-      "chg": -0.17,
+      "price": NaN,
+      "chg": NaN,
       "hist": [
         436.05,
         431.8,
@@ -891,7 +891,7 @@
         430.05,
         434.75,
         432.1,
-        431.35
+        NaN
       ],
       "pe": 8.6,
       "debtEq": null,
@@ -901,7 +901,7 @@
       "weekHigh52": 538.3,
       "weekLow52": 361.35,
       "dividendYield": 2.65,
-      "relStrength": -3.45,
+      "relStrength": NaN,
       "volumeRatio": 0.59,
       "newsScore": 0.7,
       "newsHeadline": "Barclays to cut about 200 investment banking jobs in New York and London - report",
