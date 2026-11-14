@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-14T03:52:24.132722+00:00",
+  "updated": "2026-11-14T12:38:33.935583+00:00",
   "us": [
     {
       "ticker": "AAPL",
@@ -41,10 +41,10 @@
       "dividendYield": 0.3,
       "relStrength": 6.0,
       "volumeRatio": 0.83,
-      "newsScore": -0.3,
-      "newsHeadline": "What to make of Jensen Huang's resignation: AI Investing Panel",
+      "newsScore": -0.2,
+      "newsHeadline": "In Jensen Huang’s Ouster, Tech Billionaires See a Mistake—and a Lesson",
       "url": "https://finance.yahoo.com/quote/AAPL",
-      "sectorPe": 29.3
+      "sectorPe": 29.2
     },
     {
       "ticker": "MSFT",
@@ -86,10 +86,10 @@
       "dividendYield": 0.75,
       "relStrength": 0.2,
       "volumeRatio": 1.01,
-      "newsScore": 0.1,
+      "newsScore": 0.0,
       "newsHeadline": "Cerebras stock surges on Microsoft deal: What it means for Nvidia",
       "url": "https://finance.yahoo.com/quote/MSFT",
-      "sectorPe": 29.3
+      "sectorPe": 29.2
     },
     {
       "ticker": "NVDA",
@@ -121,20 +121,20 @@
         166.19,
         162.85
       ],
-      "pe": 21.0,
+      "pe": 20.6,
       "debtEq": 0.17,
       "sector": "Technology",
       "industry": "Semiconductors",
       "marketCap": 3932339044352,
       "weekHigh52": 243.37,
       "weekLow52": 148.8,
-      "dividendYield": 0.6,
+      "dividendYield": 0.61,
       "relStrength": -24.37,
       "volumeRatio": 1.92,
-      "newsScore": 0.0,
-      "newsHeadline": "Nvidia's competitors pounce, and what GPU rental prices say about the AI race",
+      "newsScore": -0.1,
+      "newsHeadline": "Nvidia and Jensen Huang fallout: Here's everything we know after a momentous week",
       "url": "https://finance.yahoo.com/quote/NVDA",
-      "sectorPe": 29.3
+      "sectorPe": 29.2
     },
     {
       "ticker": "AMZN",
@@ -176,8 +176,8 @@
       "dividendYield": 0.0,
       "relStrength": 6.99,
       "volumeRatio": 0.63,
-      "newsScore": 0.3,
-      "newsHeadline": "What It Takes to Get Your Wings Delivered During a Football Game—Fast and Hot",
+      "newsScore": 0.5,
+      "newsHeadline": "Scott Galloway Predicts Anthropic’s First Trade Opens “15% to 40% Higher.” That’s Great News for Alphabet and Amazon",
       "url": "https://finance.yahoo.com/quote/AMZN",
       "sectorPe": 225.2
     },
@@ -221,8 +221,8 @@
       "dividendYield": 0.0,
       "relStrength": 8.32,
       "volumeRatio": 0.81,
-      "newsScore": -0.2,
-      "newsHeadline": "Tesla-SpaceX merger announcement as early as December: Bloomberg",
+      "newsScore": 0.0,
+      "newsHeadline": "Forget Elon Musk’s Tesla Roadster ‘Rocket’ — a Chinese rival has 7,000+ orders for its nearly $300K flying car, due 2027",
       "url": "https://finance.yahoo.com/quote/TSLA",
       "sectorPe": 225.2
     },
@@ -256,20 +256,20 @@
         342.82,
         346.19
       ],
-      "pe": 14.4,
+      "pe": 14.5,
       "debtEq": null,
       "sector": "Financial Services",
       "industry": "Banks - Diversified",
       "marketCap": 919345496064,
       "weekHigh52": 366.5,
       "weekLow52": 279.1,
-      "dividendYield": 1.93,
+      "dividendYield": 1.91,
       "relStrength": 5.29,
       "volumeRatio": 0.61,
-      "newsScore": 0.4,
-      "newsHeadline": "Amodei: Anthropic ‘not super fussed’ with timing of IPO",
+      "newsScore": 0.3,
+      "newsHeadline": "JPMorgan Chase (JPM) Sees 40% Jump In Asia Pacific Alternative Asset Allocations",
       "url": "https://finance.yahoo.com/quote/JPM",
-      "sectorPe": 24.5
+      "sectorPe": 24.6
     },
     {
       "ticker": "V",
@@ -308,13 +308,13 @@
       "marketCap": 794383024128,
       "weekHigh52": 442.23,
       "weekLow52": 293.89,
-      "dividendYield": 0.74,
+      "dividendYield": 0.73,
       "relStrength": 11.01,
       "volumeRatio": 0.65,
-      "newsScore": 0.0,
-      "newsHeadline": "Top Stock Reports for Visa, ExxonMobil & Pfizer",
+      "newsScore": 0.3,
+      "newsHeadline": "Visa (V) Stock Gets Fair Value Bump As Analysts Lift Targets On New Growth Areas",
       "url": "https://finance.yahoo.com/quote/V",
-      "sectorPe": 24.5
+      "sectorPe": 24.6
     },
     {
       "ticker": "JNJ",
@@ -346,20 +346,20 @@
         283.52,
         285.75
       ],
-      "pe": 43.0,
+      "pe": 43.4,
       "debtEq": 0.55,
       "sector": "Healthcare",
       "industry": "Drug Manufacturers - General",
       "marketCap": 687888924672,
       "weekHigh52": 288.11,
-      "weekLow52": 193.55,
-      "dividendYield": 1.89,
+      "weekLow52": 195.9,
+      "dividendYield": 1.88,
       "relStrength": 14.58,
       "volumeRatio": 0.82,
-      "newsScore": 0.1,
-      "newsHeadline": "Could You Have Held Glaukos Stock Through Its Falls?",
+      "newsScore": -0.1,
+      "newsHeadline": "3 Biotech Stocks With Revenue Up To 11%",
       "url": "https://finance.yahoo.com/quote/JNJ",
-      "sectorPe": 33.0
+      "sectorPe": 33.4
     },
     {
       "ticker": "UNH",
@@ -391,20 +391,20 @@
         405.13,
         407.46
       ],
-      "pe": 23.1,
+      "pe": 23.3,
       "debtEq": 0.7,
       "sector": "Healthcare",
       "industry": "Healthcare Plans",
       "marketCap": 365093355520,
       "weekHigh52": 461.62,
       "weekLow52": 255.97,
-      "dividendYield": 2.29,
+      "dividendYield": 2.28,
       "relStrength": 5.03,
       "volumeRatio": 0.63,
-      "newsScore": 0.4,
+      "newsScore": 0.6,
       "newsHeadline": "Elevance Health Targets 12% Earnings Growth in 2027 as Insurance Margins Recover",
       "url": "https://finance.yahoo.com/quote/UNH",
-      "sectorPe": 33.0
+      "sectorPe": 33.4
     },
     {
       "ticker": "KO",
@@ -443,7 +443,7 @@
       "marketCap": 426963795968,
       "weekHigh52": 99.3,
       "weekLow52": 67.27,
-      "dividendYield": 2.18,
+      "dividendYield": 2.14,
       "relStrength": 10.18,
       "volumeRatio": 0.98,
       "newsScore": 0.7,
@@ -488,7 +488,7 @@
       "marketCap": 393559572480,
       "weekHigh52": 170.73,
       "weekLow52": 137.62,
-      "dividendYield": 2.59,
+      "dividendYield": 2.56,
       "relStrength": 11.24,
       "volumeRatio": 0.65,
       "newsScore": 0.1,
@@ -533,11 +533,11 @@
       "marketCap": 695874551808,
       "weekHigh52": 188.5,
       "weekLow52": 114.19,
-      "dividendYield": 2.52,
+      "dividendYield": 2.51,
       "relStrength": -1.59,
       "volumeRatio": 0.81,
-      "newsScore": 0.1,
-      "newsHeadline": "Is ExxonMobil Holdings (XOM) Undervalued After Its $12.5b Guyana Longtail Approval?",
+      "newsScore": 0.3,
+      "newsHeadline": "Top 3 Energy Stocks To Watch In November 2026",
       "url": "https://finance.yahoo.com/quote/XOM",
       "sectorPe": 16.9
     },
@@ -578,11 +578,11 @@
       "marketCap": 429061144576,
       "weekHigh52": 236.48,
       "weekLow52": 146.49,
-      "dividendYield": 3.29,
+      "dividendYield": 3.24,
       "relStrength": 1.07,
       "volumeRatio": 0.91,
-      "newsScore": 0.5,
-      "newsHeadline": "LNG Prices Soar. These Exporters Could Benefit as Europe Faces a Tough Winter.",
+      "newsScore": 0.6,
+      "newsHeadline": "Top 3 Energy Stocks To Watch In November 2026",
       "url": "https://finance.yahoo.com/quote/CVX",
       "sectorPe": 16.9
     },
@@ -623,11 +623,11 @@
       "marketCap": 274648023040,
       "weekHigh52": 1073.46,
       "weekLow52": 537.08,
-      "dividendYield": 1.08,
+      "dividendYield": 1.09,
       "relStrength": -17.63,
       "volumeRatio": 0.59,
-      "newsScore": 0.4,
-      "newsHeadline": "Tariffs Pushed Prices Up. Why Retail and Industrial Investors Shouldn't Expect a Quick Reversal",
+      "newsScore": 0.1,
+      "newsHeadline": "China, U.S. discuss tariff cuts ahead of Trump-Xi meeting next week",
       "url": "https://finance.yahoo.com/quote/CAT",
       "sectorPe": 20.6
     },
@@ -671,8 +671,8 @@
       "dividendYield": 0.0,
       "relStrength": -5.09,
       "volumeRatio": 0.52,
-      "newsScore": 0.2,
-      "newsHeadline": "What Is Driving Intuitive Machines Stock?",
+      "newsScore": 0.1,
+      "newsHeadline": "China, U.S. discuss tariff cuts ahead of Trump-Xi meeting next week",
       "url": "https://finance.yahoo.com/quote/BA",
       "sectorPe": 20.6
     }
@@ -681,8 +681,8 @@
     {
       "ticker": "HSBA.L",
       "name": "HSBC HOLDINGS PLC ORD $0.50 (UK",
-      "price": NaN,
-      "chg": NaN,
+      "price": 1354.4,
+      "chg": 0.03,
       "hist": [
         1430.69,
         1422.49,
@@ -707,28 +707,28 @@
         1341.4,
         1355.6,
         1354.0,
-        NaN
+        1354.4
       ],
       "pe": 11.9,
       "debtEq": null,
       "sector": "Financial Services",
       "industry": "Banks - Diversified",
-      "marketCap": 231504691200,
+      "marketCap": 231491174400,
       "weekHigh52": 1610.0,
       "weekLow52": 1027.8,
-      "dividendYield": 2.21,
-      "relStrength": NaN,
+      "dividendYield": 2.23,
+      "relStrength": -7.7,
       "volumeRatio": 0.48,
       "newsScore": -0.3,
-      "newsHeadline": "Stock Market Today, Nov. 13: Nvidia Slides After HSBC Downgrades Stock to Hold on CEO Uncertainty",
+      "newsHeadline": "Bank of England likely to raise rates further in 2027, Huw Pill says - FT",
       "url": "https://finance.yahoo.com/quote/HSBA.L",
       "sectorPe": 10.2
     },
     {
       "ticker": "AZN.L",
       "name": "ASTRAZENECA PLC ORD SHS $0.25",
-      "price": NaN,
-      "chg": NaN,
+      "price": 13982.0,
+      "chg": 0.37,
       "hist": [
         11896.0,
         12300.0,
@@ -753,7 +753,7 @@
         13884.0,
         13896.0,
         13930.0,
-        NaN
+        13982.0
       ],
       "pe": 26.4,
       "debtEq": 0.66,
@@ -763,8 +763,8 @@
       "weekHigh52": 15732.0,
       "weekLow52": 9892.0,
       "dividendYield": 1.72,
-      "relStrength": NaN,
-      "volumeRatio": 0.39,
+      "relStrength": 15.17,
+      "volumeRatio": 0.4,
       "newsScore": 0.2,
       "newsHeadline": "3 British Healthcare Stocks With Revenue Growth Up To 13%",
       "url": "https://finance.yahoo.com/quote/AZN.L",
@@ -773,8 +773,8 @@
     {
       "ticker": "SHEL.L",
       "name": "SHELL PLC ORD EUR0.07",
-      "price": NaN,
-      "chg": NaN,
+      "price": 3719.5,
+      "chg": 1.49,
       "hist": [
         3865.09,
         3911.08,
@@ -799,17 +799,17 @@
         3624.11,
         3670.11,
         3665.0,
-        NaN
+        3719.5
       ],
       "pe": 8.7,
       "debtEq": 0.38,
       "sector": "Energy",
       "industry": "Oil & Gas Integrated",
-      "marketCap": 210349391872,
+      "marketCap": 210274402304,
       "weekHigh52": 4110.0,
       "weekLow52": 2553.77,
-      "dividendYield": 3.19,
-      "relStrength": NaN,
+      "dividendYield": 3.21,
+      "relStrength": -6.14,
       "volumeRatio": 0.76,
       "newsScore": 0.3,
       "newsHeadline": "LNG Prices Soar. These Exporters Could Benefit as Europe Faces a Tough Winter.",
@@ -819,8 +819,8 @@
     {
       "ticker": "ULVR.L",
       "name": "UNILEVER PLC ORD 3.5P",
-      "price": NaN,
-      "chg": NaN,
+      "price": 4987.5,
+      "chg": 1.2,
       "hist": [
         4710.13,
         4828.62,
@@ -845,7 +845,7 @@
         4938.61,
         4915.61,
         4928.5,
-        NaN
+        4987.5
       ],
       "pe": 13.5,
       "debtEq": 1.75,
@@ -854,9 +854,9 @@
       "marketCap": 107399184384,
       "weekHigh52": 5542.11,
       "weekLow52": 3644.0,
-      "dividendYield": 3.18,
-      "relStrength": NaN,
-      "volumeRatio": 0.55,
+      "dividendYield": 3.17,
+      "relStrength": 3.52,
+      "volumeRatio": 0.59,
       "newsScore": 0.1,
       "newsHeadline": "Pressure Across Staples. Why Deutsche Bank Still Upgraded Unilever (UL)",
       "url": "https://finance.yahoo.com/quote/ULVR.L",
@@ -865,8 +865,8 @@
     {
       "ticker": "BARC.L",
       "name": "BARCLAYS PLC ORD 25P",
-      "price": NaN,
-      "chg": NaN,
+      "price": 431.35,
+      "chg": -0.17,
       "hist": [
         436.05,
         431.8,
@@ -891,7 +891,7 @@
         430.05,
         434.75,
         432.1,
-        NaN
+        431.35
       ],
       "pe": 8.6,
       "debtEq": null,
@@ -900,11 +900,11 @@
       "marketCap": 57304346624,
       "weekHigh52": 538.3,
       "weekLow52": 361.35,
-      "dividendYield": 2.65,
-      "relStrength": NaN,
-      "volumeRatio": 0.59,
-      "newsScore": 0.7,
-      "newsHeadline": "Barclays to cut about 200 investment banking jobs in New York and London - report",
+      "dividendYield": 2.66,
+      "relStrength": -3.45,
+      "volumeRatio": 0.6,
+      "newsScore": 0.6,
+      "newsHeadline": "Bank of England likely to raise rates further in 2027, Huw Pill says - FT",
       "url": "https://finance.yahoo.com/quote/BARC.L",
       "sectorPe": 10.2
     }
