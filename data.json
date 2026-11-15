@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-15T03:32:42.588245+00:00",
+  "updated": "2026-11-15T13:04:26.526089+00:00",
   "us": [
     {
       "ticker": "AAPL",
@@ -41,8 +41,8 @@
       "dividendYield": 0.3,
       "relStrength": 6.0,
       "volumeRatio": 0.83,
-      "newsScore": 1.1,
-      "newsHeadline": "Evercore explains why Apple has the right assets to win the personal agents race",
+      "newsScore": 0.7,
+      "newsHeadline": "Want to Invest in Top Growth Stocks Like Amazon, Apple, and Microsoft but Avoid Nvidia? Consider This Low-Cost Vanguard ETF That’s Up 24.8% This Year.",
       "url": "https://finance.yahoo.com/quote/AAPL",
       "sectorPe": 29.2
     },
@@ -86,8 +86,8 @@
       "dividendYield": 0.75,
       "relStrength": 0.2,
       "volumeRatio": 1.01,
-      "newsScore": 0.6,
-      "newsHeadline": "Microsoft says AI didn’t break Outlook — its own network upgrade did",
+      "newsScore": 0.5,
+      "newsHeadline": "Want to Invest in Top Growth Stocks Like Amazon, Apple, and Microsoft but Avoid Nvidia? Consider This Low-Cost Vanguard ETF That’s Up 24.8% This Year.",
       "url": "https://finance.yahoo.com/quote/MSFT",
       "sectorPe": 29.2
     },
@@ -131,8 +131,8 @@
       "dividendYield": 0.61,
       "relStrength": -24.37,
       "volumeRatio": 1.92,
-      "newsScore": -0.3,
-      "newsHeadline": "Why the biggest risk for investors in 2027 isn't Nvidia — it's inflation",
+      "newsScore": -0.1,
+      "newsHeadline": "Nvidia's first post-Jensen earnings and Anthropic's IPO: What to watch this week",
       "url": "https://finance.yahoo.com/quote/NVDA",
       "sectorPe": 29.2
     },
@@ -176,8 +176,8 @@
       "dividendYield": 0.0,
       "relStrength": 6.99,
       "volumeRatio": 0.63,
-      "newsScore": 0.1,
-      "newsHeadline": "Amazon (AMZN) Has Its First Binding Union Contract In North America",
+      "newsScore": 0.2,
+      "newsHeadline": "Want to Invest in Top Growth Stocks Like Amazon, Apple, and Microsoft but Avoid Nvidia? Consider This Low-Cost Vanguard ETF That’s Up 24.8% This Year.",
       "url": "https://finance.yahoo.com/quote/AMZN",
       "sectorPe": 225.2
     },
@@ -221,8 +221,8 @@
       "dividendYield": 0.0,
       "relStrength": 8.32,
       "volumeRatio": 0.81,
-      "newsScore": -0.4,
-      "newsHeadline": "Elon Musk's Tesla and SpaceX Lost More Than $420 Billion in Combined Market Value in Two Days After Democrats Swept the Midterms, With Investors Fearing New Congressional Probes. Here's Why That Political Risk Matters for Shareholders",
+      "newsScore": 0.1,
+      "newsHeadline": "3 Growth Stocks With Revenue Growth Over 18%",
       "url": "https://finance.yahoo.com/quote/TSLA",
       "sectorPe": 225.2
     },
@@ -311,8 +311,8 @@
       "dividendYield": 0.73,
       "relStrength": 11.01,
       "volumeRatio": 0.65,
-      "newsScore": 0.7,
-      "newsHeadline": "MercadoLibre vs. Uber Technologies: Which Consumer Network Stock Is a Better Buy for 2027?",
+      "newsScore": 0.6,
+      "newsHeadline": "What Is Next For Global Payments (GPN) After Elliott Pressure And Authentication Upgrade?",
       "url": "https://finance.yahoo.com/quote/V",
       "sectorPe": 24.6
     },
@@ -627,7 +627,7 @@
       "relStrength": -17.63,
       "volumeRatio": 0.59,
       "newsScore": 0.1,
-      "newsHeadline": "China, U.S. discuss tariff cuts ahead of Trump-Xi meeting next week",
+      "newsHeadline": "Michael Burry sees 2 chip winners in Nvidia’s shake-up",
       "url": "https://finance.yahoo.com/quote/CAT",
       "sectorPe": 20.6
     },
@@ -671,8 +671,8 @@
       "dividendYield": 0.0,
       "relStrength": -5.09,
       "volumeRatio": 0.52,
-      "newsScore": 0.1,
-      "newsHeadline": "China, U.S. discuss tariff cuts ahead of Trump-Xi meeting next week",
+      "newsScore": -0.3,
+      "newsHeadline": "Planes collide in Miami a day after a nationwide ground stop. Airlines may owe you nothing for hotels — who pays instead",
       "url": "https://finance.yahoo.com/quote/BA",
       "sectorPe": 20.6
     }
@@ -755,7 +755,7 @@
         13930.0,
         13982.0
       ],
-      "pe": 26.5,
+      "pe": 26.4,
       "debtEq": 0.66,
       "sector": "Healthcare",
       "industry": "Drug Manufacturers - General",
@@ -768,7 +768,7 @@
       "newsScore": 0.1,
       "newsHeadline": "Top 3 British Biotech Stocks To Watch In November 2026",
       "url": "https://finance.yahoo.com/quote/AZN.L",
-      "sectorPe": 26.5
+      "sectorPe": 26.4
     },
     {
       "ticker": "SHEL.L",
