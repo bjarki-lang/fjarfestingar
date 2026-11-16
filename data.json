@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-15T22:13:03.219220+00:00",
+  "updated": "2026-11-16T03:32:53.797229+00:00",
   "us": [
     {
       "ticker": "AAPL",
@@ -41,8 +41,8 @@
       "dividendYield": 0.3,
       "relStrength": 6.0,
       "volumeRatio": 0.83,
-      "newsScore": 0.3,
-      "newsHeadline": "‘Bond King’ Jeffrey Gundlach Is “Not Interested in Buying Stocks.” His Warning Points to 10 Years of Losses",
+      "newsScore": 0.0,
+      "newsHeadline": "Why Did AAPL, ZETA, FROG Stocks Jump To 52-Week Highs Last Week?c",
       "url": "https://finance.yahoo.com/quote/AAPL",
       "sectorPe": 29.2
     },
@@ -86,8 +86,8 @@
       "dividendYield": 0.75,
       "relStrength": 0.2,
       "volumeRatio": 1.01,
-      "newsScore": 0.2,
-      "newsHeadline": "Rigetti Computing vs. SoundHound AI: Which Technology Stock Is a Better Buy for 2027?",
+      "newsScore": 0.1,
+      "newsHeadline": "Anthropic's record IPO faces some big questions",
       "url": "https://finance.yahoo.com/quote/MSFT",
       "sectorPe": 29.2
     },
@@ -131,8 +131,8 @@
       "dividendYield": 0.61,
       "relStrength": -24.37,
       "volumeRatio": 1.92,
-      "newsScore": 0.2,
-      "newsHeadline": "'Massive shoes to fill': Wall Street sours on Nvidia stock after Jensen Huang's exit",
+      "newsScore": -0.0,
+      "newsHeadline": "Nvidia stock steady as Jensen Huang reportedly weighs CEO comeback, Musk backs return",
       "url": "https://finance.yahoo.com/quote/NVDA",
       "sectorPe": 29.2
     },
@@ -176,8 +176,8 @@
       "dividendYield": 0.0,
       "relStrength": 6.99,
       "volumeRatio": 0.63,
-      "newsScore": -0.1,
-      "newsHeadline": "Rocket from Boeing-Lockheed firm fails mid-flight, destroys payload of Amazon satellites",
+      "newsScore": 0.2,
+      "newsHeadline": "Amazon vs. Target: Which Stock Is the Better Portfolio Addition?",
       "url": "https://finance.yahoo.com/quote/AMZN",
       "sectorPe": 225.2
     },
@@ -221,8 +221,8 @@
       "dividendYield": 0.0,
       "relStrength": 8.32,
       "volumeRatio": 0.81,
-      "newsScore": 0.1,
-      "newsHeadline": "Jensen Huang may return as Nvidia chief executive - report",
+      "newsScore": 0.2,
+      "newsHeadline": "Nvidia stock steady as Jensen Huang reportedly weighs CEO comeback, Musk backs return",
       "url": "https://finance.yahoo.com/quote/TSLA",
       "sectorPe": 225.2
     },
@@ -311,8 +311,8 @@
       "dividendYield": 0.73,
       "relStrength": 11.01,
       "volumeRatio": 0.65,
-      "newsScore": 0.2,
-      "newsHeadline": "Prediction: Visa Stock Hits $500 in 2028",
+      "newsScore": 0.1,
+      "newsHeadline": "Visa And Mastercard Stocks Face A Stablecoin Test Investors Should Watch",
       "url": "https://finance.yahoo.com/quote/V",
       "sectorPe": 24.6
     },
@@ -357,7 +357,7 @@
       "relStrength": 14.58,
       "volumeRatio": 0.82,
       "newsScore": 0.1,
-      "newsHeadline": "4 Durable Dividend Stocks Retirees Can Count On for Passive Income",
+      "newsHeadline": "J&J looks to buy Ollin Biosciences for up to $3.4 billion, FT says",
       "url": "https://finance.yahoo.com/quote/JNJ",
       "sectorPe": 33.4
     },
