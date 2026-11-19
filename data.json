@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-18T23:40:18.977322+00:00",
+  "updated": "2026-11-19T04:50:49.355598+00:00",
   "us": [
     {
       "ticker": "AAPL",
@@ -40,11 +40,11 @@
       "weekLow52": 243.42,
       "dividendYield": 0.31,
       "relStrength": 7.62,
-      "volumeRatio": 0.71,
-      "newsScore": 0.1,
+      "volumeRatio": 0.73,
+      "newsScore": 0.0,
       "newsHeadline": "Major tech outages raise new cybersecurity concerns",
       "url": "https://finance.yahoo.com/quote/AAPL",
-      "sectorPe": 28.3
+      "sectorPe": 27.3
     },
     {
       "ticker": "MSFT",
@@ -76,7 +76,7 @@
         506.24,
         508.29
       ],
-      "pe": 26.5,
+      "pe": 26.4,
       "debtEq": 0.28,
       "sector": "Technology",
       "industry": "Software - Infrastructure",
@@ -85,11 +85,11 @@
       "weekLow52": 349.2,
       "dividendYield": 0.77,
       "relStrength": 0.04,
-      "volumeRatio": 0.81,
-      "newsScore": -0.3,
-      "newsHeadline": "Major tech outages raise new cybersecurity concerns",
+      "volumeRatio": 0.83,
+      "newsScore": -0.4,
+      "newsHeadline": "Anthropic to debut amid security worries and SpaceX to finance GPU rentals",
       "url": "https://finance.yahoo.com/quote/MSFT",
-      "sectorPe": 28.3
+      "sectorPe": 27.3
     },
     {
       "ticker": "NVDA",
@@ -121,7 +121,7 @@
         155.46,
         150.96
       ],
-      "pe": 19.1,
+      "pe": 16.2,
       "debtEq": 0.17,
       "sector": "Technology",
       "industry": "Semiconductors",
@@ -130,11 +130,11 @@
       "weekLow52": 148.8,
       "dividendYield": 0.64,
       "relStrength": -25.69,
-      "volumeRatio": 1.53,
-      "newsScore": 0.2,
+      "volumeRatio": 1.54,
+      "newsScore": 0.0,
       "newsHeadline": "The data center bottlenecks that Mavria aims to solve",
       "url": "https://finance.yahoo.com/quote/NVDA",
-      "sectorPe": 28.3
+      "sectorPe": 27.3
     },
     {
       "ticker": "AMZN",
@@ -166,7 +166,7 @@
         257.89,
         267.74
       ],
-      "pe": 21.6,
+      "pe": 20.9,
       "debtEq": 0.5,
       "sector": "Consumer Cyclical",
       "industry": "Internet Retail",
@@ -176,10 +176,10 @@
       "dividendYield": 0.0,
       "relStrength": 6.79,
       "volumeRatio": 0.83,
-      "newsScore": 0.3,
+      "newsScore": 0.5,
       "newsHeadline": "Nvidia's next CEO should be hired internally, Jeff Bezos advises",
       "url": "https://finance.yahoo.com/quote/AMZN",
-      "sectorPe": 221.7
+      "sectorPe": 219.0
     },
     {
       "ticker": "TSLA",
@@ -211,7 +211,7 @@
         380.11,
         383.72
       ],
-      "pe": 421.7,
+      "pe": 417.1,
       "debtEq": 0.18,
       "sector": "Consumer Cyclical",
       "industry": "Auto Manufacturers",
@@ -221,10 +221,10 @@
       "dividendYield": 0.0,
       "relStrength": 9.02,
       "volumeRatio": 0.7,
-      "newsScore": 0.4,
+      "newsScore": 0.6,
       "newsHeadline": "Skydance's David Ellison calls Elon Musk 'the greatest entrepreneur of our time'",
       "url": "https://finance.yahoo.com/quote/TSLA",
-      "sectorPe": 221.7
+      "sectorPe": 219.0
     },
     {
       "ticker": "JPM",
@@ -265,9 +265,9 @@
       "weekLow52": 279.1,
       "dividendYield": 2.0,
       "relStrength": 1.95,
-      "volumeRatio": 1.02,
+      "volumeRatio": 1.03,
       "newsScore": 0.4,
-      "newsHeadline": "Popular carmaker taps JPMorgan for agent payments",
+      "newsHeadline": "Fed Chair Kevin Warsh Vowed to Hit the Fed's 2% Inflation Target After October's Rate Hold, Even as JPMorgan Warns Democratic Control of the Senate Could Make Him a One-Term Chair. Here's Why That Political Risk Matters for Markets.",
       "url": "https://finance.yahoo.com/quote/JPM",
       "sectorPe": 23.7
     },
@@ -301,7 +301,7 @@
         416.77,
         415.22
       ],
-      "pe": 33.7,
+      "pe": 33.8,
       "debtEq": 0.64,
       "sector": "Financial Services",
       "industry": "Credit Services",
@@ -449,7 +449,7 @@
       "newsScore": -0.3,
       "newsHeadline": "Biggest Dow Jones Loser Nike Rebounds After Its Investor Day",
       "url": "https://finance.yahoo.com/quote/KO",
-      "sectorPe": 27.2
+      "sectorPe": 27.4
     },
     {
       "ticker": "PG",
@@ -481,7 +481,7 @@
         171.72,
         170.29
       ],
-      "pe": 25.6,
+      "pe": 25.9,
       "debtEq": 0.7,
       "sector": "Consumer Defensive",
       "industry": "Household & Personal Products",
@@ -490,11 +490,11 @@
       "weekLow52": 137.62,
       "dividendYield": 2.54,
       "relStrength": 13.48,
-      "volumeRatio": 0.82,
-      "newsScore": 0.5,
-      "newsHeadline": "Invest $25,000 in These 4 Dividend Stocks to Start Building Retirement Income",
+      "volumeRatio": 0.9,
+      "newsScore": 0.1,
+      "newsHeadline": "Ken Griffin Dumps SpaceX, Amazon; Buys ARKK and Bets Big on Marvell",
       "url": "https://finance.yahoo.com/quote/PG",
-      "sectorPe": 27.2
+      "sectorPe": 27.4
     },
     {
       "ticker": "XOM",
@@ -535,7 +535,7 @@
       "weekLow52": 114.19,
       "dividendYield": 2.56,
       "relStrength": -4.59,
-      "volumeRatio": 1.23,
+      "volumeRatio": 1.29,
       "newsScore": 0.0,
       "newsHeadline": "ExxonMobil (XOM) Just Achieved Something 95% of S&P 500 (GSPC) Members Haven't Done",
       "url": "https://finance.yahoo.com/quote/XOM",
@@ -547,28 +547,28 @@
       "price": 205.88,
       "chg": -3.95,
       "hist": [
-        224.37,
-        225.71,
-        226.78,
-        226.68,
-        233.21,
-        232.01,
-        228.23,
-        229.2,
-        231.46,
-        235.52,
-        227.77,
-        225.27,
-        216.96,
-        212.93,
-        212.61,
-        210.78,
-        211.22,
-        213.28,
-        216.35,
-        219.89,
-        217.14,
-        216.13,
+        222.52,
+        223.85,
+        224.91,
+        224.81,
+        231.29,
+        230.1,
+        226.35,
+        227.31,
+        229.55,
+        233.58,
+        225.89,
+        223.41,
+        215.17,
+        211.18,
+        210.86,
+        209.04,
+        209.48,
+        211.52,
+        214.57,
+        218.08,
+        215.35,
+        214.35,
         205.88
       ],
       "pe": 15.1,
@@ -579,10 +579,10 @@
       "weekHigh52": 236.48,
       "weekLow52": 146.49,
       "dividendYield": 3.29,
-      "relStrength": -3.47,
-      "volumeRatio": 1.21,
-      "newsScore": -0.1,
-      "newsHeadline": "3 Energy Stocks With Dividends Built to Last the Next 10 Years",
+      "relStrength": -2.71,
+      "volumeRatio": 1.24,
+      "newsScore": -0.2,
+      "newsHeadline": "Ken Griffin Dumps SpaceX, Amazon; Buys ARKK and Bets Big on Marvell",
       "url": "https://finance.yahoo.com/quote/CVX",
       "sectorPe": 15.8
     },
@@ -616,7 +616,7 @@
         570.79,
         558.77
       ],
-      "pe": 21.9,
+      "pe": 22.4,
       "debtEq": 2.1,
       "sector": "Industrials",
       "industry": "Farm & Heavy Construction Machinery",
@@ -629,7 +629,7 @@
       "newsScore": 0.3,
       "newsHeadline": "Morgan Stanley sees Caterpillar rental gains, stays cautious",
       "url": "https://finance.yahoo.com/quote/CAT",
-      "sectorPe": 19.4
+      "sectorPe": 19.6
     },
     {
       "ticker": "BA",
@@ -672,17 +672,17 @@
       "relStrength": -10.12,
       "volumeRatio": 0.59,
       "newsScore": -0.2,
-      "newsHeadline": "Biggest Dow Jones Loser Nike Rebounds After Its Investor Day",
+      "newsHeadline": "Woodward Q4 Earnings Call Highlights",
       "url": "https://finance.yahoo.com/quote/BA",
-      "sectorPe": 19.4
+      "sectorPe": 19.6
     }
   ],
   "uk": [
     {
       "ticker": "HSBA.L",
       "name": "HSBC HOLDINGS PLC ORD $0.50 (UK",
-      "price": 1292.2,
-      "chg": -2.09,
+      "price": NaN,
+      "chg": NaN,
       "hist": [
         1397.09,
         1385.09,
@@ -706,7 +706,7 @@
         1354.4,
         1347.0,
         1319.8,
-        1292.2
+        NaN
       ],
       "pe": 11.3,
       "debtEq": null,
@@ -716,7 +716,7 @@
       "weekHigh52": 1610.0,
       "weekLow52": 1027.8,
       "dividendYield": 2.3,
-      "relStrength": -5.53,
+      "relStrength": NaN,
       "volumeRatio": 0.64,
       "newsScore": 0.4,
       "newsHeadline": "Top 3 British Dividend Stocks To Watch In November 2026",
@@ -726,8 +726,8 @@
     {
       "ticker": "AZN.L",
       "name": "ASTRAZENECA PLC ORD SHS $0.25",
-      "price": 13646.0,
-      "chg": -1.13,
+      "price": NaN,
+      "chg": NaN,
       "hist": [
         12400.0,
         12618.0,
@@ -751,9 +751,9 @@
         13982.0,
         14034.0,
         13802.0,
-        13646.0
+        NaN
       ],
-      "pe": 25.9,
+      "pe": 25.5,
       "debtEq": 0.66,
       "sector": "Healthcare",
       "industry": "Drug Manufacturers - General",
@@ -761,18 +761,18 @@
       "weekHigh52": 15732.0,
       "weekLow52": 9892.0,
       "dividendYield": 1.73,
-      "relStrength": 12.03,
+      "relStrength": NaN,
       "volumeRatio": 0.64,
       "newsScore": -0.1,
       "newsHeadline": "AstraZeneca gets Jefferies backing as broker sees $80bn sales target within reach",
       "url": "https://finance.yahoo.com/quote/AZN.L",
-      "sectorPe": 25.9
+      "sectorPe": 25.5
     },
     {
       "ticker": "SHEL.L",
       "name": "SHELL PLC ORD EUR0.07",
-      "price": 3595.5,
-      "chg": -2.12,
+      "price": NaN,
+      "chg": NaN,
       "hist": [
         3931.58,
         3899.58,
@@ -796,9 +796,9 @@
         3719.5,
         3705.5,
         3673.5,
-        3595.5
+        NaN
       ],
-      "pe": 8.4,
+      "pe": 8.3,
       "debtEq": 0.38,
       "sector": "Energy",
       "industry": "Oil & Gas Integrated",
@@ -806,18 +806,18 @@
       "weekHigh52": 4110.0,
       "weekLow52": 2553.77,
       "dividendYield": 3.23,
-      "relStrength": -6.57,
+      "relStrength": NaN,
       "volumeRatio": 0.83,
       "newsScore": 0.4,
       "newsHeadline": "Shell's Rosmari-Marjoram Startup Boosts Malaysia's Gas Supply",
       "url": "https://finance.yahoo.com/quote/SHEL.L",
-      "sectorPe": 8.4
+      "sectorPe": 8.3
     },
     {
       "ticker": "ULVR.L",
       "name": "UNILEVER PLC ORD 3.5P",
-      "price": 4892.5,
-      "chg": -1.27,
+      "price": NaN,
+      "chg": NaN,
       "hist": [
         4904.11,
         4903.11,
@@ -841,7 +841,7 @@
         4987.5,
         5048.0,
         4955.5,
-        4892.5
+        NaN
       ],
       "pe": 13.3,
       "debtEq": 1.75,
@@ -851,7 +851,7 @@
       "weekHigh52": 5542.11,
       "weekLow52": 3644.0,
       "dividendYield": 3.15,
-      "relStrength": 1.74,
+      "relStrength": NaN,
       "volumeRatio": 0.85,
       "newsScore": -0.2,
       "newsHeadline": "Anthropic Investors, Beware of the Board.",
@@ -861,8 +861,8 @@
     {
       "ticker": "BARC.L",
       "name": "BARCLAYS PLC ORD 25P",
-      "price": 411.1,
-      "chg": -1.39,
+      "price": NaN,
+      "chg": NaN,
       "hist": [
         417.5,
         418.85,
@@ -886,7 +886,7 @@
         431.35,
         427.9,
         416.9,
-        411.1
+        NaN
       ],
       "pe": 8.2,
       "debtEq": null,
@@ -896,10 +896,10 @@
       "weekHigh52": 538.3,
       "weekLow52": 361.35,
       "dividendYield": 2.76,
-      "relStrength": 0.45,
+      "relStrength": NaN,
       "volumeRatio": 0.95,
-      "newsScore": 0.2,
-      "newsHeadline": "Reliance (RS) Gets A Barclays Upgrade, Is The Upside Already Priced In?",
+      "newsScore": 0.1,
+      "newsHeadline": "Barclays Stock And 2 Capital Markets Plays Tied To The AI Funding Boom",
       "url": "https://finance.yahoo.com/quote/BARC.L",
       "sectorPe": 9.8
     }
