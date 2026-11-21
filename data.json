@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-21T13:50:10.992335+00:00",
+  "updated": "2026-11-21T22:32:06.875980+00:00",
   "us": [
     {
       "ticker": "AAPL",
@@ -41,8 +41,8 @@
       "dividendYield": 0.32,
       "relStrength": 10.58,
       "volumeRatio": 1.71,
-      "newsScore": -0.3,
-      "newsHeadline": "Apple's secret AI agent shows John Ternus is done sitting out the AI race",
+      "newsScore": -0.6,
+      "newsHeadline": "Dow Jones Futures: After Nvidia, Anthropic Fuel Worst Week Since Covid, Look For These 'Absolute Losers'",
       "url": "https://finance.yahoo.com/quote/AAPL",
       "sectorPe": 25.6
     },
@@ -86,8 +86,8 @@
       "dividendYield": 0.81,
       "relStrength": 2.01,
       "volumeRatio": 1.72,
-      "newsScore": -0.2,
-      "newsHeadline": "Mercedes F1's drivers still get the final say, even as it utilizes AI agents",
+      "newsScore": -0.4,
+      "newsHeadline": "Dell Up 447% In 5 Years, HPE 220%: What Did Michael Dell Do Differently?",
       "url": "https://finance.yahoo.com/quote/MSFT",
       "sectorPe": 25.6
     },
@@ -131,8 +131,8 @@
       "dividendYield": 0.8,
       "relStrength": -32.53,
       "volumeRatio": 2.55,
-      "newsScore": 0.1,
-      "newsHeadline": "Nvidia stock extends $2.7 trillion rout as SEC probe reportedly investigates its accounting",
+      "newsScore": 0.2,
+      "newsHeadline": "What just happened to tech stocks?",
       "url": "https://finance.yahoo.com/quote/NVDA",
       "sectorPe": 25.6
     },
@@ -176,8 +176,8 @@
       "dividendYield": 0.0,
       "relStrength": 4.99,
       "volumeRatio": 1.49,
-      "newsScore": 0.0,
-      "newsHeadline": "AMD Is “A Direct Stakeholder in Anthropic.” That’s Up to $5 Billion Riding on Its IPO",
+      "newsScore": -0.1,
+      "newsHeadline": "Musk Says Cybercab “Covers About 90%” of Passenger Miles. Tesla’s Next Robotaxi Is a Wheel-Less Model Y",
       "url": "https://finance.yahoo.com/quote/AMZN",
       "sectorPe": 200.0
     },
@@ -221,8 +221,8 @@
       "dividendYield": 0.0,
       "relStrength": 0.4,
       "volumeRatio": 1.23,
-      "newsScore": 0.2,
-      "newsHeadline": "Elon Musk Calls Anthropic’s Models ‘Great Products,’ Jassy Says ‘We’re Big Believers’: Mag 7 Voices This Week",
+      "newsScore": 0.5,
+      "newsHeadline": "Tesla (TSLA) Stock Looks Richly Priced After Its 47% Three Year Run",
       "url": "https://finance.yahoo.com/quote/TSLA",
       "sectorPe": 200.0
     },
@@ -267,7 +267,7 @@
       "relStrength": 3.56,
       "volumeRatio": 1.9,
       "newsScore": 0.4,
-      "newsHeadline": "How Retirees Can Turn $450,000 Into Passive Income With These 5 Dividend Stocks",
+      "newsHeadline": "These 5 Stock Market Myths Can Cost You Thousands (Here's the Reality)",
       "url": "https://finance.yahoo.com/quote/JPM",
       "sectorPe": 22.8
     },
@@ -312,7 +312,7 @@
       "relStrength": 9.64,
       "volumeRatio": 1.19,
       "newsScore": -0.2,
-      "newsHeadline": "Prologis Has Gone Nowhere in a Year. Former Visa CEO Alfred Kelly Just Bought $587,000 of Stock",
+      "newsHeadline": "A $1.3 Billion Fund Just Bought These 3 Stocks",
       "url": "https://finance.yahoo.com/quote/V",
       "sectorPe": 22.8
     },
@@ -357,7 +357,7 @@
       "relStrength": 15.84,
       "volumeRatio": 1.57,
       "newsScore": 0.1,
-      "newsHeadline": "5 Dividend Kings to Buy for Lifelong Income Before the End of November",
+      "newsHeadline": "3 Reasons Dividend Aristocrats Belong in Your Roth IRA Before You Retire",
       "url": "https://finance.yahoo.com/quote/JNJ",
       "sectorPe": 30.2
     },
@@ -401,8 +401,8 @@
       "dividendYield": 2.73,
       "relStrength": -7.58,
       "volumeRatio": 2.06,
-      "newsScore": 0.3,
-      "newsHeadline": "UnitedHealth Keeps Sliding on Washington’s Audit Plan: Why TD Cowen Sees 34% Upside",
+      "newsScore": -0.0,
+      "newsHeadline": "UnitedHealth Is Suing the Government Over Medicare Advantage Star Ratings",
       "url": "https://finance.yahoo.com/quote/UNH",
       "sectorPe": 30.2
     },
@@ -446,8 +446,8 @@
       "dividendYield": 2.19,
       "relStrength": 15.57,
       "volumeRatio": 1.39,
-      "newsScore": 0.3,
-      "newsHeadline": "5 Dividend Kings to Buy for Lifelong Income Before the End of November",
+      "newsScore": 0.2,
+      "newsHeadline": "Here's How Many Shares of Coca-Cola You'd Need for $1,000 in Monthly Income",
       "url": "https://finance.yahoo.com/quote/KO",
       "sectorPe": 27.1
     },
@@ -491,8 +491,8 @@
       "dividendYield": 2.57,
       "relStrength": 19.62,
       "volumeRatio": 1.17,
-      "newsScore": 0.4,
-      "newsHeadline": "5 Dividend Kings to Buy for Lifelong Income Before the End of November",
+      "newsScore": 0.1,
+      "newsHeadline": "Turn Your Roth IRA Into a Tax-Free Dividend Income Machine With These 3 Simple Moves",
       "url": "https://finance.yahoo.com/quote/PG",
       "sectorPe": 27.1
     },
@@ -536,8 +536,8 @@
       "dividendYield": 2.68,
       "relStrength": 1.33,
       "volumeRatio": 1.3,
-      "newsScore": 0.7,
-      "newsHeadline": "How Many Shares of Chevron, Shell or Exxon Pay $1,000 a Month in Dividends?",
+      "newsScore": 0.6,
+      "newsHeadline": "Gas Prices Are Dropping at a 2008 Pace Right Before Thanksgiving",
       "url": "https://finance.yahoo.com/quote/XOM",
       "sectorPe": 15.9
     },
@@ -581,8 +581,8 @@
       "dividendYield": 3.42,
       "relStrength": 3.57,
       "volumeRatio": 1.44,
-      "newsScore": 0.5,
-      "newsHeadline": "How Retirees Can Turn $450,000 Into Passive Income With These 5 Dividend Stocks",
+      "newsScore": 0.3,
+      "newsHeadline": "Gas Prices Are Dropping at a 2008 Pace Right Before Thanksgiving",
       "url": "https://finance.yahoo.com/quote/CVX",
       "sectorPe": 15.9
     },
@@ -627,7 +627,7 @@
       "relStrength": -19.96,
       "volumeRatio": 1.31,
       "newsScore": -0.4,
-      "newsHeadline": "Cathie Wood and 10 Other Big Funds Sold Caterpillar Last Quarter, While 13 Bought. Who’s Right?",
+      "newsHeadline": "3 Machinery Dividend Stocks to Buy in December After a Brutal Selloff",
       "url": "https://finance.yahoo.com/quote/CAT",
       "sectorPe": 18.1
     },
@@ -671,8 +671,8 @@
       "dividendYield": 0.0,
       "relStrength": -8.01,
       "volumeRatio": 1.09,
-      "newsScore": 0.2,
-      "newsHeadline": "The CEO of Telefónica Knows He’s on the Front Lines of Europe’s Scramble for Autonomy",
+      "newsScore": -0.1,
+      "newsHeadline": "Boeing's 2,500 job cuts come with a troubling unanswered question",
       "url": "https://finance.yahoo.com/quote/BA",
       "sectorPe": 18.1
     }
@@ -765,8 +765,8 @@
       "dividendYield": 1.8,
       "relStrength": 9.89,
       "volumeRatio": 0.91,
-      "newsScore": -0.1,
-      "newsHeadline": "AstraZeneca leads European big pharma on growth, pipeline depth",
+      "newsScore": 0.0,
+      "newsHeadline": "3 British Stocks Trading Up To 43% Below Cash Flow Value",
       "url": "https://finance.yahoo.com/quote/AZN.L",
       "sectorPe": 25.2
     },
@@ -812,7 +812,7 @@
       "relStrength": -4.74,
       "volumeRatio": 1.09,
       "newsScore": 0.5,
-      "newsHeadline": "How Many Shares of Chevron, Shell or Exxon Pay $1,000 a Month in Dividends?",
+      "newsHeadline": "Shell (LSE:SHEL) Gets Bay Du Nord Plan Approval As FID Moves Closer",
       "url": "https://finance.yahoo.com/quote/SHEL.L",
       "sectorPe": 8.1
     },
