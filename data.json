@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-21T22:32:06.875980+00:00",
+  "updated": "2026-11-22T03:49:52.821688+00:00",
   "us": [
     {
       "ticker": "AAPL",
@@ -41,8 +41,8 @@
       "dividendYield": 0.32,
       "relStrength": 10.58,
       "volumeRatio": 1.71,
-      "newsScore": -0.6,
-      "newsHeadline": "Dow Jones Futures: After Nvidia, Anthropic Fuel Worst Week Since Covid, Look For These 'Absolute Losers'",
+      "newsScore": -0.4,
+      "newsHeadline": "Intuit vs. Oracle: Which Technology Stock Is a Better Buy for 2027?",
       "url": "https://finance.yahoo.com/quote/AAPL",
       "sectorPe": 25.6
     },
@@ -86,8 +86,8 @@
       "dividendYield": 0.81,
       "relStrength": 2.01,
       "volumeRatio": 1.72,
-      "newsScore": -0.4,
-      "newsHeadline": "Dell Up 447% In 5 Years, HPE 220%: What Did Michael Dell Do Differently?",
+      "newsScore": -0.2,
+      "newsHeadline": "Nvidia Stock Has Crashed 48% and Now Trades at 15 Times Earnings, Its Cheapest in More Than a Decade and Cheaper Than Microsoft and Broadcom",
       "url": "https://finance.yahoo.com/quote/MSFT",
       "sectorPe": 25.6
     },
@@ -131,7 +131,7 @@
       "dividendYield": 0.8,
       "relStrength": -32.53,
       "volumeRatio": 2.55,
-      "newsScore": 0.2,
+      "newsScore": 0.1,
       "newsHeadline": "What just happened to tech stocks?",
       "url": "https://finance.yahoo.com/quote/NVDA",
       "sectorPe": 25.6
@@ -176,8 +176,8 @@
       "dividendYield": 0.0,
       "relStrength": 4.99,
       "volumeRatio": 1.49,
-      "newsScore": -0.1,
-      "newsHeadline": "Musk Says Cybercab “Covers About 90%” of Passenger Miles. Tesla’s Next Robotaxi Is a Wheel-Less Model Y",
+      "newsScore": 0.1,
+      "newsHeadline": "ULA Vulcan Launch Ends in Disaster for Amazon's Satellite Internet Ambitions",
       "url": "https://finance.yahoo.com/quote/AMZN",
       "sectorPe": 200.0
     },
@@ -221,8 +221,8 @@
       "dividendYield": 0.0,
       "relStrength": 0.4,
       "volumeRatio": 1.23,
-      "newsScore": 0.5,
-      "newsHeadline": "Tesla (TSLA) Stock Looks Richly Priced After Its 47% Three Year Run",
+      "newsScore": 0.3,
+      "newsHeadline": "Cathie Wood, Brad Gerstner and 16 Other Big Funds Bought Tesla Last Quarter, While 15 Sold. Who’s Right?",
       "url": "https://finance.yahoo.com/quote/TSLA",
       "sectorPe": 200.0
     },
@@ -266,8 +266,8 @@
       "dividendYield": 2.13,
       "relStrength": 3.56,
       "volumeRatio": 1.9,
-      "newsScore": 0.4,
-      "newsHeadline": "These 5 Stock Market Myths Can Cost You Thousands (Here's the Reality)",
+      "newsScore": 0.3,
+      "newsHeadline": "What to Do Now to Prepare for the Next Bank Outage",
       "url": "https://finance.yahoo.com/quote/JPM",
       "sectorPe": 22.8
     },
@@ -447,7 +447,7 @@
       "relStrength": 15.57,
       "volumeRatio": 1.39,
       "newsScore": 0.2,
-      "newsHeadline": "Here's How Many Shares of Coca-Cola You'd Need for $1,000 in Monthly Income",
+      "newsHeadline": "Coca Cola (KO) Stock Looks Fully Priced After Its 109% Run",
       "url": "https://finance.yahoo.com/quote/KO",
       "sectorPe": 27.1
     },
@@ -626,8 +626,8 @@
       "dividendYield": 1.28,
       "relStrength": -19.96,
       "volumeRatio": 1.31,
-      "newsScore": -0.4,
-      "newsHeadline": "3 Machinery Dividend Stocks to Buy in December After a Brutal Selloff",
+      "newsScore": -0.1,
+      "newsHeadline": "3 Industrial Stocks Trading Above $500 a Share: Which One Splits First?",
       "url": "https://finance.yahoo.com/quote/CAT",
       "sectorPe": 18.1
     },
@@ -854,7 +854,7 @@
       "marketCap": 105245810688,
       "weekHigh52": 5542.11,
       "weekLow52": 3644.0,
-      "dividendYield": 3.27,
+      "dividendYield": 3.2,
       "relStrength": 3.28,
       "volumeRatio": 1.48,
       "newsScore": -0.1,
@@ -903,8 +903,8 @@
       "dividendYield": 2.8,
       "relStrength": -1.56,
       "volumeRatio": 0.54,
-      "newsScore": -0.3,
-      "newsHeadline": "Market Chatter: Zayo Delays Public Leg Of ABS Offering, Moves Ahead With $966 Million Private Portion",
+      "newsScore": 0.1,
+      "newsHeadline": "JELD WEN Holding (JELD) Stock Sees Fair Value Falls As Analysts Turn More Cautious",
       "url": "https://finance.yahoo.com/quote/BARC.L",
       "sectorPe": 9.6
     }
