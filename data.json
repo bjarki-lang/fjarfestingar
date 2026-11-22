@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-22T13:42:52.152202+00:00",
+  "updated": "2026-11-22T22:55:15.162457+00:00",
   "us": [
     {
       "ticker": "AAPL",
@@ -41,8 +41,8 @@
       "dividendYield": 0.32,
       "relStrength": 10.58,
       "volumeRatio": 1.71,
-      "newsScore": -0.2,
-      "newsHeadline": "The App Paradigm Will “Slowly, if Not Quickly, Dissipate,” Says Mark Gurman. That’s a Problem for Apple",
+      "newsScore": -0.1,
+      "newsHeadline": "Charlie Bilello Flags the Nasdaq 100’s First Bear Market Since April 2025",
       "url": "https://finance.yahoo.com/quote/AAPL",
       "sectorPe": 25.6
     },
@@ -86,8 +86,8 @@
       "dividendYield": 0.81,
       "relStrength": 2.01,
       "volumeRatio": 1.72,
-      "newsScore": 0.0,
-      "newsHeadline": "A $164 Billion Fund Bought These 3 Stocks Last Quarter",
+      "newsScore": 0.1,
+      "newsHeadline": "15% of parents already cut college savings after Microsoft AI CEO told a mom 'probably not' to bother saving",
       "url": "https://finance.yahoo.com/quote/MSFT",
       "sectorPe": 25.6
     },
@@ -131,7 +131,7 @@
       "dividendYield": 0.8,
       "relStrength": -32.53,
       "volumeRatio": 2.55,
-      "newsScore": 0.3,
+      "newsScore": -0.4,
       "newsHeadline": "GPU prices are rising for Nvidia's older chips even as the stock keeps going down: Chart of the Day",
       "url": "https://finance.yahoo.com/quote/NVDA",
       "sectorPe": 25.6
@@ -177,7 +177,7 @@
       "relStrength": 4.99,
       "volumeRatio": 1.49,
       "newsScore": 0.2,
-      "newsHeadline": "‘It’s greed’: Zohran Mamdani blasts Amazon over new $5 fee hike in NYC. Is your next order about to get pricier?",
+      "newsHeadline": "Dow Jones Futures Due As Oracle, Korea Try To Ease Market Fears; Look For These Absolute Losers",
       "url": "https://finance.yahoo.com/quote/AMZN",
       "sectorPe": 200.0
     },
@@ -221,8 +221,8 @@
       "dividendYield": 0.0,
       "relStrength": 0.4,
       "volumeRatio": 1.23,
-      "newsScore": 0.5,
-      "newsHeadline": "‘I Feel Pretty Foolish’: Elon Musk Wishes He Could ‘Rewind’ the Clock After $500 Million Bet on Republicans in Midterms",
+      "newsScore": 0.2,
+      "newsHeadline": "Should You Buy Tesla or SpaceX Stock Before Their Potential Merger?",
       "url": "https://finance.yahoo.com/quote/TSLA",
       "sectorPe": 200.0
     },
@@ -266,8 +266,8 @@
       "dividendYield": 2.13,
       "relStrength": 3.56,
       "volumeRatio": 1.9,
-      "newsScore": 0.4,
-      "newsHeadline": "Invest $225,000 in These 4 Dividend Stocks and Collect Quarterly Income in Retirement",
+      "newsScore": 0.2,
+      "newsHeadline": "Trump Backs a 10% Card Rate Cap With Democrats. That’s a Big Risk for JPMorgan and Citigroup",
       "url": "https://finance.yahoo.com/quote/JPM",
       "sectorPe": 22.8
     },
@@ -311,7 +311,7 @@
       "dividendYield": 0.78,
       "relStrength": 9.64,
       "volumeRatio": 1.19,
-      "newsScore": -0.0,
+      "newsScore": 0.1,
       "newsHeadline": "JPMorgan, American Express and Travelers Are Raising Dividends for Retirees",
       "url": "https://finance.yahoo.com/quote/V",
       "sectorPe": 22.8
@@ -356,8 +356,8 @@
       "dividendYield": 1.98,
       "relStrength": 15.84,
       "volumeRatio": 1.57,
-      "newsScore": 0.3,
-      "newsHeadline": "Johnson & Johnson vs. Pfizer: Which Healthcare Stock Is a Better Buy for 2027?",
+      "newsScore": 0.6,
+      "newsHeadline": "Bristol Myers Squibb vs. Novo Nordisk: Which Healthcare Stock Is a Better Buy for 2027?",
       "url": "https://finance.yahoo.com/quote/JNJ",
       "sectorPe": 30.2
     },
@@ -402,7 +402,7 @@
       "relStrength": -7.58,
       "volumeRatio": 2.06,
       "newsScore": -0.0,
-      "newsHeadline": "UnitedHealth Is Suing the Government Over Medicare Advantage Star Ratings",
+      "newsHeadline": "Merck Just Raised Its Dividend. These 3 Dow Healthcare Giants Are Paying More",
       "url": "https://finance.yahoo.com/quote/UNH",
       "sectorPe": 30.2
     },
@@ -446,8 +446,8 @@
       "dividendYield": 2.19,
       "relStrength": 15.57,
       "volumeRatio": 1.39,
-      "newsScore": 0.5,
-      "newsHeadline": "Warren Buffett’s Favorite Type of Stock Is Perfect for Patient Investors",
+      "newsScore": 0.3,
+      "newsHeadline": "What These 6 Snack and Beverage Stocks Have in Common",
       "url": "https://finance.yahoo.com/quote/KO",
       "sectorPe": 27.1
     },
@@ -491,8 +491,8 @@
       "dividendYield": 2.57,
       "relStrength": 19.62,
       "volumeRatio": 1.17,
-      "newsScore": 0.2,
-      "newsHeadline": "Invest $225,000 in These 4 Dividend Stocks and Collect Quarterly Income in Retirement",
+      "newsScore": 0.5,
+      "newsHeadline": "Procter & Gamble Has Raised Its Dividend 70 Straight Years. Here's Why I'd Buy Before 2027.",
       "url": "https://finance.yahoo.com/quote/PG",
       "sectorPe": 27.1
     },
@@ -672,7 +672,7 @@
       "relStrength": -8.01,
       "volumeRatio": 1.09,
       "newsScore": -0.1,
-      "newsHeadline": "Boeing's 2,500 job cuts come with a troubling unanswered question",
+      "newsHeadline": "Why Saturday’s Historic Starship Catch Changes the Bull Case for SpaceX Stock",
       "url": "https://finance.yahoo.com/quote/BA",
       "sectorPe": 18.1
     }
@@ -719,8 +719,8 @@
       "dividendYield": 2.48,
       "relStrength": -7.31,
       "volumeRatio": 0.91,
-      "newsScore": 0.3,
-      "newsHeadline": "What Does HSBC Holdings (LSE:HSBA) Crypto Theft Code Exposure Mean For Investors?",
+      "newsScore": 0.4,
+      "newsHeadline": "Top bank resets Tesla stock target, yet standalone value is alarming",
       "url": "https://finance.yahoo.com/quote/HSBA.L",
       "sectorPe": 9.4
     },
