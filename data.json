@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-22T22:55:15.162457+00:00",
+  "updated": "2026-11-23T04:28:18.951067+00:00",
   "us": [
     {
       "ticker": "AAPL",
@@ -41,8 +41,8 @@
       "dividendYield": 0.32,
       "relStrength": 10.58,
       "volumeRatio": 1.71,
-      "newsScore": -0.1,
-      "newsHeadline": "Charlie Bilello Flags the Nasdaq 100’s First Bear Market Since April 2025",
+      "newsScore": 0.4,
+      "newsHeadline": "Trump Throws His Weight Behind Jensen Huang’s Return As Nvidia CEO: ‘It Would Be The Best Thing For The Company’",
       "url": "https://finance.yahoo.com/quote/AAPL",
       "sectorPe": 25.6
     },
@@ -86,8 +86,8 @@
       "dividendYield": 0.81,
       "relStrength": 2.01,
       "volumeRatio": 1.72,
-      "newsScore": 0.1,
-      "newsHeadline": "15% of parents already cut college savings after Microsoft AI CEO told a mom 'probably not' to bother saving",
+      "newsScore": 0.4,
+      "newsHeadline": "Amazon Spent $1.82 For Every $1 Of Cash Last Quarter. Can It Keep Going?",
       "url": "https://finance.yahoo.com/quote/MSFT",
       "sectorPe": 25.6
     },
@@ -131,7 +131,7 @@
       "dividendYield": 0.8,
       "relStrength": -32.53,
       "volumeRatio": 2.55,
-      "newsScore": -0.4,
+      "newsScore": 0.3,
       "newsHeadline": "GPU prices are rising for Nvidia's older chips even as the stock keeps going down: Chart of the Day",
       "url": "https://finance.yahoo.com/quote/NVDA",
       "sectorPe": 25.6
@@ -176,8 +176,8 @@
       "dividendYield": 0.0,
       "relStrength": 4.99,
       "volumeRatio": 1.49,
-      "newsScore": 0.2,
-      "newsHeadline": "Dow Jones Futures Due As Oracle, Korea Try To Ease Market Fears; Look For These Absolute Losers",
+      "newsScore": 0.4,
+      "newsHeadline": "Dow Jones Futures Jump As Oracle, Korea Try To Ease Market Fears; Look For These Absolute Losers",
       "url": "https://finance.yahoo.com/quote/AMZN",
       "sectorPe": 200.0
     },
@@ -221,8 +221,8 @@
       "dividendYield": 0.0,
       "relStrength": 0.4,
       "volumeRatio": 1.23,
-      "newsScore": 0.2,
-      "newsHeadline": "Should You Buy Tesla or SpaceX Stock Before Their Potential Merger?",
+      "newsScore": 0.1,
+      "newsHeadline": "Elon Musk Says 2027 AI Cash Crunch Will Be ‘Nuts’ — Analysts Still See SpaceX Emerging As The Biggest AI Hyperscaler",
       "url": "https://finance.yahoo.com/quote/TSLA",
       "sectorPe": 200.0
     },
@@ -356,8 +356,8 @@
       "dividendYield": 1.98,
       "relStrength": 15.84,
       "volumeRatio": 1.57,
-      "newsScore": 0.6,
-      "newsHeadline": "Bristol Myers Squibb vs. Novo Nordisk: Which Healthcare Stock Is a Better Buy for 2027?",
+      "newsScore": 0.2,
+      "newsHeadline": "Nasdaq, Dow, S&P 500 Futures Jump Nearly 2% After Brutal Tech Selloff Last Week: GME, JNJ, ALNY, GAP In Focus",
       "url": "https://finance.yahoo.com/quote/JNJ",
       "sectorPe": 30.2
     },
@@ -903,8 +903,8 @@
       "dividendYield": 2.89,
       "relStrength": -1.56,
       "volumeRatio": 0.54,
-      "newsScore": 0.1,
-      "newsHeadline": "JELD WEN Holding (JELD) Stock Sees Fair Value Falls As Analysts Turn More Cautious",
+      "newsScore": 0.4,
+      "newsHeadline": "Barclays Sees Double-Digit EPS Growth in 2027 as Shareholder Payouts Top £10 Billion",
       "url": "https://finance.yahoo.com/quote/BARC.L",
       "sectorPe": 9.4
     }
