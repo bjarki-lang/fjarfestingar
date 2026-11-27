@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-26T15:56:09.777233+00:00",
+  "updated": "2026-11-27T01:13:53.780106+00:00",
   "us": [
     {
       "ticker": "AAPL",
@@ -41,8 +41,8 @@
       "dividendYield": 0.3,
       "relStrength": 9.9,
       "volumeRatio": 1.09,
-      "newsScore": 0.4,
-      "newsHeadline": "The Economy Grew Way Faster Than First Reported: Q3 GDP Revised Up to 4.3%",
+      "newsScore": 0.5,
+      "newsHeadline": "Apple Stocks Rise as AI Selloff Spares the iPhone Maker",
       "url": "https://finance.yahoo.com/quote/AAPL",
       "sectorPe": 27.1
     },
@@ -86,8 +86,8 @@
       "dividendYield": 0.8,
       "relStrength": -1.4,
       "volumeRatio": 0.9,
-      "newsScore": 0.1,
-      "newsHeadline": "The Economy Grew Way Faster Than First Reported: Q3 GDP Revised Up to 4.3%",
+      "newsScore": 0.3,
+      "newsHeadline": "Tech Stock Sell-Off: Down 13%, Is Microsoft a Buy Now?",
       "url": "https://finance.yahoo.com/quote/MSFT",
       "sectorPe": 27.1
     },
@@ -130,8 +130,8 @@
       "weekLow52": 124.5,
       "dividendYield": 0.67,
       "relStrength": -24.45,
-      "volumeRatio": 1.15,
-      "newsScore": -0.2,
+      "volumeRatio": 1.17,
+      "newsScore": 0.2,
       "newsHeadline": "Will Jensen Huang's second act as Nvidia CEO be different?",
       "url": "https://finance.yahoo.com/quote/NVDA",
       "sectorPe": 27.1
@@ -175,9 +175,9 @@
       "weekLow52": 196.0,
       "dividendYield": 0.0,
       "relStrength": 4.56,
-      "volumeRatio": 1.19,
-      "newsScore": 0.4,
-      "newsHeadline": "UPS or FDX: Which Parcel Delivery Giant Is a Better Play Now?",
+      "volumeRatio": 1.2,
+      "newsScore": -0.2,
+      "newsHeadline": "Weeks Before His Wife Needs a Nursing Home, He Buys a $75,000 SUV Online. Medicaid Ignores One Car Whatever It Costs, Taking $75,000 Off the Savings It Expects Them to Spend Down",
       "url": "https://finance.yahoo.com/quote/AMZN",
       "sectorPe": 218.8
     },
@@ -220,9 +220,9 @@
       "weekLow52": 297.38,
       "dividendYield": 0.0,
       "relStrength": 3.5,
-      "volumeRatio": 0.94,
-      "newsScore": 0.6,
-      "newsHeadline": "Lucid Sinks 13% in a Week as the Tech Selloff Hits EV Stocks. Seaport Sets a $1 Target",
+      "volumeRatio": 0.95,
+      "newsScore": 0.2,
+      "newsHeadline": "Should You Buy Tesla Stock Before December?",
       "url": "https://finance.yahoo.com/quote/TSLA",
       "sectorPe": 218.8
     },
@@ -266,8 +266,8 @@
       "dividendYield": 2.08,
       "relStrength": 1.25,
       "volumeRatio": 1.08,
-      "newsScore": -0.1,
-      "newsHeadline": "Will Bank of America's Swiss Expansion Fuel Further Fee Income Growth?",
+      "newsScore": -0.0,
+      "newsHeadline": "Is Standard Chartered (LSE:STAN) Undervalued Following Its J.P. Morgan Conference Appearance?",
       "url": "https://finance.yahoo.com/quote/JPM",
       "sectorPe": 23.9
     },
@@ -312,7 +312,7 @@
       "relStrength": 11.63,
       "volumeRatio": 0.9,
       "newsScore": 0.3,
-      "newsHeadline": "3 big reasons why Black Friday will probably exceed retailer expectations",
+      "newsHeadline": "The Nasdaq Composite Is in a Correction, but These 3 Dividend Stocks Are Near 52-Week Highs. Here's Why They're Still Worth Buying Right Now.",
       "url": "https://finance.yahoo.com/quote/V",
       "sectorPe": 23.9
     },
@@ -356,8 +356,8 @@
       "dividendYield": 1.96,
       "relStrength": 9.81,
       "volumeRatio": 1.14,
-      "newsScore": 0.5,
-      "newsHeadline": "3 Dividend Kings Retirees Can Own for the Rest of Their Lives",
+      "newsScore": 0.3,
+      "newsHeadline": "The Nasdaq Composite Is in a Correction, but These 3 Dividend Stocks Are Near 52-Week Highs. Here's Why They're Still Worth Buying Right Now.",
       "url": "https://finance.yahoo.com/quote/JNJ",
       "sectorPe": 30.7
     },
@@ -446,8 +446,8 @@
       "dividendYield": 2.17,
       "relStrength": 11.71,
       "volumeRatio": 1.25,
-      "newsScore": 0.0,
-      "newsHeadline": "Investing $500 a Month in Coca-Cola, Realty Income, and Altria Could Generate Over $1,000 in Monthly Dividend Income by 2046",
+      "newsScore": 0.3,
+      "newsHeadline": "The Nasdaq Composite Is in a Correction, but These 3 Dividend Stocks Are Near 52-Week Highs. Here's Why They're Still Worth Buying Right Now.",
       "url": "https://finance.yahoo.com/quote/KO",
       "sectorPe": 27.5
     },
@@ -491,8 +491,8 @@
       "dividendYield": 2.51,
       "relStrength": 14.75,
       "volumeRatio": 1.02,
-      "newsScore": 0.0,
-      "newsHeadline": "Why A Fixed Cheque Shrinks While P&G's Dividend Grew",
+      "newsScore": 0.3,
+      "newsHeadline": "2 Dividend Stocks to Buy in November and 1 to Leave on the Shelf",
       "url": "https://finance.yahoo.com/quote/PG",
       "sectorPe": 27.5
     },
@@ -536,8 +536,8 @@
       "dividendYield": 2.71,
       "relStrength": -7.37,
       "volumeRatio": 1.45,
-      "newsScore": 0.4,
-      "newsHeadline": "Investors 50 and Older Can Put $8,600 Into a Roth IRA in 2026 to Build Tax-Free Dividend Income",
+      "newsScore": -0.1,
+      "newsHeadline": "Exxon Mobil Stocks Edge Lower as Brent Jumps 3.5% on Refinery Attack",
       "url": "https://finance.yahoo.com/quote/XOM",
       "sectorPe": 15.9
     },
@@ -581,8 +581,8 @@
       "dividendYield": 3.38,
       "relStrength": -1.89,
       "volumeRatio": 0.87,
-      "newsScore": -0.1,
-      "newsHeadline": "Avantis U.S. Large Cap Value ETF (AVLV) Adds AT&T and Micron on Tuesday",
+      "newsScore": -0.4,
+      "newsHeadline": "Chevron (CVX) Is Back In Focus, What Is Driving The Attention?",
       "url": "https://finance.yahoo.com/quote/CVX",
       "sectorPe": 15.9
     },
@@ -626,8 +626,8 @@
       "dividendYield": 1.2,
       "relStrength": -15.02,
       "volumeRatio": 0.92,
-      "newsScore": -0.2,
-      "newsHeadline": "State Street Industrial Select Sector SPDR (XLI) Adds GE and RTX on Nov. 24",
+      "newsScore": 0.3,
+      "newsHeadline": "Caterpillar's $78 Billion Backlog, Explained",
       "url": "https://finance.yahoo.com/quote/CAT",
       "sectorPe": 19.1
     },
@@ -671,8 +671,8 @@
       "dividendYield": 0.0,
       "relStrength": -6.2,
       "volumeRatio": 0.58,
-      "newsScore": -0.3,
-      "newsHeadline": "What Sent Archer Aviation Stock So Much Lower?",
+      "newsScore": 0.3,
+      "newsHeadline": "Should Space And Submarine Wins Require Action From BAE Systems (LSE:BA.) Investors?",
       "url": "https://finance.yahoo.com/quote/BA",
       "sectorPe": 19.1
     }
@@ -681,8 +681,8 @@
     {
       "ticker": "HSBA.L",
       "name": "HSBC HOLDINGS PLC ORD $0.50 (UK",
-      "price": 1249.4,
-      "chg": 2.65,
+      "price": NaN,
+      "chg": NaN,
       "hist": [
         1365.3,
         1291.3,
@@ -707,28 +707,28 @@
         1274.0,
         1239.2,
         1217.2,
-        1249.4
+        NaN
       ],
-      "pe": 11.0,
+      "pe": 10.9,
       "debtEq": null,
       "sector": "Financial Services",
       "industry": "Banks - Diversified",
-      "marketCap": 213429485568,
+      "marketCap": 212746174464,
       "weekHigh52": 1610.0,
       "weekLow52": 1049.2,
       "dividendYield": 2.51,
-      "relStrength": -7.17,
-      "volumeRatio": 0.17,
-      "newsScore": 0.3,
-      "newsHeadline": "Why HSBC Thinks Stocks Are in a Sweet Spot",
+      "relStrength": NaN,
+      "volumeRatio": 0.52,
+      "newsScore": 0.2,
+      "newsHeadline": "HSBC Spots 3 Big Reasons Stocks Could Soar in 2027",
       "url": "https://finance.yahoo.com/quote/HSBA.L",
-      "sectorPe": 9.6
+      "sectorPe": 9.4
     },
     {
       "ticker": "AZN.L",
       "name": "ASTRAZENECA PLC ORD SHS $0.25",
-      "price": 14062.0,
-      "chg": 0.98,
+      "price": NaN,
+      "chg": NaN,
       "hist": [
         12854.0,
         12822.0,
@@ -753,28 +753,28 @@
         13540.0,
         13932.0,
         13926.0,
-        14062.0
+        NaN
       ],
-      "pe": 26.4,
+      "pe": 26.3,
       "debtEq": 0.66,
       "sector": "Healthcare",
       "industry": "Drug Manufacturers - General",
-      "marketCap": 218090127360,
+      "marketCap": 217283657728,
       "weekHigh52": 15732.0,
       "weekLow52": 9892.0,
       "dividendYield": 1.72,
-      "relStrength": 10.72,
-      "volumeRatio": 0.23,
-      "newsScore": 0.6,
-      "newsHeadline": "Can Merck's Gardasil Sustain Its Q3 Recovery Amid 2027 Headwinds?",
+      "relStrength": NaN,
+      "volumeRatio": 0.75,
+      "newsScore": 0.8,
+      "newsHeadline": "Wall Street Sees Upside in AstraZeneca PLC (AZN) as Shares Retreat",
       "url": "https://finance.yahoo.com/quote/AZN.L",
-      "sectorPe": 26.4
+      "sectorPe": 26.3
     },
     {
       "ticker": "SHEL.L",
       "name": "SHELL PLC ORD EUR0.07",
-      "price": 3623.5,
-      "chg": 1.91,
+      "price": NaN,
+      "chg": NaN,
       "hist": [
         3999.07,
         3927.08,
@@ -799,7 +799,7 @@
         3567.0,
         3552.0,
         3555.5,
-        3623.5
+        NaN
       ],
       "pe": 8.4,
       "debtEq": 0.38,
@@ -809,18 +809,18 @@
       "weekHigh52": 4110.0,
       "weekLow52": 2553.77,
       "dividendYield": 3.35,
-      "relStrength": -8.07,
-      "volumeRatio": 0.21,
-      "newsScore": 0.9,
-      "newsHeadline": "CIFR's Stingray Project: Can 2027 Launch Unlock $2B in Revenues?",
+      "relStrength": NaN,
+      "volumeRatio": 0.48,
+      "newsScore": 0.5,
+      "newsHeadline": "Shell Stock And European Energy Peers With LNG Exposure Investors Are Watching",
       "url": "https://finance.yahoo.com/quote/SHEL.L",
       "sectorPe": 8.4
     },
     {
       "ticker": "ULVR.L",
       "name": "UNILEVER PLC ORD 3.5P",
-      "price": 5065.0,
-      "chg": -0.04,
+      "price": NaN,
+      "chg": NaN,
       "hist": [
         4922.61,
         4892.11,
@@ -845,28 +845,28 @@
         4861.0,
         4956.0,
         5067.0,
-        5065.0
+        NaN
       ],
       "pe": 13.7,
       "debtEq": 1.75,
       "sector": "Consumer Defensive",
       "industry": "Household & Personal Products",
-      "marketCap": 109068042240,
+      "marketCap": 109003440128,
       "weekHigh52": 5542.11,
       "weekLow52": 3644.0,
       "dividendYield": 3.08,
-      "relStrength": 4.21,
-      "volumeRatio": 0.18,
-      "newsScore": 0.1,
-      "newsHeadline": "How Fragrance Supplier Collusion Will Impact Unilever (LSE:ULVR) Investors",
+      "relStrength": NaN,
+      "volumeRatio": 0.77,
+      "newsScore": 0.2,
+      "newsHeadline": "Unilever (LSE:ULVR) Stock Sees Modest Fair Value Lift As Analysts Split On Outlook",
       "url": "https://finance.yahoo.com/quote/ULVR.L",
       "sectorPe": 13.7
     },
     {
       "ticker": "BARC.L",
       "name": "BARCLAYS PLC ORD 25P",
-      "price": 403.8,
-      "chg": 3.23,
+      "price": NaN,
+      "chg": NaN,
       "hist": [
         418.75,
         422.05,
@@ -891,26 +891,26 @@
         411.75,
         401.3,
         391.15,
-        403.8
+        NaN
       ],
-      "pe": 8.1,
+      "pe": 8.0,
       "debtEq": null,
       "sector": "Financial Services",
       "industry": "Banks - Diversified",
-      "marketCap": 53552648192,
+      "marketCap": 53247623168,
       "weekHigh52": 538.3,
       "weekLow52": 361.35,
       "dividendYield": 2.94,
-      "relStrength": -2.25,
-      "volumeRatio": 0.32,
+      "relStrength": NaN,
+      "volumeRatio": 1.06,
       "newsScore": 0.3,
       "newsHeadline": "Barclays (LSE:BARC) Could Be 31% Undervalued As Metro Bank Bid Talk Builds",
       "url": "https://finance.yahoo.com/quote/BARC.L",
-      "sectorPe": 9.6
+      "sectorPe": 9.4
     }
   ],
   "benchmarks": {
     "us": -6.43,
-    "uk": -1.32
+    "uk": -3.16
   }
 }
